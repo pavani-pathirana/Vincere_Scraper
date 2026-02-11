@@ -27,6 +27,9 @@ from processors.sinhala_normalizer import TextProcessor
 # Import concrete scrapers
 from scrapers.adaderana_scraper import AdaDeranaScraper
 from scrapers.hirunews_scraper import HiruNewsScraper
+from scrapers.itn_scraper import ITNScraper
+from scrapers.newsfirst_scraper import NewsFirstScraper
+from scrapers.lankatruth_scraper import LankaTruthScraper
 
 
 # Global flag for graceful shutdown
@@ -131,10 +134,9 @@ def get_scraper_class(site_name: str) -> Type[BaseScraper]:
     scrapers = {
         'adaderana': AdaDeranaScraper,
         'hirunews': HiruNewsScraper,
-        # Add more scrapers here as they're implemented:
-        # 'itn': ITNScraper,
-        # 'newsfirst': NewsFirstScraper,
-        # 'lankatruth': LankaTruthScraper,
+        'itn': ITNScraper,
+        'newsfirst': NewsFirstScraper,
+        'lankatruth': LankaTruthScraper,
     }
     
     site_name_lower = site_name.lower()
@@ -431,12 +433,12 @@ Examples:
             
             # Get all pagination states from database
             # For now, we'll scrape all supported sites
-            sites_to_scrape = ['adaderana', 'hirunews']  # Add more as implemented
+            sites_to_scrape = ['adaderana', 'hirunews', 'itn', 'newsfirst', 'lankatruth']
             
             logger.info(f"Will attempt to resume: {', '.join(sites_to_scrape)}")
         
         elif args.site.lower() == 'all':
-            sites_to_scrape = ['adaderana', 'hirunews']  # Add more as implemented
+            sites_to_scrape = ['adaderana', 'hirunews', 'itn', 'newsfirst', 'lankatruth']
             logger.info(f"Scraping all sites: {', '.join(sites_to_scrape)}")
         
         else:
