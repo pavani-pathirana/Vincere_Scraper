@@ -37,7 +37,7 @@ class ITNScraper(BaseScraper):
     
     Main Categories:
     - Local News (දේශීය පුවත්)
-    - International (විදේශ)
+    - world (විදේශ)
     - Sports (ක්‍රීඩා)
     - Business (ව්‍යාපාර)
     - Entertainment (විනෝදාස්වාදය)
@@ -53,8 +53,8 @@ class ITNScraper(BaseScraper):
             'slug': 'local',
             'name': 'දේශීය පුවත්'
         },
-        'international': {
-            'slug': 'international',
+        'world': {
+            'slug': 'world',
             'name': 'විදේශ'
         },
         'sports': {

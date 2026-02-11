@@ -6742,3 +6742,1533 @@ requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://www.
 2026-02-11 20:59:51 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
 2026-02-11 20:59:51 | INFO     | core.session_manager      | SessionManager closed
 2026-02-11 20:59:51 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 21:04:20 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 21:04:20 | INFO     | __main__                  | Initializing components...
+2026-02-11 21:04:20 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 21:04:20 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 21:04:20 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 21:04:20 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 21:04:20 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 21:04:20 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 21:04:20 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 21:04:20 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 21:04:20 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 21:04:20 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 21:04:20 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 21:04:20 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 21:04:20 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 21:04:20 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 21:04:20 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 21:04:20 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 21:04:20 | ERROR    | __main__                  | ✗ Failed to scrape itn: Category 'world' not found for itn. Available: local, international, sports, business, entertainment, politics, economy
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 459, in main
+    site_stats = scrape_site(
+                 ^^^^^^^^^^^^
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 231, in scrape_site
+    raise ValueError(f"Category '{category}' not found for {site_name}. Available: {available}")
+ValueError: Category 'world' not found for itn. Available: local, international, sports, business, entertainment, politics, economy
+2026-02-11 21:04:20 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 21:04:21 | INFO     | __main__                  |   Total articles in corpus: 1972
+2026-02-11 21:04:21 | INFO     | __main__                  |   itn: 1972 articles
+2026-02-11 21:04:21 | INFO     | __main__                  |     - business: 210 articles
+2026-02-11 21:04:21 | INFO     | __main__                  |     - local: 900 articles
+2026-02-11 21:04:21 | INFO     | __main__                  |     - sports: 862 articles
+2026-02-11 21:04:21 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 21:04:21 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 21:04:21 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 21:04:21 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 21:04:21 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 21:06:01 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 21:06:01 | INFO     | __main__                  | Initializing components...
+2026-02-11 21:06:01 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 21:06:01 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 21:06:01 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 21:06:01 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 21:06:01 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 21:06:01 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 21:06:01 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 21:06:01 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 21:06:01 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 21:06:01 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 21:06:01 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 21:06:01 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 21:06:01 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 21:06:01 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 21:06:01 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 21:06:01 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 21:06:01 | ERROR    | __main__                  | ✗ Failed to scrape itn: Category 'world' not found for itn. Available: local, international, sports, business, entertainment, politics, economy
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 459, in main
+    site_stats = scrape_site(
+                 ^^^^^^^^^^^^
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 231, in scrape_site
+    raise ValueError(f"Category '{category}' not found for {site_name}. Available: {available}")
+ValueError: Category 'world' not found for itn. Available: local, international, sports, business, entertainment, politics, economy
+2026-02-11 21:06:01 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 21:06:02 | INFO     | __main__                  |   Total articles in corpus: 1972
+2026-02-11 21:06:02 | INFO     | __main__                  |   itn: 1972 articles
+2026-02-11 21:06:02 | INFO     | __main__                  |     - business: 210 articles
+2026-02-11 21:06:02 | INFO     | __main__                  |     - local: 900 articles
+2026-02-11 21:06:02 | INFO     | __main__                  |     - sports: 862 articles
+2026-02-11 21:06:02 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 21:06:02 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 21:06:02 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 21:06:02 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 21:06:02 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 21:06:40 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 21:06:40 | INFO     | __main__                  | Initializing components...
+2026-02-11 21:06:40 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 21:06:40 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 21:06:40 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 21:06:40 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 21:06:40 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 21:06:40 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 21:06:40 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 21:06:40 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 21:06:40 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 21:06:40 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 21:06:40 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 21:06:40 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 21:06:40 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 21:06:40 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 21:06:40 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 21:06:40 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 21:06:40 | INFO     | __main__                  | Target categories for itn: international
+2026-02-11 21:06:40 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 21:06:40 | INFO     | __main__                  |   Scraping itn - international
+2026-02-11 21:06:40 | INFO     | __main__                  | ======================================================================
+2026-02-11 21:06:40 | INFO     | __main__                  | Max pages for this category: 100 (to reach limit of 2000)
+2026-02-11 21:06:40 | INFO     | core.base_scraper         | Starting category scrape: itn/international
+2026-02-11 21:06:41 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/international/
+2026-02-11 21:06:45 | INFO     | scrapers.itn_scraper      | ITN international: Extracted 0 articles from list page
+2026-02-11 21:06:45 | INFO     | core.base_scraper         | No articles found on page 1, ending scrape
+2026-02-11 21:06:45 | INFO     | core.base_scraper         | Category scrape complete: itn/international - 0 new, 0 skipped, 0 failed
+2026-02-11 21:06:45 | INFO     | __main__                  | ✓ Completed international: 0 articles, 0 pages
+2026-02-11 21:06:45 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 21:06:45 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 21:06:45 | INFO     | __main__                  |   - Pages: 0
+2026-02-11 21:06:45 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-11 21:06:45 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 21:06:46 | INFO     | __main__                  |   Total articles in corpus: 1972
+2026-02-11 21:06:46 | INFO     | __main__                  |   itn: 1972 articles
+2026-02-11 21:06:46 | INFO     | __main__                  |     - business: 210 articles
+2026-02-11 21:06:46 | INFO     | __main__                  |     - local: 900 articles
+2026-02-11 21:06:46 | INFO     | __main__                  |     - sports: 862 articles
+2026-02-11 21:06:46 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 21:06:46 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 21:06:46 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 21:06:46 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 21:06:46 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 21:09:03 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 21:09:03 | INFO     | __main__                  | Initializing components...
+2026-02-11 21:09:03 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 21:09:03 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 21:09:03 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 21:09:03 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 21:09:03 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 21:09:03 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 21:09:03 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 21:09:03 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 21:09:03 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 21:09:03 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 21:09:03 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 21:09:03 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 21:09:03 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 21:09:03 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 21:09:03 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 21:09:03 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 21:09:03 | INFO     | __main__                  | Target categories for itn: world
+2026-02-11 21:09:03 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 21:09:03 | INFO     | __main__                  |   Scraping itn - world
+2026-02-11 21:09:03 | INFO     | __main__                  | ======================================================================
+2026-02-11 21:09:03 | INFO     | __main__                  | Max pages for this category: 100 (to reach limit of 2000)
+2026-02-11 21:09:03 | INFO     | core.base_scraper         | Starting category scrape: itn/world
+2026-02-11 21:09:03 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/world/
+2026-02-11 21:09:05 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:09:05 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:09:06 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:09:06 | INFO     | core.base_scraper         | Found 9 articles on page 1
+2026-02-11 21:09:07 | INFO     | core.base_scraper         | Scraped article: කාම්බෝජය මුල්‍ය වංචා මධ්‍යස්ථාන 200 ක් වසා දමයි... (01b9ce29)
+2026-02-11 21:09:09 | INFO     | core.base_scraper         | Scraped article: යුද්ධය හේතුවෙන් රුසියාව උග්‍ර ශ්‍රම අර්බුදයකට... (e86d5dd8)
+2026-02-11 21:09:11 | INFO     | core.base_scraper         | Scraped article: ඇමරිකා ඔත්තු ප්‍රධානියා සේවය අවසන් කරයි... (c3dd681d)
+2026-02-11 21:09:12 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරයට සෙබළු 8,000ක් යෙදවීමට ඉන්දුනීසියාව සූදා... (82a5cdb6)
+2026-02-11 21:09:14 | INFO     | core.base_scraper         | Scraped article: මැඩගස්කරයට තවත් සුළි කුණාටුවකින් බලපෑම්... (06abc268)
+2026-02-11 21:09:16 | INFO     | core.base_scraper         | Scraped article: කැනඩාවේ වෙඩි තැබීමකින් 10 දෙනෙකු ජීවිතක්ෂයට... (4dc47904)
+2026-02-11 21:09:17 | INFO     | core.base_scraper         | Scraped article: පෘතුගාලයේ ජනාධිපතිවරණයෙන් එරට සමාජවාදී පක්ෂයේ ඇන්ට... (835ccf99)
+2026-02-11 21:09:19 | INFO     | core.base_scraper         | Scraped article: සංක්‍රමණිකයන් රැගත් බෝට්ටුවක් පෙරළෙයි – 50කට වැඩි ... (165efd25)
+2026-02-11 21:09:19 | INFO     | core.base_scraper         | Scraping page 2: https://www.itnnews.lk/world/page/2/
+2026-02-11 21:09:20 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:09:20 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:09:20 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:09:20 | INFO     | core.base_scraper         | Found 9 articles on page 2
+2026-02-11 21:09:23 | INFO     | core.base_scraper         | Scraped article: චීනය අරුම පුදුම මෙගාවොට් 20ක ටර්බයිනයේ වැඩ අරඹයි... (7c148aa2)
+2026-02-11 21:09:26 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලා විපක්ෂය නියෝජනය කරන ස්ටිස් ෆස්ට් පක්ෂයේ... (bee907ea)
+2026-02-11 21:09:29 | INFO     | core.base_scraper         | Scraped article: බ්‍රිතාන්‍ය අගමැතිගේ ප්‍රධාන ලේකම් මෝගන් මැක්ස්වීන... (d8eaf494)
+2026-02-11 21:09:32 | INFO     | core.base_scraper         | Scraped article: ජිමී ලායිට වසර 20ක සිර දඬුවමක්... (dc735c9c)
+2026-02-11 21:09:35 | INFO     | core.base_scraper         | Scraped article: ලෙබනනයේ මහල් නිවාස සංකීර්ණයක් කඩා වැටීමෙන් 9ක් ජීව... (7bc5feff)
+2026-02-11 21:09:38 | INFO     | core.base_scraper         | Scraped article: තායිලන්ත මහ මැතිවරණයෙන් අගමැති අනුටින්ගේ පක්ෂයට ජය... (799dab49)
+2026-02-11 21:09:41 | INFO     | core.base_scraper         | Scraped article: ජපාන අගමැතිනියට විශිෂ්ට ජයක්... (20a1c0ff)
+2026-02-11 21:09:44 | INFO     | core.base_scraper         | Scraped article: තායිලන්ත මහ මැතිවරණය අද... (4886ae13)
+2026-02-11 21:09:44 | INFO     | core.base_scraper         | Scraping page 3: https://www.itnnews.lk/world/page/3/
+2026-02-11 21:09:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:09:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:09:46 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:09:46 | INFO     | core.base_scraper         | Found 9 articles on page 3
+2026-02-11 21:09:50 | INFO     | core.base_scraper         | Scraped article: ජපානයේ මහා මැතිවරණය අදයි... (5dec314b)
+2026-02-11 21:09:53 | INFO     | core.base_scraper         | Scraped article: ජපාන මහා මැතිවරණය හෙට... (07c29dbb)
+2026-02-11 21:09:56 | INFO     | core.base_scraper         | Scraped article: ඉරානය සමග වෙළෙඳාම් කරන රටවලට බදු පනවන බවට අනතුරු අ... (cc2edcc6)
+2026-02-11 21:09:59 | INFO     | core.base_scraper         | Scraped article: 6 වැනි වරටත් යොවුන් ක්‍රිකට් ලෝක කුසලානයේ ජය ඉන්දි... (48d33ad7)
+2026-02-11 21:10:02 | INFO     | core.base_scraper         | Scraped article: රුසියා හමුදාවේ ඉහළ පෙලේ ජෙනරාල්වරයෙකුට මොස්කව්හිදී... (a8594198)
+2026-02-11 21:10:05 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ ගල් අඟුරු පතලක සිදුවූ පිපිරීමකින් 18 දෙන... (8fa9f4ec)
+2026-02-11 21:10:08 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකා – ඉරාන සාකච්ඡා අද... (f0f7b667)
+2026-02-11 21:10:11 | INFO     | core.base_scraper         | Scraped article: මුහුදේ ගිලුණු පවුල බේරා ගන්න පැය 4ක් පිහිනූ ඕස්ට්‍... (45d73bbf)
+2026-02-11 21:10:11 | INFO     | core.base_scraper         | Scraping page 4: https://www.itnnews.lk/world/page/4/
+2026-02-11 21:10:13 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:10:13 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:10:13 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:10:13 | INFO     | core.base_scraper         | Found 9 articles on page 4
+2026-02-11 21:10:17 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකා – ඉරාන න්‍යෂ්ටික සාකච්ඡා හෙට ඕමානයේදී... (71892f06)
+2026-02-11 21:10:20 | INFO     | core.base_scraper         | Scraped article: චීන – ඇමරිකානු නායකයින් අතර දුරකථනයෙන් සාකච්ඡාවක්... (f324b179)
+2026-02-11 21:10:23 | INFO     | core.base_scraper         | Scraped article: චීන-රුසියා ජනපතිවරුන් අතර විශේෂ සාකච්ඡාවක්... (7dcb9624)
+2026-02-11 21:10:26 | INFO     | core.base_scraper         | Scraped article: ගඩාෆිගේ පුත්‍රයා වෙඩිතබා මරා දමයි... (8b9214d4)
+2026-02-11 21:10:29 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් ඩොලර් ට්‍රිලියන 1.2 ක වියදම් පැකේජයට අත්ස... (93511893)
+2026-02-11 21:10:32 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරයට ඊශ්‍රායලය එල්ල කළ ප්‍රහාරවලින් පුද්ගලයි... (1552efc7)
+2026-02-11 21:10:35 | INFO     | core.base_scraper         | Scraped article: බ්‍රසීලයේ බස් රථ අනතුරකින් 16 දෙනෙකු මිය යයි... (8224b10f)
+2026-02-11 21:10:38 | INFO     | core.base_scraper         | Scraped article: ආරක්ෂාව පිළිබඳ හේතුන් මත චීනය විද්‍යුත් මෝටර් රථ ස... (95b997cb)
+2026-02-11 21:10:41 | INFO     | core.base_scraper         | Scraped article: ඊජිප්තු ගාසා දේශසිමාවේ රෆා පිවිසුම යළි විවෘත කරයි... (421f522a)
+2026-02-11 21:10:41 | INFO     | core.base_scraper         | Scraping page 5: https://www.itnnews.lk/world/page/5/
+2026-02-11 21:10:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:10:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:10:43 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:10:43 | INFO     | core.base_scraper         | Found 9 articles on page 5
+2026-02-11 21:10:47 | INFO     | core.base_scraper         | Scraped article: ජපානයේ අමෝරි ප්‍රදේශයට වාර්තා ගත හිමපතනයක්... (991feb7a)
+2026-02-11 21:10:50 | INFO     | core.base_scraper         | Scraped article: ලොව වැඩිම පිරිසක් නරඹන චීන සංස්කෘතික ප්‍රසංගයේ ප්‍... (979ffbcc)
+2026-02-11 21:10:53 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව සහ ඉන්දියාව අතර වෙළඳ ගිවිසුමක්... (7b4bd91d)
+2026-02-11 21:10:56 | INFO     | core.base_scraper         | Scraped article: 'Apocalypto' චිත්‍රපටයෙන් ලොවක් දිනූ ජෙරාඩෝ ටරාසේන... (56c04c66)
+2026-02-11 21:10:59 | INFO     | core.base_scraper         | Scraped article: ශීත කුණාටු තත්ත්වය නිසා අමෙරිකාවේ ගුවන් ගමන් වාර 1... (561c5155)
+2026-02-11 21:11:02 | INFO     | core.base_scraper         | Scraped article: කුප්‍රකට 'බායි' පවුලේ මාෆියා සාමාජිකයන් සිව් දෙනෙක... (f4a7d1aa)
+2026-02-11 21:11:05 | INFO     | core.base_scraper         | Scraped article: සර්ප දෂ්ටන නිසා වසරකට ඉන්දියාවේ 50 000කට වැඩි පිරි... (556cf524)
+2026-02-11 21:11:08 | INFO     | core.base_scraper         | Scraped article: ග්‍රැමී සම්මානයෙනුත් පිදුම් ලැබූ 'Sinners' චිත්‍රප... (ed81c035)
+2026-02-11 21:11:11 | INFO     | core.base_scraper         | Scraped article: තුර්කියේ මාරක බස් අනතුරක් – 9 දෙනෙකු ජීවිතක්ෂයට... (6551292b)
+2026-02-11 21:11:11 | INFO     | core.base_scraper         | Scraping page 6: https://www.itnnews.lk/world/page/6/
+2026-02-11 21:11:13 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:11:13 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:11:13 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:11:13 | INFO     | core.base_scraper         | Found 9 articles on page 6
+2026-02-11 21:11:17 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ රිච්ටර් මාපක 4.7 ක භූ කම්පනයක් – ජීවිත හ... (b3ae4196)
+2026-02-11 21:11:20 | INFO     | core.base_scraper         | Scraped article: ඇමරිකාව තමන්ට පහර දුන්නොත් කලාපීය යුද්ධයක් දක්වා ව... (46fa67d7)
+2026-02-11 21:11:23 | INFO     | core.base_scraper         | Scraped article: රුසියාව එල්ල කළ ප්‍රහාරයකින් යුක්‍රේන පතල් කම්කරුව... (8b93f141)
+2026-02-11 21:11:26 | INFO     | core.base_scraper         | Scraped article: යුක්රේන රුසියා සාකච්ඡා ඵලදායී බවට ඇමෙරිකාවෙන් ප්‍ර... (52cafd03)
+2026-02-11 21:11:29 | INFO     | core.base_scraper         | Scraped article: 'ෂරියා' නීතිය උල්ලංඝනය කළ යුවළකට වේවැල් පහර 140ක්... (551272e0)
+2026-02-11 21:11:32 | INFO     | core.base_scraper         | Scraped article: මෙලානියා ට්‍රම්ප්ගේ ජීවිත කතාව ඇසුරින් නිෂ්පාදනය ක... (cad979fb)
+2026-02-11 21:11:35 | INFO     | core.base_scraper         | Scraped article: එක්සත් ජාතීන්ගේ සංවිධානය මූල්‍යමය වශයෙන් බිඳ වැටීම... (05380fe7)
+2026-02-11 21:11:38 | INFO     | core.base_scraper         | Scraped article: කොංගෝවේ පතලක් කඩා වැටී 200කට වැඩි පිරිසක් ජීවිතක්ෂ... (b039d003)
+2026-02-11 21:11:41 | INFO     | core.base_scraper         | Scraped article: ජනප්‍රිය විකට නිලි Catherine O'Hara අභාවප්‍රාප්ත ව... (24e1819e)
+2026-02-11 21:11:41 | INFO     | core.base_scraper         | Scraping page 7: https://www.itnnews.lk/world/page/7/
+2026-02-11 21:11:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:11:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:11:43 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:11:43 | INFO     | core.base_scraper         | Found 9 articles on page 7
+2026-02-11 21:11:47 | INFO     | core.base_scraper         | Scraped article: ඉරානය යුද ගැටුමකට සුදානම් වෙයි – ඇමෙරිකාව යුද නෞකා... (585204c9)
+2026-02-11 21:11:50 | INFO     | core.base_scraper         | Scraped article: ඛනිජ තෙල් ප්‍රතිසංස්කරණ නීති සඳහා වෙනිසියුලාව අත්ස... (546feba9)
+2026-02-11 21:11:53 | INFO     | core.base_scraper         | Scraped article: චීනය සමග කටයුතු කිරීම බ්‍රිතාන්‍යයට ඉතා භයානක බව ට... (ab6270da)
+2026-02-11 21:11:56 | INFO     | core.base_scraper         | Scraped article: චීනය හා බ්‍රිතාන්‍යය අතර නව එකඟතා රැසක්... (f917cc73)
+2026-02-11 21:11:59 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව ඉරානයට අනතුරු අඟවයි... (47d54a9e)
+2026-02-11 21:12:02 | INFO     | core.base_scraper         | Scraped article: ලොවම බලා සිටින චීන-බ්‍රිතාන්‍ය නායකයින්ගේ තීරණාත්ම... (469b9f68)
+2026-02-11 21:12:05 | INFO     | core.base_scraper         | Scraped article: සුපිරි ඉන්දීය ගායක අර්ජිත් සිං පසුබිම් ගායනයෙන් සම... (95883bec)
+2026-02-11 21:12:08 | INFO     | core.base_scraper         | Scraped article: 15 දෙනෙකුට ජීවිත අහිමි කළ කොලොම්බියා ගුවන් අනතුර... (8e0a4b52)
+2026-02-11 21:12:08 | INFO     | core.base_scraper         | Scraping page 8: https://www.itnnews.lk/world/page/8/
+2026-02-11 21:12:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:12:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:12:11 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:12:11 | INFO     | core.base_scraper         | Found 9 articles on page 8
+2026-02-11 21:12:14 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් ඉරානයට අනතුරු අඟවයි... (cf1b046a)
+2026-02-11 21:12:17 | INFO     | core.base_scraper         | Scraped article: ජපානයේ සිටි අවසන් පැන්ඩා පැටවුන් දෙදෙනා චීනයට... (8f590d2d)
+2026-02-11 21:12:20 | INFO     | core.base_scraper         | Scraped article: වසර අටකට පසු බ්‍රිතාන්‍යය අගමැතිවරයෙකු චීනයට... (5a53cc0b)
+2026-02-11 21:12:23 | INFO     | core.base_scraper         | Scraped article: නිපා වෛරසය නිසා තායිලන්තයත් සීරුවෙන්... (9bae34bc)
+2026-02-11 21:12:26 | INFO     | core.base_scraper         | Scraped article: රුවන්ඩාව එක්සත් රාජධානියට එරෙහිව බේරුම්කරණ නඩුවක් ... (312c0a73)
+2026-02-11 21:12:29 | INFO     | core.base_scraper         | Scraped article: දකුණු කොරියා අධිකරණයක් එරට හිටපු ජනාධිපති බිරිඳකට ... (f57e6d15)
+2026-02-11 21:12:32 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ නාය යාමෙන් මිය ගිය සංඛ්‍යාව ඉහළට... (4ae4c8db)
+2026-02-11 21:12:35 | INFO     | core.base_scraper         | Scraped article: ලේඛනගත නොකළ සංක්‍රමණිකයින් ලක්ෂ 5කට ස්පාඤ්ඤයෙන් නී... (e8b8322e)
+2026-02-11 21:12:38 | INFO     | core.base_scraper         | Scraped article: මහාරාෂ්ට්‍ර ප්‍රාන්තයේ නියෝජ්‍ය මහ ඇමති ගුවන් අනතු... (cdde07f6)
+2026-02-11 21:12:38 | INFO     | core.base_scraper         | Scraping page 9: https://www.itnnews.lk/world/page/9/
+2026-02-11 21:12:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:12:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:12:41 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:12:41 | INFO     | core.base_scraper         | Found 9 articles on page 9
+2026-02-11 21:12:44 | INFO     | core.base_scraper         | Scraped article: චන්ද්‍රා කුණාටුවෙන් එක්සත් රාජධානියට දැඩි බලපෑම්... (0609b670)
+2026-02-11 21:12:47 | INFO     | core.base_scraper         | Scraped article: මගී දුම්රියකට එල්ල වූ මාරාන්තික රුසියානු ඩ්‍රෝන ප්... (079ce6b9)
+2026-02-11 21:12:50 | INFO     | core.base_scraper         | Scraped article: ෆින්ලන්තය සමග එක්ව කටයුතු කිරීමට චීනය සූදානමින්... (8fb8a278)
+2026-02-11 21:12:53 | INFO     | core.base_scraper         | Scraped article: දකුණු කොරියාවට ට්‍රම්ප්ගෙන් 25%ක තීරු බද්දක්... (396d4a09)
+2026-02-11 21:12:56 | INFO     | core.base_scraper         | Scraped article: හිම කුණාටු තත්ත්වය හේතුවෙන් ඇමෙරිකාවේ පුද්ගලයින් 2... (ed48fd68)
+2026-02-11 21:12:59 | INFO     | core.base_scraper         | Scraped article: චීනය සෙලවෙයි... (aec835a3)
+2026-02-11 21:13:02 | INFO     | core.base_scraper         | Scraped article: යුරෝපා සංගමය සමග සිදු කරන මෝටර් රථ ආනයනයේදී තීරුබද... (f2827750)
+2026-02-11 21:13:02 | INFO     | core.base_scraper         | Scraping page 10: https://www.itnnews.lk/world/page/10/
+2026-02-11 21:13:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:13:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:13:04 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:13:04 | INFO     | core.base_scraper         | Found 9 articles on page 10
+2026-02-11 21:13:08 | INFO     | core.base_scraper         | Scraped article: මධ්‍යම ග්‍රීසියේ ආහාර කර්මාන්තශාලාවක විශාල ගින්නක්... (a6179e06)
+2026-02-11 21:13:11 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයේ මගී ප්‍රවාහන නෞකාවක් අනතුරට ලක්වීමෙන් 15... (802ef889)
+2026-02-11 21:13:14 | INFO     | core.base_scraper         | Scraped article: ඇමරිකාවට දරුණු හිම කුණාටුවකින් බලපෑම්... (3dd46f5b)
+2026-02-11 21:13:17 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ සිදුවූ නායයාමකින් 10ක් ජීවිතක්ෂයට – ... (59d5b98c)
+2026-02-11 21:13:20 | INFO     | core.base_scraper         | Scraped article: මියන්මාර මැතිවරණයේ තුන්වන අදියරේ ඡන්දය ප්‍රකාශ කිර... (d26ffb6c)
+2026-02-11 21:13:20 | INFO     | core.base_scraper         | Scraping page 11: https://www.itnnews.lk/world/page/11/
+2026-02-11 21:13:22 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:13:22 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:13:23 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:13:23 | INFO     | core.base_scraper         | Found 9 articles on page 11
+2026-02-11 21:13:26 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ වෙඩි තැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට... (076ab30e)
+2026-02-11 21:13:29 | INFO     | core.base_scraper         | Scraped article: නව වෙළඳ ගිවිසුමක් ඇති කර ගැනිමේ අරමුණින් ඉන්දියාව ... (9cd54dbb)
+2026-02-11 21:13:32 | INFO     | core.base_scraper         | Scraped article: රුසියා , යුක්‍රේන හා ඇමෙරිකා ත්‍රෛපාර්ශවික සාකච්ඡා... (9a9be678)
+2026-02-11 21:13:35 | INFO     | core.base_scraper         | Scraped article: කෝටිපති ව්‍යාපාරික මුකේෂ් අම්බානිගේ රුව යොදා අත් ඔ... (2770256c)
+2026-02-11 21:13:38 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්තානයේ නේටෝ හමුදා කාර්ය ගැන ට්‍රම්ප් කළ ප්‍... (b8e76293)
+2026-02-11 21:13:41 | INFO     | core.base_scraper         | Scraped article: ලෝක සෞඛ්‍ය සංවිධානයේ සම්පත් දායකත්වයෙන් ඇමරිකාව ඉව... (cf482b2d)
+2026-02-11 21:13:44 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ මෙහෙයුමකින් නීති විරෝධීව ප්‍රවාහනය ක... (3231cbe8)
+2026-02-11 21:13:47 | INFO     | core.base_scraper         | Scraped article: ලොව විශාලතම නගර සියයෙන් අඩක්ම ජල අර්බුදයක... (450482ae)
+2026-02-11 21:13:50 | INFO     | core.base_scraper         | Scraped article: යුක්‍රේනය, රුසියාව සහ ඇමෙරිකාව අතර ත්‍රෛයි පාර්ශ්ව... (80b86310)
+2026-02-11 21:13:50 | INFO     | core.base_scraper         | Scraping page 12: https://www.itnnews.lk/world/page/12/
+2026-02-11 21:13:52 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:13:52 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:13:52 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:13:52 | INFO     | core.base_scraper         | Found 9 articles on page 12
+2026-02-11 21:13:56 | INFO     | core.base_scraper         | Scraped article: ටික්ටොක්වලටත් අත ගැසූ ට්‍රම්ප්... (9b69f443)
+2026-02-11 21:13:59 | INFO     | core.base_scraper         | Scraped article: ටයිටැනික් වාර්තාවත් බිඳ දැමූ 'Sinners' – ඔස්කාර් ස... (31f848de)
+2026-02-11 21:14:02 | INFO     | core.base_scraper         | Scraped article: යුරෝපා රටවල් 8කට එරෙහිව පැනවීමට සැලසුම් කර තිබූ තී... (d9baa0c0)
+2026-02-11 21:14:05 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ විදේශ විනි­මය සංචි­තය ඉහ­ළට... (7508763c)
+2026-02-11 21:14:09 | INFO     | core.base_scraper         | Scraped article: ෆුකුෂිමා මතකයන් අවදි වන විට ජපානය ලොව විශාලතම න්‍ය... (b31238ad)
+2026-02-11 21:14:11 | INFO     | core.base_scraper         | Scraped article: ජපානයේ හිටපු අගමැති ෂින්සෝ අබේ ඝාතනය කළ පුද්ගලයාට ... (508fd3a7)
+2026-02-11 21:14:14 | INFO     | core.base_scraper         | Scraped article: නවසීලන්ත මහ මැතිවරණය නොවැම්බර් 7 වනදා... (1761f8bf)
+2026-02-11 21:14:17 | INFO     | core.base_scraper         | Scraped article: දකුණු කොරියාවේ හිටපු අගමැතිට වසර 23ක සිර දඬුවමක්... (6fdfd5cc)
+2026-02-11 21:14:20 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකා යුරෝපා වෙළෙඳ ගිවිසුම අත්හිටුවීමේ තීරණයක්... (6f1ee9a0)
+2026-02-11 21:14:20 | INFO     | core.base_scraper         | Scraping page 13: https://www.itnnews.lk/world/page/13/
+2026-02-11 21:14:22 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:14:22 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:14:22 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:14:22 | INFO     | core.base_scraper         | Found 9 articles on page 13
+2026-02-11 21:14:26 | INFO     | core.base_scraper         | Scraped article: ස්පාඤ්ඤයේ සිදු වූ දුම්රිය අනතුරකින් පුද්ගලයෙක් 42ක... (73e9c9e8)
+2026-02-11 21:14:29 | INFO     | core.base_scraper         | Scraped article: ජපානයේ "මවුන්ට් අසෝ" අසලදී තිදෙනෙකු රැගත් සංචාරක හ... (787167db)
+2026-02-11 21:14:32 | INFO     | core.base_scraper         | Scraped article: චීනයේ නව සංවර්ධන සැලසුමට චීන ජනපතිගෙන් උපදෙස්... (a257826d)
+2026-02-11 21:14:35 | INFO     | core.base_scraper         | Scraped article: ග්‍රීන්ලන්තය රකින යුරෝපා රටවලට ට්‍රම්ප්ගෙන් රතු එළ... (7d892ce5)
+2026-02-11 21:14:38 | INFO     | core.base_scraper         | Scraped article: වියට්නාම කොමියුනිස්ට් පක්ෂයේ 14 වන ජාතික සම්මේලනයේ... (bd54d747)
+2026-02-11 21:14:41 | INFO     | core.base_scraper         | Scraped article: චීනයේ ෂැංහයි නුවරට වාර්තාගත හිමපතනයක්... (fa68c1ec)
+2026-02-11 21:14:44 | INFO     | core.base_scraper         | Scraped article: යේමනය දරුණුතම ආහාර අර්බුදයකට මුහුණ දී සිටින බව ආධා... (f289f1ab)
+2026-02-11 21:14:44 | INFO     | core.base_scraper         | Scraping page 14: https://www.itnnews.lk/world/page/14/
+2026-02-11 21:14:47 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:14:47 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:14:47 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:14:47 | INFO     | core.base_scraper         | Found 9 articles on page 14
+2026-02-11 21:14:50 | INFO     | core.base_scraper         | Scraped article: වාහන සියයක් අනතුරට හෙලූ මිචිගන් අධිවේගයේ හිම කුණාට... (688021d2)
+2026-02-11 21:14:53 | INFO     | core.base_scraper         | Scraped article: කාබුල් අගනුවර පිපිරීමක් – 7ක් මරුට... (ce6c9eea)
+2026-02-11 21:14:56 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාව සෙලවෙයි... (b1965692)
+2026-02-11 21:14:59 | INFO     | core.base_scraper         | Scraped article: දකුණු ස්පාඤ්ඤයේ දුම්රිය අනතුරෙන් ජීවිතක්ෂයට පත් වූ... (be73eb9b)
+2026-02-11 21:15:02 | INFO     | core.base_scraper         | Scraped article: ඔබේ නමත් හඳට යවන්න – නාසා වෙතින් අවස්ථාවක්... (e6b2cb12)
+2026-02-11 21:15:05 | INFO     | core.base_scraper         | Scraped article: පකිස්ථානයේ සාප්පු සංකීර්ණයක ඇති වූ ගින්නෙන් මියගිය... (85e8d0a8)
+2026-02-11 21:15:05 | INFO     | core.base_scraper         | Scraping page 15: https://www.itnnews.lk/world/page/15/
+2026-02-11 21:15:08 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:15:08 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:15:08 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:15:08 | INFO     | core.base_scraper         | Found 9 articles on page 15
+2026-02-11 21:15:11 | INFO     | core.base_scraper         | Scraped article: දකුණු ස්පාඤ්ඤයේ දුම්රිය අනතුරකින් 21ක් මරුට... (75ec39c2)
+2026-02-11 21:15:14 | INFO     | core.base_scraper         | Scraped article: පාකිස්ථානයේ වෙළෙඳ සංකීර්ණයක හටගත් ගින්නකින් පුද්ගල... (3cffe584)
+2026-02-11 21:15:17 | INFO     | core.base_scraper         | Scraped article: සිරියානු හමුදා ඇලෙප්පෝ නගරයේ නැගෙනහිර ප්‍රදේශයට ඇත... (688594c0)
+2026-02-11 21:15:20 | INFO     | core.base_scraper         | Scraped article: යොවේරි මුසවේනි උගන්ඩාවේ හත්වන වරටත් ජනාධිපති ධුරයට... (e497e1da)
+2026-02-11 21:15:23 | INFO     | core.base_scraper         | Scraped article: ග්‍රීන්ලන්තය සම්බන්ධයෙන් ට්‍රම්ප්ගේ තීරුබදු තර්ජනය... (b5758bd8)
+2026-02-11 21:15:26 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ ගුවන් යානයක් පුද්ගලයින් 11 දෙනෙකු සම... (0ce63b0c)
+2026-02-11 21:15:29 | INFO     | core.base_scraper         | Scraped article: ඩෙන්මාර්කය ඇතුළු රටවල් කිහිපයකට නව තීරු බදු පනවන්න... (09e95daf)
+2026-02-11 21:15:32 | INFO     | core.base_scraper         | Scraped article: චීන විද්‍යුත් වාහන කැනඩාවටත්... (d4c819d5)
+2026-02-11 21:15:35 | INFO     | core.base_scraper         | Scraped article: ඉරානයේ ඉස්ලාමීය සමූහාණ්ඩුව බිඳ වැටීමට ආසන්නයි – රේ... (4e2318a0)
+2026-02-11 21:15:35 | INFO     | core.base_scraper         | Scraping page 16: https://www.itnnews.lk/world/page/16/
+2026-02-11 21:15:38 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:15:38 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:15:38 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:15:38 | INFO     | core.base_scraper         | Found 9 articles on page 16
+2026-02-11 21:15:41 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියාවේ නැගෙනහිර ප්‍රදේශයට හදිසි ආපදා තත්ත්... (0e6aa8f0)
+2026-02-11 21:15:44 | INFO     | core.base_scraper         | Scraped article: ගාසා සාම මණ්ඩලය සඳහා සාමාජිකයින් දෙදෙනෙකු නම් කරයි... (ac1f5542)
+2026-02-11 21:15:47 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ බටහිර වෙරළ තීරයට ප්‍රබල භූකම්පනයක්... (7a340f97)
+2026-02-11 21:15:50 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව තායිවානයට පනවා ඇති තීරුබදු අඩු කරයි... (53a6a5e1)
+2026-02-11 21:15:53 | INFO     | core.base_scraper         | Scraped article: ජගත් ආරක්ෂක මණ්ඩලය හදිසි රැස්වීමක් කැඳවයි... (da400350)
+2026-02-11 21:15:56 | INFO     | core.base_scraper         | Scraped article: ග්‍රීන්ලන්තයට යුරෝපා භටයින්ගේ ආරක්ෂාව... (1bb1f2ce)
+2026-02-11 21:15:59 | INFO     | core.base_scraper         | Scraped article: දකුණු කොරියාවේ හිටපු ජනපතිට සිර දඬුවම්... (ab0deb02)
+2026-02-11 21:16:03 | INFO     | core.base_scraper         | Scraped article: චීන – කැනඩා සබඳතා අලුත් කරමින් දෙරටේ නායකයින් අතර ... (04868ea2)
+2026-02-11 21:16:03 | INFO     | core.base_scraper         | Scraping page 17: https://www.itnnews.lk/world/page/17/
+2026-02-11 21:16:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:16:05 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:16:05 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:16:05 | INFO     | core.base_scraper         | Found 9 articles on page 17
+2026-02-11 21:16:08 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලානු විපක්ෂ නායිකාව ඇයට හිමිවු නොබෙල් සාම ... (efe88362)
+2026-02-11 21:16:11 | INFO     | core.base_scraper         | Scraped article: 2017 වසරෙන් පසු පළමු වරට කැනඩා අග්‍රාමාත්‍යවරයෙකු ... (d51ef72f)
+2026-02-11 21:16:14 | INFO     | core.base_scraper         | Scraped article: විරෝධතාකරුවන්ට මරණ දඬුවම නියම කිරීමට ඉරානයට අයිතිය... (252aa98a)
+2026-02-11 21:16:17 | INFO     | core.base_scraper         | Scraped article: උගන්ඩා ජනාධිපතිවරණය උණුසුම් මුහුණුවරක් ගනී... (c8ee8057)
+2026-02-11 21:16:20 | INFO     | core.base_scraper         | Scraped article: රාත්‍රියේ පැය 5 කට වැසුණු ඉරාන ගුවන් කලාපය... (64402f84)
+2026-02-11 21:16:23 | INFO     | core.base_scraper         | Scraped article: චීනයෙන් වාර්තාගත අපනයන ආදායමක්... (80ddd44b)
+2026-02-11 21:16:26 | INFO     | core.base_scraper         | Scraped article: ලොව වාහන නිෂ්පාදනය හා අලෙවිය අනුව චීනය යළිත් පෙරමු... (50d97eb3)
+2026-02-11 21:16:29 | INFO     | core.base_scraper         | Scraped article: තායිලන්තයේ දුම්රියක් මතට ඉදිකිරීම් දොඹකරයක් කඩාවැට... (9c9d938a)
+2026-02-11 21:16:32 | INFO     | core.base_scraper         | Scraped article: තායිලන්ත දුම්රිය අනතුරින් මියගිය ගණන 28ක් දක්වා ඉහ... (db7ff95f)
+2026-02-11 21:16:32 | INFO     | core.base_scraper         | Scraping page 18: https://www.itnnews.lk/world/page/18/
+2026-02-11 21:16:35 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:16:35 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:16:35 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:16:35 | INFO     | core.base_scraper         | Found 9 articles on page 18
+2026-02-11 21:16:38 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරයට බලපෑ ශීත කුණාටු හේතුවෙන් 6 දෙනෙකු මිය ය... (69bb2be9)
+2026-02-11 21:16:41 | INFO     | core.base_scraper         | Scraped article: තායිලන්ත හමුදා තම සිවිල් ප්‍රදේශ අල්ලාගෙන සිටින බව... (f568e478)
+2026-02-11 21:16:44 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලාංකික ගුවන් මගියෙකුගේ මුදල් සහ ස්වර්ණාභරණ ස... (2ce572e2)
+2026-02-11 21:16:47 | INFO     | core.base_scraper         | Scraped article: තායිලන්තයේ දුම්රියක් මතට දොඹකරයක් කඩාවැටී 22 ක් මි... (c96eae2b)
+2026-02-11 21:16:50 | INFO     | core.base_scraper         | Scraped article: ඉරානයේ සිටින ඇමරිකානුවන්ට හදිසි ආරක්ෂක දැනුම්දීමක්... (4549a336)
+2026-02-11 21:16:53 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයේ කුණු කන්දක් කඩා වැටීමෙන් 11ක් ජීවිතක්ෂයට... (cc1b4b62)
+2026-02-11 21:16:56 | INFO     | core.base_scraper         | Scraped article: සුපිරි හොලිවුඩ් නළු ටී.කේ. කාටර් දිවි ගමන නිමා කරය... (7b7ba1a1)
+2026-02-11 21:16:56 | INFO     | core.base_scraper         | Scraping page 19: https://www.itnnews.lk/world/page/19/
+2026-02-11 21:16:58 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:16:58 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:16:58 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:16:58 | INFO     | core.base_scraper         | Found 9 articles on page 19
+2026-02-11 21:17:02 | INFO     | core.base_scraper         | Scraped article: ඇමරිකාවට අවශ්‍ය නම් යුද්ධයකට සූදානම් බව ඉරානය කියය... (69e3a79f)
+2026-02-11 21:17:05 | INFO     | core.base_scraper         | Scraped article: ඉරානය සමඟ ව්‍යාපාර කටයුතු සිදු කරන රටවල්වලට ට්‍රම්... (ea1fcd29)
+2026-02-11 21:17:08 | INFO     | core.base_scraper         | Scraped article: දූෂණ විරෝධී අරගලය වෙනුවෙන් කැපවන බවට චීන ජනපති‍ගෙන... (399780bc)
+2026-02-11 21:17:11 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් ලබන වසරේදී ඉන්දියාවේ සංචාරයක – සර්ජියෝ ගෝ... (4bcdd7d4)
+2026-02-11 21:17:14 | INFO     | core.base_scraper         | Scraped article: ප්‍රකට ගිටාර් වාදන ශිල්පී බොබ් වියර් දිවිගමනට සමුද... (fbe8c346)
+2026-02-11 21:17:17 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියාවේ 16ට අඩු දරුවන්ගේ සමාජ මාධ්‍ය ගිණුම්... (1d168957)
+2026-02-11 21:17:20 | INFO     | core.base_scraper         | Scraped article: අවමගුලක් වූ මංගල සාදය – මනාලිය සහ මනාලයා ඇතුළු 8ක්... (0c446fcc)
+2026-02-11 21:17:23 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාවේ 'වැඩබලන ජනාධිපති' තමන් යැයි ට්‍රම්ප් ... (3894db8c)
+2026-02-11 21:17:23 | INFO     | core.base_scraper         | Scraping page 20: https://www.itnnews.lk/world/page/20/
+2026-02-11 21:17:26 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:17:26 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:17:26 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:17:26 | INFO     | core.base_scraper         | Found 9 articles on page 20
+2026-02-11 21:17:29 | INFO     | core.base_scraper         | Scraped article: ප්‍රංශ ජනපති ලබන මාසයේ ඉන්දියාවට... (a1b78214)
+2026-02-11 21:17:32 | INFO     | core.base_scraper         | Scraped article: ගිනිකොනදිග ඕස්ට්‍රේලියාවේ ලැව්ගිනි – ගොඩනැගිලි 300... (4a91ae7b)
+2026-02-11 21:17:35 | INFO     | core.base_scraper         | Scraped article: ප්‍රමාද වීමට පෙර තමන් සමග ගිවිසුමක් ඇති කරගන්නැයි ... (d8eb7019)
+2026-02-11 21:17:38 | INFO     | core.base_scraper         | Scraped article: ඉරාන ගැටුම් හේතුවෙන් මියගිය සංඛ්‍යාව 538දක්වා ඉහළට... (1f934e88)
+2026-02-11 21:17:41 | INFO     | core.base_scraper         | Scraped article: යේමනය උත්තරීතර හමුදා කමිටුවක් පිහිටුවයි... (221af81a)
+2026-02-11 21:17:44 | INFO     | core.base_scraper         | Scraped article: බ්‍රික්ස් සාමාජික රටවල් නාවික අභ්‍යාසයක... (746415c8)
+2026-02-11 21:17:47 | INFO     | core.base_scraper         | Scraped article: සිරියාවේ IS ත්‍රස්ත ඉලක්ක කිහිපයකට ඇමරිකාවෙන් ප්‍ර... (4676b625)
+2026-02-11 21:17:50 | INFO     | core.base_scraper         | Scraped article: ඉරානයේ උද්ඝෝෂණ තවත් ප්‍රචණ්ඩ වෙයි... (7c4d7053)
+2026-02-11 21:17:53 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ භූකම්පනයක්... (59fdd528)
+2026-02-11 21:17:53 | INFO     | core.base_scraper         | Scraping page 21: https://www.itnnews.lk/world/page/21/
+2026-02-11 21:17:56 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:17:56 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:17:56 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:17:56 | INFO     | core.base_scraper         | Found 9 articles on page 21
+2026-02-11 21:17:59 | INFO     | core.base_scraper         | Scraped article: ෂෙයික් හසිනාගෙන් බංග්ලාදේශ අන්තර් කාලීන රජයට තියුණ... (c81d7589)
+2026-02-11 21:18:02 | INFO     | core.base_scraper         | Scraped article: ඉරානයේ උත්තරීතර නායක අයතුල්ලා අල්කමේනිගෙන් විශේෂ ප... (56e62574)
+2026-02-11 21:18:05 | INFO     | core.base_scraper         | Scraped article: ප්‍රංශ ජනපති ඉන්දියානු සංචාරයකට සැරසෙයි... (e1fc673c)
+2026-02-11 21:18:08 | INFO     | core.base_scraper         | Scraped article: වසර 40ක විදෙස් රැකියා ඉතිහාසය තුළ එක් වසරකදී වාර්ත... (1503ad75)
+2026-02-11 21:18:11 | INFO     | core.base_scraper         | Scraped article: ග්‍රීන්ලන්තය අත්පත් කර ගැනීම ගැන ඉදිරියේදී කටයුතු ... (f4980e7d)
+2026-02-11 21:18:14 | INFO     | core.base_scraper         | Scraped article: එංගලන්තයට බලපා ඇති හිම කුණාටු තත්ත්වය දරුණු අතට – ... (54c51ff1)
+2026-02-11 21:18:17 | INFO     | core.base_scraper         | Scraped article: කාන්තාවකට වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියකට ඇමරිකාවේ... (0484a9a5)
+2026-02-11 21:18:20 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයේ කුණු කන්දක් කඩා වැටීමෙන් 30 දෙනෙකු අතුරු... (8fb33047)
+2026-02-11 21:18:23 | INFO     | core.base_scraper         | Scraped article: වික්ටෝරියා ප්‍රාන්තයේ උෂ්ණත්වය ඉහළ යයි ලැව්ගිනි ඇත... (8d225972)
+2026-02-11 21:18:23 | INFO     | core.base_scraper         | Scraping page 22: https://www.itnnews.lk/world/page/22/
+2026-02-11 21:18:25 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:18:25 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:18:25 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:18:25 | INFO     | core.base_scraper         | Found 9 articles on page 22
+2026-02-11 21:18:29 | INFO     | core.base_scraper         | Scraped article: නවසීලන්ත වෙරළ තීරයට මිය ගිය තල්මසුන් ගොඩ ගසයි... (024aa30d)
+2026-02-11 21:18:32 | INFO     | core.base_scraper         | Scraped article: 2025 ශ්‍රී ලංකා – ඉන්දීය ආර්ථික හවුල්කාරීත්වයේ සන්... (57abb9d8)
+2026-02-11 21:18:35 | INFO     | core.base_scraper         | Scraped article: උත්තරීතර නායකයා පළවා හැරීමේ ඉරාන විරෝධතා දරුණුවෙයි... (9545eae2)
+2026-02-11 21:18:38 | INFO     | core.base_scraper         | Scraped article: තැපැල් ලිපි බෙදාහැරීම නවතා දැමූ ලොව පළමු රට බවට ඩෙ... (3c764dd8)
+2026-02-11 21:18:41 | INFO     | core.base_scraper         | Scraped article: ඉන්දි­යාවේ පළ­මු­ව­රට AI භාවිතා කරමින් වෛද්‍ය සාය­... (eac02c0f)
+2026-02-11 21:18:44 | INFO     | core.base_scraper         | Scraped article: ටූනා මත්ස්‍යක් වාර්තාගත මිලකට අලෙවි වෙයි... (7f00b9f0)
+2026-02-11 21:18:47 | INFO     | core.base_scraper         | Scraped article: ආක්ටික් හිමෙන් යුරෝපය සීතල වෙයි... (c639b7ae)
+2026-02-11 21:18:50 | INFO     | core.base_scraper         | Scraped article: පේරු රාජ්‍ය සෙලවයි... (265e41bb)
+2026-02-11 21:18:51 | INFO     | core.base_scraper         | Scraping page 23: https://www.itnnews.lk/world/page/23/
+2026-02-11 21:18:53 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:18:53 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:18:53 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:18:53 | INFO     | core.base_scraper         | Found 9 articles on page 23
+2026-02-11 21:18:56 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ වෙඩි තැබීමකින් කාන්තාවක් ජීවිතක්ෂයට... (e20aa632)
+2026-02-11 21:18:59 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයේ රිච්ටර් මාපක 6.7ක ප්‍රබල භූකම්පනයක්... (69ecb08c)
+2026-02-11 21:19:02 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාව බොරතෙල් බැරල් මිලියන 50ක් ඇමරිකාවට ලබා... (a98c2668)
+2026-02-11 21:19:05 | INFO     | core.base_scraper         | Scraped article: අධික හිම පතනය හේතුවෙන් යුරෝපයට දැඩි බලපෑම්... (0cac9a59)
+2026-02-11 21:19:08 | INFO     | core.base_scraper         | Scraped article: ජර්මානු චාන්සලර්වරයා ඉන්දියාවේ යන්න සූදානම්... (b02e12a4)
+2026-02-11 21:19:11 | INFO     | core.base_scraper         | Scraped article: ආසියාවේ පළමු වරට Tomorrowland ප්‍රසංගය ආසියාවට... (bfc6a350)
+2026-02-11 21:19:14 | INFO     | core.base_scraper         | Scraped article: මහතීර් මොහොමඩ් හදිසියේම රෝහල්ගත කරයි... (42635dda)
+2026-02-11 21:19:17 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවට ගංවතුර – පුද්ගලයින් 16 දෙනෙකුට දිවි ... (feafb626)
+2026-02-11 21:19:17 | INFO     | core.base_scraper         | Scraping page 24: https://www.itnnews.lk/world/page/24/
+2026-02-11 21:19:19 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:19:20 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:19:20 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:19:20 | INFO     | core.base_scraper         | Found 9 articles on page 24
+2026-02-11 21:19:23 | INFO     | core.base_scraper         | Scraped article: මධුරෝ අත්අඩංගුවට ගැනීම ජගත් ආරක්ෂක මණ්ලයේ විවේචනයට... (02e1da36)
+2026-02-11 21:19:26 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාවේ අන්තර්වාර ජනාධිපතිනිය ලෙස එරට උප ජනාධ... (cbf3a464)
+2026-02-11 21:19:29 | INFO     | core.base_scraper         | Scraped article: ඇමරිකාවෙන් ඉන්දියාවට රතු එළියක්... (613c4a27)
+2026-02-11 21:19:32 | INFO     | core.base_scraper         | Scraped article: මධුරෝගේ ස්විට්සර්ලන්තයේ ඇති වත්කම් අත්හිටුවයි... (20e11b30)
+2026-02-11 21:19:35 | INFO     | core.base_scraper         | Scraped article: නයිජීරියාවේ වෙළෙඳසැලකට එල්ලවූ ප්‍රහාරයකින් පුද්ගලය... (d832dfb0)
+2026-02-11 21:19:38 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාව වෙනුවෙන් එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලය... (726634e8)
+2026-02-11 21:19:40 | INFO     | core.base_scraper         | Scraped article: ලෝකයේම අවධානය දිනාගත් අලුත් වූ සැම්සුන්ග් උපාංග... (16e56c3a)
+2026-02-11 21:19:44 | INFO     | core.base_scraper         | Scraped article: ලොව වැඩිම ආදායමක් ඉපැයූ Disney Animation චිත්‍රපටය... (10829fe9)
+2026-02-11 21:19:44 | INFO     | core.base_scraper         | Scraping page 25: https://www.itnnews.lk/world/page/25/
+2026-02-11 21:19:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:19:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:19:46 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:19:46 | INFO     | core.base_scraper         | Found 9 articles on page 25
+2026-02-11 21:19:50 | INFO     | core.base_scraper         | Scraped article: මදුරෝ සහ බිරිඳ අද අධිකරණයට... (76848146)
+2026-02-11 21:19:53 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ රිච්ටර් මාපක 5.1ක ප්‍රබල භූ කම්පනයක්... (67015a69)
+2026-02-11 21:19:56 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගෙන් වෙනිසියුලාවට අනතුරු ඇඟවීමක්... (81197893)
+2026-02-11 21:19:59 | INFO     | core.base_scraper         | Scraped article: මොස්කව් හි ගුවන් තොටුපළවල් කිහිපයක් තාවකාලිකව වසා ... (e6782e26)
+2026-02-11 21:20:02 | INFO     | core.base_scraper         | Scraped article: ග්‍රීන්ලන්තයට එරෙහිව සිදු කරන තර්ජනය නතර කරන්නැයි ... (6e9b91d8)
+2026-02-11 21:20:05 | INFO     | core.base_scraper         | Scraped article: කිසිම රටකට ජාත්‍යන්තර පොලීසිය ලෙස ක්‍රියා කළ නොහැක... (be49a466)
+2026-02-11 21:20:08 | INFO     | core.base_scraper         | Scraped article: එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලය හෙට රැස්වෙයි... (1a8710de)
+2026-02-11 21:20:11 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලා ජනාධිපතිවරයා සහ ඔහුගේ ආර්යාව වහාම නිදහස... (aa81d32e)
+2026-02-11 21:20:15 | INFO     | core.base_scraper         | Scraped article: උතුරු කොරියාව නව වසරේ පළමු බැලැස්ටික් මිසයිල අත්හද... (f02fecae)
+2026-02-11 21:20:15 | INFO     | core.base_scraper         | Scraping page 26: https://www.itnnews.lk/world/page/26/
+2026-02-11 21:20:16 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:20:16 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:20:16 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:20:16 | INFO     | core.base_scraper         | Found 9 articles on page 26
+2026-02-11 21:20:20 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාවේදී ඇල්ලූ වෙනිසියුලා ජනපතියි බිරිඳයි ඇම... (5bbcbcd1)
+2026-02-11 21:20:23 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාව තම පාලනයට ගත් හැටි ට්‍රම්ප් විස්තර කරය... (23a1a067)
+2026-02-11 21:20:26 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලා ජනාධිපතිට සහ බිරිඳට අධි චෝදනා... (9fa7f10d)
+2026-02-11 21:20:29 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලානු ජනාධිපති මධුරෝ සහ ඔහුගේ බිරිඳ ඇමෙරිකා... (cea0a853)
+2026-02-11 21:20:32 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාවේ හදිසි තත්ත්වයක් ප්‍රකාශයට පත්කරයි... (0089506d)
+2026-02-11 21:20:35 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාවේ අගනුවර පිපිරීම් කිහිපයක්... (e80cc2a0)
+2026-02-11 21:20:38 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව ඉරානයට අනතුරු අඟවයි... (0277fd86)
+2026-02-11 21:20:41 | INFO     | core.base_scraper         | Scraped article: විශේෂ ධාතු ප්‍රදර්ශනයක් අද නවදිල්ලි නුවරදී... (fcb580e9)
+2026-02-11 21:20:44 | INFO     | core.base_scraper         | Scraped article: ඩෙන්මාර්කයේ තැපැල් සේවය නිමා කරයි... (2dc66159)
+2026-02-11 21:20:44 | INFO     | core.base_scraper         | Scraping page 27: https://www.itnnews.lk/world/page/27/
+2026-02-11 21:20:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:20:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:20:46 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:20:46 | INFO     | core.base_scraper         | Found 9 articles on page 27
+2026-02-11 21:20:50 | INFO     | core.base_scraper         | Scraped article: සර්වඥ ධාතු ප්‍රදර්ශනයක් හෙට(3) නවදිල්ලි නුවරදී... (e256d235)
+2026-02-11 21:20:53 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තුවේ වැසිකිලි පහසුකම් ඉහළ නංවන්නැයි ජපාන... (bc32f1d8)
+2026-02-11 21:20:56 | INFO     | core.base_scraper         | Scraped article: යුරෝපයට යාමට උත්සහ කළ සංක්‍රමණිකයන් රැගත් බෝට්ටුවක... (8a33e299)
+2026-02-11 21:20:59 | INFO     | core.base_scraper         | Scraped article: ඉරානයේ විරෝධතා 5 වන දිනටත් ක්‍රියාත්මකයි... (2d1d3eeb)
+2026-02-11 21:21:02 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්තානයට බලපෑ අයහපත් කාලගුණයෙන් පුද්ගලයින් 17... (c27ef61b)
+2026-02-11 21:21:05 | INFO     | core.base_scraper         | Scraped article: ස්විට්සර්ලන්තයේ අවන්හලක ඇතිවූ ගින්නෙන් මිය ගිය ගණන... (6e7fc19a)
+2026-02-11 21:21:08 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ නගර කිහිපයක ආරක්ෂක භටයින් ඉවත් කර ගන්නා ... (debda6b5)
+2026-02-11 21:21:11 | INFO     | core.base_scraper         | Scraped article: ස්විට්සර්ලන්තයේ අවන්හලක ගින්නක් – පුද්ගලයින් කිහිප... (aa076e86)
+2026-02-11 21:21:14 | INFO     | core.base_scraper         | Scraped article: අලුත් අවුරුද්ද පිළිගත් චීනයේ රොබෝවරු... (ae525329)
+2026-02-11 21:21:14 | INFO     | core.base_scraper         | Scraping page 28: https://www.itnnews.lk/world/page/28/
+2026-02-11 21:21:16 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:21:16 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:21:16 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:21:16 | INFO     | core.base_scraper         | Found 9 articles on page 28
+2026-02-11 21:21:20 | INFO     | core.base_scraper         | Scraped article: 2024ට සාපේක්ෂව 2025 ජනවාරි – නොවැම්බර් කාලය තුළ ගු... (053e757c)
+2026-02-11 21:21:23 | INFO     | core.base_scraper         | Scraped article: ජපානයේ භූකම්පනයක්... (605c9cad)
+2026-02-11 21:21:26 | INFO     | core.base_scraper         | Scraped article: චීනය ලෝකයට තවදුරටත් විවෘත වීමට සූදානම් – චීන ජනපති... (596bdef6)
+2026-02-11 21:21:29 | INFO     | core.base_scraper         | Scraped article: කිරිබාති දිවයිනට 2026 නව වසර උදා වෙයි... (276444c6)
+2026-02-11 21:21:32 | INFO     | core.base_scraper         | Scraped article: තායිලන්තය කාම්බෝජ සොල්දාදුවන් 18 දෙනෙකු නිදහස් කරය... (f7855ae2)
+2026-02-11 21:21:35 | INFO     | core.base_scraper         | Scraped article: චීනය සහ ලෝකය අතර සබඳතා වඩාත් ධනාත්මක දිශාවකට -චීන ... (7502cca4)
+2026-02-11 21:21:38 | INFO     | core.base_scraper         | Scraped article: චීනයෙන් එල්ල වන අභියෝග හමුවේ බිය නොවන බව තායිවානය ... (0e74bb56)
+2026-02-11 21:21:41 | INFO     | core.base_scraper         | Scraped article: මුම්බායිහි මාරක බස් රථ අනතුරක් – 4 දෙනෙකු මරුට... (2efa90da)
+2026-02-11 21:21:41 | INFO     | core.base_scraper         | Scraping page 29: https://www.itnnews.lk/world/page/29/
+2026-02-11 21:21:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:21:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:21:43 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:21:43 | INFO     | core.base_scraper         | Found 9 articles on page 29
+2026-02-11 21:21:47 | INFO     | core.base_scraper         | Scraped article: රුසියා රාජ්‍ය තාන්ත්‍රිකයෙකුට එරට අධිකරණයෙන් වසර 1... (fc0666cc)
+2026-02-11 21:21:50 | INFO     | core.base_scraper         | Scraped article: සෞදියෙන් යේමන වරාය නගරයට බෝම්බ ප්‍රහාරයක්... (87864a2f)
+2026-02-11 21:21:53 | INFO     | core.base_scraper         | Scraped article: තායිවාන දූපත වට කරමින් චීනය සිදු කරන යුද අභ්‍යාසය ... (8f651a64)
+2026-02-11 21:21:56 | INFO     | core.base_scraper         | Scraped article: බංග්ලාදේශයේ ප්‍රථම කාන්තා අගමැති කලීඩා ෂියා අභාවප්... (a3c17957)
+2026-02-11 21:21:59 | INFO     | core.base_scraper         | Scraped article: දිනෙන් දින උණුසුම් වෙන බංග්ලාදේශ ප්‍රචණ්ඩත්වය... (6b8f5434)
+2026-02-11 21:22:02 | INFO     | core.base_scraper         | Scraped article: මුහුදු 2ක් යා කරන මෙක්සිකෝ දුම්රියක් පීලි පනියි – ... (d250fb36)
+2026-02-11 21:22:03 | INFO     | core.base_scraper         | Scraping page 30: https://www.itnnews.lk/world/page/30/
+2026-02-11 21:22:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:22:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:22:04 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:22:04 | INFO     | core.base_scraper         | Found 9 articles on page 30
+2026-02-11 21:22:08 | INFO     | core.base_scraper         | Scraped article: නිමා වූ ප්‍රංශ සිනමා පුරාවෘත්තය... (a766d3fc)
+2026-02-11 21:22:11 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ වැඩිහිටි නිවාසයක ගින්නක් – පුද්ගලයින... (e8430f73)
+2026-02-11 21:22:14 | INFO     | core.base_scraper         | Scraped article: චීන මහජන විමුක්ති හමුදාව තායිවාන දූපත වටා විශේෂ යු... (cfca92e4)
+2026-02-11 21:22:17 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් සහ නෙතන්යාහු සාකච්ඡාවකට සැරසෙයි... (48918cff)
+2026-02-11 21:22:20 | INFO     | core.base_scraper         | Scraped article: මෙක්සිකෝවේ දුම්රිය අනතුරකින් 13 දෙනෙකු මියයයි... (a22a3627)
+2026-02-11 21:22:23 | INFO     | core.base_scraper         | Scraped article: සෝමාලිලන්තය ස්වාධීන හා ස්වෛරී රාජ්‍යයක් ලෙස නිල වශ... (d39e682c)
+2026-02-11 21:22:26 | INFO     | core.base_scraper         | Scraped article: තායිවානයේ ප්‍රබල භූකම්පනයක්... (ab177ea1)
+2026-02-11 21:22:29 | INFO     | core.base_scraper         | Scraped article: පේරු රාජ්‍යයේ මුහුදු ප්‍රදේශය ආශ්‍රිතව භූකම්පනයක්... (e364d4ba)
+2026-02-11 21:22:32 | INFO     | core.base_scraper         | Scraped article: දිල්ලි අගනුවර වායු ගුණාත්මක තත්ත්වය දූර්වල මට්ටමක... (7031987a)
+2026-02-11 21:22:32 | INFO     | core.base_scraper         | Scraping page 31: https://www.itnnews.lk/world/page/31/
+2026-02-11 21:22:34 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:22:34 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:22:34 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:22:34 | INFO     | core.base_scraper         | Found 9 articles on page 31
+2026-02-11 21:22:38 | INFO     | core.base_scraper         | Scraped article: මියන්මාර හමුදා ජුන්ටාවෙන් මැතිවරණයක්... (e2110b55)
+2026-02-11 21:22:41 | INFO     | core.base_scraper         | Scraped article: ග්‍රීසියේදී අතුරුදන් වූ කඳු නගින්නන් 4 දෙනාගේ සිරු... (14463991)
+2026-02-11 21:22:44 | INFO     | core.base_scraper         | Scraped article: මියන්මාරයේ වසර 05කට පසුව පැවැත්වෙන පළමු මහ මැතිවරණ... (7cf9b0e8)
+2026-02-11 21:22:47 | INFO     | core.base_scraper         | Scraped article: ඩෙවින් හිම කුණාටුවෙන් ඇමෙරිකාවට බලපෑම් – ගුවන් ගමන... (85c63378)
+2026-02-11 21:22:50 | INFO     | core.base_scraper         | Scraped article: සිරියාවේ පිපිරීමකින් පුද්ගලයින් 8 දෙනෙකු ජීවිතක්ෂය... (fb614db8)
+2026-02-11 21:22:54 | INFO     | core.base_scraper         | Scraped article: තායිලන්තය හා කාම්බෝජය අතර යළිත් වරක් සටන් විරාමයක්... (a8333f50)
+2026-02-11 21:22:56 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් සහ සෙලෙන්ස්කි අතර හමුවක් හෙට... (c445b5c6)
+2026-02-11 21:22:59 | INFO     | core.base_scraper         | Scraped article: මැලේසියාවේ හිටපු අගමැති නජීබ් රාජ්‍ය මුදල් අවභාවිත... (87163c7f)
+2026-02-11 21:22:59 | INFO     | core.base_scraper         | Scraping page 32: https://www.itnnews.lk/world/page/32/
+2026-02-11 21:23:02 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:23:02 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:23:02 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:23:02 | INFO     | core.base_scraper         | Found 9 articles on page 32
+2026-02-11 21:23:05 | INFO     | core.base_scraper         | Scraped article: බ්‍රසීලයේ හිටපු ජනපතිට සැත්කමක්... (7eba971c)
+2026-02-11 21:23:07 | INFO     | core.base_scraper         | Scraped article: කැලිෆෝනියා ප්‍රාන්තයට බලපා ඇති අයහපත් කාලගුණයෙන් ත... (d139921f)
+2026-02-11 21:23:11 | INFO     | core.base_scraper         | Scraped article: Gmail ලිපිනයේ නම වෙනස්කිරීමට පරිශීලකයන්ට අවස්ථාව... (23e0f4e8)
+2026-02-11 21:23:14 | INFO     | core.base_scraper         | Scraped article: ලෝක වාර්තා බිඳ දමමින් චීනයේ Urumqi-Yuli අධිවේගී මා... (4fc767e7)
+2026-02-11 21:23:17 | INFO     | core.base_scraper         | Scraped article: රුසියාව සමග සටන් විරාමයක් ගැන ඇමෙරිකාවේ යෝජනාව යුක... (093d588d)
+2026-02-11 21:23:20 | INFO     | core.base_scraper         | Scraped article: සුරතල් පැනඩාවුන් රැකගන්න චීනය පෙරට එයි... (619b8539)
+2026-02-11 21:23:23 | INFO     | core.base_scraper         | Scraped article: අමෙරිකානුවා දිනූ ඩොලර් බිලියන 1.8 ලොතරැයිය... (893ee451)
+2026-02-11 21:23:26 | INFO     | core.base_scraper         | Scraped article: ටැන්සානියාවේ හෙලිකොප්ටරයක් කඩා වැටී 05 දෙනෙකු මියය... (2dec0a48)
+2026-02-11 21:23:27 | INFO     | core.base_scraper         | Scraping page 33: https://www.itnnews.lk/world/page/33/
+2026-02-11 21:23:28 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:23:28 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:23:28 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:23:28 | INFO     | core.base_scraper         | Found 9 articles on page 33
+2026-02-11 21:23:32 | INFO     | core.base_scraper         | Scraped article: අවුරුදු 17 කට පෙර පිටුවහල් කළ බංග්ලිදේශයේ විපක්ෂ න... (552547ed)
+2026-02-11 21:23:36 | INFO     | core.base_scraper         | Scraped article: යුදෙව් ජනාවාස 19ක් පිහිටුවීමට ඊශ්‍රායලය ගෙන ඇති තී... (21355e81)
+2026-02-11 21:23:38 | INFO     | core.base_scraper         | Scraped article: පොලිස් අණ නොතකා ධාවනය කළ මෝටර් රථයක් අනතුරකට ලක් ව... (864eb8b8)
+2026-02-11 21:23:41 | INFO     | core.base_scraper         | Scraped article: උතුරු කොරියානු නායකයා මිසයිල අත්හදා බැලීමක... (590d96ac)
+2026-02-11 21:41:32 | WARNING  | core.session_manager      | Retrying core.session_manager.SessionManager._make_request_with_retry in 2 seconds as it raised ConnectionError: HTTPSConnectionPool(host='www.itnnews.lk', port=443): Max retries exceeded with url: /2025/12/25/758971/ (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.itnnews.lk', port=443): Read timed out. (read timeout=30.0)")).
+2026-02-11 21:41:39 | INFO     | core.base_scraper         | Scraped article: දකුණු කැලිෆෝනියාවට ශීත කුණාටු තත්ත්වයක්... (547f8cd5)
+2026-02-11 21:41:41 | INFO     | core.base_scraper         | Scraped article: ශීත සෘතුවේ මෝල්ඩෝවා සිට එන පළමු ගුවන් යානය අනිද්දා... (3ca266a7)
+2026-02-11 21:41:43 | INFO     | core.base_scraper         | Scraped article: නයිජීරියාවේ පල්ලියක පිපිරීමක් – 5 ක් මරුට... (33d6931e)
+2026-02-11 21:41:44 | INFO     | core.base_scraper         | Scraped article: සුන්දර නත්තලේ අසිරිය බෙත්ලෙහෙමටත්... (d64da07a)
+2026-02-11 21:41:46 | INFO     | core.base_scraper         | Scraped article: දුප්පතුන්ට උපකාර කිරීම ප්‍රතික්ෂේප කිරීම දෙවියන් ව... (2c571a26)
+2026-02-11 21:41:46 | INFO     | core.base_scraper         | Scraping page 34: https://www.itnnews.lk/world/page/34/
+2026-02-11 21:41:48 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:41:48 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:41:48 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:41:48 | INFO     | core.base_scraper         | Found 9 articles on page 34
+2026-02-11 21:41:49 | INFO     | core.base_scraper         | Scraped article: තායිවානයට ප්‍රබල භූමිකම්පාවක්... (118e23d6)
+2026-02-11 21:41:51 | INFO     | core.base_scraper         | Scraped article: චිකාගෝ ප්‍රදේශයට හමුදා යෙදවීමේ ට්‍රම්ප්ගේ නියෝගය ඇ... (d7240973)
+2026-02-11 21:41:53 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියාව බ්‍රිතාන්‍ය ජාතිකයෙකුගේ වීසා අවලංගු ... (161ddc6d)
+2026-02-11 21:41:54 | INFO     | core.base_scraper         | Scraped article: ඇමරිකාවේ සාත්තු නිවාසයක ගින්නකින් දෙදෙනෙකු මිය යයි... (0e25e81d)
+2026-02-11 21:41:56 | INFO     | core.base_scraper         | Scraped article: ලිබියානු හමුදා නායකයා ගුවන් අනතුරකින් ජීවිතක්ෂයට... (272237cc)
+2026-02-11 21:41:59 | INFO     | core.base_scraper         | Scraped article: ගුවන් අනතුරකින් ලිබියානු හමුදා මාණ්ඩලික ප්‍රධානියා... (7a9c38b6)
+2026-02-11 21:42:02 | INFO     | core.base_scraper         | Scraped article: චීනයේ Bohai මුහුදෙන් ටොන් මිලියන 100 ඉක්මවූ තවත් ත... (bb9ee711)
+2026-02-11 21:42:04 | INFO     | core.base_scraper         | Scraped article: රුසියාවෙන් යුක්‍රේනයට ප්‍රහාර මාලාවක්... (22390779)
+2026-02-11 21:42:08 | INFO     | core.base_scraper         | Scraped article: සාකච්ඡා සඳහා තායිලන්තය හා කාම්බෝජය එකඟතාව පළකරයි... (429d982f)
+2026-02-11 21:42:08 | INFO     | core.base_scraper         | Scraping page 35: https://www.itnnews.lk/world/page/35/
+2026-02-11 21:42:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:42:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:42:10 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:42:10 | INFO     | core.base_scraper         | Found 9 articles on page 35
+2026-02-11 21:42:15 | INFO     | core.base_scraper         | Scraped article: මාලදිවයින් පාසල් සිසුන්ට ජංගම දුරකථන තහනමක්... (4a54667e)
+2026-02-11 21:42:16 | INFO     | core.base_scraper         | Scraped article: රුසියාවේ පිපිරීමක් – හමුදා ප්‍රධානියෙක් මරුට... (7cf92ce4)
+2026-02-11 21:42:20 | INFO     | core.base_scraper         | Scraped article: නැවත ආරම්භ කරන්න යන ලොව විශාලතම න්‍යෂ්ටික බලාගාරය... (0a4ebfe0)
+2026-02-11 21:42:22 | INFO     | core.base_scraper         | Scraped article: දකුණු අප්‍රිකාවේ වෙඩි තැබීමකින් 9ක් ජීවිතක්ෂයට... (88eee747)
+2026-02-11 21:42:26 | INFO     | core.base_scraper         | Scraped article: නත්තල් සීයලා සිය ගණනක් සහභාගි වූ යතුරුපැදි සවාරියක... (f86a7f32)
+2026-02-11 21:42:29 | INFO     | core.base_scraper         | Scraped article: තායිවානයේ දුම්රිය ස්ථානයක පිහි ඇනුමක් සහ දුම් බෝම්... (aa864995)
+2026-02-11 21:42:31 | INFO     | core.base_scraper         | Scraped article: වෙනිසියුලාවට අයත් ඉන්ධන රැගත් නෞකාවක් ඇමෙරිකා භාරය... (121b7d06)
+2026-02-11 21:42:35 | INFO     | core.base_scraper         | Scraped article: ඇමරිකාව චීනයේ තායිවාන ප්‍රදේශයට අවි ආයුධ අලෙවි කිර... (5cebfc7f)
+2026-02-11 21:42:35 | INFO     | core.base_scraper         | Scraping page 36: https://www.itnnews.lk/world/page/36/
+2026-02-11 21:42:37 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:42:37 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:42:37 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:42:37 | INFO     | core.base_scraper         | Found 9 articles on page 36
+2026-02-11 21:42:41 | INFO     | core.base_scraper         | Scraped article: තායිවානයේ දුම්රිය ස්ථානයක සිදුවූ පිහි ඇණුමකින් හා ... (81061800)
+2026-02-11 21:42:44 | INFO     | core.base_scraper         | Scraped article: සිරියාවේ ISIS ත්‍රස්තයන්ට ඇමෙරිකාවෙන් දැවැන්ත ප්‍ර... (45856c90)
+2026-02-11 21:42:47 | INFO     | core.base_scraper         | Scraped article: බංග්ලාදේශයේ ප්‍රචණ්ඩකාරී විරෝධතා ඇරඹෙයි... (606b888b)
+2026-02-11 21:42:50 | INFO     | core.base_scraper         | Scraped article: 2026 වසරේ දී ලෝක වෙළඳපොලේ රත්‍රං මිල ඉහළ යනු ඇති බ... (5b2f7e83)
+2026-02-11 21:42:53 | INFO     | core.base_scraper         | Scraped article: යුක්‍රේනයට ඩොලර් බිලියන 100ක ණයක් ලබා දීමට යුරෝපා ... (40f82d07)
+2026-02-11 21:42:56 | INFO     | core.base_scraper         | Scraped article: චීනය සතු ටික්ටොක් සමාගම ඇමෙරිකාව සමග ගිවිසුමකට එළඹ... (18c6c892)
+2026-02-11 21:42:59 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් ග්‍රීන් කාඩ් අත්හිටුවයි... (72118c9e)
+2026-02-11 21:43:02 | INFO     | core.base_scraper         | Scraped article: චීන තායිවාන ප්‍රදේශය යොදා ගෙන චීනය මර්දනයට ඇමරිකාව... (04d604f8)
+2026-02-11 21:43:02 | INFO     | core.base_scraper         | Scraping page 37: https://www.itnnews.lk/world/page/37/
+2026-02-11 21:43:05 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:43:05 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:43:05 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:43:05 | INFO     | core.base_scraper         | Found 9 articles on page 37
+2026-02-11 21:43:08 | INFO     | core.base_scraper         | Scraped article: වෙනස්වන ඔස්කාර් සම්මාන රාත්‍රිය... (10881e47)
+2026-02-11 21:43:11 | INFO     | core.base_scraper         | Scraped article: කාම්බෝජයේ කැසිනෝ මධ්‍යස්ථානයකට බෝම්බ ප්‍රහාරයක්... (5160369c)
+2026-02-11 21:43:14 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් හදිසියේම ජාතිය අමතයි... (72e48d25)
+2026-02-11 21:43:17 | INFO     | core.base_scraper         | Scraped article: රුසියානු වරායකට ඩ්‍රෝන ප්‍රහාරයක්... (493d54a2)
+2026-02-11 21:43:20 | INFO     | core.base_scraper         | Scraped article: තම මව ගැන බියෙන් සිටි පුත්‍රයාට මියන්මාර ජුන්ටාවෙන... (5a12cece)
+2026-02-11 21:43:23 | INFO     | core.base_scraper         | Scraped article: ධුරයෙන් ඉවත්ව යන FBI නියෝජ්‍ය අධ්‍යක්ෂ... (cd008610)
+2026-02-11 21:43:26 | INFO     | core.base_scraper         | Scraped article: චීනයේ Hainan නිදහස් වෙළඳ වරායේ විශේෂ රේගු මෙහෙයුම ... (cb865c9f)
+2026-02-11 21:43:29 | INFO     | core.base_scraper         | Scraped article: අධික වර්ෂාව හා ශීත කුණාටු ගාසා වැසියන් තවදුරටත් අස... (6810d789)
+2026-02-11 21:43:32 | INFO     | core.base_scraper         | Scraped article: දිල්ලියේ වායු දූෂණය මැඩපැවැත්වීම සඳහා නව නීති මාලා... (0b685d93)
+2026-02-11 21:43:33 | INFO     | core.base_scraper         | Scraping page 38: https://www.itnnews.lk/world/page/38/
+2026-02-11 21:43:35 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:43:35 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:43:35 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:43:35 | INFO     | core.base_scraper         | Found 9 articles on page 38
+2026-02-11 21:43:38 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් අමෙරිකානු සංචාරක තහනම තවත් රටවල් 6කට පුළු... (66229128)
+2026-02-11 21:43:41 | INFO     | core.base_scraper         | Scraped article: සුපිරි ධනවතුන්ගේ කිරුළ එලෝන් මස්ක්ට... (4b3c5594)
+2026-02-11 21:43:44 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් BBCයට එරෙහිව අපහාස නඩු පවරයි... (e231dae8)
+2026-02-11 21:43:47 | INFO     | core.base_scraper         | Scraped article: ගැටුම් හේතුවෙන් තායිලන්තය ලාඕසයේ ඉන්ධන සැපයුම් මාර... (fbb71a24)
+2026-02-11 21:43:50 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියාවේ වෙඩි තැබීමේ සිද්ධියෙන් පසු ගිනි අවි... (e1e0e797)
+2026-02-11 21:43:53 | INFO     | core.base_scraper         | Scraped article: චිලී ජනාධිපති ධුරයට ඇන්ටෝනියෝ කැස්ට් තේරී පත්වෙයි... (fda2fe7c)
+2026-02-11 21:43:56 | INFO     | core.base_scraper         | Scraped article: කොලොම්බියාවේ බස් රථ අනතුරකින් 17ක් ජීවිතක්ෂයට – තව... (afd4d550)
+2026-02-11 21:43:59 | INFO     | core.base_scraper         | Scraped article: චීන අධිකරණයෙන් ජිමී ලායි වරදකරු ලෙස නම් කරයි... (f5f8d0dd)
+2026-02-11 21:44:02 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියාවේ සිඩ්නි නුවර ප්‍රහාරය එල්ල කර ඇත්තේ ... (5127f498)
+2026-02-11 21:44:02 | INFO     | core.base_scraper         | Scraping page 39: https://www.itnnews.lk/world/page/39/
+2026-02-11 21:44:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:44:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:44:04 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:44:04 | INFO     | core.base_scraper         | Found 9 articles on page 39
+2026-02-11 21:44:08 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලය ප්‍රහාරයකින් හමාස් සංවිධානයේ අණදෙන නිලධා... (082ac1c2)
+2026-02-11 21:44:11 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියාවේ වෙඩි තැබීමකින් පුද්ගලයින් 10ක් ජීවි... (abecfe32)
+2026-02-11 21:44:14 | INFO     | core.base_scraper         | Scraped article: කාම්බෝජය සහ තායිලන්තය අතර ඇති දේශසීමා හරස් මාර්ග ව... (d17ba3a6)
+2026-02-11 21:44:17 | INFO     | core.base_scraper         | Scraped article: වසර 14කට පසු ලියෝනාල් මෙසී ඉන්දියාවට... (96751125)
+2026-02-11 21:44:22 | INFO     | core.base_scraper         | Scraped article: ගංවතුර හේතුවෙන් ගාසා තීරයේ ලක්ෂ 8ක් පීඩාවට... (29004e93)
+2026-02-11 21:44:24 | INFO     | core.base_scraper         | Scraped article: ගාසාවේ අවතැන් කඳවුරු රැසක් ජලයෙන් යට වෙයි... (7a8eca78)
+2026-02-11 21:44:26 | INFO     | core.base_scraper         | Scraped article: ඩිජිටල් මුදල් වංචාවක් සම්බන්ධයෙන් ක්‍රිප්ටෝ ව්‍යවස... (6bb1f840)
+2026-02-11 21:44:26 | INFO     | core.base_scraper         | Scraping page 40: https://www.itnnews.lk/world/page/40/
+2026-02-11 21:44:29 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:44:29 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:44:29 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:44:29 | INFO     | core.base_scraper         | Found 9 articles on page 40
+2026-02-11 21:44:32 | INFO     | core.base_scraper         | Scraped article: වයස අවුරුදු 14ට අඩු ගැහැනු දරුවන්ට පාසල තුළ දී හිජ... (4cc07332)
+2026-02-11 21:44:37 | INFO     | core.base_scraper         | Scraped article: ResUSS 2025 ඇමති නලින්දගේ ප්‍රධානත්වයෙන් ඇරඹෙයි... (e7830df4)
+2026-02-11 21:44:39 | INFO     | core.base_scraper         | Scraped article: තායිලන්ත පාර්ලිමේන්තුව විසුරුවා හැරේ... (97452ac2)
+2026-02-11 21:44:41 | INFO     | core.base_scraper         | Scraped article: ජපානයේ ප්‍රබල භූමිකම්පාවක් – සුනාමි අනතුරු ඇඟවීම් ... (f5b7b443)
+2026-02-11 21:44:44 | INFO     | core.base_scraper         | Scraped article: චීනයේ ඉහළම වාර්ෂික ආර්ථික කාර්ය සැසිවාරය චීන ජනපති... (a02a1fb6)
+2026-02-11 21:44:48 | INFO     | core.base_scraper         | Scraped article: බයිරන් සුළි කුණාටුව ගාසා වැසියන් තවදුරටත් අසරණ කරය... (2b3ffe01)
+2026-02-11 21:44:51 | INFO     | core.base_scraper         | Scraped article: 2026 අශ්වයාගේ වසර පිළිගන්න චීනය සූදානමින්... (5535dd65)
+2026-02-11 21:44:53 | INFO     | core.base_scraper         | Scraped article: තෙල් නැවක් සොරා ගත් බවට වෙනිසියුලාවෙන් ඇමරිකාවට චෝ... (76435a05)
+2026-02-11 21:44:56 | INFO     | core.base_scraper         | Scraped article: හොංකොංහි මහල් නිවාස ගින්න ගැන සමාජ මාධ්‍යවල දේශද්‍... (f3d8c916)
+2026-02-11 21:44:56 | INFO     | core.base_scraper         | Scraping page 41: https://www.itnnews.lk/world/page/41/
+2026-02-11 21:44:59 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:44:59 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:44:59 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:44:59 | INFO     | core.base_scraper         | Found 9 articles on page 41
+2026-02-11 21:45:03 | INFO     | core.base_scraper         | Scraped article: චීනය සමග ඇති වූ මත ගැටුමේදී ඇමරිකාව ජපානයට සහාය දක... (25ec1a6b)
+2026-02-11 21:45:04 | INFO     | core.base_scraper         | Scraped article: 16 ට අඩු ළමුන් සඳහා සමාජ මාධ්‍ය තහනම් කළ පළමු රට බ... (3a0c1ce7)
+2026-02-11 21:45:08 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ ගොඩනැගිල්ලක ගින්නක් – 17ක් මරුට... (18a03b08)
+2026-02-11 21:45:11 | INFO     | core.base_scraper         | Scraped article: තායිවාන ස්වාධීනත්වයට සහාය දැක්වීම ජාත්‍යන්තර නිතීය... (a3bcdf82)
+2026-02-11 21:45:14 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවේ විශාලතම (B2B) ප්‍රදර්ශන මණ්ඩපය 2026 ඩ... (f6f01d52)
+2026-02-11 21:45:17 | INFO     | core.base_scraper         | Scraped article: ජපානයේ භූකම්පනයෙන් 30 දෙනෙකුට තුවාල... (d0c7eb7f)
+2026-02-11 21:45:20 | INFO     | core.base_scraper         | Scraped article: ජපානයේ ප්‍රබල භූකම්පනයක්... (d056e98f)
+2026-02-11 21:45:21 | INFO     | core.base_scraper         | Scraping page 42: https://www.itnnews.lk/world/page/42/
+2026-02-11 21:45:22 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:45:22 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:45:22 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:45:22 | INFO     | core.base_scraper         | Found 9 articles on page 42
+2026-02-11 21:45:26 | INFO     | core.base_scraper         | Scraped article: ලූවර් කෞතුකාගාරයේ ජල කාන්දුවක් – කෘති රැසකට හානි... (780a3b48)
+2026-02-11 21:45:29 | INFO     | core.base_scraper         | Scraped article: ගංවතුරෙන් විපතට පත්වූවන් වෙනුවෙන් පාප් වහන්සේ යාඥා... (62dbc001)
+2026-02-11 21:45:32 | INFO     | core.base_scraper         | Scraped article: තායිලන්තය හා කාම්බෝජය අතර දේශසීමාවේ ගැටලු උත්සන්නව... (1416a0d2)
+2026-02-11 21:45:35 | INFO     | core.base_scraper         | Scraped article: චීනයේ විදේශ විනිමය සංචිතය ඩොලර් ට්‍රිලියන 3 ඉක්මවය... (6efe8c5b)
+2026-02-11 21:45:38 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ රාත්‍රී සමාජ ශාලාවක ඇති වූ ගින්නකින් 25ක... (43aa1117)
+2026-02-11 21:45:41 | INFO     | core.base_scraper         | Scraped article: සුඩානයේ පෙර පාසලකට ප්‍රහාරයක් – දරුවන් ඇතුළු 50 දෙ... (3cdc0bf2)
+2026-02-11 21:45:44 | INFO     | core.base_scraper         | Scraped article: දකුණු අප්‍රිකාවේ සිදු වූ වෙඩි තැබීමකින් 11 ජීවිතක්... (1d7625a8)
+2026-02-11 21:45:47 | INFO     | core.base_scraper         | Scraped article: අයහපත් කාලගුණය නිසා ඉන්දුනීසියාවේ මියගිය ගණන 900 ප... (b46791d8)
+2026-02-11 21:45:50 | INFO     | core.base_scraper         | Scraped article: පාකිස්ථානය හා ඇෆ්ගනිස්ථානය අතර දරුණු යුද ගැටුම්... (74ba8a9e)
+2026-02-11 21:45:50 | INFO     | core.base_scraper         | Scraping page 43: https://www.itnnews.lk/world/page/43/
+2026-02-11 21:45:52 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:45:52 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:45:52 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:45:52 | INFO     | core.base_scraper         | Found 9 articles on page 43
+2026-02-11 21:45:56 | INFO     | core.base_scraper         | Scraped article: ලොව මිටිම මී ගවයා ඉන්දියාවෙන්... (4f161e7c)
+2026-02-11 21:45:59 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් FIFA සාම ත්‍යාගය දිනාගනී... (0b05a95a)
+2026-02-11 21:46:02 | INFO     | core.base_scraper         | Scraped article: දකුණු හා අග්නිදිග ආසියාවට බලපෑ ගංවතුරෙන් 1600කට අධ... (f025c5a0)
+2026-02-11 21:46:05 | INFO     | core.base_scraper         | Scraped article: ඉන්ඩිගෝට මොකද වුණේ ?... (39ef2e5e)
+2026-02-11 21:46:08 | INFO     | core.base_scraper         | Scraped article: සිංගප්පුරුවේ සහ මැලේසියාවේ ගිහිපැවිදි දූත පිරිසක් ... (bac9bec1)
+2026-02-11 21:46:11 | INFO     | core.base_scraper         | Scraped article: රුසියා ජනාධිපති විශේෂ සංචාරයක් සඳහා ඉන්දියාවට... (71be426b)
+2026-02-11 21:46:14 | INFO     | core.base_scraper         | Scraped article: චීනයේ ෂිජියැං ප්‍රදේශයට භූ කම්පන තත්ත්වයක්... (0ea0469f)
+2026-02-11 21:46:17 | INFO     | core.base_scraper         | Scraped article: වැසි සහිත කාලගුණය හේතුවෙන් ආසියාවේ රටවල් කිහිපයකටම... (111b3312)
+2026-02-11 21:46:20 | INFO     | core.base_scraper         | Scraped article: නයිජීරියාවේ ආරක්ෂක ඇමති සිය ධුරයෙන් ඉල්ලා අස්වෙයි... (bdd70841)
+2026-02-11 21:46:20 | INFO     | core.base_scraper         | Scraping page 44: https://www.itnnews.lk/world/page/44/
+2026-02-11 21:46:22 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:46:22 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:46:22 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:46:22 | INFO     | core.base_scraper         | Found 9 articles on page 44
+2026-02-11 21:46:27 | INFO     | core.base_scraper         | Scraped article: ආපදා සහන දෙන්න ඇපල් සමාගමත් එක් වෙයි... (ee9d74c9)
+2026-02-11 21:46:29 | INFO     | core.base_scraper         | Scraped article: ආපදා හේතුවෙන් සිදුවූ විනාශයට චාල්ස් රජුත් ශෝකය පළ ... (456d16dd)
+2026-02-11 21:46:32 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ ගංව­තුර සහ නායයෑම් හේතු­වෙන් මියගිය ... (42a749c0)
+2026-02-11 21:46:35 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවට බලපා ඇති වැසි සහිත කාලගුණය හේතුවෙන් ... (9e7a3702)
+2026-02-11 21:46:38 | INFO     | core.base_scraper         | Scraped article: හොංකොං හි මහල් නිවාස සංකීර්ණයේ ගින්නෙන් මියගිය සංඛ... (22f598ae)
+2026-02-11 21:46:41 | INFO     | core.base_scraper         | Scraped article: බ්‍රසීලයේ හිටපු ජනාධිපතිට වසර 27ක සිර දඬුවමක්... (73475baa)
+2026-02-11 21:46:45 | INFO     | core.base_scraper         | Scraped article: ඇමරිකානු භාණ්ඩ මිලදී ගැනීම් වේගවත් කිරීමට චීන ජනපත... (b1e3dbad)
+2026-02-11 21:46:47 | INFO     | core.base_scraper         | Scraped article: සාම සැලැස්ම වෙනුවෙන් සිය ඉහළම නියෝජිතයා රුසියාවට ය... (80fd8537)
+2026-02-11 21:46:50 | INFO     | core.base_scraper         | Scraped article: බංග්ලාදේශයේ ඩකාඅගනුවර නිවාස පෙළක ගින්නක්... (0b6dd84a)
+2026-02-11 21:46:50 | INFO     | core.base_scraper         | Scraping page 45: https://www.itnnews.lk/world/page/45/
+2026-02-11 21:46:53 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:46:53 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:46:53 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:46:53 | INFO     | core.base_scraper         | Found 9 articles on page 45
+2026-02-11 21:46:56 | INFO     | core.base_scraper         | Scraped article: කාන්තා ඝාතනය අපරාධයක් බවට පත් කිරීමට ඉතාලි පාර්ලිම... (ab5f055e)
+2026-02-11 21:46:59 | INFO     | core.base_scraper         | Scraped article: ඉන්දු – ඉතාලි රාජ්‍ය නායකයින් දකුණු අප්‍රිකාවේදී හ... (f23ed870)
+2026-02-11 21:47:02 | INFO     | core.base_scraper         | Scraped article: දිල්ලි වායු දූෂණය නිසා සේවකයන් නිවසේ සිට වැඩ... (1c00b124)
+2026-02-11 21:47:05 | INFO     | core.base_scraper         | Scraped article: ඉන්දීය ප්‍රවීණ නළු ධර්මේන්ද්‍ර දිවි රඟමඩලට සමුදෙයි... (3e1463a7)
+2026-02-11 21:47:09 | INFO     | core.base_scraper         | Scraped article: යුක්‍රේනයේ ගොඩනැගිලි කිහිපයකට රුසියාවෙන් ඩ්‍රෝන ප්... (449df646)
+2026-02-11 21:47:11 | INFO     | core.base_scraper         | Scraped article: හදිසියේ සක්‍රීය වූ ඉතියෝපියාවේ හයිලි ගුබ්බි ගිනිකන... (436de1d1)
+2026-02-11 21:47:14 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ මාරක බස් අනතුරක් – 6කට දිවි අහිමි වෙයි... (0052d4f3)
+2026-02-11 21:47:17 | INFO     | core.base_scraper         | Scraped article: පාකිස්ථානයේ හමුදා මූලස්ථානයකට බෝම්බ ප්‍රහාරයක්... (28ebe3f7)
+2026-02-11 21:47:17 | INFO     | core.base_scraper         | Scraping page 46: https://www.itnnews.lk/world/page/46/
+2026-02-11 21:47:19 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:47:19 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:47:20 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:47:20 | INFO     | core.base_scraper         | Found 9 articles on page 46
+2026-02-11 21:47:23 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් හිස්බුල්ලා ප්‍රධානියෙක... (e8d12a27)
+2026-02-11 21:47:26 | INFO     | core.base_scraper         | Scraped article: ජපාන නායිකාව සීමාව ඉක්මවා ගොස් ඇතැයි චීන විදේශ ඇමත... (27f7e1da)
+2026-02-11 21:47:29 | INFO     | core.base_scraper         | Scraped article: වියට්නාමයට බලපෑ අයහපත් කාලගුණයෙන් 90ක් මරුට... (52b08ebc)
+2026-02-11 21:47:32 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල ප්‍රහාරවලින් පලස්තීන ජාතිකයින් 22ක් ජීවිත... (f4ba2c12)
+2026-02-11 21:47:35 | INFO     | core.base_scraper         | Scraped article: වියට්නාමයට බලපෑ අයහපත් කාලගුණයෙන් 55ක් ජීවිතක්ෂයට... (15621cfb)
+2026-02-11 21:47:38 | INFO     | core.base_scraper         | Scraped article: බංග්ලාදේශයේ භූ කම්පනයෙන් 05ක් මරුට... (36ed72d1)
+2026-02-11 21:47:41 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාව සී ෂෙල්ස් රාජ්‍යයට ඖෂධ තොගයක් පරිත්‍යාග ක... (7dc46f36)
+2026-02-11 21:47:44 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් සහ නිව්යෝක් නව නගරාධිපති අතර හමුවක්... (48155983)
+2026-02-11 21:47:47 | INFO     | core.base_scraper         | Scraped article: බ්‍රිතාන්‍යයට අධික සීතලෙන් බලපෑම්... (aa08dcd8)
+2026-02-11 21:47:47 | INFO     | core.base_scraper         | Scraping page 47: https://www.itnnews.lk/world/page/47/
+2026-02-11 21:47:49 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:47:49 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:47:49 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:47:49 | INFO     | core.base_scraper         | Found 9 articles on page 47
+2026-02-11 21:47:53 | INFO     | core.base_scraper         | Scraped article: ඉන්දීය ගුවන් හමුදාවට අයත් ප්‍රහාරක ජෙට් යානයක් ඩුබ... (12da8e62)
+2026-02-11 21:47:57 | INFO     | core.base_scraper         | Scraped article: බංගලාදේශයේ ඩකා අගනුවරට භූ කම්පනයක්... (7fa2db9a)
+2026-02-11 21:47:59 | INFO     | core.base_scraper         | Scraped article: කෝවිඩ් පාලනය කිරීමට එවකට සිටි බ්‍රිතාන්‍ය බලධාරීන්... (3ccf1e17)
+2026-02-11 21:48:02 | INFO     | core.base_scraper         | Scraped article: විශ්ව රූ රැජින කිරුළ මෙක්සිකෝවට... (cf326675)
+2026-02-11 21:48:05 | INFO     | core.base_scraper         | Scraped article: ලූවර් කෞතුකාගාරයට ආරක්ෂිත කැමරා 100ක්... (07e6be7e)
+2026-02-11 21:48:10 | INFO     | core.base_scraper         | Scraped article: වියට්නාමයට බලපෑ ගංවතුර තත්ත්වය හේතුවෙන් මියගිය සංඛ... (88cf3530)
+2026-02-11 21:48:12 | INFO     | core.base_scraper         | Scraped article: පිලිපීන හිටපු නගරාධිපතිවරියකට ජීවිතාන්තය දක්වා සිර... (a805c8ea)
+2026-02-11 21:48:15 | INFO     | core.base_scraper         | Scraped article: රුසියා ප්‍රහාරයකින් යුක්‍රේනයේ 26ක් ජීවිතක්ෂයට – 9... (a26e9c10)
+2026-02-11 21:48:17 | INFO     | core.base_scraper         | Scraped article: දකුණු කොරියාවේ නෞකා අනතුරක් – 27කට තුවාල... (e3316bec)
+2026-02-11 21:48:17 | INFO     | core.base_scraper         | Scraping page 48: https://www.itnnews.lk/world/page/48/
+2026-02-11 21:48:20 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:48:20 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:48:20 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:48:20 | INFO     | core.base_scraper         | Found 9 articles on page 48
+2026-02-11 21:48:23 | INFO     | core.base_scraper         | Scraped article: රුසියා ඔත්තු බැලිමේ නෞකාවක් බ්‍රිතාන්‍ය මුහුදේ... (dc3e9f77)
+2026-02-11 21:48:26 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල ප්‍රහාරවලින් තවත් පලස්තීන ජාතිකයින් 28 දෙ... (fea275b2)
+2026-02-11 21:48:29 | INFO     | core.base_scraper         | Scraped article: ජපානයෙන් ගෙන්වන මුහුදු ආහාරවලට චීනයෙන් තහනමක්... (a0010cff)
+2026-02-11 21:48:32 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලයෙන් ලෙබනනයේ පලස්තීන සරණාගත කඳවුරකට ප්‍රහා... (dd120df8)
+2026-02-11 21:48:35 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ AL FALAH විශ්වවිද්‍යාලයේ සභාපතිවරයා අත්අ... (8cdb9397)
+2026-02-11 21:48:38 | INFO     | core.base_scraper         | Scraped article: ජපානයේ ඇති වූ ගින්නකින් ගොඩනැගිලි 170ක් විනාශ වෙයි... (04562e31)
+2026-02-11 21:48:41 | INFO     | core.base_scraper         | Scraped article: පාකිස්ථාන හමුදා ප්‍රධානියාට නව බලතල හිමි වෙයි... (e93ae993)
+2026-02-11 21:48:44 | INFO     | core.base_scraper         | Scraped article: එක්සත් ජාතීන්ගේ ආරක්ෂක මණ්ඩලයේ නිත්‍ය සාමාජික රටක්... (ecb1eba6)
+2026-02-11 21:48:44 | INFO     | core.base_scraper         | Scraping page 49: https://www.itnnews.lk/world/page/49/
+2026-02-11 21:48:47 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:48:47 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:48:47 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:48:47 | INFO     | core.base_scraper         | Found 9 articles on page 49
+2026-02-11 21:48:50 | INFO     | core.base_scraper         | Scraped article: ජපන් චිත්‍රපට චීනයේ තිරගත කිරීම තාවකාලිකව අත්හිටුව... (b4d64e85)
+2026-02-11 21:48:53 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරය සඳහා ට්‍රම්ප්ගේ සැලැස්මට ජගත් ආරක්ෂක මණ්... (97afbecc)
+2026-02-11 21:48:56 | INFO     | core.base_scraper         | Scraped article: චිලී ජනාධිපතිවරණයෙන් කිසිවෙකුට බහුතර බලයක් හිමිව න... (9c5a11f7)
+2026-02-11 21:48:59 | INFO     | core.base_scraper         | Scraped article: බ්ලූ අයිලන්ඩ්ස් වැසෙයි... (a201b166)
+2026-02-11 21:49:03 | INFO     | core.base_scraper         | Scraped article: ඉන්දීය වන්දනාකරුවන් පිරිසක් රැගත් බස් රථයක් අනතුරට... (6fe0d86d)
+2026-02-11 21:49:05 | INFO     | core.base_scraper         | Scraped article: ෂෙයික් හසීනාට මරණ දඬුවම... (6cf22f0c)
+2026-02-11 21:49:08 | INFO     | core.base_scraper         | Scraped article: අභ්‍යවකාශයට ගිය පළමු ක්ෂිරපායී සත්ත්වයින් නිරුපද්‍... (fe819605)
+2026-02-11 21:49:12 | INFO     | core.base_scraper         | Scraped article: ජපානයේ සංචාරය කිරීමෙන් වළකින ලෙස චීනයෙන් සිය පුරුව... (4188389b)
+2026-02-11 21:49:14 | INFO     | core.base_scraper         | Scraped article: කොංගෝවේ පතලක පාලමක් කඩා වැටී 32ක් ජීවිතක්ෂයට... (a027f8e4)
+2026-02-11 21:49:14 | INFO     | core.base_scraper         | Scraping page 50: https://www.itnnews.lk/world/page/50/
+2026-02-11 21:49:16 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:49:16 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:49:16 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:49:16 | INFO     | core.base_scraper         | Found 9 articles on page 50
+2026-02-11 21:49:20 | INFO     | core.base_scraper         | Scraped article: දිල්ලි ප්‍රහාරයට සැකපිට තවත් පුද්ගලයෙකු අත්අඩංගුවට... (363acde1)
+2026-02-11 21:49:23 | INFO     | core.base_scraper         | Scraped article: කොංගෝ රාජ්‍යය සහ කැරළිකරුවන් අතර සාමය සඳහා විශේෂ ව... (8aa9e9ab)
+2026-02-11 21:49:26 | INFO     | core.base_scraper         | Scraped article: නේටෝ සංවිධානයට අයත් රටවල් වෙත පහරදීමට අදහසක් නැහැ ... (2c3fa997)
+2026-02-11 21:49:29 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානයේ ගිනිකෙළි නිෂ්පාදන කර්මාන්ත ශාලාවක සිදු... (57d87a7d)
+2026-02-11 21:49:32 | INFO     | core.base_scraper         | Scraped article: ඉවසීමේ ජාත්‍යන්තර දිනය අදයි... (efebf11c)
+2026-02-11 21:49:36 | INFO     | core.base_scraper         | Scraped article: BBC මාධ්‍ය ආයතනයට නඩු පවරන්න ට්‍රම්ප් සැරසෙයි... (cf99c7b0)
+2026-02-11 21:49:39 | INFO     | core.base_scraper         | Scraped article: මෙක්සිකෝවේ දැඩි විරෝධතා... (3ddc63f5)
+2026-02-11 21:49:41 | INFO     | core.base_scraper         | Scraped article: ජාවා දූපතේ නායයාමකින් දෙදෙනෙකු ජීවිතක්ෂයට... (21ae54a8)
+2026-02-11 21:49:44 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ පාරිභෝගික ද්‍රව්‍ය රැසක තීරු බදු අඩු කිර... (dba1e1ec)
+2026-02-11 21:49:45 | INFO     | core.base_scraper         | Scraping page 51: https://www.itnnews.lk/world/page/51/
+2026-02-11 21:49:47 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:49:47 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:49:47 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:49:47 | INFO     | core.base_scraper         | Found 9 articles on page 51
+2026-02-11 21:49:50 | INFO     | core.base_scraper         | Scraped article: ක්ෂය රෝග මරණ අඩු වෙලා – ලෝක සෞඛ්‍ය සංවිධානයෙන් හෙළ... (ba0afb29)
+2026-02-11 21:49:53 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරය කලාප දෙකකට වෙන් කිරීමට ඇමෙරිකාවෙන් සැලසු... (94fefa7c)
+2026-02-11 21:49:57 | INFO     | core.base_scraper         | Scraped article: කාශ්මීරයේ පොලිස් ස්ථානයක පිපිරීමකින් 9 දෙනෙකු මියය... (1962bac1)
+2026-02-11 21:50:00 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ ජාවා දූපතේ නායයෑමක්... (42b668af)
+2026-02-11 21:50:03 | INFO     | core.base_scraper         | Scraped article: එක්සත් ජනපදයේ අධික මිලකට අලෙවි වූ නිල් දියමන්තිය... (85f96c92)
+2026-02-11 21:50:05 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ වෑන් රථ අනතුරකින් චීන සංචාරකයින් 05 ... (223e61ca)
+2026-02-11 21:50:08 | INFO     | core.base_scraper         | Scraped article: රුසියාවෙන් යුක්‍රේනයට ප්‍රහාරයක් – තිදෙනෙකු ජීවිතක... (200029ec)
+2026-02-11 21:50:11 | INFO     | core.base_scraper         | Scraped article: චීනයේ වසර 1500ක් පැරණි පන්සලක් ගින්නකින් විනාශ වෙය... (565119aa)
+2026-02-11 21:50:14 | INFO     | core.base_scraper         | Scraped article: BBC පුවත් සේවය ට්‍රම්ප්ගෙන් සමාව ඉල්ලයි... (f364edd1)
+2026-02-11 21:50:14 | INFO     | core.base_scraper         | Scraping page 52: https://www.itnnews.lk/world/page/52/
+2026-02-11 21:50:16 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:50:16 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:50:17 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:50:17 | INFO     | core.base_scraper         | Found 9 articles on page 52
+2026-02-11 21:50:20 | INFO     | core.base_scraper         | Scraped article: කර්ණාටක ප්‍රාන්තයේ රැකියාවල නියුතු කාන්තාවන්ට ඔසප්... (85e7a799)
+2026-02-11 21:50:24 | INFO     | core.base_scraper         | Scraped article: ටයිටැනික් නෞකාවේ මගියෙකු ළඟ තිබී සොයාගත් රන් ඔරලෝස... (c6c1323d)
+2026-02-11 21:50:26 | INFO     | core.base_scraper         | Scraped article: මනුෂ්‍යත්වයට එරෙහි අපරාධ සිදුකළ බවට එල්ලවන චෝදනා හ... (4ab2672c)
+2026-02-11 21:50:29 | INFO     | core.base_scraper         | Scraped article: ජපාන අගමැතිනියගේ වැරදි ප්‍රකාශය සම්බන්ධයෙන් දැඩි ව... (9a940a08)
+2026-02-11 21:50:34 | INFO     | core.base_scraper         | Scraped article: දකුණු කොරියාවේ ට්‍රක් රථ අනතුරක් – දෙදෙනෙකු ජීවිතක... (24030cca)
+2026-02-11 21:50:36 | INFO     | core.base_scraper         | Scraped article: "11-11" මිල දී ගැනීම් අනුව චීනයේ භාණ්ඩ බෙදාහැරීමේ ... (7f1bffd9)
+2026-02-11 21:50:38 | INFO     | core.base_scraper         | Scraped article: මිස­යිල නිෂ්පා­ද­න­යට ඊශ්‍රා­ය­ලය සහ ඉන්දි­යාව අතර... (9a8820d6)
+2026-02-11 21:50:42 | INFO     | core.base_scraper         | Scraped article: සයිප්‍රසයේ භූ කම්පනයක්... (64d97c7d)
+2026-02-11 21:50:44 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්තානයේ පවුල් 10 න් 9ක්ම කුසගින්නේ හෝ ණය බරි... (5434a664)
+2026-02-11 21:50:44 | INFO     | core.base_scraper         | Scraping page 53: https://www.itnnews.lk/world/page/53/
+2026-02-11 21:50:47 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:50:47 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:50:47 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:50:47 | INFO     | core.base_scraper         | Found 9 articles on page 53
+2026-02-11 21:50:50 | INFO     | core.base_scraper         | Scraped article: ෆන්ග්-වොං සුළි කුණාටුවෙන් තායිවානයට දැඩි බලපෑම්... (1963c0fc)
+2026-02-11 21:50:53 | INFO     | core.base_scraper         | Scraped article: Meta සමාගමේ ප්‍රධාන විද්‍යාඥයෙකු එම සමාගම හැර යාමට... (97b1537f)
+2026-02-11 21:50:56 | INFO     | core.base_scraper         | Scraped article: ඇපල් සමාගමෙන් iPhone Pocket නමින් නව හඳුන්වාදීමක්... (8affddae)
+2026-02-11 21:50:59 | INFO     | core.base_scraper         | Scraped article: තුර්කි ගුවන් හමුදාවේ ගුවන් යානයක් කඩා වැටෙයි... (628295c2)
+2026-02-11 21:51:03 | INFO     | core.base_scraper         | Scraped article: ඇමරිකාවේ රාජ්‍ය ආයතන අර්බුදය නිමවන ලකුණු... (9550d4be)
+2026-02-11 21:51:05 | INFO     | core.base_scraper         | Scraped article: නවදිල්ලි සිදුවූ පිපිරීම සම්බන්ධයෙන් වෛද්‍යවරුන් 3ක... (254415d8)
+2026-02-11 21:51:08 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගෙන් BBCයට තර්ජන... (d50d876b)
+2026-02-11 21:51:11 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානයේ බෝම්බ ප්‍රහාරයකින් 12ක් ජීවිතක්ෂයට – 2... (5f4d2f07)
+2026-02-11 21:51:14 | INFO     | core.base_scraper         | Scraped article: චීනයේ තායිවාන ප්‍රදේශය පිළිබඳ ජපන් අගමැතිවරි‍යගේ ව... (8139d63e)
+2026-02-11 21:51:14 | INFO     | core.base_scraper         | Scraping page 54: https://www.itnnews.lk/world/page/54/
+2026-02-11 21:51:17 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:51:17 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:51:17 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:51:17 | INFO     | core.base_scraper         | Found 9 articles on page 54
+2026-02-11 21:51:21 | INFO     | core.base_scraper         | Scraped article: දිල්ලියේ පිපිරීමෙන් මියගිය සංඛ්‍යාව ඉහළට... (d1852d30)
+2026-02-11 21:51:23 | INFO     | core.base_scraper         | Scraped article: දිල්ලියේ මෝටර් රථයක් තුළ පිපිරීමක් 8ක් ජීවිතක්ෂයට... (1d3b5838)
+2026-02-11 21:51:26 | INFO     | core.base_scraper         | Scraped article: ස්ලෝවැකියාවේ දුම්රිය දෙකක් එකිනෙක ගැටෙයි... (ffbd41a7)
+2026-02-11 21:51:30 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයට බලපෑ සුළි කුණාටුවෙන් දෙදෙනෙකු ජීවිතක්ෂයට... (200b2372)
+2026-02-11 21:51:32 | INFO     | core.base_scraper         | Scraped article: BBC ලෝක සේවයේ ප්‍රධානීන් දෙදෙනෙක් ඉල්ලා අස්වෙයි... (dada5092)
+2026-02-11 21:51:35 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයට අද දරුණු සුළි කුණාටුවකින් බලපෑම්... (8c5692d6)
+2026-02-11 21:51:38 | INFO     | core.base_scraper         | Scraped article: ජපානයට රික්ටර් මාපක 6.7ක ප්‍රභලත්වයෙන් යුත් භූ කම්... (8d94d321)
+2026-02-11 21:51:42 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ ගුවන් ගමන් 1400ක් අවලංගු කරයි... (5d5fba6b)
+2026-02-11 21:51:42 | INFO     | core.base_scraper         | Scraping page 55: https://www.itnnews.lk/world/page/55/
+2026-02-11 21:51:44 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:51:44 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:51:44 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:51:44 | INFO     | core.base_scraper         | Found 9 articles on page 55
+2026-02-11 21:51:47 | INFO     | core.base_scraper         | Scraped article: දකුණු බ්‍රසීලයට බලපෑ ටොනේඩෝවකින් 6ක් ජීවිතක්ෂයට – ... (a8a3930f)
+2026-02-11 21:51:50 | INFO     | core.base_scraper         | Scraped article: සමාජ මාධ්‍ය කිහිපයක් සඳහා අවම වයස් සීමාව අවුරුදු 1... (f6ae8f21)
+2026-02-11 21:51:53 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල අගමැතිට වරෙන්තු... (300364d6)
+2026-02-11 21:51:56 | INFO     | core.base_scraper         | Scraped article: හැකි ඉක්මනින් මාලි රාජ්‍යයෙන් ඉවත් වන්න – ප්‍රංශය ... (40f9c13e)
+2026-02-11 21:51:59 | INFO     | core.base_scraper         | Scraped article: ලොව විශාලතම මකුළු දැල සොයා ගැනේ... (62e35b09)
+2026-02-11 21:52:02 | INFO     | core.base_scraper         | Scraped article: ගුවන් ගමන් කප්පාදුව හේතුවෙන් ඇමෙරිකාවේ ගුවන් ගමන් ... (eccaa138)
+2026-02-11 21:52:05 | INFO     | core.base_scraper         | Scraped article: DNA ව්‍යුහය සොයා ගැනීමේ පුරෝගාමියෙකු වූ ජේම්ස් වොට... (603a0e38)
+2026-02-11 21:52:08 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයට බලපෑ "කල්මේගි" සුළි කුණාටුවෙන් මිය ගිය ස... (aa2469bf)
+2026-02-11 21:52:11 | INFO     | core.base_scraper         | Scraped article: රයිනාගේ සහ ධවාන්ගේ කෝටි 11ක වත්කම් රාජසන්තකයි... (d38c09e5)
+2026-02-11 21:52:11 | INFO     | core.base_scraper         | Scraping page 56: https://www.itnnews.lk/world/page/56/
+2026-02-11 21:52:13 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:52:13 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:52:13 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:52:13 | INFO     | core.base_scraper         | Found 9 articles on page 56
+2026-02-11 21:52:17 | INFO     | core.base_scraper         | Scraped article: එලෝන් මස්ක්ගේ ඩොලර් ට්‍රිලියනක වැටුප් පැකේජයට අනුම... (5091f4b4)
+2026-02-11 21:52:20 | INFO     | core.base_scraper         | Scraped article: කල්මේගි වියට්නාමයත් කළඹයි... (bf535ff9)
+2026-02-11 21:52:23 | INFO     | core.base_scraper         | Scraped article: සුළි කුණාටුවෙන් පිලිපීනයේ මියගිය සංඛ්‍යාව 114ක් දක... (002cc163)
+2026-02-11 21:52:26 | INFO     | core.base_scraper         | Scraped article: චීනයත් ඇමරිකාවේ භාණ්ඩ සඳහා තීරුබදු පැනවීම වසරකට අත... (c00b7f0b)
+2026-02-11 21:52:29 | INFO     | core.base_scraper         | Scraped article: 8වන චීන ජාත්‍යන්තර ආනයන ප්‍රදර්ශනය ආරම්භ වෙයි... (bc5bbf5a)
+2026-02-11 21:52:32 | INFO     | core.base_scraper         | Scraped article: නිව්යෝක් නුවර නගරාධිපති සටනේ ජය සොහොරාන් මම්දානිට... (3abc695a)
+2026-02-11 21:52:35 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයේ සුළි කුණාටුවෙන් 52කට දිවි අහිමි වෙයි... (37d8a48b)
+2026-02-11 21:52:38 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ ගුවන් යානයක් අනතුරට පත්වෙයි... (8ef37cd6)
+2026-02-11 21:52:38 | INFO     | core.base_scraper         | Scraping page 57: https://www.itnnews.lk/world/page/57/
+2026-02-11 21:52:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:52:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:52:40 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:52:40 | INFO     | core.base_scraper         | Found 9 articles on page 57
+2026-02-11 21:52:44 | INFO     | core.base_scraper         | Scraped article: කල්මයාගී පිලිපීනය කළඹයි – දෙදෙනෙකු ජීවිතක්ෂයට... (fbe238fd)
+2026-02-11 21:52:47 | INFO     | core.base_scraper         | Scraped article: රංගන ශිල්පිනී ඩයන් ලෑඩ් දිවිගමනට සමුදෙයි... (9beba44c)
+2026-02-11 21:52:50 | INFO     | core.base_scraper         | Scraped article: වැඩ වැරදුණු අනිල් අම්බානි... (9e08144d)
+2026-02-11 21:52:53 | INFO     | core.base_scraper         | Scraped article: අභ්‍යවකාශයේදී BBQ රස බැලූ චීන ගගනගාමීන්... (cd7fc9c5)
+2026-02-11 21:52:57 | INFO     | core.base_scraper         | Scraped article: 7 දෙනෙකුට මරු කැඳවූ නේපාල හිම කුණාටුව... (3ab73f94)
+2026-02-11 21:52:59 | INFO     | core.base_scraper         | Scraped article: චීන ජනපති සහ රුසියානු අගමැති අතර හමුවක්... (2dc7d8e3)
+2026-02-11 21:53:02 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලය පලස්තීන ජාතිකයන් 45 දෙනෙකුගේ සිරුරු රතු ... (0c50372f)
+2026-02-11 21:53:05 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව සමග න්‍යෂ්ටික සාකච්ඡා ආරම්භ කිරීමට හදිසි ... (b0ad3181)
+2026-02-11 21:53:08 | INFO     | core.base_scraper         | Scraped article: මෙක්සිකෝ නගරාධිපති කාලෝස් මැන්සෝ වෙඩි ප්‍රහාරයකින්... (5c29e5cc)
+2026-02-11 21:53:08 | INFO     | core.base_scraper         | Scraping page 58: https://www.itnnews.lk/world/page/58/
+2026-02-11 21:53:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:53:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:53:10 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:53:10 | INFO     | core.base_scraper         | Found 9 articles on page 58
+2026-02-11 21:53:14 | INFO     | core.base_scraper         | Scraped article: රුසියාවත් සෙළවෙයි... (6544babc)
+2026-02-11 21:53:17 | INFO     | core.base_scraper         | Scraped article: මාල­දි­ව­යින 18ට අඩු තරුණ පර­පු­රට දුම්බීම තහ­නම් ... (6a9df725)
+2026-02-11 21:53:20 | INFO     | core.base_scraper         | Scraped article: මීළඟ APEC නායක සමුළුව චීනයේ Shenzhen නගරයේ දී... (884d22d6)
+2026-02-11 21:53:23 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ බිහිසුණු අනතුරක් – 19ක් ජීවිතක්ෂයට... (50c5320a)
+2026-02-11 21:53:27 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්ථානයේ භූ කම්පනයක් – 07ක් ජීවිතක්ෂයට – 150ක... (988f5832)
+2026-02-11 21:53:30 | INFO     | core.base_scraper         | Scraped article: කැරිබියන් මුහුදේ තවත් යාත්‍රාවකට ඇමෙරිකාවෙන් ප්‍රහ... (f277e000)
+2026-02-11 21:53:33 | INFO     | core.base_scraper         | Scraped article: මෙක්සිකෝවේ වෙළඳසැලක ගින්නකින් 23ක් ජීවිතක්ෂයට... (ce5f6ec2)
+2026-02-11 21:53:36 | INFO     | core.base_scraper         | Scraped article: බ්‍රිතාන්‍යයේ සිදුවූ පිහි ඇනුමකින් පුද්ගලයින් 10කට... (e6cacf42)
+2026-02-11 21:53:38 | INFO     | core.base_scraper         | Scraped article: කෙන්යාවේ සිදුවූ නායයාමකින් 21 දෙනෙකු ජීවිතක්ෂයට... (1e51dddf)
+2026-02-11 21:53:39 | INFO     | core.base_scraper         | Scraping page 59: https://www.itnnews.lk/world/page/59/
+2026-02-11 21:53:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:53:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:53:41 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:53:41 | INFO     | core.base_scraper         | Found 9 articles on page 59
+2026-02-11 21:53:45 | INFO     | core.base_scraper         | Scraped article: චීනය සෙන්ජෝ 21 අභ්‍යවකාශ මෙහෙයුම දියත් කරයි... (46e6a9f8)
+2026-02-11 21:53:48 | INFO     | core.base_scraper         | Scraped article: ලොව විශාලතම පුරාවිද්‍යා කෞතුකාගාරය විවෘත කෙරේ... (2fd72625)
+2026-02-11 21:53:50 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව සහ ඉන්දියාව අතර ආරක්ෂක ගිවිසුමක්... (529306ac)
+2026-02-11 21:53:53 | INFO     | core.base_scraper         | Scraped article: මෙලිසා සුළි කුණාටුවෙන් ජැමෙයිකාවට දැඩි බලපෑම්... (855c594a)
+2026-02-11 21:53:56 | INFO     | core.base_scraper         | Scraped article: ඉන්දීය සාගරයේ භූ කම්පනයක්... (edc58fa7)
+2026-02-11 21:53:59 | INFO     | core.base_scraper         | Scraped article: මුම්බායි නුවර රංගන පාසලක් තුළ රඳවාගෙන සිටි ළමයින් ... (f1dc1d1a)
+2026-02-11 21:54:03 | INFO     | core.base_scraper         | Scraped article: සග්‍රඩා ෆැමිලියා' ලොව උසම පල්ලිය වෙයි... (9fafd8ed)
+2026-02-11 21:54:05 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියාවේ හිටපු දේශපාලනඥයෙකුට වසර 5ක සිර දඩුව... (33006482)
+2026-02-11 21:54:08 | INFO     | core.base_scraper         | Scraped article: ඇන්ඩෘ කුමරු බ්‍රිතාන්‍ය රජ පවුලෙන් ඉවතට... (27e3fced)
+2026-02-11 21:54:08 | INFO     | core.base_scraper         | Scraping page 60: https://www.itnnews.lk/world/page/60/
+2026-02-11 21:54:11 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:54:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:54:11 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:54:11 | INFO     | core.base_scraper         | Found 9 articles on page 60
+2026-02-11 21:54:15 | INFO     | core.base_scraper         | Scraped article: චීන – ඇමරිකා ජනපතිවරුන්ගේ හමුවීමෙන් පසු තවත් වසරකට... (393772e7)
+2026-02-11 21:54:17 | INFO     | core.base_scraper         | Scraped article: චීනයේ Shenzhou-21 අභ්‍යාවකාශ යානය හෙට උඩු ගුවනට... (7ced7465)
+2026-02-11 21:54:20 | INFO     | core.base_scraper         | Scraped article: චීන – ඇමරිකා සබඳතාවන්හි විධිමත් හා සුමට ගමනක් වෙනු... (0b842237)
+2026-02-11 21:54:23 | INFO     | core.base_scraper         | Scraped article: 'මෙලිසා' සුළි කුණාටුව කැරිබියන් දූපත් රැසක ජනතාව ප... (c85814c1)
+2026-02-11 21:54:25 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් සහ චීන ජනපති හමුව අද... (11d5e14f)
+2026-02-11 21:54:29 | INFO     | core.base_scraper         | Scraped article: චීන – අමෙරිකා ජනපතිවරුන් අතර හමුව අද... (1644e97f)
+2026-02-11 21:54:33 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරයට එල්ල වූ ඊශ්‍රායල ප්‍රහාරවලින් මිය ගිය ස... (aaecd142)
+2026-02-11 21:54:35 | INFO     | core.base_scraper         | Scraped article: මෙලිසා සුළි කුණාටුව කියුබාවට කඩා වදී... (a4f27f74)
+2026-02-11 21:54:38 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය ප්‍රවාහනය කරන බෝට්ටු කිහිපයකට ඇමෙරිකාව... (b0b29f7c)
+2026-02-11 21:54:38 | INFO     | core.base_scraper         | Scraping page 61: https://www.itnnews.lk/world/page/61/
+2026-02-11 21:54:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:54:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:54:41 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:54:41 | INFO     | core.base_scraper         | Found 9 articles on page 61
+2026-02-11 21:54:44 | INFO     | core.base_scraper         | Scraped article: දකුණු කොරියා ජනපති හමුවීමට ට්‍රම්ප් සූදානමින්... (efcb96c6)
+2026-02-11 21:54:47 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල ප්‍රහාරවලින් ගසාවේ පුද්ගලයන් 30ක් ජීවිතක්... (b4d554f2)
+2026-02-11 21:54:50 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාව ආසන්නයේ ප්‍රබල භූ කම්පනයක්... (80f1daa4)
+2026-02-11 21:54:53 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානයේ ලාහෝර් අගනුවර වායු දූෂණය ඉහළට... (b5f5a88f)
+2026-02-11 21:54:56 | INFO     | core.base_scraper         | Scraped article: 8 වන වරටත් ජනාධිපතිවරයා බවට පත්වූ ලොව වයස්ගතම රාජ්... (65273797)
+2026-02-11 21:54:59 | INFO     | core.base_scraper         | Scraped article: 8 වන චීන ජාත්‍යන්තර ආනයන ප්‍රදර්ශනය එළඹෙන 5වැනිදා ... (f67e730b)
+2026-02-11 21:55:02 | INFO     | core.base_scraper         | Scraped article: මොන්තා සන්ධ්‍යාවේදී ඉන්දියාවට... (cc89dac3)
+2026-02-11 21:55:05 | INFO     | core.base_scraper         | Scraped article: මෙලීසා ජැමෙයිකාව දෙසට... (775b31bc)
+2026-02-11 21:55:08 | INFO     | core.base_scraper         | Scraped article: රුසියාව අතිනවීන මිසයිලයක් අත්හදා බලයි... (d0ec45f7)
+2026-02-11 21:55:08 | INFO     | core.base_scraper         | Scraping page 62: https://www.itnnews.lk/world/page/62/
+2026-02-11 21:55:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:55:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:55:10 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:55:10 | INFO     | core.base_scraper         | Found 9 articles on page 62
+2026-02-11 21:55:14 | INFO     | core.base_scraper         | Scraped article: රුසියාවේ මොස්කව් නගරයේ ගුවන් ගුවන්තොටුපොල දෙකක් වහ... (c9966341)
+2026-02-11 21:55:18 | INFO     | core.base_scraper         | Scraped article: ටාල් සක්‍රිය වෙයි... (0c64d992)
+2026-02-11 21:55:20 | INFO     | core.base_scraper         | Scraped article: වසර පහකට පසු ඉන්දියාවේ කොල්කටා සිට චීනයේ ගුවැන්ෂු ... (6bae8832)
+2026-02-11 21:55:23 | INFO     | core.base_scraper         | Scraped article: අයර්ලන්ත ජනාධිපතිවරණයෙන් කැතරින් කොනෝලිට විශිෂ්ට ජ... (87be8a74)
+2026-02-11 21:55:26 | INFO     | core.base_scraper         | Scraped article: කැනඩාවට පනවා ඇති තීරුබදු යළි ඉහළ දමන බව ට්‍රම්ප් ක... (7f2f14cd)
+2026-02-11 21:55:29 | INFO     | core.base_scraper         | Scraped article: 2028 ජනාධිපතිවරණයට ඉදිරිපත් වන බව කමලා හැරිස් කියය... (7363d7e2)
+2026-02-11 21:55:32 | INFO     | core.base_scraper         | Scraped article: කැනඩාවෙන් ගෙන්වන භාණ්ඩවලට අමතර බද්දක් පනවන්න ජනපති... (9065b2f2)
+2026-02-11 21:55:35 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකා හමුදාවේ වැටුප් ගෙවීමට ඩොලර් මිලියන 130ක්... (68051ed2)
+2026-02-11 21:55:38 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ මහාරාෂ්ට්‍ර ප්‍රාන්තයේ භූ කම්පනයක්... (5699512e)
+2026-02-11 21:55:38 | INFO     | core.base_scraper         | Scraping page 63: https://www.itnnews.lk/world/page/63/
+2026-02-11 21:55:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:55:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:55:40 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:55:40 | INFO     | core.base_scraper         | Found 9 articles on page 63
+2026-02-11 21:55:44 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් මැලේසියාවට... (545f3c33)
+2026-02-11 21:55:49 | INFO     | core.base_scraper         | Scraped article: උතුරු කොරියා නායකයා හමුවෙන්න ට්‍රම්ප් සූදානම්... (651f40ef)
+2026-02-11 21:55:51 | INFO     | core.base_scraper         | Scraped article: තායිවාන ප්‍රදේශය චීනයට යළි එක්වීමේ 80 වැනි සංවත්සර... (92f1444c)
+2026-02-11 21:55:53 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකානුවන්ගේ ණය පැහැර හැරීම් ඉහළට... (772fb711)
+2026-02-11 21:55:59 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව ලොව විශාලතම යුද නෞකාව කැරිබියන් දූපත් දෙස... (6d72b0bb)
+2026-02-11 21:56:03 | INFO     | core.base_scraper         | Scraped article: තායිලන්තයේ මව් රැජින ජීවිතක්ෂයට... (af99b3ab)
+2026-02-11 21:56:08 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරයේ කුසගිනි අර්බුදය වැඩි වෙයි... (07471b33)
+2026-02-11 21:56:11 | INFO     | core.base_scraper         | Scraped article: ඇලස්කා ගුවන් සේවයේ සියලුම ගුවන් ගමන් තාවකාලිකව අවල... (857bd43f)
+2026-02-11 21:56:14 | INFO     | core.base_scraper         | Scraped article: කැනඩාව ගැන ට්‍රම්ප් ගත් තීරණය... (1e4a6f67)
+2026-02-11 21:56:14 | INFO     | core.base_scraper         | Scraping page 64: https://www.itnnews.lk/world/page/64/
+2026-02-11 21:56:16 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:56:16 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:56:16 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:56:16 | INFO     | core.base_scraper         | Found 9 articles on page 64
+2026-02-11 21:56:19 | INFO     | core.base_scraper         | Scraped article: අපේ සංවර්ධන දැක්ම තිරසාරත්වය සහ මානව ගරුත්වය මුල් ... (0757c7aa)
+2026-02-11 21:56:21 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ බස් රථයක ගින්නක් – 20 කට වැඩි පිරිසක් මර... (a35c39de)
+2026-02-11 21:56:24 | INFO     | core.base_scraper         | Scraped article: හිමෙන් වැසුණු ජපානයේ ෆුජි කන්ද... (6cc56ee4)
+2026-02-11 21:56:27 | INFO     | core.base_scraper         | Scraped article: 15 හැවිරිදි සිසුවෙකුට ජීවිතාන්තය දක්වා සිර දඬුවමක්... (7a748051)
+2026-02-11 21:56:29 | INFO     | core.base_scraper         | Scraped article: රුසියාවේ කම්හලක පිපිරීමක් – 12ක් ජීවිතක්ෂයට... (2278b97b)
+2026-02-11 21:56:33 | INFO     | core.base_scraper         | Scraped article: චීනයේ 15 වන පස් අවුරුදු සැලැස්ම පිළිබඳ අනාවරණයක්... (90384c0e)
+2026-02-11 21:56:37 | INFO     | core.base_scraper         | Scraped article: යුක්‍රේනයට ප්‍රහාරක ජෙට් යානා 150ක් අලෙවි කිරීමට ස... (05b3c0f3)
+2026-02-11 21:56:37 | INFO     | core.base_scraper         | Scraping page 65: https://www.itnnews.lk/world/page/65/
+2026-02-11 21:56:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:56:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:56:39 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:56:39 | INFO     | core.base_scraper         | Found 9 articles on page 65
+2026-02-11 21:56:42 | INFO     | core.base_scraper         | Scraped article: ත්‍රස්තවාදයට එරෙහි වගකීම් නිසි ලෙස ඉටු කරන්නැයි චී... (3dd9e50f)
+2026-02-11 21:56:45 | INFO     | core.base_scraper         | Scraped article: ව්‍යාජ ගිණුම් භාවිතා කර ආහාර ඇණවුම් කළ ජපානයේ පුද්... (233011d6)
+2026-02-11 21:56:48 | INFO     | core.base_scraper         | Scraped article: රුසියාවේ තෙල් සමාගම් දෙකකට අමෙරිකාවෙන් සම්බාධක... (ae62aadc)
+2026-02-11 21:56:51 | INFO     | core.base_scraper         | Scraped article: තද සුළං හේතුවෙන් නවසීලන්තයට දැඩි බලපෑම්... (0264f062)
+2026-02-11 21:56:53 | INFO     | core.base_scraper         | Scraped article: අරාබි මුහුදේ දී ඩොලර් බිලියනයකට ආසන්න මත්ද්‍රව්‍ය ... (8f39ec69)
+2026-02-11 21:56:56 | INFO     | core.base_scraper         | Scraped article: උගන්ඩාවේ වාහන කිහිපයක් ගැටීමෙන් 60 කට වැඩි පිරිසක්... (d9649337)
+2026-02-11 21:56:58 | INFO     | core.base_scraper         | Scraped article: රුසියානු රසායනික කම්හලකට යුක්රේනයෙන් මිසයිල ප්‍රහා... (f67533f9)
+2026-02-11 21:57:01 | INFO     | core.base_scraper         | Scraped article: රුසියාවෙන් යුක්‍රේනයට දැවැන්ත ප්‍රහාරයක්... (68d3f62a)
+2026-02-11 21:57:03 | INFO     | core.base_scraper         | Scraped article: දිවි ගමනට සමුදුන් ඉන්දීය විකට රංගන ශිල්පියා... (4a1cb49b)
+2026-02-11 21:57:03 | INFO     | core.base_scraper         | Scraping page 66: https://www.itnnews.lk/world/page/66/
+2026-02-11 21:57:05 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:57:05 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:57:05 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:57:05 | INFO     | core.base_scraper         | Found 9 articles on page 66
+2026-02-11 21:57:08 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් කොලොම්බියාවේ තීරු බදු ඉහළ නංවයි... (1677fc2a)
+2026-02-11 21:57:12 | INFO     | core.base_scraper         | Scraped article: බොලිවියාවේ ජනාධිපති ධුරය රොද්‍රිගෝ පාස්ට... (843e540c)
+2026-02-11 21:57:14 | INFO     | core.base_scraper         | Scraped article: ප්‍රංශයේ ටොනේඩෝවකින් දිස්ත්‍රික්ක 10 කට හානි – පුද... (efa97843)
+2026-02-11 21:57:18 | INFO     | core.base_scraper         | Scraped article: ජපානයේ භාරකාරත්වය පළමු වරට කාන්තාවකට... (c39a8a97)
+2026-02-11 21:57:21 | INFO     | core.base_scraper         | Scraped article: චීනය සුළං බලශක්ති විදුලි උත්පාදනයෙන් ලොව පෙරමුණට... (601e90f5)
+2026-02-11 21:57:23 | INFO     | core.base_scraper         | Scraped article: දීපාවලි සැමරුම් හේතුවෙන් දිල්ලි වායු දූෂණය ඉහළට... (2ed895be)
+2026-02-11 21:57:26 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානයේත් ඩෙංගු වැඩි වෙයි... (3f03c6ed)
+2026-02-11 21:57:26 | INFO     | core.base_scraper         | Scraping page 67: https://www.itnnews.lk/world/page/67/
+2026-02-11 21:57:29 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:57:29 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:57:29 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:57:29 | INFO     | core.base_scraper         | Found 9 articles on page 67
+2026-02-11 21:57:33 | INFO     | core.base_scraper         | Scraped article: ලොව පුරා අන්තර්ජාල සේවා රැසක් අක්‍රීය වෙයි... (2d3441de)
+2026-02-11 21:57:36 | INFO     | core.base_scraper         | Scraped article: ලොවට අනාවරණය කළ ලූවර් කෞතුකාගාරයෙන් සොරකම් කළ මිල ... (e13f0519)
+2026-02-11 21:57:38 | INFO     | core.base_scraper         | Scraped article: බංග්ලාදේශ ගුවන්තොටුපළේ සැපයුම් අංශයේ සිදුවූ ගින්නක... (dc79fdc2)
+2026-02-11 21:57:42 | INFO     | core.base_scraper         | Scraped article: ජපා­නයේ හිටපු අග­මැති මුරෙ­යාමා ජීවිතක්ෂයට... (6c046871)
+2026-02-11 21:57:44 | INFO     | core.base_scraper         | Scraped article: චීනයේ දළ දේශීය නිෂ්පාදිතය යුවාන් ට්‍රිලියන 100ය ඉක... (33a8ca43)
+2026-02-11 21:57:47 | INFO     | core.base_scraper         | Scraped article: දීපාවලි උත්සවය වෙනුවෙන් ඉන්දියාව පහන් ලක්ෂ 26ක් දල... (19bcc73f)
+2026-02-11 21:57:50 | INFO     | core.base_scraper         | Scraped article: හොංකොං හි භාණ්ඩ ප්‍රවාහන ගුවන්යානයක් මුහුදට කඩා වැ... (e7fe893c)
+2026-02-11 21:57:53 | INFO     | core.base_scraper         | Scraped article: මොරොක්කෝවේ රජයට එරෙහිව තරුණ කණ්ඩායම් වීදි බසී... (248154cb)
+2026-02-11 21:57:54 | INFO     | core.base_scraper         | Scraping page 68: https://www.itnnews.lk/world/page/68/
+2026-02-11 21:57:56 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:57:56 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:57:56 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:57:56 | INFO     | core.base_scraper         | Found 9 articles on page 68
+2026-02-11 21:57:59 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ට විරෝධය පළකරමින් ඇමෙරිකාව පුරා විරෝධතා... (ef5d3649)
+2026-02-11 21:58:02 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්තානය සහ පාකිස්තානය සටන් විරාමයකට එකඟ වෙයි... (7fd4c758)
+2026-02-11 21:58:04 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව සහ චීනය නව වෙළෙඳ සාකච්ඡා සඳහා එකඟවෙයි... (6c2ec604)
+2026-02-11 21:58:08 | INFO     | core.base_scraper         | Scraped article: පාකිස්ථානයේ හමුදා කඳවුරකට මරාගෙන මැරෙන ප්‍රහාරයක්... (ab8664db)
+2026-02-11 21:58:11 | INFO     | core.base_scraper         | Scraped article: බ්‍රිතාන්‍යයේ ඇන්ඩෲ කුමරු යෝර්ක් ආදිපාද පදවිය අතහර... (1f558fff)
+2026-02-11 21:58:14 | INFO     | core.base_scraper         | Scraped article: පෘතුගාලයේ පොදු ස්ථානවල බුර්කාව හා නිකාබ් භාවිතය තහ... (ef77a19b)
+2026-02-11 21:58:17 | INFO     | core.base_scraper         | Scraped article: යුක්‍රේන ජනපති ඇමෙරිකා ජනපති හමුවෙයි... (c6f1162b)
+2026-02-11 21:58:21 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානය එල්ල කළ ප්‍රහාරයකින් ඇෆ්ගන් ක්‍රිකට් ක්... (317492ce)
+2026-02-11 21:58:23 | INFO     | core.base_scraper         | Scraped article: ෂෙයික් හසීනාට මරණ දඬුවම ලබාදිය යුතු බව ඇයට විරුද්ධ... (b610c30e)
+2026-02-11 21:58:23 | INFO     | core.base_scraper         | Scraping page 69: https://www.itnnews.lk/world/page/69/
+2026-02-11 21:58:26 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:58:26 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:58:26 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:58:26 | INFO     | core.base_scraper         | Found 9 articles on page 69
+2026-02-11 21:58:30 | INFO     | core.base_scraper         | Scraped article: එවරස්ට් තරණය කළ පළමු ගවේෂණ කණ්ඩායමේ අවසන් සාමාජිකය... (dc4e267b)
+2026-02-11 21:58:33 | INFO     | core.base_scraper         | Scraped article: ඒස් ෆ්‍රෙලි ජීවිතක්ෂයට... (2e9fed64)
+2026-02-11 21:58:36 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයේ භූකම්පනයක්... (c036ee1b)
+2026-02-11 21:58:38 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් – පුටින් හමුවක් හංගේරියාවේදී... (9030ac51)
+2026-02-11 21:58:41 | INFO     | core.base_scraper         | Scraped article: සියවසේ දික්කසාදය... (17069a0f)
+2026-02-11 21:58:44 | INFO     | core.base_scraper         | Scraped article: සටන් විරාමය නොතකා ඊශ්‍රායලයෙන් ගාසාවට ප්‍රහාර... (a8a351fe)
+2026-02-11 21:58:48 | INFO     | core.base_scraper         | Scraped article: 138 වන කැන්ටන් වෙළඳ ප්‍රදර්ශනය ඇරඹේ... (3ce6e0bb)
+2026-02-11 21:58:51 | INFO     | core.base_scraper         | Scraped article: රුසියානු තෙල් මිලදී ගැනීම නැවැත්වීමට මෝදි එකඟ වූ බ... (13eb6fe6)
+2026-02-11 21:58:53 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානය සහ ඇෆ්ගනිස්තානය සටන් විරාමයකට එකඟ වෙයි... (b47e499b)
+2026-02-11 21:58:54 | INFO     | core.base_scraper         | Scraping page 70: https://www.itnnews.lk/world/page/70/
+2026-02-11 21:58:55 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:58:55 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:58:55 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:58:55 | INFO     | core.base_scraper         | Found 9 articles on page 70
+2026-02-11 21:58:59 | INFO     | core.base_scraper         | Scraped article: කෙන්යාවේ හිටපු අගමැති ජීවිතක්ෂයට... (3f0f27ac)
+2026-02-11 21:59:02 | INFO     | core.base_scraper         | Scraped article: විදේශිකයන් 6 දෙනෙකුගේ වීසා අවලංගු කිරීමට ට්‍රම්ප් ... (afe5515f)
+2026-02-11 21:59:05 | INFO     | core.base_scraper         | Scraped article: හමාස් සංවිධානය නිරායුධ විය යුතු බව ට්‍රම්ප් පවසයි... (7c2d230a)
+2026-02-11 21:59:08 | INFO     | core.base_scraper         | Scraped article: මැඩගස්කර හමුදාව එරට පාලන බලය අත්පත්කර ගනී... (29ed69c3)
+2026-02-11 21:59:11 | INFO     | core.base_scraper         | Scraped article: බංග්ලාදේශයේ ගින්නකින් 16 දෙනෙකු මියයයි... (9627cea0)
+2026-02-11 21:59:15 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ ගුවන්යානයක් කඩා වැටෙයි – දෙදෙනෙකු ජීවිතක... (118c0bf4)
+2026-02-11 21:59:17 | INFO     | core.base_scraper         | Scraped article: BYD සමාගම සුපිරි Tesla අභිබවා යයි... (d71ab7f9)
+2026-02-11 21:59:20 | INFO     | core.base_scraper         | Scraped article: ඉන්ෆ්ලුවෙන්සා නිසා වසා දැමුණු මැලේසියාවේ පාසල්... (1188ddd5)
+2026-02-11 21:59:23 | INFO     | core.base_scraper         | Scraped article: මැදපෙරදිග කලාපයේ සාමය වෙනුවෙන් ට්‍රම්ප් ලෝක නායකයි... (de4a4b21)
+2026-02-11 21:59:23 | INFO     | core.base_scraper         | Scraping page 71: https://www.itnnews.lk/world/page/71/
+2026-02-11 21:59:28 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:59:28 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:59:28 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:59:28 | INFO     | core.base_scraper         | Found 9 articles on page 71
+2026-02-11 21:59:31 | INFO     | core.base_scraper         | Scraped article: ගාසා සටන් විරාමය ඵල දරයි – හමාස් භාරයේ සිටි ඊශ්‍රා... (5e76e743)
+2026-02-11 21:59:33 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ ටෙනසි ප්‍රාන්තයේ පිපිරීමකින් 18ක් අතුරුද... (bc03b40a)
+2026-02-11 21:59:35 | INFO     | core.base_scraper         | Scraped article: ගාසා සටන් විරාමය ඵල දරයි – පළමු ප්‍රාණ ඇපකරුවන් 07... (8ad0dd9f)
+2026-02-11 21:59:38 | INFO     | core.base_scraper         | Scraped article: කාන්තාවන්ගේ අයිතිවාසිකම් තවදුරටත් සහතික කිරීමේ අවශ... (31bc7c0d)
+2026-02-11 21:59:41 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල – පලස්තීන යුද්ධය අවසන් බව ඩොනල්ඩ් ට්‍රම්ප... (2bfd949f)
+2026-02-11 21:59:44 | INFO     | core.base_scraper         | Scraped article: චීනයේ "ධාන්‍ය ගබඩාව" ලෙස හැඳින්වෙන Heilongjiang පළ... (bd818040)
+2026-02-11 21:59:47 | INFO     | core.base_scraper         | Scraped article: ඇමරිකාවේ තීරුබදු ඉහළ දැමීමට චීනයෙන් ප්‍රතිචාර... (af781117)
+2026-02-11 21:59:50 | INFO     | core.base_scraper         | Scraped article: ගිනිකොන දිග චීනයේ Fujian පළාත ධීවර කර්මාන්තයෙන් සා... (92aa1244)
+2026-02-11 21:59:53 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානයේ විරෝධතාවකට එල්ල කළ වෙඩි ප්‍රහාරයකින් 1... (586f9ddf)
+2026-02-11 21:59:53 | INFO     | core.base_scraper         | Scraping page 72: https://www.itnnews.lk/world/page/72/
+2026-02-11 21:59:55 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 21:59:55 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 21:59:56 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 21:59:56 | INFO     | core.base_scraper         | Found 9 articles on page 72
+2026-02-11 21:59:59 | INFO     | core.base_scraper         | Scraped article: මානුෂීය ආධාර රැගත් ට්‍රක් රථ ගාසා තීරයට ඇතුළු වෙයි... (b72ffcc7)
+2026-02-11 22:00:02 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ ආරක්ෂක අංශ සාමාජිකයින්ට අඛණ්ඩව ගෙවීම් සි... (3afa6f9f)
+2026-02-11 22:00:05 | INFO     | core.base_scraper         | Scraped article: දකුණු කැලිෆෝනියාවේ හෙලිකොප්ටර් අනතුරක් – 5කට තුවාල... (b3b84111)
+2026-02-11 22:00:08 | INFO     | core.base_scraper         | Scraped article: තායිවානය නව ගුවන් ආරක්ෂක පද්ධතියක් ස්ථාපිත කිරීමට ... (820f11b9)
+2026-02-11 22:00:11 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්ථාන විදේශ ඇමති ඉන්දියාවේ සංචාරයක... (63780552)
+2026-02-11 22:00:15 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ යුධෝපකරණ කම්හලක පිපිරීමක්... (d96e07f5)
+2026-02-11 22:00:18 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගෙන් චීනයට 100%ක තීරු බද්දක්... (033f45c9)
+2026-02-11 22:00:20 | INFO     | core.base_scraper         | Scraped article: 2025 නොබෙල් ත්‍යාගයට උරුමකම් කී වෙනිසියුලා සමාජ ක්... (4e05c82b)
+2026-02-11 22:00:23 | INFO     | core.base_scraper         | Scraped article: මැඩගස්කර ජනපතිට ඉවත්වන්නැයි බලකරමින් විරෝධතා... (e46c1710)
+2026-02-11 22:00:23 | INFO     | core.base_scraper         | Scraping page 73: https://www.itnnews.lk/world/page/73/
+2026-02-11 22:00:26 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:00:26 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:00:26 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:00:26 | INFO     | core.base_scraper         | Found 9 articles on page 73
+2026-02-11 22:00:29 | INFO     | core.base_scraper         | Scraped article: ඉන්දියානු කැස්ස පැණිය භාවිතා කර මිය ගිය දරුවන් සංඛ... (d24b1053)
+2026-02-11 22:00:32 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ට ඊශ්‍රායල පාර්ලිමේන්තුව ඇමතීමට ආරාධනාවක්... (23750c11)
+2026-02-11 22:00:35 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගේ සාම යෝජනාවලිය ඊශ්‍රායලය අනුමත කරයි... (5617e758)
+2026-02-11 22:00:38 | INFO     | core.base_scraper         | Scraped article: පිලිපීන මුහුදේ භූ කම්පනයක් – සුනාමි අනතුරු ඇඟවීම් ... (f55ae688)
+2026-02-11 22:00:41 | INFO     | core.base_scraper         | Scraped article: සාහිත්‍ය සඳහාවන නොබෙල් ත්‍යාගය ලාස්ලෝ ක්‍රස්නාහෝර්... (2a5a54a5)
+2026-02-11 22:00:44 | INFO     | core.base_scraper         | Scraped article: රුසියාව විසින් යුක්‍රේනයට එල්ල කළ ප්‍රහාරවලින් 5ක්... (c8da2b9e)
+2026-02-11 22:00:47 | INFO     | core.base_scraper         | Scraped article: ඉන්දීය ජනප්‍රිය ගායන ශිල්පී රාජ්වීර් ජවන්දා ජීවිතක... (5c98d03a)
+2026-02-11 22:00:48 | INFO     | core.base_scraper         | Scraping page 74: https://www.itnnews.lk/world/page/74/
+2026-02-11 22:00:49 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:00:49 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:00:49 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:00:49 | INFO     | core.base_scraper         | Found 9 articles on page 74
+2026-02-11 22:00:53 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලය සහ හමාස් සාම සැලසුමේ පළමු අදියරට එකඟ වූ ... (1241859e)
+2026-02-11 22:00:56 | INFO     | core.base_scraper         | Scraped article: කැලි­ෆෝ­නියාවේ අධිවේගී මාර්ගයකට හෙලි­කො­ප්ට­ර­යක් ... (d00ae657)
+2026-02-11 22:00:59 | INFO     | core.base_scraper         | Scraped article: ඉක්වදෝර ජනාධිපතිවරයා ඝාතනය කිරීමේ තැතක් පිළිබඳ සැක... (dff65284)
+2026-02-11 22:01:02 | INFO     | core.base_scraper         | Scraped article: රන් අවුන්සයක මිල වාර්තාගත ලෙස ඉහළ යයි... (c5d8ae1e)
+2026-02-11 22:01:05 | INFO     | core.base_scraper         | Scraped article: පුනර්ජනනීය බලශක්තිය ලොව විශාලතම විදුලි උත්පාදන ක්‍... (f48f353d)
+2026-02-11 22:01:08 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ බස් රථයක් නායයාමකට හසුවෙයි – 18 දෙනෙකු ජ... (67111e4f)
+2026-02-11 22:01:11 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ අයහපත් කාලගුණයෙන් ජීවිතක්ෂයට පත් වූ පිරිස ... (718e9142)
+2026-02-11 22:01:14 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ රජයේ ආයතන වසා දැමීම තවදුරටත් ක්‍රියාත්මක... (4e1f23b9)
+2026-02-11 22:01:17 | INFO     | core.base_scraper         | Scraped article: පැපුවා නිව්ගිනියාවට රිච්ටර් මාපක 6.8 භූ කම්පනයක්... (05a1b87f)
+2026-02-11 22:01:17 | INFO     | core.base_scraper         | Scraping page 75: https://www.itnnews.lk/world/page/75/
+2026-02-11 22:01:19 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:01:19 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:01:19 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:01:19 | INFO     | core.base_scraper         | Found 9 articles on page 75
+2026-02-11 22:01:23 | INFO     | core.base_scraper         | Scraped article: අයහපත් කාලගුණයෙන් නේපා­ලයේ 49 දෙනකු ජීවි­ත­ක්ෂ­යට... (5fe39cc2)
+2026-02-11 22:01:26 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරය ගැන ට්‍රම්ප්ගේ බලාපොරොත්තුව... (0877f5c9)
+2026-02-11 22:01:29 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ රෝහලක ගින්නකින් 6 දෙනෙකු ජීවිතක්ෂයට... (55b51b6d)
+2026-02-11 22:01:32 | INFO     | core.base_scraper         | Scraped article: එංගලන්තයේ මුස්ලිම් පල්ලියකට ගිනි තබයි... (3b175bf1)
+2026-02-11 22:01:35 | INFO     | core.base_scraper         | Scraped article: 2025 වෛද්‍ය විද්‍යාව පිළිබඳ නොබෙල් ත්‍යාගයට විද්‍ය... (14c47efd)
+2026-02-11 22:01:38 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ රෝහලක හටගත් ගින්නකින් 8දෙනෙකු ජීවිතක්ෂයට... (172beca9)
+2026-02-11 22:01:41 | INFO     | core.base_scraper         | Scraped article: එවරස්ට් කන්දේ හිම කුණාටුවක් – කන්ද තරනය කළ 1000ක් ... (f6335a5e)
+2026-02-11 22:01:41 | INFO     | core.base_scraper         | Scraping page 76: https://www.itnnews.lk/world/page/76/
+2026-02-11 22:01:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:01:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:01:43 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:01:43 | INFO     | core.base_scraper         | Found 9 articles on page 76
+2026-02-11 22:01:47 | INFO     | core.base_scraper         | Scraped article: සිඩ්නි නගරයේ වෙඩි තැබීමක් – 20කට තුවාල... (b955dec9)
+2026-02-11 22:01:50 | INFO     | core.base_scraper         | Scraped article: ඉතාලියේ විරෝධතා අද (05) සිව්වන දිනටත්... (d0ca43c8)
+2026-02-11 22:01:53 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ට මෝදිගෙන් ප්‍රසංශා... (73e372a9)
+2026-02-11 22:01:56 | INFO     | core.base_scraper         | Scraped article: AI කැමරා 60,000ක් රට පුරා සවි කිරීමට හොංකොං රජයෙන්... (2645b67e)
+2026-02-11 22:01:59 | INFO     | core.base_scraper         | Scraped article: ජපානයේ පාලක පක්ෂයේ නායිකාව ලෙස සනායි ටකායිචි තේරීප... (a81e715b)
+2026-02-11 22:02:02 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ හිටපු රැප් ගායකයෙකුට මාස 50ක සිර දඬුවමක්... (fb597deb)
+2026-02-11 22:02:05 | INFO     | core.base_scraper         | Scraped article: ටියුනීසියා ජනපතිට ෆේස්බුක් හරහා අපහාස කළ පුද්ගලයෙක... (7ed0145c)
+2026-02-11 22:02:08 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගේ අවසන් නිවේදනයෙන් කොටසක් හමාස් සංවිධානය ... (5ec8d336)
+2026-02-11 22:02:11 | INFO     | core.base_scraper         | Scraped article: ඉතිහාසයේ පළමුවරට කැන්ටබරියේ අගරදගුරු තනතුර කාන්තාව... (8ed29f58)
+2026-02-11 22:02:11 | INFO     | core.base_scraper         | Scraping page 77: https://www.itnnews.lk/world/page/77/
+2026-02-11 22:02:13 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:02:13 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:02:13 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:02:13 | INFO     | core.base_scraper         | Found 9 articles on page 77
+2026-02-11 22:02:17 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගෙන් හමාස් සංවිධානයට අවසාන නිවේදනයක්... (36a20d48)
+2026-02-11 22:02:20 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ කන්‍යා දෙව්දුව ලෙස දැරියක් තෝරා ගැනේ... (38eb22bc)
+2026-02-11 22:02:23 | INFO     | core.base_scraper         | Scraped article: බුවාලෝයි' සුළි කුණාටුවේ බලපෑමෙන් තායිලන්තයේ 07 දෙන... (a7bb580e)
+2026-02-11 22:02:26 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ විශාල තෙල් පිරිපහදුවක ගින්නක්... (6082e8e4)
+2026-02-11 22:02:29 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාව හා චීනය වසර 5කට පසු සෘජු ගුවන්සේවා යළි අර... (4fde64ce)
+2026-02-11 22:02:32 | INFO     | core.base_scraper         | Scraped article: බිලියනපති ලැයිස්තුවට ගිය King Khan... (9a174b93)
+2026-02-11 22:02:35 | INFO     | core.base_scraper         | Scraped article: වාර්තා අලුත් කරන එලොන් මස්ක්... (55098133)
+2026-02-11 22:02:38 | INFO     | core.base_scraper         | Scraped article: ජර්මනියේ මියුනිච් ගුවන්තොටුපල තාවකාලිකව වසාදැමේ... (e13d1482)
+2026-02-11 22:02:41 | INFO     | core.base_scraper         | Scraped article: ගාසා ගැටුම් අවසන් කිරීම සඳහා වූ අමෙරිකාවේ නව සැලැස... (0aba8969)
+2026-02-11 22:02:41 | INFO     | core.base_scraper         | Scraping page 78: https://www.itnnews.lk/world/page/78/
+2026-02-11 22:02:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:02:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:02:43 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:02:43 | INFO     | core.base_scraper         | Found 9 articles on page 78
+2026-02-11 22:02:47 | INFO     | core.base_scraper         | Scraped article: රුසියාවේ ප්‍රදේශ කිහිපයක ඉන්ධන මිල ඉහළට... (c603bd8f)
+2026-02-11 22:02:50 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරය බලා යාත්‍රා කළ නෞකාවක් ඊශ්‍රායල ආරක්ෂක අ... (e83dfed2)
+2026-02-11 22:02:53 | INFO     | core.base_scraper         | Scraped article: ලොව ප්‍රකට චිම්පන්සි විශේෂඥවරියක් ජීවිතයෙන් සමු ගන... (7c3ba67f)
+2026-02-11 22:02:56 | INFO     | core.base_scraper         | Scraped article: කලාපීය රටවල් සමග ඉන්දීය රුපියල්වලින් ගනුදෙනු කරන්න... (3baee504)
+2026-02-11 22:02:59 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයට බලපෑ භූ කම්පනයෙන් මියගිය ගණන 69ක් දක්වා ... (f70fc00a)
+2026-02-11 22:03:02 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ ලඩාක් ප්‍රදේශයට පනවා ඇති ඇඳිරිනීතිය ලිහි... (f21a398c)
+2026-02-11 22:03:05 | INFO     | core.base_scraper         | Scraped article: චෙන්නායිහි තාප බලාගාරයක ආරුක්කුවක් කඩා වැටීමෙන් 9 ... (876644ac)
+2026-02-11 22:03:08 | INFO     | core.base_scraper         | Scraped article: හමාස් සංවිධානයට ට්‍රම්ප්ගෙන් සහන කාලයක්... (0cf920fb)
+2026-02-11 22:03:11 | INFO     | core.base_scraper         | Scraped article: ගාසාවට ආධාර රැගෙන යන යාත්‍රාවලට ඉතාලි අගමැතිනියගෙන... (f4c1b7ac)
+2026-02-11 22:03:11 | INFO     | core.base_scraper         | Scraping page 79: https://www.itnnews.lk/world/page/79/
+2026-02-11 22:03:13 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:03:13 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:03:13 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:03:13 | INFO     | core.base_scraper         | Found 9 articles on page 79
+2026-02-11 22:03:17 | INFO     | core.base_scraper         | Scraped article: තායිවාන බෙදුම්වාදයට දැඩි ලෙස විරුද්ධ වෙමින් ජාතික ... (9e2ea7bc)
+2026-02-11 22:03:20 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයට ප්‍රබල භූ කම්පනයක් – 26කට දිවි අහිමි වෙය... (e670e8ea)
+2026-02-11 22:03:23 | INFO     | core.base_scraper         | Scraped article: ක්ලියෝපැට්‍රා සමයේ ඊජිප්තු වරායක් මුහුද යටින් හමුව... (58d373b0)
+2026-02-11 22:03:26 | INFO     | core.base_scraper         | Scraped article: එක්සත් ජනපදයේ රාජ්‍ය සේවකයින් ලක්ෂයක් අද ඉල්ලා අස්... (6127d9d5)
+2026-02-11 22:03:29 | INFO     | core.base_scraper         | Scraped article: ජනපති සහ නිපොන් පදනමේ ආරම්භක සභාපතිවරයා අතර සාකච්ඡ... (3412617e)
+2026-02-11 22:03:32 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ පාසලක ගොඩනැගිල්ලක් කඩා වැටෙයි – තිදෙ... (d1d2be5f)
+2026-02-11 22:03:35 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ පාසල් ගොඩනැගිල්ලක් කඩා වැටෙයි... (53505ec2)
+2026-02-11 22:03:38 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරය සඳහා නව සාම සැලැස්මක්... (96de91c8)
+2026-02-11 22:03:41 | INFO     | core.base_scraper         | Scraped article: චීනයේ මාෆියා පවුලකට අයත් සාමාජිකයින් 11 දෙනෙකුට මර... (ceef699c)
+2026-02-11 22:03:41 | INFO     | core.base_scraper         | Scraping page 80: https://www.itnnews.lk/world/page/80/
+2026-02-11 22:03:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:03:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:03:43 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:03:43 | INFO     | core.base_scraper         | Found 9 articles on page 80
+2026-02-11 22:03:47 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාව ඉදිරිපත් කළ ගාසා සාම යෝජනාවට සහයෝගය ලබාදෙ... (f50dd04f)
+2026-02-11 22:03:50 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් සිනමාවට පනවන්න යන 100% බද්ද... (0bb49510)
+2026-02-11 22:03:53 | INFO     | core.base_scraper         | Scraped article: ජලභීතිකාවෙන් වසරකට පාකිස්ථානයේ 1,000 ජීවිත අහිමි ව... (e6346470)
+2026-02-11 22:03:56 | INFO     | core.base_scraper         | Scraped article: චීනයේ හිටපු කෘෂිකර්ම අමාත්‍යවරයාට අත්හිටවූ මරණ දඬු... (24cd73cb)
+2026-02-11 22:03:59 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ මිචිගන්හි මෝමන් දේවස්ථානයේ වෙඩි තැබීමක්... (f95915c5)
+2026-02-11 22:04:02 | INFO     | core.base_scraper         | Scraped article: ඉංග්‍රීසි ඕඩය තරණය කරමින් නව වාර්තාවක් පිහිටවූ කුඩ... (16a74598)
+2026-02-11 22:04:05 | INFO     | core.base_scraper         | Scraped article: වියට්නාමයේ සුළි කුණාටුවකින් පුද්ගලයෙකු ජීවිතක්ෂයට ... (a00b39a6)
+2026-02-11 22:04:08 | INFO     | core.base_scraper         | Scraped article: පේරු රාජ්‍යයේ විරෝධතාකරුවන් සහ පොලිසිය අතර ගැටුම් ... (ba7296d2)
+2026-02-11 22:04:11 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලය ප්‍රහාරවලින් ගාසාවේ සමාන්‍ය වැසියන් රැසක... (779ed233)
+2026-02-11 22:04:11 | INFO     | core.base_scraper         | Scraping page 81: https://www.itnnews.lk/world/page/81/
+2026-02-11 22:04:13 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:04:13 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:04:13 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:04:13 | INFO     | core.base_scraper         | Found 9 articles on page 81
+2026-02-11 22:04:17 | INFO     | core.base_scraper         | Scraped article: ලොව උසම පාලම වන චීනයේ Huajiang පාලම ගමනාගමනය සඳහා ... (9f138554)
+2026-02-11 22:04:20 | INFO     | core.base_scraper         | Scraped article: රුසියාවට එල්ල වන ආක්‍රමණවලට දැඩි ප්‍රතිචාර දක්වන බ... (4747502b)
+2026-02-11 22:04:24 | INFO     | core.base_scraper         | Scraped article: කොලොම්බියා ජනපතිට ඇමරිකාව තහනම් වෙයි... (08953075)
+2026-02-11 22:04:26 | INFO     | core.base_scraper         | Scraped article: තමිල්නාඩුවේ දේශපාලන රැලියක සිදුවූ තෙරපීමකින් 31 දෙ... (87bb9b5b)
+2026-02-11 22:04:29 | INFO     | core.base_scraper         | Scraped article: ත්‍රස්තවාදයට එරෙහිව ගෝලීය සහයෝගීතාවයේ අවශ්‍යතාව ඉන... (3c1373a4)
+2026-02-11 22:04:32 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ ප්‍රකට රංගන ශිල්පියෙකු වු ජෝන් ක්‍රිස්ටෝ... (976e7cb4)
+2026-02-11 22:04:35 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාව කොලොම්බියානු ජනාධිපතිවරයාගේ වීසා බලපත්‍රය... (48cf4044)
+2026-02-11 22:04:38 | INFO     | core.base_scraper         | Scraped article: ඉරානයට දැඩි සම්බාධක පැනවීමේ සූදානමක්... (5262416d)
+2026-02-11 22:04:41 | INFO     | core.base_scraper         | Scraped article: ඉන්දියා – රුසියා සබඳතා තවත් ශක්තිමත් කර ගැනීමේ සූද... (34955a96)
+2026-02-11 22:04:41 | INFO     | core.base_scraper         | Scraping page 82: https://www.itnnews.lk/world/page/82/
+2026-02-11 22:04:44 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:04:44 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:04:44 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:04:44 | INFO     | core.base_scraper         | Found 9 articles on page 82
+2026-02-11 22:04:48 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල අගමැති UN සැසිය අමතනවාට පිරිසක් විරුද්ධ ව... (d308dcbd)
+2026-02-11 22:04:50 | INFO     | core.base_scraper         | Scraped article: විෂ සහිත මත්පැන් පානය කිරීමෙන් කොලොම්බියාවේ 11 දෙන... (51ed6274)
+2026-02-11 22:04:53 | INFO     | core.base_scraper         | Scraped article: යේමනයේ හූති ඉලක්ක වෙත ඊශ්‍රායලයෙන් ගුවන් ප්‍රහාර... (10c1e26c)
+2026-02-11 22:04:56 | INFO     | core.base_scraper         | Scraped article: ටික්ටොක් යෙදවුමේ ඇමෙරිකා අයිතිය සම්බන්ධ නියෝගයට ට්... (4f5edeb8)
+2026-02-11 22:04:59 | INFO     | core.base_scraper         | Scraped article: FBI සංවිධානයේ හිටපු අධ්‍යක්ෂවරයාට අධි චෝදනා... (39aef2a5)
+2026-02-11 22:05:02 | INFO     | core.base_scraper         | Scraped article: සෞඛ්‍ය නොවන වෘත්තිකයින්ට පච්ච කලාවේ නිරතවීමට දකුණු... (086f093d)
+2026-02-11 22:05:06 | INFO     | core.base_scraper         | Scraped article: බටහිර ඉවුර ඊශ්‍රායලයට ඈඳා ගැනීමට ඉඩ ලබා නොදෙන බව ට... (16fa8743)
+2026-02-11 22:05:08 | INFO     | core.base_scraper         | Scraped article: හිටපු ප්‍රංශ ජනාධිපති නිකොලස් සාකෝසිට වසර 5 ක සිර ... (8c9829f3)
+2026-02-11 22:05:11 | INFO     | core.base_scraper         | Scraped article: අනවසර ඩ්‍රෝන යානා හේතුවෙන් හදිසියේ වසා දැමුණු ඩෙන්... (2056403c)
+2026-02-11 22:05:12 | INFO     | core.base_scraper         | Scraping page 83: https://www.itnnews.lk/world/page/83/
+2026-02-11 22:05:14 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:05:14 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:05:14 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:05:14 | INFO     | core.base_scraper         | Found 9 articles on page 83
+2026-02-11 22:05:18 | INFO     | core.base_scraper         | Scraped article: රගාසා සුළි කුණාටුවෙන් මියගිය සංඛ්‍යාව 14 දක්වා ඉහළ... (101e6a38)
+2026-02-11 22:05:20 | INFO     | core.base_scraper         | Scraped article: සඳ වටා දින 10ක් යන්න නාසා ආයතනය සූදානම්... (bc23ee00)
+2026-02-11 22:05:24 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගෙන් රුසියාවට යළි අනතුරු ඇඟවීමක්... (a0515635)
+2026-02-11 22:05:26 | INFO     | core.base_scraper         | Scraped article: නිව්යෝර්ක් ගිය ප්‍රංශ ජනපතිට මිනිත්තු 30ක් පයින් ඇ... (15907548)
+2026-02-11 22:05:29 | INFO     | core.base_scraper         | Scraped article: වසර 50කට පසු නැවත සඳ තරණයට නාසා සූදානමින්... (0caf23c7)
+2026-02-11 22:05:32 | INFO     | core.base_scraper         | Scraped article: ප්‍රසංගයක් අතරතුර කොටියෙකු සිය පුහුණුකරු මරා දමයි... (b029f53a)
+2026-02-11 22:05:38 | INFO     | core.base_scraper         | Scraped article: රාගසා තායිවානයේ 14කට දිවි අහිමි කරයි... (5e33d5b5)
+2026-02-11 22:05:40 | INFO     | core.base_scraper         | Scraped article: හිටපු ක්‍රිකට් විනිසුරු Dickie Bird ජීවිතක්ෂයට... (04f7d66c)
+2026-02-11 22:05:42 | INFO     | core.base_scraper         | Scraped article: ගුවන්යානයක රෝදයේ එල්ලී දිල්ලියට ආ අරුම පුදුම ළමයා... (00cda158)
+2026-02-11 22:05:42 | INFO     | core.base_scraper         | Scraping page 84: https://www.itnnews.lk/world/page/84/
+2026-02-11 22:05:44 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:05:44 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:05:44 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:05:44 | INFO     | core.base_scraper         | Found 9 articles on page 84
+2026-02-11 22:05:47 | INFO     | core.base_scraper         | Scraped article: හොංකොං වැසියන් මේ වසරේ ප්‍රචණ්ඩම සුළි කුණාටුවට සූද... (f2035447)
+2026-02-11 22:05:50 | INFO     | core.base_scraper         | Scraped article: පාකිස්ථාන ගුවන් ප්‍රහාරයකින් තලේබාන්වරුන්ගේ පුපුරණ... (97676b1c)
+2026-02-11 22:05:53 | INFO     | core.base_scraper         | Scraped article: බංග්ලාදේශයේ ඩෙංගු රෝගීන් සීඝ්‍රයෙන් ඉහළට... (56abe283)
+2026-02-11 22:05:56 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයේ හිටපු ජනාධිපති රොඩ්රිගෝට අපරාධ චෝදනා ගොන... (3b06ca03)
+2026-02-11 22:05:59 | INFO     | core.base_scraper         | Scraped article: ප්‍රංශය නිල වශයෙන් පලස්තීනය රාජ්‍යයක් ලෙස පිළිගනී... (1f6d41a3)
+2026-02-11 22:06:02 | INFO     | core.base_scraper         | Scraped article: ඔස්ට්‍රියාවෙන් ඉන්දියානු සිසුන්ට විශේෂ අවස්ථාවක්... (b0a248b7)
+2026-02-11 22:06:05 | INFO     | core.base_scraper         | Scraped article: බ්‍රිතාන්‍ය විදේශ ලේකම්ගෙන් ඊශ්‍රායලයට අනතුරු ඇඟවී... (8ec83f1e)
+2026-02-11 22:06:08 | INFO     | core.base_scraper         | Scraped article: චිත්‍රපටයේ රූගත කිරීමක් අතරතුර ස්පයිඩර් මෑන් රෝහලට... (b7ada1aa)
+2026-02-11 22:06:08 | INFO     | core.base_scraper         | Scraping page 85: https://www.itnnews.lk/world/page/85/
+2026-02-11 22:06:11 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:06:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:06:11 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:06:11 | INFO     | core.base_scraper         | Found 9 articles on page 85
+2026-02-11 22:06:14 | INFO     | core.base_scraper         | Scraped article: පිලිපීනයට දරුණු සුළි කුණාටු අවදානමක්... (53c00177)
+2026-02-11 22:06:17 | INFO     | core.base_scraper         | Scraped article: සිරියාවේ පාර්ලිමේන්තු මැතිවරණය ලබන 5 වනදා... (bd409dfc)
+2026-02-11 22:06:20 | INFO     | core.base_scraper         | Scraped article: TikTok ගිවිසුමට ඇමරිකානු ආයෝජකයන් නම් කරයි... (b96b0bac)
+2026-02-11 22:06:23 | INFO     | core.base_scraper         | Scraped article: පලස්තීනය ස්වාධීන රාජ්‍යයක් ලෙස පිළිගන්නා බව බ්‍රිත... (a8844121)
+2026-02-11 22:06:26 | INFO     | core.base_scraper         | Scraped article: මාස ගණනාවක් තලෙයිබාන් අත්අඩංගුවේ සිටි බ්‍රිතාන්‍ය ... (a8120269)
+2026-02-11 22:06:29 | INFO     | core.base_scraper         | Scraped article: රුසියානු ගුවන් ප්‍රහාරයකින් යුක්‍රේනයේ 3ක් ජීවිතක්... (c94fa7ab)
+2026-02-11 22:06:32 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ සමාජ ශාලාවක වෙඩි තැබීමක් – පුද්ගලයෙකු ජී... (f00601a0)
+2026-02-11 22:06:35 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල ප්‍රහාරවලින් පලස්තින වැසියන් 91ක් මරුට... (1778e116)
+2026-02-11 22:06:38 | INFO     | core.base_scraper         | Scraped article: නෙදර්ලන්තයේ විරෝධතාකරුවන් විසුරුවා හැරීමට පොලිසියෙ... (8fb05a20)
+2026-02-11 22:06:39 | INFO     | core.base_scraper         | Scraping page 86: https://www.itnnews.lk/world/page/86/
+2026-02-11 22:06:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:06:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:06:40 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:06:40 | INFO     | core.base_scraper         | Found 9 articles on page 86
+2026-02-11 22:06:44 | INFO     | core.base_scraper         | Scraped article: පලස්තීනය ස්වාධීන රාජ්‍යයක් ලෙස පිළිගන්න බ්‍රිතාන්‍... (7a1a7f19)
+2026-02-11 22:06:48 | INFO     | core.base_scraper         | Scraped article: සයිබර් ප්‍රහාරයකින් යුරෝපයේ ගුවන් තොටුපොළ රැසක කටය... (8e6215a9)
+2026-02-11 22:06:50 | INFO     | core.base_scraper         | Scraped article: පලස්තීන ජනපතිට වීසා ලබාදීම ඇමෙරිකාව ප්‍රතික්ෂේප කර... (0ee1cd67)
+2026-02-11 22:06:53 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලය සමග අවි ගණුදෙනුවකට ඇමෙරිකාව සූදානම්... (2b39f993)
+2026-02-11 22:06:56 | INFO     | core.base_scraper         | Scraped article: සුඩානයේ මුස්ලිම් පල්ලියකට එල්ල වූ ඩ්‍රෝන ප්‍රහාරයක... (9a7fd32c)
+2026-02-11 22:06:59 | INFO     | core.base_scraper         | Scraped article: එස්තෝනියාව නේටෝ සංවිධානයේ මැදිහත්වීමක් ඉල්ලයි... (461a51ad)
+2026-02-11 22:07:02 | INFO     | core.base_scraper         | Scraped article: චීනය සමග ඇති කර ගත් ටික්ටොක් ගිවිසුමේ ප්‍රගතියක් ඇ... (be584624)
+2026-02-11 22:07:05 | INFO     | core.base_scraper         | Scraped article: සුඩානයේ පල්ලියකට ඩ්‍රෝන ප්‍රහාරයක් – 70කට වැඩි පිර... (22d2a0d8)
+2026-02-11 22:07:08 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්ථාන විශ්වවිද්‍යාල පුස්තකාල තුළින් කාන්තාවන... (1eb7b66c)
+2026-02-11 22:07:08 | INFO     | core.base_scraper         | Scraping page 87: https://www.itnnews.lk/world/page/87/
+2026-02-11 22:07:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:07:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:07:10 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:07:10 | INFO     | core.base_scraper         | Found 9 articles on page 87
+2026-02-11 22:07:14 | INFO     | core.base_scraper         | Scraped article: මාධ්‍ය ආයතනවලට ට්‍රම්ප්ගෙන් අනතුරු ඇඟවීමක්... (2b9dd49e)
+2026-02-11 22:07:17 | INFO     | core.base_scraper         | Scraped article: ප්‍රංශයේ දැවැන්ත විරෝධතාවක්... (e6a351cd)
+2026-02-11 22:07:20 | INFO     | core.base_scraper         | Scraped article: රුසියාවට ප්‍රබල භූකම්පනයක්... (5370b924)
+2026-02-11 22:07:23 | INFO     | core.base_scraper         | Scraped article: තායිලන්ත හමුදාව එල්ල කළ ප්‍රහාරයකින් කාම්බෝජ සිවිල... (44697022)
+2026-02-11 22:07:26 | INFO     | core.base_scraper         | Scraped article: බෝයිං සමාගමට සහ හනිවෙල් සමාගමට එරෙහිව නඩු... (d6890703)
+2026-02-11 22:07:29 | INFO     | core.base_scraper         | Scraped article: තලෙයිබාන් උතුරු ඇෆ්ගනිස්තානයෙහි අන්තර්ජාල භාවිතය ත... (bece5012)
+2026-02-11 22:07:32 | INFO     | core.base_scraper         | Scraped article: චාල්ස් රජු ට්‍රම්ප්ගෙන් කළ ඉල්ලීම... (bc5d8f17)
+2026-02-11 22:07:35 | INFO     | core.base_scraper         | Scraped article: ගාසා තීරයට ඊශ්‍රායලයෙන් දරුණු ගොඩබිම් ප්‍රහාරයක්... (67072d5f)
+2026-02-11 22:07:38 | INFO     | core.base_scraper         | Scraped article: යුරෝපා කොමිසමේ සභාපති සහ ට්‍රම්ප් අතර සාකච්ඡාවක්... (3a5a8b52)
+2026-02-11 22:07:38 | INFO     | core.base_scraper         | Scraping page 88: https://www.itnnews.lk/world/page/88/
+2026-02-11 22:07:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:07:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:07:40 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:07:40 | INFO     | core.base_scraper         | Found 9 articles on page 88
+2026-02-11 22:07:44 | INFO     | core.base_scraper         | Scraped article: බැග්ඩෑඩ් අගනුවර වායු තත්ත්වය අයහපත් මට්ටමට... (ab7cfcc1)
+2026-02-11 22:07:47 | INFO     | core.base_scraper         | Scraped article: ඩොනල්ඩ් ට්‍රම්ප්, බ්‍රිතාන්‍යයේ සංචාරයක... (da5dfc4f)
+2026-02-11 22:07:50 | INFO     | core.base_scraper         | Scraped article: ඇමරිකා ජනපතිගෙන් ඉන්දීය අගමැතිවරයාට උපන්දින සුබ පැ... (908be0c7)
+2026-02-11 22:07:53 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලයෙන් ගාසා නගරයට ගොඩබිම් ප්‍රහාරයක්... (9010548d)
+2026-02-11 22:07:55 | INFO     | core.base_scraper         | Scraped article: වසර 174ක් පැරණි පත්තරෙන් ඩොලර් බිලියන 15ක වන්දියක්... (3aa8ff03)
+2026-02-11 22:07:59 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවෙන් වෙනිසියුලානු තවත් බෝට්ටුවකට ප්‍රහාරයක්... (4437bcba)
+2026-02-11 22:08:02 | INFO     | core.base_scraper         | Scraped article: TikTok සම්බන්ධයෙන් ඇමෙරිකාව සහ චීනය අතර එකඟතාවයක්... (4d055da0)
+2026-02-11 22:08:05 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ අන්තර්කාලීන රජයේ කැබිනට් මණ්ඩලය 15කට සීමා ... (54e2bc96)
+2026-02-11 22:08:08 | INFO     | core.base_scraper         | Scraped article: යුද ගැටුම් මැද අමෙරිකානු රාජ්‍ය ලේකම් ඊශ්‍රායලයේ ස... (812d9519)
+2026-02-11 22:08:08 | INFO     | core.base_scraper         | Scraping page 89: https://www.itnnews.lk/world/page/89/
+2026-02-11 22:08:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:08:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:08:10 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:08:10 | INFO     | core.base_scraper         | Found 9 articles on page 89
+2026-02-11 22:08:14 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය ප්‍රවාහනය කළ වෙනිසියුලාවට අයත් යාත්‍රා... (f6e3cbbf)
+2026-02-11 22:08:17 | INFO     | core.base_scraper         | Scraped article: චීන-ඇමරිකා ආර්ථික හා වෙළඳ කටයුතුවල දී එකඟතා රැසක්... (7b557bd7)
+2026-02-11 22:08:20 | INFO     | core.base_scraper         | Scraped article: මැනිලා නුවර පැල්පත් නිවාස දහසක් ගින්නකින් අළුවෙයි... (0a1fb353)
+2026-02-11 22:08:23 | INFO     | core.base_scraper         | Scraped article: 2050 වන විට ඔස්ට්‍රේලියාවට සිදුවිය හැකි බරපතළ අවදා... (e7ced01a)
+2026-02-11 22:08:26 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ ඇසෑම් ප්‍රාන්තයට ප්‍රබල භූමිකම්පාවක්... (735988fc)
+2026-02-11 22:08:29 | INFO     | core.base_scraper         | Scraped article: 15 හැවිරිදි ඕවන් කූපර් ඉතිහාසය අලුත් කරයි – ලාබාලත... (b8d5a4ff)
+2026-02-11 22:08:32 | INFO     | core.base_scraper         | Scraped article: හිටපු ලෝක බොක්සිං ශූර රිකී හැටන් ජිවිතක්ෂයට... (bacd5716)
+2026-02-11 22:08:35 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලය එල්ල කළ ප්‍රහාරවලින් ගාසා තීරයේ පුද්ගලයි... (4f636c49)
+2026-02-11 22:08:38 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකා හා තලෙයිබාන් නියෝජිතයින් අතර විශේෂ සාකච්ඡා... (4ccda145)
+2026-02-11 22:08:38 | INFO     | core.base_scraper         | Scraping page 90: https://www.itnnews.lk/world/page/90/
+2026-02-11 22:08:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:08:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:08:41 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:08:41 | INFO     | core.base_scraper         | Found 9 articles on page 90
+2026-02-11 22:08:44 | INFO     | core.base_scraper         | Scraped article: නේපාල මහ මැතිවරණය ලබන මාර්තු මාසයේ... (e0f9d649)
+2026-02-11 22:08:47 | INFO     | core.base_scraper         | Scraped article: පකිස්ථානයේ හටගත් ගැටුම් දෙකකින් පාකිස්ථාන හමුදා සෙ... (ac60eb2b)
+2026-02-11 22:08:51 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල එල්ල කළ ප්‍රහාරවලින් ගාසාවේ 50දෙනෙකුට ජීව... (9582ef0e)
+2026-02-11 22:08:53 | INFO     | core.base_scraper         | Scraped article: රුසියානු ඉන්ධන මිලදී ගන්න එපා – ට්‍රම්ප්ගෙන් නේටෝ ... (ccbb0b2a)
+2026-02-11 22:08:56 | INFO     | core.base_scraper         | Scraped article: මියන්මාරයේ පාසලකට එල්ලවූ ගුවන් ප්‍රහාරයකින් සිසුන්... (3e02035f)
+2026-02-11 22:08:59 | INFO     | core.base_scraper         | Scraped article: චාලි කර්ක් ඝාතනයේ සැකකරු හඳුනාගැනේ... (ad7a1aed)
+2026-02-11 22:09:02 | INFO     | core.base_scraper         | Scraped article: ගංවතුරෙන් පාකිස්තානයේ ජන ජීවිතයට දැඩි බලපෑම්... (7e6ce1b9)
+2026-02-11 22:09:05 | INFO     | core.base_scraper         | Scraped article: රුසියාවේ භූ කම්පනයක්... (f66aba64)
+2026-02-11 22:09:09 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල පලස්තීන ද්වී රාජ්‍ය විසඳුම පිළිබඳ නිව්යෝර... (29c40047)
+2026-02-11 22:09:10 | INFO     | core.base_scraper         | Scraping page 91: https://www.itnnews.lk/world/page/91/
+2026-02-11 22:09:11 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:09:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:09:11 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:09:11 | INFO     | core.base_scraper         | Found 9 articles on page 91
+2026-02-11 22:09:14 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ අන්තර්කාලීන අගමැතිනිය වැඩ අල්ලයි – පාර්ලිම... (a4d9492a)
+2026-02-11 22:09:18 | INFO     | core.base_scraper         | Scraped article: ජපානයේ ටෝකියෝ නුවර ප්‍රදේශ රැසකට ගංවතුර... (a0d0d54d)
+2026-02-11 22:09:19 | INFO     | core.base_scraper         | Scraped article: නේපාලයට අන්තර්කාලීන අගමැතිවරියක්... (73eab923)
+2026-02-11 22:09:23 | INFO     | core.base_scraper         | Scraped article: වැඩිහිටි ජනගහනය ඉහළ යාම ජපානයට ගැටලුවක් වෙයි... (f9a89a3f)
+2026-02-11 22:09:26 | INFO     | core.base_scraper         | Scraped article: හැරී කුමරු යුක්රේනයේ කියෙව් අගනුවර හදිසි සංචාරයක... (83aa94b5)
+2026-02-11 22:09:30 | INFO     | core.base_scraper         | Scraped article: හමාස් සංවිධානය බැහැර කරන පලස්තීන රාජ්‍යයක් සඳහා ඡන... (6706338d)
+2026-02-11 22:09:32 | INFO     | core.base_scraper         | Scraped article: චාලි කර්ක්ට වෙඩිතැබීමේ සිද්ධියට සැකකරන පුද්ගලයාගේ ... (4fac7473)
+2026-02-11 22:09:35 | INFO     | core.base_scraper         | Scraped article: හමුදා කුමන්ත්‍රණ සිදුකළ බ්‍රසීල හිටපු ජනපතිට වසර 2... (1b5c6dad)
+2026-02-11 22:09:38 | INFO     | core.base_scraper         | Scraped article: අඟහරු ග්‍රහයා මත ජීවයක් – නාසාවෙන් හෙළිදරව්වක්... (03cc3b53)
+2026-02-11 22:09:38 | INFO     | core.base_scraper         | Scraping page 92: https://www.itnnews.lk/world/page/92/
+2026-02-11 22:09:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:09:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:09:40 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:09:40 | INFO     | core.base_scraper         | Found 9 articles on page 92
+2026-02-11 22:09:44 | INFO     | core.base_scraper         | Scraped article: බාලි දූපත්වලට බලපා ඇති ගංවතුරින් මියගිය ගණන 14ක් ද... (61c1bcd1)
+2026-02-11 22:09:47 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ තත්ත්වය සාමාන්‍ය අතට... (6438b61b)
+2026-02-11 22:09:50 | INFO     | core.base_scraper         | Scraped article: ඉන්දු – අමෙරිකා වෙළඳ සාකච්ඡා යළි ඇරඹෙන ලකුණු... (3a872473)
+2026-02-11 22:09:53 | INFO     | core.base_scraper         | Scraped article: විනිසුරුවරයෙකු විරෝධතාකරුවෙකුට පහරදෙන බිතු සිතුවමක... (7387e417)
+2026-02-11 22:09:57 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ සැප්තැම්බර් 11 ප්‍රහාරවලට වසර 24ක්... (90ab440b)
+2026-02-11 22:09:59 | INFO     | core.base_scraper         | Scraped article: නේපාලය ගැන ඉන්දියාව අවධානයෙන්... (fa98c213)
+2026-02-11 22:10:03 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගේ දේශපාලන ක්‍රියාකරුවෙකු වෙඩි තබා ඝාතනය ක... (c0c4212d)
+2026-02-11 22:10:05 | INFO     | core.base_scraper         | Scraped article: බාලි දුපතේ ඇති වූ ගංවතුරෙන් 6 දෙනෙකු මිය යයි... (d6fffacf)
+2026-02-11 22:10:08 | INFO     | core.base_scraper         | Scraped article: නේපාලයට ඇඳිරිනීතිය පනවයි... (ba930108)
+2026-02-11 22:10:09 | INFO     | core.base_scraper         | Scraping page 93: https://www.itnnews.lk/world/page/93/
+2026-02-11 22:10:11 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:10:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:10:11 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:10:11 | INFO     | core.base_scraper         | Found 9 articles on page 93
+2026-02-11 22:10:14 | INFO     | core.base_scraper         | Scraped article: ප්‍රංශයට නව අග්‍රාමාත්‍යවරයෙක්... (6cc64834)
+2026-02-11 22:10:17 | INFO     | core.base_scraper         | Scraped article: රුසියානු ඩ්‍රෝන යානාවලට පෝලන්තයෙන් වෙඩි... (0beadf9b)
+2026-02-11 22:10:20 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ ප්‍රචණ්ඩ ක්‍රියා හමුවේ බන්ධනාගාර රැඳවියන් ... (c2b26b25)
+2026-02-11 22:10:24 | INFO     | core.base_scraper         | Scraped article: ලුම්බිණියට ගිය මෙරට වන්දනාකරුවන් ආරක්ෂිතව ඉන්දියාව... (c5ce84e2)
+2026-02-11 22:10:26 | INFO     | core.base_scraper         | Scraped article: iPhone 17 වෙළෙඳපොළට... (c1d696dd)
+2026-02-11 22:10:29 | INFO     | core.base_scraper         | Scraped article: නේපාල තරුණ විරෝධතාකරුවෝ බන්ධනාගාර දෙකක් බිඳ දමයි... (9af11a8f)
+2026-02-11 22:10:32 | INFO     | core.base_scraper         | Scraped article: කටාර්හි දී හමාස් නායකයන් ඉලක්ක කරගත් ඊශ්‍රායල ප්‍ර... (91783f90)
+2026-02-11 22:10:35 | INFO     | core.base_scraper         | Scraped article: අද රාත්‍රී 10 සිට නේපාලයේ නීතිය හා සාමය ආරක්ෂා කිර... (d21f32df)
+2026-02-11 22:10:38 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලයෙන් දෝහා හි හමාස් ඉලක්ක වෙත ප්‍රහාරයක්... (f5e843f5)
+2026-02-11 22:10:38 | INFO     | core.base_scraper         | Scraping page 94: https://www.itnnews.lk/world/page/94/
+2026-02-11 22:10:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:10:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:10:40 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:10:40 | INFO     | core.base_scraper         | Found 9 articles on page 94
+2026-02-11 22:10:44 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ විරෝධතාකරුවන් එරට ශ්‍රේෂ්ඨාධිකරණයට ගිනි තබ... (758f811e)
+2026-02-11 22:10:47 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ විරෝධතාවල තතු හරියටම... (6c926352)
+2026-02-11 22:10:50 | INFO     | core.base_scraper         | Scraped article: විරෝධතාකරුවන් නේපාල පාර්ලිමේන්තුවට ගිනි තබයි... (851ce536)
+2026-02-11 22:10:53 | INFO     | core.base_scraper         | Scraped article: දූෂණ විරෝධී විරෝධතා මධ්‍යයේ නේපාල අගමැති ඉල්ලා අස්... (dee23dad)
+2026-02-11 22:10:56 | INFO     | core.base_scraper         | Scraped article: මෙක්සිකෝවේ දුම්රියක් සහ බස් රථයක් ගැටෙයි – දස දෙනෙ... (0dc438ca)
+2026-02-11 22:10:59 | INFO     | core.base_scraper         | Scraped article: කලින් පැනවූ සිර දඬුවම් කාලයේ රෝහලක ප්‍රභූ අංශයේ සි... (d76431cc)
+2026-02-11 22:11:02 | INFO     | core.base_scraper         | Scraped article: නේපාලයේ සමාජ මාධ්‍ය තහනම ඉවතට... (d492262d)
+2026-02-11 22:11:05 | INFO     | core.base_scraper         | Scraped article: ප්‍රංශ අගමැති විශ්වාසභංගයෙන් පරාදයි... (f41ff386)
+2026-02-11 22:11:08 | INFO     | core.base_scraper         | Scraped article: රුසියාවේ පිළිකා එන්නත සාර්ථක වෙයි... (141cf2ec)
+2026-02-11 22:11:08 | INFO     | core.base_scraper         | Scraping page 95: https://www.itnnews.lk/world/page/95/
+2026-02-11 22:11:11 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:11:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:11:11 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:11:11 | INFO     | core.base_scraper         | Found 9 articles on page 95
+2026-02-11 22:11:14 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් විසින් හමාස් සංවිධානයට අවසාන අනතුරු ඇඟවීම... (a4c15de7)
+2026-02-11 22:11:17 | INFO     | core.base_scraper         | Scraped article: ජෙරුසලමේ වෙඩි තැබීමක් – 4ක් ජීවිතක්ෂයට – 15කට තුවා... (af2e8ee2)
+2026-02-11 22:11:20 | INFO     | core.base_scraper         | Scraped article: ජපාන අගමැති ඉෂිබා ඉල්ලා අස්වීමෙන් පසු යෙන් මුදල් ඒ... (0403b510)
+2026-02-11 22:11:23 | INFO     | core.base_scraper         | Scraped article: බිම් මලෙන් කළ ත්‍රිත්ව ඝාතනය වසර 33කට සිර දඬුවම්... (c1d6895f)
+2026-02-11 22:11:26 | INFO     | core.base_scraper         | Scraped article: ජපාන අගමැති ෂිගේරු ඉෂිබා ඉල්ලා අස්වෙයි... (f057e94d)
+2026-02-11 22:11:29 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානයේ බෝට්ටුවක් පෙරළීමෙන් 5කට දිවි අහිමි වෙය... (b7b3e948)
+2026-02-11 22:11:32 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප් වෙනිසියුලාවට අනතුරු අඟවයි... (ce0221e6)
+2026-02-11 22:11:35 | INFO     | core.base_scraper         | Scraped article: මොස්කව් එන්න – ආරක්ෂාව තහවුරුයි – පුටින් සෙලෙන්ස්ක... (9c8ad4f4)
+2026-02-11 22:11:38 | INFO     | core.base_scraper         | Scraped article: නේපාල සන්නිවේදන හා තොරතුරු අමාත්‍යාංශයෙන් දැඩි තීර... (fd0e2cc0)
+2026-02-11 22:11:38 | INFO     | core.base_scraper         | Scraping page 96: https://www.itnnews.lk/world/page/96/
+2026-02-11 22:11:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:11:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:11:40 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:11:40 | INFO     | core.base_scraper         | Found 9 articles on page 96
+2026-02-11 22:11:44 | INFO     | core.base_scraper         | Scraped article: කෙන්ට් ආදිපාදවරිය අභාවප්‍රාප්ත වෙයි... (8ca1f230)
+2026-02-11 22:11:47 | INFO     | core.base_scraper         | Scraped article: බ්‍රිතාන්‍ය නියෝජ්‍ය අගමැතිවරිය ඉල්ලා අස්වෙයි... (0a4ce7a1)
+2026-02-11 22:11:50 | INFO     | core.base_scraper         | Scraped article: ඊයේ රාත්‍රියේත් ඇෆ්ගනිස්ථානයට තවත් භූ කම්පනයක්... (7314ce1f)
+2026-02-11 22:11:53 | INFO     | core.base_scraper         | Scraped article: තායිලන්තයට නව අග්‍රාමාත්‍යවරයෙක්... (c569f4f9)
+2026-02-11 22:11:55 | INFO     | core.base_scraper         | Scraped article: පෙන්ටගනයේ නම වෙනස් කිරීමට ට්‍රම්ප් තීරණය කරයි... (c996a18e)
+2026-02-11 22:11:59 | INFO     | core.base_scraper         | Scraped article: අවශ්‍ය නම් විදේශ අපරාධ කල්ලි විනාශ කිරීමට සූදානම් ... (8990a9a6)
+2026-02-11 22:12:03 | INFO     | core.base_scraper         | Scraped article: ලොවම බලා සිටි චීනයේ හා උතුරු කොරියා නායකයින්ගේ හමු... (d99d418f)
+2026-02-11 22:12:05 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවේ යුද ශක්තිය ලෝකෙටම මතක් කරන්න ට්‍රම්ප් සැ... (1efa763e)
+2026-02-11 22:12:08 | INFO     | core.base_scraper         | Scraped article: පාකිස්ථානයේ සිදුවූ බෝම්බ ප්‍රහාරයකින් පුද්ගලයින් 1... (df71fc77)
+2026-02-11 22:12:08 | INFO     | core.base_scraper         | Scraping page 97: https://www.itnnews.lk/world/page/97/
+2026-02-11 22:12:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:12:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:12:10 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:12:10 | INFO     | core.base_scraper         | Found 9 articles on page 97
+2026-02-11 22:12:14 | INFO     | core.base_scraper         | Scraped article: රුසියාව එල්ල කළ ඩ්‍රෝන ප්‍රහාරයකින් යුක්‍රේන ජාතික... (4ec2bb9a)
+2026-02-11 22:12:17 | INFO     | core.base_scraper         | Scraped article: නයිජීරියාවේ බෝට්ටුවක් පෙරළී 60 ක් මරුට... (38f500a2)
+2026-02-11 22:12:20 | INFO     | core.base_scraper         | Scraped article: කැරිබියන් මුහුදේ බෝට්ටුවකට එල්ල කළ ප්‍රහාරය නිසා ඇ... (84f3ce1e)
+2026-02-11 22:12:23 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගේ ප්‍රකාශයට චීනයෙන් පිළිතුරු... (df7c263b)
+2026-02-11 22:12:26 | INFO     | core.base_scraper         | Scraped article: පෘතුගාලයේ දුම්රිය පීලි පැනීමකින් 15 දෙනෙකු මියයයි... (b9847288)
+2026-02-11 22:12:29 | INFO     | core.base_scraper         | Scraped article: පාකිස්තානයේ ස්ථාන තුනක බෝම්බ පිපිරෙයි – 22ක් මරුට... (595e1339)
+2026-02-11 22:12:32 | INFO     | core.base_scraper         | Scraped article: පන්ජාබයම යටකළ මහා ගංවතුර... (3fba9e46)
+2026-02-11 22:12:35 | INFO     | core.base_scraper         | Scraped article: තායිලන්ත පාර්ලිමේන්තුව විසුරුවා හැරීමට එරට වැඩබලන ... (71d45de9)
+2026-02-11 22:12:38 | INFO     | core.base_scraper         | Scraped article: ලෝක බලවතුන් තුන්දෙනෙක් එකට මුණ ගැසුනු තැන... (5b7beaca)
+2026-02-11 22:12:38 | INFO     | core.base_scraper         | Scraping page 98: https://www.itnnews.lk/world/page/98/
+2026-02-11 22:12:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:12:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:12:40 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:12:40 | INFO     | core.base_scraper         | Found 9 articles on page 98
+2026-02-11 22:12:44 | INFO     | core.base_scraper         | Scraped article: ෂී ජිංපින් එක්සත් ජනපදයට එරෙහි කුමන්ත්‍රණයක නිරතවන... (75735a75)
+2026-02-11 22:12:47 | INFO     | core.base_scraper         | Scraped article: අමෙරිකාවට අභියෝග කරමින් සිදුවුණ රාජ්‍ය නායක හමුව... (f7f881e9)
+2026-02-11 22:12:50 | INFO     | core.base_scraper         | Scraped article: චීනයේ 80 වන යුද ජයග්‍රහණ අනුස්මරණ උත්සවය අභිමානවත්... (49f8ab7c)
+2026-02-11 22:12:53 | INFO     | core.base_scraper         | Scraped article: ග්‍රීසියේ වේගයෙන් වැසෙන පාසල්... (199c3ec1)
+2026-02-11 22:12:55 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවේ නවදිල්ලි අගනුවරට අධික වර්ෂාපතනයක් – දෛනි... (23d35f0e)
+2026-02-11 22:12:59 | INFO     | core.base_scraper         | Scraped article: සුපිරි දුම්රියෙන් උතුරු කොරියානු නායකයා චීනයට ළඟාව... (7f16c019)
+2026-02-11 22:13:02 | INFO     | core.base_scraper         | Scraped article: පලස්තීනය, ස්වාධීන රාජ්‍යයක් ලෙස පිළිගන්න සූදානම් ව... (594fe9ba)
+2026-02-11 22:13:05 | INFO     | core.base_scraper         | Scraped article: චීන-රුසියානු ජනපතිවරුන් අතර සාකච්ඡාවක්... (cf97b849)
+2026-02-11 22:13:08 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලයට ලොව ප්‍රමුඛ පෙළේ විශේෂඥයින්ගෙන් චෝදනාවක... (adbf54d1)
+2026-02-11 22:13:08 | INFO     | core.base_scraper         | Scraping page 99: https://www.itnnews.lk/world/page/99/
+2026-02-11 22:13:11 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:13:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:13:11 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:13:11 | INFO     | core.base_scraper         | Found 9 articles on page 99
+2026-02-11 22:13:14 | INFO     | core.base_scraper         | Scraped article: සුඩානයේ නායයෑමකින් 1000කට අධික පිරිසක් මියයයි... (ea9f8278)
+2026-02-11 22:13:17 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්තානයේ භූ කම්පනයෙන් මිය ගිය ගණන 800ක් දක්වා... (4120dadf)
+2026-02-11 22:13:20 | INFO     | core.base_scraper         | Scraped article: එක්සත් ජාතීන්ගේ කාර්යාලය වැටලූ යේමනයේ හූති කැරලිකර... (c3d71289)
+2026-02-11 22:13:23 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්ථානයේ භූ කම්පනයෙන් 600කට අධික පිරිසක් ජීවි... (27cab6ba)
+2026-02-11 22:13:26 | INFO     | core.base_scraper         | Scraped article: SCO සංවර්ධන බැංකුව ස්ථාපිත කිරීමට චීන ජනපතිගෙන් යෝ... (ae371aff)
+2026-02-11 22:13:29 | INFO     | core.base_scraper         | Scraped article: හමාස් මාධ්‍ය ප්‍රකාශක අබු ඔබෙයිදා ඝාතනය කළ බව ඊශ්‍... (a0a9b16a)
+2026-02-11 22:13:33 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්ථානයේ භූ කම්පනයක් – 20ක් ජීවිතක්ෂයට... (cea48b88)
+2026-02-11 22:13:36 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියාවේ සංක්‍රමණ-විරෝධී පෙළපාලිවලට දහස් ගණන... (9370c8d0)
+2026-02-11 22:13:39 | INFO     | core.base_scraper         | Scraped article: අතුරුදන් වූවන් සොයා දෙන්නැයි රජයට බල කරමින් මෙක්සි... (7b43f2d9)
+2026-02-11 22:13:39 | INFO     | core.base_scraper         | Scraping page 100: https://www.itnnews.lk/world/page/100/
+2026-02-11 22:13:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN world list page
+2026-02-11 22:13:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:13:41 | INFO     | scrapers.itn_scraper      | ITN world: Extracted 9 articles from list page
+2026-02-11 22:13:41 | INFO     | core.base_scraper         | Found 9 articles on page 100
+2026-02-11 22:13:45 | INFO     | core.base_scraper         | Scraped article: චීන ජනපති සහ ඉන්දීය අගමැති අතර හමුවක්... (cbb97d90)
+2026-02-11 22:13:48 | INFO     | core.base_scraper         | Scraped article: යුක්‍රේනයේ හිටපු කතානායකවරයෙකු ඝාතනය කෙරේ... (6a8a50e5)
+2026-02-11 22:13:51 | INFO     | core.base_scraper         | Scraped article: ගාසා නගරය අත්පත් කර ගැනීමට ඊශ්‍රායලය මෙහෙයුම් දැඩි... (508d7adf)
+2026-02-11 22:13:53 | INFO     | core.base_scraper         | Scraped article: ඉන්දුනීසියාවේ පොලිසිය හා විරෝධතාකරුවන් අතර ගැටුම් ... (1eead343)
+2026-02-11 22:13:57 | INFO     | core.base_scraper         | Scraped article: ට්‍රම්ප්ගේ තීරුබදු නීති විරෝධී බව එරට අධිකරණයක් තී... (0a073a7e)
+2026-02-11 22:13:59 | INFO     | core.base_scraper         | Scraped article: ඉරානයේ සිටින ජර්මන් ජාතිකයන්ට දැනුම්දීමක්... (32a7aee7)
+2026-02-11 22:14:02 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවට ආනයනය කෙරෙන භාණ්ඩ සඳහා ලැබෙන තීරු බදු සහ... (f86ca544)
+2026-02-11 22:14:06 | INFO     | core.base_scraper         | Scraped article: තායිලන්ත අගමැති පේටොංටර්න් ෂිනවාත්‍රා ධූරයෙන් නෙරප... (15f8d8ae)
+2026-02-11 22:14:08 | INFO     | core.base_scraper         | Scraped article: දකුණු කොරියාවේ හිටපු ජනපති ආර්යාවට සහ හිටපු අගමැති... (d5605260)
+2026-02-11 22:14:09 | INFO     | core.base_scraper         | Reached max_pages limit: 100
+2026-02-11 22:14:09 | INFO     | core.base_scraper         | Category scrape complete: itn/world - 852 new, 48 skipped, 0 failed
+2026-02-11 22:14:09 | INFO     | __main__                  | ✓ Completed world: 852 articles, 100 pages
+2026-02-11 22:14:09 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 22:14:09 | INFO     | __main__                  |   - Articles: 852
+2026-02-11 22:14:09 | INFO     | __main__                  |   - Pages: 100
+2026-02-11 22:14:09 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-11 22:14:09 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 22:14:09 | INFO     | __main__                  |   Total articles in corpus: 2824
+2026-02-11 22:14:09 | INFO     | __main__                  |   itn: 2824 articles
+2026-02-11 22:14:09 | INFO     | __main__                  |     - business: 210 articles
+2026-02-11 22:14:09 | INFO     | __main__                  |     - local: 900 articles
+2026-02-11 22:14:09 | INFO     | __main__                  |     - sports: 862 articles
+2026-02-11 22:14:09 | INFO     | __main__                  |     - world: 852 articles
+2026-02-11 22:14:09 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 22:14:09 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 22:14:09 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 22:14:09 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 22:14:09 | INFO     | __main__                  | ✓ SessionManager closed
