@@ -13,6 +13,7 @@ Phase 4 implementation is complete with three additional production-ready scrape
 **Target**: https://www.itnnews.lk
 
 **Features**:
+
 - ✅ Extends `BaseScraper` with WordPress-style structure
 - ✅ 7 categories: Local, International, Sports, Business, Entertainment, Politics, Economy
 - ✅ Simple, clean HTML structure with standard patterns
@@ -22,10 +23,11 @@ Phase 4 implementation is complete with three additional production-ready scrape
 - ✅ Robust selectors with multiple fallbacks
 
 **Architecture**:
+
 ```python
 class ITNScraper(BaseScraper):
     BASE_URL = 'https://www.itnnews.lk'
-    
+
     CATEGORIES = {
         'local': {'slug': 'local-news', 'name': 'දේශීය පුවත්'},
         'sports': {'slug': 'sports', 'name': 'ක්‍රීඩා'},
@@ -34,6 +36,7 @@ class ITNScraper(BaseScraper):
 ```
 
 **Example Usage**:
+
 ```bash
 python main.py --site itn --category local --limit 1000
 ```
@@ -45,6 +48,7 @@ python main.py --site itn --category local --limit 1000
 **Target**: https://www.newsfirst.lk/sinhala/
 
 **Features**:
+
 - ✅ Extends `BaseScraper` for clean, modern layout
 - ✅ 8 categories: Local, International, Sports, Business, Entertainment, Politics, Crime, Features
 - ✅ High-density text articles with semantic HTML
@@ -55,11 +59,12 @@ python main.py --site itn --category local --limit 1000
 - ✅ Automatically removes ads, social buttons, related posts
 
 **Architecture**:
+
 ```python
 class NewsFirstScraper(BaseScraper):
     BASE_URL = 'https://www.newsfirst.lk'
     SINHALA_BASE = 'https://www.newsfirst.lk/sinhala'
-    
+
     CATEGORIES = {
         'local': {'slug': 'local', 'name': 'දේශීය'},
         'international': {'slug': 'world', 'name': 'ලෝක'},
@@ -68,6 +73,7 @@ class NewsFirstScraper(BaseScraper):
 ```
 
 **Example Usage**:
+
 ```bash
 python main.py --site newsfirst --category sports --limit 2000
 ```
@@ -79,6 +85,7 @@ python main.py --site newsfirst --category sports --limit 2000
 **Target**: https://lankatruth.com/si
 
 **Features**:
+
 - ✅ Extends `BaseScraper` for deep archive access
 - ✅ 7 categories: News, Politics, Sports, International, Entertainment, Business, Features
 - ✅ Handles both segment-based (`/page/[num]/`) and query-based (`?page=[num]`) pagination
@@ -88,11 +95,12 @@ python main.py --site newsfirst --category sports --limit 2000
 - ✅ Comprehensive fallback selectors for HTML variations
 
 **Architecture**:
+
 ```python
 class LankaTruthScraper(BaseScraper):
     BASE_URL = 'https://lankatruth.com'
     SINHALA_BASE = 'https://lankatruth.com/si'
-    
+
     CATEGORIES = {
         'news': {'slug': 'news', 'name': 'පුවත්'},
         'politics': {'slug': 'politics', 'name': 'දේශපාලන'},
@@ -101,6 +109,7 @@ class LankaTruthScraper(BaseScraper):
 ```
 
 **Example Usage**:
+
 ```bash
 python main.py --site lankatruth --category news --limit 1500
 ```
@@ -110,12 +119,14 @@ python main.py --site lankatruth --category news --limit 1500
 ### 4. **Updated Main CLI** (`main.py`)
 
 **Changes**:
+
 - ✅ Registered 3 new scrapers in site registry
 - ✅ Updated `--site all` to include all 5 scrapers
 - ✅ Updated `--resume` to handle all 5 scrapers
 - ✅ Import statements updated
 
 **Now Supports**:
+
 ```bash
 # All 5 sites available:
 python main.py --site adaderana ...
@@ -135,6 +146,7 @@ python main.py --site all --limit 50000
 **Purpose**: Standalone utility for analyzing scraped corpus quality and progress.
 
 **Features**:
+
 - ✅ Scans `vincere_corpus` directory recursively
 - ✅ Counts articles by site and category
 - ✅ Calculates word count statistics (total, average)
@@ -144,6 +156,7 @@ python main.py --site all --limit 50000
 - ✅ Provides data quality insights and recommendations
 
 **CLI Usage**:
+
 ```bash
 # Analyze default corpus
 python analyze_corpus.py
@@ -181,13 +194,13 @@ python analyze_corpus.py --corpus-dir ./vincere_corpus --export report.json
 
 🌐 BY SITE
 --------------------------------------------------------------------------------
-Site                 Articles     Total Words     Avg Words   
+Site                 Articles     Total Words     Avg Words
 --------------------------------------------------------------------------------
-adaderana            5,234        1,523,100       291.0       
-hirunews             4,123        1,198,567       290.7       
-newsfirst            3,012        912,345         302.9       
-itn                  2,001        589,123         294.4       
-lankatruth           1,062        298,755         281.3       
+adaderana            5,234        1,523,100       291.0
+hirunews             4,123        1,198,567       290.7
+newsfirst            3,012        912,345         302.9
+itn                  2,001        589,123         294.4
+lankatruth           1,062        298,755         281.3
 --------------------------------------------------------------------------------
 
 📁 BY SITE AND CATEGORY
@@ -195,14 +208,14 @@ lankatruth           1,062        298,755         281.3
 
   ADADERANA
   ----------------------------------------------------------------------------
-  Category                  Articles     Total Words     Avg Words   
+  Category                  Articles     Total Words     Avg Words
   ----------------------------------------------------------------------------
-  politics                  1,234        358,900         290.9       
-  sports                    987          286,543         290.3       
-  local                     854          248,901         291.4       
+  politics                  1,234        358,900         290.9
+  sports                    987          286,543         290.3
+  local                     854          248,901         291.4
   ...
   ----------------------------------------------------------------------------
-  TOTAL                     5,234        1,523,100       291.0       
+  TOTAL                     5,234        1,523,100       291.0
 
   ...
 
@@ -221,6 +234,7 @@ lankatruth           1,062        298,755         281.3
 ```
 
 **JSON Export Structure**:
+
 ```json
 {
   "scan_timestamp": "2026-02-11T14:30:00.123456",
@@ -254,13 +268,13 @@ lankatruth           1,062        298,755         281.3
 
 ## Complete Scraper Suite
 
-| Scraper | Website | Categories | Status |
-|---------|---------|------------|--------|
-| AdaDerana | sinhala.adaderana.lk | 8 | ✅ Phase 3 |
-| HiruNews | hirunews.lk | 10 | ✅ Phase 3 |
-| ITN | itnnews.lk | 7 | ✅ Phase 4 |
-| NewsFirst | newsfirst.lk/sinhala | 8 | ✅ Phase 4 |
-| LankaTruth | lankatruth.com/si | 7 | ✅ Phase 4 |
+| Scraper    | Website              | Categories | Status     |
+| ---------- | -------------------- | ---------- | ---------- |
+| AdaDerana  | sinhala.adaderana.lk | 8          | ✅ Phase 3 |
+| HiruNews   | hirunews.lk          | 10         | ✅ Phase 3 |
+| ITN        | itnnews.lk           | 7          | ✅ Phase 4 |
+| NewsFirst  | newsfirst.lk/sinhala | 8          | ✅ Phase 4 |
+| LankaTruth | lankatruth.com/si    | 7          | ✅ Phase 4 |
 
 **Total**: 5 scrapers, 40 categories, production-ready
 
@@ -396,6 +410,7 @@ Vincere_Scraper/
 ### 1. **Scraper Consistency**
 
 All 5 scrapers follow identical patterns:
+
 - Same 5 abstract methods implementation
 - Consistent error handling
 - Similar selector fallback chains
@@ -406,6 +421,7 @@ All 5 scrapers follow identical patterns:
 ### 2. **Graceful Degradation**
 
 Each scraper tries multiple selector strategies:
+
 ```python
 body_elem = (
     soup.select_one('div.entry-content') or  # Primary
@@ -420,6 +436,7 @@ body_elem = (
 ### 3. **Pagination Heuristics**
 
 When explicit "Next" links are missing:
+
 1. Try numbered pagination links
 2. Check article count on page
 3. Construct next URL if reasonable limit not reached
@@ -441,13 +458,14 @@ When explicit "Next" links are missing:
 ### Scale Projections (5 Scrapers)
 
 | Articles | Est. Time (20 req/min) | Est. Time (30 req/min) | Corpus Size |
-|----------|------------------------|------------------------|-------------|
+| -------- | ---------------------- | ---------------------- | ----------- |
 | 1,000    | 2-3 hours              | 1-2 hours              | 2-5 MB      |
 | 10,000   | 20-30 hours            | 15-20 hours            | 20-50 MB    |
 | 50,000   | 100-150 hours          | 65-100 hours           | 100-250 MB  |
 | 100,000  | 200-300 hours          | 130-200 hours          | 200-500 MB  |
 
 **Optimization Tips**:
+
 - Use `--rate-limit 30` for 1.5x speedup (watch for 403s)
 - Run on VPS/cloud with stable connection
 - Use `--resume` to spread work across multiple sessions
@@ -459,22 +477,24 @@ When explicit "Next" links are missing:
 
 ### Word Count Benchmarks
 
-| Quality Level | Avg Words/Article | Status |
-|---------------|-------------------|--------|
-| Excellent     | ≥ 400             | 🟢 High-quality articles |
+| Quality Level | Avg Words/Article | Status                     |
+| ------------- | ----------------- | -------------------------- |
+| Excellent     | ≥ 400             | 🟢 High-quality articles   |
 | Good          | 250-399           | 🟡 Acceptable for training |
-| Fair          | 150-249           | 🟠 Consider filtering |
+| Fair          | 150-249           | 🟠 Consider filtering      |
 | Poor          | < 150             | 🔴 Low information density |
 
 ### Corpus Health Indicators
 
 **Healthy Corpus**:
+
 - ✅ Average word count > 250
 - ✅ Balanced distribution across sites (no single site > 40%)
 - ✅ Multiple categories per site (diversity)
 - ✅ Date range spans recent years (temporal coverage)
 
 **Needs Improvement**:
+
 - ⚠️ Average word count < 200 → Filter short articles
 - ⚠️ Single site dominates (> 50%) → Scrape more from others
 - ⚠️ Few categories → Expand category coverage
@@ -533,10 +553,10 @@ cat stats.json | jq '.sites | to_entries | sort_by(.value.average_words) | rever
 python analyze_corpus.py --export stats.json
 
 cat stats.json | jq '
-  .sites | 
-  to_entries[] | 
-  .value.categories | 
-  to_entries[] | 
+  .sites |
+  to_entries[] |
+  .value.categories |
+  to_entries[] |
   select(.value.article_count > 1000)
 '
 
@@ -581,6 +601,7 @@ cat stats.json | jq '
 ✅ **Phase 4 Complete**
 
 **Delivered**:
+
 - 3 new production-ready scrapers (ITN, NewsFirst, LankaTruth)
 - Updated main.py with full 5-scraper support
 - Comprehensive corpus analytics utility (`analyze_corpus.py`)
@@ -588,6 +609,7 @@ cat stats.json | jq '
 - Progress tracking toward 100K goal
 
 **Code Quality**:
+
 - 2,400+ lines of new production code
 - Consistent architecture across all scrapers
 - Type hints and comprehensive docstrings
@@ -595,6 +617,7 @@ cat stats.json | jq '
 - Extensive logging
 
 **Complete Framework**:
+
 - **5 scrapers** covering major Sinhala news sites
 - **40 categories** for diverse content
 - **CLI orchestrator** with graceful shutdown and resume
@@ -602,6 +625,7 @@ cat stats.json | jq '
 - **Production-ready** for 100K+ article corpus
 
 **Ready to Scale**:
+
 ```bash
 # Start building 100K article corpus
 python main.py --site all --limit 100000 --rate-limit 30 --log-file production.log
