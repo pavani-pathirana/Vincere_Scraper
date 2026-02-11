@@ -128,6 +128,7 @@ class BaseScraper(ABC):
             'articles_scraped': 0,
             'articles_failed': 0,
             'articles_skipped': 0,
+            'pages_scraped': 0,
             'pages_processed': 0
         }
         
@@ -264,8 +265,9 @@ class BaseScraper(ABC):
             category=category
         )
         
+        # Capture stats at start to calculate delta for this run
+        start_stats = self.stats.copy()
         current_page = start_page
-        articles_this_run = 0
         
         try:
             while True:
@@ -297,7 +299,6 @@ class BaseScraper(ABC):
                     for article_meta in articles:
                         try:
                             self._scrape_single_article(article_meta, session_id)
-                            articles_this_run += 1
                         except Exception as e:
                             logger.error(f"Failed to scrape article {article_meta.url}: {e}")
                             self.stats['articles_failed'] += 1
@@ -310,6 +311,7 @@ class BaseScraper(ABC):
                         last_page_index=current_page
                     )
                     
+                    self.stats['pages_scraped'] += 1
                     self.stats['pages_processed'] += 1
                     
                     # Check for next page
@@ -339,9 +341,15 @@ class BaseScraper(ABC):
             # Mark session complete
             self.state_manager.update_session_stats(session_id, status='completed')
             
+            # Calculate stats for this run (delta from start)
+            articles_scraped_this_run = self.stats['articles_scraped'] - start_stats['articles_scraped']
+            articles_skipped_this_run = self.stats['articles_skipped'] - start_stats['articles_skipped']
+            articles_failed_this_run = self.stats['articles_failed'] - start_stats['articles_failed']
+            
             logger.info(
                 f"Category scrape complete: {self.website_name}/{category} - "
-                f"{articles_this_run} articles this run"
+                f"{articles_scraped_this_run} new, {articles_skipped_this_run} skipped, "
+                f"{articles_failed_this_run} failed"
             )
             
         except KeyboardInterrupt:
@@ -354,7 +362,14 @@ class BaseScraper(ABC):
             self.state_manager.update_session_stats(session_id, status='failed')
             raise
         
-        return self.stats.copy()
+        # Return stats for this run only (delta from start)
+        return {
+            'articles_scraped': self.stats['articles_scraped'] - start_stats['articles_scraped'],
+            'articles_failed': self.stats['articles_failed'] - start_stats['articles_failed'],
+            'articles_skipped': self.stats['articles_skipped'] - start_stats['articles_skipped'],
+            'pages_scraped': self.stats['pages_scraped'] - start_stats['pages_scraped'],
+            'pages_processed': self.stats['pages_processed'] - start_stats['pages_processed']
+        }
     
     def _scrape_single_article(self, metadata: ArticleMetadata, session_id: str):
         """
@@ -519,6 +534,7 @@ class BaseScraper(ABC):
             'articles_scraped': 0,
             'articles_failed': 0,
             'articles_skipped': 0,
+            'pages_scraped': 0,
             'pages_processed': 0
         }
 

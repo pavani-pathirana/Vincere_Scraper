@@ -5,6 +5,7 @@
 requests>=2.31.0           # HTTP client
 beautifulsoup4>=4.12.0     # HTML parsing
 lxml>=5.1.0                # Fast HTML parser backend
+brotli>=1.1.0              # Brotli decompression for HTTP responses
 
 # === Retry & Robustness ===
 tenacity>=8.2.0            # Exponential backoff retry logic

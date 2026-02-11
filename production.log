@@ -1,0 +1,532 @@
+2026-02-11 11:40:31 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 11:40:31 | INFO     | __main__                  | Initializing components...
+2026-02-11 11:40:31 | INFO     | core.session_manager      | SessionManager initialized: 30 req/min, timeout=10.0s/30.0s
+2026-02-11 11:40:31 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 30 req/min)
+2026-02-11 11:40:31 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 11:40:31 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 11:40:31 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 11:40:31 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 11:40:31 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 11:40:31 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 11:40:31 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 11:40:31 | INFO     | __main__                  | Scraping all sites: adaderana, hirunews, itn, newsfirst, lankatruth
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 11:40:31 | INFO     | __main__                  |   SITE: ADADERANA
+2026-02-11 11:40:31 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 11:40:31 | INFO     | __main__                  | Initializing scraper for: adaderana
+2026-02-11 11:40:31 | INFO     | core.base_scraper         | Initialized AdaDeranaScraper for adaderana
+2026-02-11 11:40:31 | INFO     | scrapers.adaderana_scraper | Ada Derana: Found 8 categories
+2026-02-11 11:40:31 | INFO     | __main__                  | Target categories for adaderana: politics, sports, business, entertainment, local, international, features, crime
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping adaderana - politics
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape politics: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping adaderana - sports
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape sports: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping adaderana - business
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape business: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping adaderana - entertainment
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape entertainment: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping adaderana - local
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape local: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping adaderana - international
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape international: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping adaderana - features
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape features: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping adaderana - crime
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape crime: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+✓ Completed adaderana:
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Pages: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Categories completed: 0
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 11:40:31 | INFO     | __main__                  |   SITE: HIRUNEWS
+2026-02-11 11:40:31 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 11:40:31 | INFO     | __main__                  | Initializing scraper for: hirunews
+2026-02-11 11:40:31 | INFO     | core.base_scraper         | Initialized HiruNewsScraper for hirunews
+2026-02-11 11:40:31 | INFO     | scrapers.hirunews_scraper | Hiru News: Found 10 categories
+2026-02-11 11:40:31 | INFO     | __main__                  | Target categories for hirunews: local, international, sports, business, entertainment, politics, crime, features, tech, health
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - local
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape local: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - international
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape international: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - sports
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape sports: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - business
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape business: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - entertainment
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape entertainment: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - politics
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape politics: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - crime
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape crime: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - features
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape features: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - tech
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape tech: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping hirunews - health
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape health: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+✓ Completed hirunews:
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Pages: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Categories completed: 0
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 11:40:31 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 11:40:31 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 11:40:31 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 11:40:31 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 11:40:31 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 11:40:31 | INFO     | __main__                  | Target categories for itn: local, international, sports, business, entertainment, politics, economy
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping itn - local
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape local: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping itn - international
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape international: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping itn - sports
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape sports: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping itn - business
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape business: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping itn - entertainment
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape entertainment: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping itn - politics
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape politics: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping itn - economy
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape economy: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Pages: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Categories completed: 0
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 11:40:31 | INFO     | __main__                  |   SITE: NEWSFIRST
+2026-02-11 11:40:31 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 11:40:31 | INFO     | __main__                  | Initializing scraper for: newsfirst
+2026-02-11 11:40:31 | INFO     | core.base_scraper         | Initialized NewsFirstScraper for newsfirst
+2026-02-11 11:40:31 | INFO     | scrapers.newsfirst_scraper | NewsFirst: Found 8 categories
+2026-02-11 11:40:31 | INFO     | __main__                  | Target categories for newsfirst: local, international, sports, business, entertainment, politics, crime, features
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping newsfirst - local
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape local: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping newsfirst - international
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape international: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping newsfirst - sports
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape sports: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping newsfirst - business
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape business: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping newsfirst - entertainment
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape entertainment: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping newsfirst - politics
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape politics: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping newsfirst - crime
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape crime: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping newsfirst - features
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape features: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+✓ Completed newsfirst:
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Pages: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Categories completed: 0
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 11:40:31 | INFO     | __main__                  |   SITE: LANKATRUTH
+2026-02-11 11:40:31 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 11:40:31 | INFO     | __main__                  | Initializing scraper for: lankatruth
+2026-02-11 11:40:31 | INFO     | core.base_scraper         | Initialized LankaTruthScraper for lankatruth
+2026-02-11 11:40:31 | INFO     | scrapers.lankatruth_scraper | Lanka Truth: Found 7 categories
+2026-02-11 11:40:31 | INFO     | __main__                  | Target categories for lankatruth: news, politics, sports, international, entertainment, business, features
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping lankatruth - news
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape news: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping lankatruth - politics
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape politics: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping lankatruth - sports
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape sports: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping lankatruth - international
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape international: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping lankatruth - entertainment
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape entertainment: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping lankatruth - business
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape business: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  |   Scraping lankatruth - features
+2026-02-11 11:40:31 | INFO     | __main__                  | ======================================================================
+2026-02-11 11:40:31 | INFO     | __main__                  | Max pages for this category: 5000 (to reach limit of 100000)
+2026-02-11 11:40:31 | ERROR    | __main__                  | ✗ Failed to scrape features: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 278, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: BaseScraper.scrape_category() got an unexpected keyword argument 'start_page'
+2026-02-11 11:40:31 | INFO     | __main__                  | 
+✓ Completed lankatruth:
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Pages: 0
+2026-02-11 11:40:31 | INFO     | __main__                  |   - Categories completed: 0
+2026-02-11 11:40:31 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 11:40:31 | INFO     | __main__                  |   total_articles:
+2026-02-11 11:40:31 | CRITICAL | __main__                  | Fatal error: 'int' object has no attribute 'items'
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 513, in main
+    for category, count in cat_stats.items():
+                           ^^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'items'
+2026-02-11 11:40:31 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 11:40:31 | INFO     | __main__                  | ✓ SessionManager closed

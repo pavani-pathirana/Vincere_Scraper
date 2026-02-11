@@ -6,6 +6,7 @@ Pattern: Standard news categories with simple HTML structure
 Focus: Clean, straightforward scraping for ITN's well-structured pages
 """
 
+import re
 import logging
 from typing import List, Dict, Optional
 from datetime import datetime
@@ -46,10 +47,10 @@ class ITNScraper(BaseScraper):
     
     BASE_URL = 'https://www.itnnews.lk'
     
-    # Category mapping (adjust based on actual site structure)
+    # Category mapping (verified URL patterns)
     CATEGORIES = {
         'local': {
-            'slug': 'local-news',
+            'slug': 'local',
             'name': 'දේශීය පුවත්'
         },
         'international': {
@@ -89,7 +90,7 @@ class ITNScraper(BaseScraper):
         
         for category_key, category_info in self.CATEGORIES.items():
             slug = category_info['slug']
-            url = f"{self.BASE_URL}/category/{slug}/"
+            url = f"{self.BASE_URL}/{slug}/"
             category_urls[category_key] = url
         
         logger.info(f"ITN News: Found {len(category_urls)} categories")
@@ -99,10 +100,10 @@ class ITNScraper(BaseScraper):
         """
         Build URL for a specific page of article list.
         
-        ITN uses WordPress-style pagination: /category/[name]/page/[num]/
+        ITN uses standard pagination: /[slug]/page/[num]/
         
         Args:
-            category_url: Base URL for category (e.g., /category/local-news/)
+            category_url: Base URL for category (e.g., /local/)
             page: Page number (1-indexed)
         
         Returns:
@@ -151,54 +152,57 @@ class ITNScraper(BaseScraper):
             soup.select('div.post') or
             soup.select('div.news-item') or
             soup.select('div[class*="post-"]') or
-            soup.select('.posts-container article')
+            soup.select('.posts-container article') or
+            soup.select('div[class*="item"]')
         )
         
         if not article_containers:
             logger.warning(f"No article containers found in ITN {category} list page")
-            # Fallback: look for any article links
-            content_area = soup.select_one('main') or soup.select_one('.content') or soup
-            # ITN articles typically have date-based URLs
-            article_containers = content_area.select('a[href*="/2024/"], a[href*="/2025/"], a[href*="/2026/"]')
+            # Fallback: look for any links with date-based URLs (ITN pattern: /YYYY/MM/DD/article-id/)
+            # ITN duplicates each article (image link + text link), so select only text links
+            # Text links are inside h3.entry-title
+            all_links = soup.select('h3.entry-title a[href*="itnnews.lk/2024/"], h3.entry-title a[href*="itnnews.lk/2025/"], h3.entry-title a[href*="itnnews.lk/2026/"], h3.entry-title a[href*="itnnews.lk/2027/"]')
+            
+            # Deduplicate by URL (just in case)
+            seen_urls = set()
+            article_containers = []
+            for link in all_links:
+                href = link.get('href', '')
+                # Only keep if we haven't seen this URL yet
+                if href and href not in seen_urls:
+                    # Verify it matches ITN article pattern: /YYYY/MM/DD/article-id/
+                    if re.search(r'/\d{4}/\d{2}/\d{2}/\d+/', href):
+                        article_containers.append(link)
+                        seen_urls.add(href)
+            
+            if article_containers:
+                logger.info(f"Found {len(article_containers)} unique article links using ITN date-based URL pattern")
         
         for container in article_containers:
             try:
-                # Extract article link
-                if container.name == 'a':
-                    link_elem = container
-                else:
-                    link_elem = container.select_one('a')
-                
-                if not link_elem:
-                    continue
-                
+                # Extract article link - container IS the <a> tag
+                link_elem = container
                 article_url = link_elem.get('href', '')
                 
-                # Make absolute URL
+                if not article_url:
+                    continue
+                
+                # ITN uses absolute URLs (https://www.itnnews.lk/...)
+                # Make sure we have absolute URL
                 if article_url.startswith('/'):
                     article_url = urljoin(self.BASE_URL, article_url)
                 elif not article_url.startswith('http'):
                     article_url = urljoin(self.BASE_URL, article_url)
                 
-                # Skip if not an article URL (should contain date format)
-                # ITN articles: /2024/01/15/article-title/
-                if not any(year in article_url for year in ['/2024/', '/2025/', '/2026/', '/2027/']):
+                # Validate ITN article URL format: must contain /YYYY/MM/DD/article-id/
+                if not re.search(r'/\d{4}/\d{2}/\d{2}/\d+/', article_url):
                     continue
                 
-                # Extract headline
-                headline_elem = (
-                    container.select_one('h2.entry-title') or
-                    container.select_one('h2') or
-                    container.select_one('h3') or
-                    container.select_one('.title') or
-                    container.select_one('.headline') or
-                    link_elem
-                )
-                
-                headline = headline_elem.get_text(strip=True) if headline_elem else 'Untitled'
+                # Extract headline - for links inside h3.entry-title, the text is in the link itself
+                headline = link_elem.get_text(strip=True)
                 
                 # Skip if headline is empty or too short
-                if len(headline) < 10:
+                if not headline or len(headline) < 10:
                     continue
                 
                 # Extract date (optional)

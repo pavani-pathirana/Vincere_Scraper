@@ -266,20 +266,12 @@ def scrape_site(
                 max_pages = max(1, remaining_limit // articles_per_page)
                 logger.info(f"Max pages for this category: {max_pages} (to reach limit of {limit})")
             
-            # Resume from saved state if requested
-            start_page = 1
-            if resume:
-                saved_state = state_manager.get_pagination_state(site_name, cat_name)
-                if saved_state:
-                    start_page = saved_state['last_page_scraped'] + 1
-                    logger.info(f"Resuming from page {start_page} (saved state found)")
-            
-            # Scrape category
+            # Scrape category (resume is handled internally by BaseScraper)
             stats = scraper.scrape_category(
                 category=cat_name,
                 category_url=cat_url,
                 max_pages=max_pages,
-                start_page=start_page
+                resume=resume
             )
             
             # Update overall stats
@@ -508,9 +500,10 @@ Examples:
         # Show corpus statistics
         logger.info("Corpus statistics:")
         corpus_stats = file_writer.get_corpus_stats()
-        for website, cat_stats in corpus_stats.items():
-            logger.info(f"  {website}:")
-            for category, count in cat_stats.items():
+        logger.info(f"  Total articles in corpus: {corpus_stats['total_articles']}")
+        for website, website_data in corpus_stats.get('websites', {}).items():
+            logger.info(f"  {website}: {website_data['total']} articles")
+            for category, count in website_data.get('categories', {}).items():
                 logger.info(f"    - {category}: {count} articles")
         
         logger.info(f"\n✓ Corpus saved to: {args.corpus_dir}")
