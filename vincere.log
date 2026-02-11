@@ -8272,3 +8272,228 @@ ValueError: Category 'world' not found for itn. Available: local, international,
 2026-02-11 22:14:09 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
 2026-02-11 22:14:09 | INFO     | core.session_manager      | SessionManager closed
 2026-02-11 22:14:09 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 22:18:59 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 22:18:59 | INFO     | __main__                  | Initializing components...
+2026-02-11 22:18:59 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 22:18:59 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 22:18:59 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 22:18:59 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 22:18:59 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 22:18:59 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 22:18:59 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 22:18:59 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 22:18:59 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 22:18:59 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 22:18:59 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 22:18:59 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 22:18:59 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 22:18:59 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 22:18:59 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 22:18:59 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 22:18:59 | INFO     | __main__                  | Target categories for itn: entertainment
+2026-02-11 22:18:59 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 22:18:59 | INFO     | __main__                  |   Scraping itn - entertainment
+2026-02-11 22:18:59 | INFO     | __main__                  | ======================================================================
+2026-02-11 22:18:59 | INFO     | __main__                  | Max pages for this category: 100 (to reach limit of 2000)
+2026-02-11 22:18:59 | INFO     | core.base_scraper         | Starting category scrape: itn/entertainment
+2026-02-11 22:18:59 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/entertainment/
+2026-02-11 22:19:02 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:19:02 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:19:02 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 9 articles from list page
+2026-02-11 22:19:02 | INFO     | core.base_scraper         | Found 9 articles on page 1
+2026-02-11 22:19:05 | INFO     | core.base_scraper         | Scraped article: කසුන් පුස්සවෙලගේ 'අපරාධ රාජ්‍යයක් – අසංක්ෂිප්ත පරි... (ad6a73af)
+2026-02-11 22:19:07 | INFO     | core.base_scraper         | Scraped article: අභාවයට යන වයඹ පළාතේ ජහුටා නාට්‍ය සම්ප්‍රදාය... (8e3a1832)
+2026-02-11 22:19:08 | INFO     | core.base_scraper         | Scraped article: 'යාපන රසකතා' කෙටිකතා සංග්‍රහයේ සිංහල පරිවර්තනය එළි... (41876ce4)
+2026-02-11 22:19:11 | INFO     | core.base_scraper         | Scraped article: "ටවර් නාට්‍ය උළෙල 2025" අද සිට... (6dfb80eb)
+2026-02-11 22:19:13 | INFO     | core.base_scraper         | Scraped article: පාසල් සිසුන්ගේ පළමු සිනමා නිර්මාණය "රොකට්" ළඟදීම ස... (0abc10ca)
+2026-02-11 22:19:18 | INFO     | core.base_scraper         | Scraped article: සාහිත්‍යය සඳහා වූ නොබෙල් ත්‍යාගය දකුණු කොරියානු ලේ... (10de4bd4)
+2026-02-11 22:19:20 | INFO     | core.base_scraper         | Scraped article: රොනාල්ඩෝ මිනිත්තු 90කින් තිබ්බ වාර්තාව... (25e1b507)
+2026-02-11 22:19:22 | INFO     | core.base_scraper         | Scraped article: " මම නෙවෙයි " – දිනයි... (451791f9)
+2026-02-11 22:19:22 | INFO     | core.base_scraper         | Scraping page 2: https://www.itnnews.lk/entertainment/page/2/
+2026-02-11 22:19:24 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:19:24 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:19:24 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 9 articles from list page
+2026-02-11 22:19:24 | INFO     | core.base_scraper         | Found 9 articles on page 2
+2026-02-11 22:19:26 | INFO     | core.base_scraper         | Scraped article: සත් මසක දරු ගැබ දරාගෙන ක්‍රීඩිකාවක් ඔලිම්පික් තරඟ ... (c5ca54b5)
+2026-02-11 22:19:28 | INFO     | core.base_scraper         | Scraped article: පෘථිවිය මත ජීවය බිහිවීම ගැන කියන කතාව... (cecc497d)
+2026-02-11 22:19:30 | INFO     | core.base_scraper         | Scraped article: අනාගත පරපුරට දැකගන්න කහවිල්ගොඩ විහාරයේ සිතුවම් සංර... (2136314e)
+2026-02-11 22:19:31 | INFO     | core.base_scraper         | Scraped article: කෘත්‍රිම බුද්ධියෙන් නිර්මාණය කළ ලෝක නායකයන්ගේ මෝස්... (06af2697)
+2026-02-11 22:19:33 | INFO     | core.base_scraper         | Scraped article: ආදි මලිදෙව් දියණියන්ගේ Sports Fiesta 2024... (58e47bce)
+2026-02-11 22:19:34 | INFO     | core.base_scraper         | Scraped article: ටවර් හෝල් රඟහල පදනමෙන් " ටවර් රංග යාත්‍රා "... (5e8f077f)
+2026-02-11 22:19:38 | INFO     | core.base_scraper         | Scraped article: තර්ජනී යුග දිවියට... (4e2bad6d)
+2026-02-11 22:19:41 | INFO     | core.base_scraper         | Scraped article: අඟහරු ග්‍රහයා මත වාසය කිරීමට අදාල පර්‍යේෂණයකට ශ්‍ර... (fe94a904)
+2026-02-11 22:19:44 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා තේ මණ්ඩලයෙන් දන්සැලක්... (96cc21b4)
+2026-02-11 22:19:44 | INFO     | core.base_scraper         | Scraping page 3: https://www.itnnews.lk/entertainment/page/3/
+2026-02-11 22:19:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:19:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:19:46 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 9 articles from list page
+2026-02-11 22:19:46 | INFO     | core.base_scraper         | Found 9 articles on page 3
+2026-02-11 22:19:49 | INFO     | core.base_scraper         | Scraped article: ජාත්‍යන්තර සම්මාන ලැබූ රූකාන්ත සහ වින්ඩි... (f2a70684)
+2026-02-11 22:19:53 | INFO     | core.base_scraper         | Scraped article: ලංකේය නම බබලවන අපේ කෙල්ල... (d824b9c2)
+2026-02-11 22:19:56 | INFO     | core.base_scraper         | Scraped article: වින්ඩි ගුණතිලකට සම්මානයක්... (f4b55ed6)
+2026-02-11 22:20:00 | INFO     | core.base_scraper         | Scraped article: 'හෙළ රූකඩ නාට්‍ය කලාව' ග්‍රන්ථය දොරට වඩී... (67870e63)
+2026-02-11 22:20:02 | INFO     | core.base_scraper         | Scraped article: ඉන්දු – ශ්‍රී ලංකා සම්භාවනීය අමුත්තන් රැසකගේ සහභාග... (28bd9630)
+2026-02-11 22:20:05 | INFO     | core.base_scraper         | Scraped article: විදේශිකයන් නානුඔයේ නටපු නැටිල්ලක්... (8eb5fe3d)
+2026-02-11 22:20:08 | INFO     | core.base_scraper         | Scraped article: අඟල් 50 දිග PIZZA එකක්... (7bf3eca4)
+2026-02-11 22:20:11 | INFO     | core.base_scraper         | Scraped article: මිනිස් මොළයට බද්ද කළ චිප් එක... (626cb27e)
+2026-02-11 22:20:14 | INFO     | core.base_scraper         | Scraped article: හොඳම නළුවා සහ නිළිය වූ සැමියා සහ බිරිඳ... (e140bff5)
+2026-02-11 22:20:14 | INFO     | core.base_scraper         | Scraping page 4: https://www.itnnews.lk/entertainment/page/4/
+2026-02-11 22:20:16 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:20:16 | INFO     | scrapers.itn_scraper      | Found 3 unique article links using ITN date-based URL pattern
+2026-02-11 22:20:16 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 3 articles from list page
+2026-02-11 22:20:16 | INFO     | core.base_scraper         | Found 3 articles on page 4
+2026-02-11 22:20:19 | INFO     | core.base_scraper         | Scraped article: ඩකා සම්මාන උළෙලේදි ජගත් මනුවර්ණට සම්මානයක්... (894240df)
+2026-02-11 22:20:23 | INFO     | core.base_scraper         | Scraped article: 'ඡන්දෝලංකාර' කෘතිය එළිදැක්වේ... (66d3ba3d)
+2026-02-11 22:20:26 | INFO     | core.base_scraper         | Scraped article: ජපානයේ අක්කර 400ක වගා කරන ශ්‍රී ලාංකික ව්‍යාපාරිකය... (48e23ba1)
+2026-02-11 22:20:26 | INFO     | core.base_scraper         | Scraping page 5: https://www.itnnews.lk/entertainment/page/5/
+2026-02-11 22:20:28 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:20:28 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 0 articles from list page
+2026-02-11 22:20:28 | INFO     | core.base_scraper         | No articles found on page 5, ending scrape
+2026-02-11 22:20:28 | INFO     | core.base_scraper         | Category scrape complete: itn/entertainment - 29 new, 1 skipped, 0 failed
+2026-02-11 22:20:28 | INFO     | __main__                  | ✓ Completed entertainment: 29 articles, 4 pages
+2026-02-11 22:20:28 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 22:20:28 | INFO     | __main__                  |   - Articles: 29
+2026-02-11 22:20:28 | INFO     | __main__                  |   - Pages: 4
+2026-02-11 22:20:28 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-11 22:20:28 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 22:20:29 | INFO     | __main__                  |   Total articles in corpus: 2853
+2026-02-11 22:20:29 | INFO     | __main__                  |   itn: 2853 articles
+2026-02-11 22:20:29 | INFO     | __main__                  |     - business: 210 articles
+2026-02-11 22:20:29 | INFO     | __main__                  |     - entertainment: 29 articles
+2026-02-11 22:20:29 | INFO     | __main__                  |     - local: 900 articles
+2026-02-11 22:20:29 | INFO     | __main__                  |     - sports: 862 articles
+2026-02-11 22:20:29 | INFO     | __main__                  |     - world: 852 articles
+2026-02-11 22:20:29 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 22:20:29 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 22:20:29 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 22:20:29 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 22:20:29 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 22:20:48 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 22:20:48 | INFO     | __main__                  | Initializing components...
+2026-02-11 22:20:48 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 22:20:48 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 22:20:48 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 22:20:48 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 22:20:48 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 22:20:48 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 22:20:48 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 22:20:48 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 22:20:48 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 22:20:48 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 22:20:48 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 22:20:48 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 22:20:48 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 22:20:48 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 22:20:48 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 22:20:48 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 22:20:48 | INFO     | __main__                  | Target categories for itn: entertainment
+2026-02-11 22:20:48 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 22:20:48 | INFO     | __main__                  |   Scraping itn - entertainment
+2026-02-11 22:20:48 | INFO     | __main__                  | ======================================================================
+2026-02-11 22:20:48 | INFO     | __main__                  | Max pages for this category: 100 (to reach limit of 2000)
+2026-02-11 22:20:48 | INFO     | core.base_scraper         | Starting category scrape: itn/entertainment
+2026-02-11 22:20:48 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/entertainment/
+2026-02-11 22:20:50 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:20:50 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:20:50 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 9 articles from list page
+2026-02-11 22:20:50 | INFO     | core.base_scraper         | Found 9 articles on page 1
+2026-02-11 22:20:52 | INFO     | core.base_scraper         | Scraping page 2: https://www.itnnews.lk/entertainment/page/2/
+2026-02-11 22:20:53 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:20:53 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:20:53 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 9 articles from list page
+2026-02-11 22:20:53 | INFO     | core.base_scraper         | Found 9 articles on page 2
+2026-02-11 22:20:55 | INFO     | core.base_scraper         | Scraping page 3: https://www.itnnews.lk/entertainment/page/3/
+2026-02-11 22:20:56 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:20:56 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 22:20:56 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 9 articles from list page
+2026-02-11 22:20:56 | INFO     | core.base_scraper         | Found 9 articles on page 3
+2026-02-11 22:20:57 | INFO     | core.base_scraper         | Scraping page 4: https://www.itnnews.lk/entertainment/page/4/
+2026-02-11 22:20:58 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:20:58 | INFO     | scrapers.itn_scraper      | Found 3 unique article links using ITN date-based URL pattern
+2026-02-11 22:20:58 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 3 articles from list page
+2026-02-11 22:20:58 | INFO     | core.base_scraper         | Found 3 articles on page 4
+2026-02-11 22:20:59 | INFO     | core.base_scraper         | Scraping page 5: https://www.itnnews.lk/entertainment/page/5/
+2026-02-11 22:20:59 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN entertainment list page
+2026-02-11 22:20:59 | INFO     | scrapers.itn_scraper      | ITN entertainment: Extracted 0 articles from list page
+2026-02-11 22:20:59 | INFO     | core.base_scraper         | No articles found on page 5, ending scrape
+2026-02-11 22:20:59 | INFO     | core.base_scraper         | Category scrape complete: itn/entertainment - 0 new, 30 skipped, 0 failed
+2026-02-11 22:20:59 | INFO     | __main__                  | ✓ Completed entertainment: 0 articles, 4 pages
+2026-02-11 22:20:59 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 22:20:59 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 22:20:59 | INFO     | __main__                  |   - Pages: 4
+2026-02-11 22:20:59 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-11 22:20:59 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 22:21:00 | INFO     | __main__                  |   Total articles in corpus: 2853
+2026-02-11 22:21:00 | INFO     | __main__                  |   itn: 2853 articles
+2026-02-11 22:21:00 | INFO     | __main__                  |     - business: 210 articles
+2026-02-11 22:21:00 | INFO     | __main__                  |     - entertainment: 29 articles
+2026-02-11 22:21:00 | INFO     | __main__                  |     - local: 900 articles
+2026-02-11 22:21:00 | INFO     | __main__                  |     - sports: 862 articles
+2026-02-11 22:21:00 | INFO     | __main__                  |     - world: 852 articles
+2026-02-11 22:21:00 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 22:21:00 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 22:21:00 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 22:21:00 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 22:21:00 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 22:27:06 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 22:27:06 | INFO     | __main__                  | Initializing components...
+2026-02-11 22:27:06 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 22:27:06 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 22:27:06 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 22:27:06 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 22:27:06 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 22:27:06 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 22:27:06 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 22:27:06 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 22:27:06 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 22:27:06 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 22:27:06 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 22:27:06 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 22:27:06 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 22:27:06 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 22:27:06 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 22:27:06 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 22:27:06 | INFO     | __main__                  | Target categories for itn: economy
+2026-02-11 22:27:06 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 22:27:06 | INFO     | __main__                  |   Scraping itn - economy
+2026-02-11 22:27:06 | INFO     | __main__                  | ======================================================================
+2026-02-11 22:27:06 | INFO     | __main__                  | Max pages for this category: 100 (to reach limit of 2000)
+2026-02-11 22:27:06 | INFO     | core.base_scraper         | Starting category scrape: itn/economy
+2026-02-11 22:27:07 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/economy/
+2026-02-11 22:27:12 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN economy list page
+2026-02-11 22:27:12 | INFO     | scrapers.itn_scraper      | ITN economy: Extracted 0 articles from list page
+2026-02-11 22:27:12 | INFO     | core.base_scraper         | No articles found on page 1, ending scrape
+2026-02-11 22:27:12 | INFO     | core.base_scraper         | Category scrape complete: itn/economy - 0 new, 0 skipped, 0 failed
+2026-02-11 22:27:12 | INFO     | __main__                  | ✓ Completed economy: 0 articles, 0 pages
+2026-02-11 22:27:12 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 22:27:12 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 22:27:12 | INFO     | __main__                  |   - Pages: 0
+2026-02-11 22:27:12 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-11 22:27:12 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 22:27:12 | INFO     | __main__                  |   Total articles in corpus: 2853
+2026-02-11 22:27:12 | INFO     | __main__                  |   itn: 2853 articles
+2026-02-11 22:27:12 | INFO     | __main__                  |     - business: 210 articles
+2026-02-11 22:27:12 | INFO     | __main__                  |     - entertainment: 29 articles
+2026-02-11 22:27:12 | INFO     | __main__                  |     - local: 900 articles
+2026-02-11 22:27:12 | INFO     | __main__                  |     - sports: 862 articles
+2026-02-11 22:27:12 | INFO     | __main__                  |     - world: 852 articles
+2026-02-11 22:27:12 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 22:27:12 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 22:27:12 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 22:27:12 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 22:27:12 | INFO     | __main__                  | ✓ SessionManager closed
