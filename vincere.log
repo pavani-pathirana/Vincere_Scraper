@@ -2600,3 +2600,1537 @@ UnicodeEncodeError: 'charmap' codec can't encode characters in position 32-40: c
 2026-02-11 17:25:30 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
 2026-02-11 17:25:30 | INFO     | core.session_manager      | SessionManager closed
 2026-02-11 17:25:30 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 17:57:02 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 17:57:02 | INFO     | __main__                  | Initializing components...
+2026-02-11 17:57:02 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 17:57:02 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 17:57:02 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 17:57:02 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 17:57:02 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 17:57:02 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 17:57:02 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 17:57:02 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 17:57:02 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 17:57:02 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 17:57:02 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 17:57:02 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 17:57:02 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 17:57:02 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 17:57:02 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 17:57:02 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 17:57:02 | INFO     | __main__                  | Target categories for itn: local
+2026-02-11 17:57:02 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 17:57:02 | INFO     | __main__                  |   Scraping itn - local
+2026-02-11 17:57:02 | INFO     | __main__                  | ======================================================================
+2026-02-11 17:57:02 | INFO     | __main__                  | Max pages for this category: 100 (to reach limit of 2000)
+2026-02-11 17:57:02 | INFO     | core.base_scraper         | Starting category scrape: itn/local
+2026-02-11 17:57:02 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/local/
+2026-02-11 17:57:02 | WARNING  | core.session_manager      | Retrying core.session_manager.SessionManager._make_request_with_retry in 2 seconds as it raised ConnectionError: HTTPSConnectionPool(host='www.itnnews.lk', port=443): Max retries exceeded with url: /local/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000246D3407650>: Failed to resolve 'www.itnnews.lk' ([Errno 11001] getaddrinfo failed)")).
+2026-02-11 17:57:04 | WARNING  | core.session_manager      | Retrying core.session_manager.SessionManager._make_request_with_retry in 4 seconds as it raised ConnectionError: HTTPSConnectionPool(host='www.itnnews.lk', port=443): Max retries exceeded with url: /local/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000246D345C320>: Failed to resolve 'www.itnnews.lk' ([Errno 11001] getaddrinfo failed)")).
+2026-02-11 17:57:08 | ERROR    | core.session_manager      | GET https://www.itnnews.lk/local/ failed after retries: RetryError[<Future at 0x246d2846b40 state=finished raised ConnectionError>]
+2026-02-11 17:57:08 | ERROR    | core.base_scraper         | Failed to process page 1: RetryError[<Future at 0x246d2846b40 state=finished raised ConnectionError>]
+2026-02-11 17:57:08 | ERROR    | core.base_scraper         | Category scrape failed: RetryError[<Future at 0x246d2846b40 state=finished raised ConnectionError>]
+2026-02-11 17:57:08 | ERROR    | __main__                  | ✗ Failed to scrape local: RetryError[<Future at 0x246d2846b40 state=finished raised ConnectionError>]
+Traceback (most recent call last):
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\socket.py", line 963, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 1096, in _validate_conn
+    conn.connect()
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x00000246D345C5C0>: Failed to resolve 'www.itnnews.lk' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.itnnews.lk', port=443): Max retries exceeded with url: /local/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000246D345C5C0>: Failed to resolve 'www.itnnews.lk' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\core\session_manager.py", line 322, in _make_request_with_retry
+    response = self.session.request(method, url, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.itnnews.lk', port=443): Max retries exceeded with url: /local/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000246D345C5C0>: Failed to resolve 'www.itnnews.lk' ([Errno 11001] getaddrinfo failed)"))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 270, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\core\base_scraper.py", line 286, in scrape_category
+    response = self.session_manager.get(list_url)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\core\session_manager.py", line 384, in get
+    response = self._make_request_with_retry(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\tenacity\__init__.py", line 331, in wrapped_f
+    return copy(f, *args, **kw)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\tenacity\__init__.py", line 414, in exc_check
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x246d2846b40 state=finished raised ConnectionError>]
+2026-02-11 17:57:08 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 17:57:08 | INFO     | __main__                  |   - Articles: 0
+2026-02-11 17:57:08 | INFO     | __main__                  |   - Pages: 0
+2026-02-11 17:57:08 | INFO     | __main__                  |   - Categories completed: 0
+2026-02-11 17:57:08 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 17:57:08 | INFO     | __main__                  |   Total articles in corpus: 45
+2026-02-11 17:57:08 | INFO     | __main__                  |   itn: 45 articles
+2026-02-11 17:57:08 | INFO     | __main__                  |     - local: 45 articles
+2026-02-11 17:57:08 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 17:57:08 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 17:57:08 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 17:57:08 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 17:57:08 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 17:57:59 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 17:57:59 | INFO     | __main__                  | Initializing components...
+2026-02-11 17:57:59 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 17:57:59 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 17:57:59 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 17:57:59 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 17:57:59 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 17:57:59 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 17:57:59 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 17:57:59 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 17:57:59 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 17:57:59 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 17:57:59 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 17:57:59 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 17:57:59 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 17:57:59 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 17:57:59 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 17:57:59 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 17:57:59 | INFO     | __main__                  | Target categories for itn: local
+2026-02-11 17:57:59 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 17:57:59 | INFO     | __main__                  |   Scraping itn - local
+2026-02-11 17:57:59 | INFO     | __main__                  | ======================================================================
+2026-02-11 17:57:59 | INFO     | __main__                  | Max pages for this category: 100 (to reach limit of 2000)
+2026-02-11 17:57:59 | INFO     | core.base_scraper         | Starting category scrape: itn/local
+2026-02-11 17:57:59 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/local/
+2026-02-11 17:58:05 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:58:05 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:58:05 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:58:05 | INFO     | core.base_scraper         | Found 9 articles on page 1
+2026-02-11 17:58:07 | INFO     | core.base_scraper         | Scraped article: පලස්තීන විදේශ ඇමති ශ්‍රී ලංකාවේ සංචාරයකට සැරසෙයි... (def8d8ff)
+2026-02-11 17:58:09 | INFO     | core.base_scraper         | Scraped article: සෑම රෝහලකම මාසයකට වරක් ඖෂධ සමාලෝචන රැස්වීමක් පවත්ව... (cbd75998)
+2026-02-11 17:58:12 | INFO     | core.base_scraper         | Scraped article: කාසිකොටේ අලි උමං මාර්ගයේ වැඩකටයුතු නැවත ආරම්භ කෙරේ... (bb8b47e3)
+2026-02-11 17:58:13 | INFO     | core.base_scraper         | Scraping page 2: https://www.itnnews.lk/local/page/2/
+2026-02-11 17:58:15 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:58:15 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:58:15 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:58:15 | INFO     | core.base_scraper         | Found 9 articles on page 2
+2026-02-11 17:58:17 | INFO     | core.base_scraper         | Scraping page 3: https://www.itnnews.lk/local/page/3/
+2026-02-11 17:58:19 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:58:20 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:58:20 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:58:20 | INFO     | core.base_scraper         | Found 9 articles on page 3
+2026-02-11 17:58:21 | INFO     | core.base_scraper         | Scraping page 4: https://www.itnnews.lk/local/page/4/
+2026-02-11 17:58:23 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:58:23 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:58:23 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:58:23 | INFO     | core.base_scraper         | Found 9 articles on page 4
+2026-02-11 17:58:25 | INFO     | core.base_scraper         | Scraping page 5: https://www.itnnews.lk/local/page/5/
+2026-02-11 17:58:27 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:58:27 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:58:27 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:58:27 | INFO     | core.base_scraper         | Found 9 articles on page 5
+2026-02-11 17:58:29 | INFO     | core.base_scraper         | Scraping page 6: https://www.itnnews.lk/local/page/6/
+2026-02-11 17:58:30 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:58:30 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:58:30 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:58:30 | INFO     | core.base_scraper         | Found 9 articles on page 6
+2026-02-11 17:58:33 | INFO     | core.base_scraper         | Scraped article: ඉන්දු – පාකිස්ථාන තරගය පවත්වන්න ජනපති අනුරගෙන් ලැබ... (6e0c9940)
+2026-02-11 17:58:36 | INFO     | core.base_scraper         | Scraped article: මහියංගනය පිඟන් සංස්ථා ඉඩම කර්මාන්ත හා වෙළඳ පුරවරයක... (1eb96058)
+2026-02-11 17:58:39 | INFO     | core.base_scraper         | Scraped article: රජය ගෙනයන ආර්ථික සංවර්ධන වැඩපිළිවෙළට බෝරා ප්‍රජාවේ... (42b910ea)
+2026-02-11 17:58:43 | INFO     | core.base_scraper         | Scraped article: ලෝක අර්බුද විසඳන්න සජබ මහේෂ්ගෙන් ජනපති අනුරට ඇරයුම... (22fbd0a1)
+2026-02-11 17:58:47 | INFO     | core.base_scraper         | Scraped article: වසරකට අධික කාලයක් සැඟවී සිටි විදේශ රැකියා වංචාකාරි... (0d05480a)
+2026-02-11 17:58:49 | INFO     | core.base_scraper         | Scraped article: සංශෝදන පනත් කෙටුම්පත් දෙකක් පාර්ලිමේන්තුවට ඉදිරිපත... (599f234f)
+2026-02-11 17:58:49 | INFO     | core.base_scraper         | Scraping page 7: https://www.itnnews.lk/local/page/7/
+2026-02-11 17:58:51 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:58:51 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:58:51 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:58:51 | INFO     | core.base_scraper         | Found 9 articles on page 7
+2026-02-11 17:58:55 | INFO     | core.base_scraper         | Scraped article: තවත් පිරිසකට ඊශ්‍රායලයේ සේවා රැකියා... (42c56afb)
+2026-02-11 17:58:58 | INFO     | core.base_scraper         | Scraped article: රාජකීය ඕමාන නාවික හමුදාවේ 'SADH' යුද නෞකාව කොළඹ වර... (6399d9c3)
+2026-02-11 17:59:02 | INFO     | core.base_scraper         | Scraped article: සැත්කම් පෝලිම් අවම කිරීමට ගත හැකි පියවර පිළිබඳ අවධ... (140154b1)
+2026-02-11 17:59:05 | INFO     | core.base_scraper         | Scraped article: ආර්ථික ප්‍රතිපත්ති සංවාදය පිළිබඳව ශ්‍රී ලංකාව සහ ජ... (abaf1551)
+2026-02-11 17:59:08 | INFO     | core.base_scraper         | Scraped article: දිවයින වටා වන මුහුදු ප්‍රදේශවල ඉදිරි පැය 24දී වැසි... (29986d19)
+2026-02-11 17:59:11 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව රටවල් 14 ක් අභිබවමින් දූෂණ සංජානන දර්ශ... (7e5cf9db)
+2026-02-11 17:59:13 | INFO     | core.base_scraper         | Scraped article: සපුගස්කන්ද විදුලි බලාගාරයට 2026/2027 කාලසීමාව තුළ ... (fb990569)
+2026-02-11 17:59:15 | INFO     | core.base_scraper         | Scraped article: වැඩ පරීක්ෂකවරයෙකුගේ රාජකාරියට බාධා කළ අතේ මන්ත්‍රී... (398c3c0e)
+2026-02-11 17:59:18 | INFO     | core.base_scraper         | Scraped article: ඊච්චලම්පත්තුව පොලිස් ස්ථානයට අලුතින් පරිපාලන ගොඩනැ... (fe91f17d)
+2026-02-11 17:59:18 | INFO     | core.base_scraper         | Scraping page 8: https://www.itnnews.lk/local/page/8/
+2026-02-11 17:59:20 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:59:20 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:59:20 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:59:20 | INFO     | core.base_scraper         | Found 9 articles on page 8
+2026-02-11 17:59:22 | INFO     | core.base_scraper         | Scraped article: අක්ෂි කාච සැපයීම සඳහා වූ ප්‍රසම්පාදනයට අනුමැතිය... (38d8af9b)
+2026-02-11 17:59:24 | INFO     | core.base_scraper         | Scraped article: දේශීය ආදායම් පනත සංශෝධනය කෙරේ... (fc3afc4b)
+2026-02-11 17:59:26 | INFO     | core.base_scraper         | Scraped article: උතුරු සහ නැගෙනහිර ප්‍රාදේශීය සංවර්ධන වැඩසටහන ක්‍රි... (2f07fd80)
+2026-02-11 17:59:28 | INFO     | core.base_scraper         | Scraped article: බදුල්ල ශික්ෂණ රෝහලේ දැනට ඉදිකිරීම් නවතා ඇති වකුගඩු... (6edf2f34)
+2026-02-11 17:59:31 | INFO     | core.base_scraper         | Scraped article: 2026- ජාතික ඛනිජ ප්‍රතිපත්තිය ක්‍රියාත්මක කරන්න අන... (25cf9d6a)
+2026-02-11 17:59:33 | INFO     | core.base_scraper         | Scraped article: විශේෂ අවශ්‍යතා සහිත පුද්ගලයින් වෙනුවෙන් වායුසමනය ක... (507b2afb)
+2026-02-11 17:59:35 | INFO     | core.base_scraper         | Scraped article: කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලය සහ මාලදිවයින් ආරක්ෂක... (b4ec5b32)
+2026-02-11 17:59:37 | INFO     | core.base_scraper         | Scraped article: SIM ලියාපදිංචි කිරීමේ රෙගුලාසි සංශෝධනය කිරීමට කැබි... (bc23d776)
+2026-02-11 17:59:39 | INFO     | core.base_scraper         | Scraped article: පොලිස් අණ නොතකා යතුරුපැදියක් පැදවූ 17ත්‍ හැවිරිදි ... (d42b8eac)
+2026-02-11 17:59:40 | INFO     | core.base_scraper         | Scraping page 9: https://www.itnnews.lk/local/page/9/
+2026-02-11 17:59:42 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:59:42 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:59:42 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:59:42 | INFO     | core.base_scraper         | Found 9 articles on page 9
+2026-02-11 17:59:44 | INFO     | core.base_scraper         | Scraped article: කිවුල් ඔය සංවර්ධන ව්‍යාපෘතියට නව ආරම්භයක් – පවුල් ... (1e709d64)
+2026-02-11 17:59:48 | INFO     | core.base_scraper         | Scraped article: වතු කම්කරු ජනතාවගෙන් රජයට ප්‍රසාදය... (a3d35de9)
+2026-02-11 17:59:51 | INFO     | core.base_scraper         | Scraped article: කෘෂිකර්ම දෙපාර්තමේන්තුව සහ ගොවිජන සංවර්ධන දෙපාර්තම... (29ea6005)
+2026-02-11 17:59:54 | INFO     | core.base_scraper         | Scraped article: මද්දකට හසුවී අවසන් ගමන් ගිය කඳුකර කොටියා... (688055f0)
+2026-02-11 17:59:57 | INFO     | core.base_scraper         | Scraped article: පිළියන්දල රෙජිඩේල් වත්ත සංචාරක ආකර්ෂණීය ස්ථානයක් ල... (d603f614)
+2026-02-11 18:00:00 | INFO     | core.base_scraper         | Scraped article: වන්නිල ඇත්තන්ගෙන් චෝදනාවක්... (0bca599a)
+2026-02-11 18:00:02 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තුව 17 සිට 20 වනදා දක්වා රැස්වෙයි... (56c07c67)
+2026-02-11 18:00:06 | INFO     | core.base_scraper         | Scraped article: 'රටම එකට' ජාතික මෙහෙයුමේ නුවරඑළිය දිස්ත්‍රික් වැඩස... (e6f69776)
+2026-02-11 18:00:09 | INFO     | core.base_scraper         | Scraped article: සමුද්‍ර සංරක්ෂණය සහ දේශගුණික ඔරොත්තු දීමේ හැකියාව ... (0fa68ff1)
+2026-02-11 18:00:09 | INFO     | core.base_scraper         | Scraping page 10: https://www.itnnews.lk/local/page/10/
+2026-02-11 18:00:11 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:00:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:00:11 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:00:11 | INFO     | core.base_scraper         | Found 9 articles on page 10
+2026-02-11 18:00:15 | INFO     | core.base_scraper         | Scraped article: ජවිපෙ ප්‍රධාන ලේකම් සහ ඉන්දීයාවේ ගුජරාට් ප්‍රාන්තය... (0300ed70)
+2026-02-11 18:00:17 | INFO     | core.base_scraper         | Scraped article: වනිඳු හසරංගට ලෝක කුසලානය අහිමි වන ලකුණු... (87d98d20)
+2026-02-11 18:00:20 | INFO     | core.base_scraper         | Scraped article: හිටපු ඇමති අනුර යාපා CIDට... (543c7437)
+2026-02-11 18:00:24 | INFO     | core.base_scraper         | Scraped article: ජනාධිපති අරමුදලේ පාලක සභාව ජනපති ප්‍රධානත්වයෙන් රැ... (53a64cc8)
+2026-02-11 18:00:27 | INFO     | core.base_scraper         | Scraped article: ඇමති විජිතගෙන් පාකිස්තාන රජයට ස්තූතිය... (2da3e68a)
+2026-02-11 18:00:31 | INFO     | core.base_scraper         | Scraped article: තොරතුරු දැනගැනීමේ අයිතිවාසිකම පිළිබඳ කොමිෂන් සභාවේ... (4dd503f0)
+2026-02-11 18:00:34 | INFO     | core.base_scraper         | Scraped article: විදෙස් දුම්වැටි තොගයක් සමග පුද්ගලයෙකු කටුනායකදී අත... (1a628ab0)
+2026-02-11 18:00:37 | INFO     | core.base_scraper         | Scraped article: වෑන් රථයක් හා යතුරුපැදියක් ගැටීමෙන් තරුණයෙකු ජීවිත... (b5601d1b)
+2026-02-11 18:00:39 | INFO     | core.base_scraper         | Scraped article: ආසියානු සංවර්ධන බැංකුවේ ශ්‍රී ලංකා නව අධ්‍යක්ෂවරිය... (f2b54a1a)
+2026-02-11 18:00:40 | INFO     | core.base_scraper         | Scraping page 11: https://www.itnnews.lk/local/page/11/
+2026-02-11 18:00:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:00:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:00:41 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:00:41 | INFO     | core.base_scraper         | Found 9 articles on page 11
+2026-02-11 18:00:44 | INFO     | core.base_scraper         | Scraped article: O/L උපකාරක පන්ති හෙට මධ්‍යම රාත්‍රියේ සිට විභා­ගය ... (dfee9717)
+2026-02-11 18:00:47 | INFO     | core.base_scraper         | Scraped article: අණ නොතකා පලා ගිය වෑන් රථයකට පොලිසියෙන් වෙඩි – රියද... (74ee0dbe)
+2026-02-11 18:00:50 | INFO     | core.base_scraper         | Scraped article: බලපත්‍ර නොමැතිව මැණික් ගරමින් සිටි සැකකරුවෙකු අත්අ... (dc99e5a8)
+2026-02-11 18:00:53 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතු වන්දනාවේ 06වන දිනය අද... (4e12005f)
+2026-02-11 18:00:56 | INFO     | core.base_scraper         | Scraped article: ජනපති අනුරගෙන් පාකිස්තාන අගමැතිට තුති... (a7c14e8d)
+2026-02-11 18:01:01 | INFO     | core.base_scraper         | Scraped article: ජනපති අනුර, පාකිස්තාන අගමැතිගෙන් කළ ඉල්ලීමෙන් පසු ... (a55da148)
+2026-02-11 18:01:04 | INFO     | core.base_scraper         | Scraped article: බොහෝ ප්‍රදේශවල වියලි කාලගුණික තත්ත්වයක්... (de0f4d42)
+2026-02-11 18:01:06 | INFO     | core.base_scraper         | Scraped article: පොහොසත් රටක් ලස්සන ජීවිතයක් රජයේ ප්‍රතිපත්ති මාලාව... (4fe8d776)
+2026-02-11 18:01:08 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතුන් වහන්සේ වැඳපුදා ගැනී... (fd930f2a)
+2026-02-11 18:01:09 | INFO     | core.base_scraper         | Scraping page 12: https://www.itnnews.lk/local/page/12/
+2026-02-11 18:01:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:01:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:01:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:01:10 | INFO     | core.base_scraper         | Found 9 articles on page 12
+2026-02-11 18:01:14 | INFO     | core.base_scraper         | Scraped article: තමන්ට අපහාස වන ලෙස ව්‍යාජ තොරතුරු ඉදිරිපත් කළ බව ක... (30081d7b)
+2026-02-11 18:01:17 | INFO     | core.base_scraper         | Scraped article: මාවනැල්ල බැමිණිවත්ත මහා විද්‍යාලයේ සිසු සිසුවියන් ... (71e52449)
+2026-02-11 18:01:20 | INFO     | core.base_scraper         | Scraped article: පදිංචිකරුවන් ආරක්ෂා කිරීමේ පනතට ආණ්ඩුවෙන් සංශෝධන... (80440e97)
+2026-02-11 18:01:22 | INFO     | core.base_scraper         | Scraped article: ධීවර කර්මාන්තය හේතුවෙන් ගොඩ ගැසී ඇති ෆයිබර් අපද්‍ර... (7450d4ce)
+2026-02-11 18:01:26 | INFO     | core.base_scraper         | Scraped article: ITN MAX රූපවාහිනී මහ ගෙදරින් දැවැන්ත ඩිජිටල් පෙරළි... (828c7a4c)
+2026-02-11 18:01:29 | INFO     | core.base_scraper         | Scraped article: රජයේ සහතික මිලට අනුරාධපුර දිස්ත්‍රික්කයේ වී මිලදී ... (8d611945)
+2026-02-11 18:01:31 | INFO     | core.base_scraper         | Scraped article: ආසියාවේ ඉහළම නාවික කේන්ද්‍රස්ථානය බවට කොළඹ වරාය පත... (d473b7b1)
+2026-02-11 18:01:35 | INFO     | core.base_scraper         | Scraped article: උත්සව අවස්ථා කළමනාකරණ කර්මාන්තයේ අභිවෘද්ධිය වෙනුවෙ... (0347d50e)
+2026-02-11 18:01:39 | INFO     | core.base_scraper         | Scraped article: ඔලුව මේසෙට තද කරගෙන එක දිගට පහර දුන්නා – ඒ වේදනාව ... (7db2dd96)
+2026-02-11 18:01:39 | INFO     | core.base_scraper         | Scraping page 13: https://www.itnnews.lk/local/page/13/
+2026-02-11 18:01:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:01:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:01:41 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:01:41 | INFO     | core.base_scraper         | Found 9 articles on page 13
+2026-02-11 18:01:45 | INFO     | core.base_scraper         | Scraped article: ජාඇල ප්‍රා.ස ශ්‍රී ලංකා නිදහස් පක්ෂ මන්ත්‍රී රංග ක... (2f1c90b8)
+2026-02-11 18:01:47 | INFO     | core.base_scraper         | Scraped article: ඉකුත් රජය සමයේ e වීසා නිකුත් කිරීමට අදාළ තීරණ තිබූ... (800a9891)
+2026-02-11 18:01:51 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි සර්වඥ ධාතූන් වහන්සේ ආපසු වැඩමවීමට ඉන්ද... (9c34bd4c)
+2026-02-11 18:01:54 | INFO     | core.base_scraper         | Scraped article: පාසල් සිසු ප්‍රවාහන සේවය විධිමත් කිරීමට පියවර... (84eec2e0)
+2026-02-11 18:01:57 | INFO     | core.base_scraper         | Scraped article: පිළිකා කලින් හඳුනා ගැනීමේ මධ්‍යස්ථානයක් කොළඹ ජාතික... (8015d560)
+2026-02-11 18:02:00 | INFO     | core.base_scraper         | Scraped article: හානි වූ සත්ත්ව ගොවිපොළ සඳහා වන්දි ලෙස ලක්ෂ 32,000ක... (e6008eff)
+2026-02-11 18:02:03 | INFO     | core.base_scraper         | Scraped article: විදෙස් රටවල ජීවත්වන ලාංකීය පුරවැසියන් වෙනුවෙන් තවත... (235f03bd)
+2026-02-11 18:02:05 | INFO     | core.base_scraper         | Scraped article: ඉදිරි පැය 24දී මුහුදු ප්‍රදේශවලට වැසි රහිත කාලගුණ ... (2dcdcd10)
+2026-02-11 18:02:08 | INFO     | core.base_scraper         | Scraped article: දඹදෙණිය මූලික රෝහලේ පල්දෝරු පද්ධතිය ඉදිකිරීම සඳහා ... (44c2ae7c)
+2026-02-11 18:02:09 | INFO     | core.base_scraper         | Scraping page 14: https://www.itnnews.lk/local/page/14/
+2026-02-11 18:02:11 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:02:11 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:02:11 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:02:11 | INFO     | core.base_scraper         | Found 9 articles on page 14
+2026-02-11 18:02:14 | INFO     | core.base_scraper         | Scraped article: කෙහෙළියට එරෙහි නඩුවක් මාර්තු 14 වනදා කැඳවන්න නියෝග... (68be0a9b)
+2026-02-11 18:02:18 | INFO     | core.base_scraper         | Scraped article: කළුතර සෙන්ට්‍රල් හන්දියේ නිවසකින් සොයාගත් මෝටාර් උ... (fff8f8f7)
+2026-02-11 18:02:21 | INFO     | core.base_scraper         | Scraped article: අණ නොතකා ධාවනය කළ ගවයින් පටවා ගත් ලොරියකට අම්බලන්ග... (aecdb35a)
+2026-02-11 18:02:25 | INFO     | core.base_scraper         | Scraped article: තේ හා පොල් ආශ්‍රිත නව අපනයනකරුවන් ඉලක්ක කරගනිමින් ... (d33a2efb)
+2026-02-11 18:02:29 | INFO     | core.base_scraper         | Scraped article: සා/පෙළ විභාගයේ විශිෂ්ටයින්ට මහත්මා ගාන්ධි ශිෂ්‍යත්... (51680827)
+2026-02-11 18:02:34 | INFO     | core.base_scraper         | Scraped article: අපේ මාදැල් අපේ ශ්‍රමයෙන්ම අදිනවා – යන්ත්‍ර උපකරණ අ... (c3c3c45b)
+2026-02-11 18:02:37 | INFO     | core.base_scraper         | Scraped article: මියන්මාරයෙන් සහල් මෙට්‍රික් ටොන් 500ක පරිත්‍යාගයක්... (7fab158e)
+2026-02-11 18:02:41 | INFO     | core.base_scraper         | Scraped article: යෝෂිත සහ ඩේසි ආච්චිට එරෙහි නඩුව අප්‍රේල් 24 යළි කැ... (5cfa66ae)
+2026-02-11 18:02:43 | INFO     | core.base_scraper         | Scraped article: පෙබරවාරි මාසයේ ගෘහස්ථ ගෑස් මිලෙහි වෙනසක් නැහැ – ලි... (89f60522)
+2026-02-11 18:02:44 | INFO     | core.base_scraper         | Scraping page 15: https://www.itnnews.lk/local/page/15/
+2026-02-11 18:02:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:02:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:02:46 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:02:46 | INFO     | core.base_scraper         | Found 9 articles on page 15
+2026-02-11 18:02:48 | INFO     | core.base_scraper         | Scraped article: විෂ මත් ව්‍යසනය පරදන 'රටම එකට' ජාතික මෙහෙයුමේ නුවර... (a56cd96a)
+2026-02-11 18:02:50 | INFO     | core.base_scraper         | Scraped article: බලංගොඩ කස්සප හිමි ඇතුළු පිරිස ලබන 11 දක්වා යළිත් ර... (32acfeac)
+2026-02-11 18:02:52 | INFO     | core.base_scraper         | Scraped article: දිවයින පුරා මහාධිකරණවල ළමා අපයෝජන නඩු 4,289 ක් – ළ... (0b3bee1a)
+2026-02-11 18:02:54 | INFO     | core.base_scraper         | Scraped article: විදේශගත ශ‍්‍රී ලාංකිකයින්ට හා විගමනික ප්‍රජාවට සුව... (af789bb6)
+2026-02-11 18:02:57 | INFO     | core.base_scraper         | Scraped article: තැපැල් ගාස්තු සංශෝධනය අද සිට... (dc9340c6)
+2026-02-11 18:02:59 | INFO     | core.base_scraper         | Scraped article: උඩවලව – තණමල්විල මාර්ගයේ මාරක අනතුරක් – 13 හැවිරිද... (d001b822)
+2026-02-11 18:03:02 | INFO     | core.base_scraper         | Scraped article: මිනිස් වෙළඳාමේ යෙදුණු කතක් පාස්පෝට් 154ක් සමග කොටු... (7548d8d5)
+2026-02-11 18:03:05 | INFO     | core.base_scraper         | Scraped article: දිරාපත් වූ පේලි නිවාස අලුත් වැඩියාවට රුපියල් ලක්ෂ ... (e0ea6349)
+2026-02-11 18:03:08 | INFO     | core.base_scraper         | Scraped article: හෙරොයින් සමග පුද්ගලයෙකු අත්අඩංගුවට... (a38b33fa)
+2026-02-11 18:03:08 | INFO     | core.base_scraper         | Scraping page 16: https://www.itnnews.lk/local/page/16/
+2026-02-11 18:03:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:03:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:03:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:03:10 | INFO     | core.base_scraper         | Found 9 articles on page 16
+2026-02-11 18:03:14 | INFO     | core.base_scraper         | Scraped article: ජාත්‍යන්තර ජන කළා උළෙලේදී රන් පදක්කම අපේ " මාත්‍රා... (302b08f2)
+2026-02-11 18:03:18 | INFO     | core.base_scraper         | Scraped article: අති උත්කර්ෂවත් අයුරින් පැවැත් වූ පන්නිපිටිය ක්‍රිස... (5a0446ad)
+2026-02-11 18:03:20 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍යට ඇබ්බැහි වූ රියැදුරන් බස් රථ ධාවනයට යෙ... (8a834020)
+2026-02-11 18:03:23 | INFO     | core.base_scraper         | Scraped article: තියුණු ආයුධයකින් පහර දී පුද්ගලයෙකු ඝාතනය කෙරේ... (02b8e333)
+2026-02-11 18:03:26 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී සර්වඥ ධාතු වන්දනාවේ පස්වන දිනය අදයි... (f31f5f0e)
+2026-02-11 18:03:29 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව T20 ලෝක කුසලානයේ පළමු ජය ලබයි... (2b934407)
+2026-02-11 18:03:33 | INFO     | core.base_scraper         | Scraped article: දිවයිනේ ස්ථාන කිහිපයකට අද පස්වරුවේ වැසි... (7749e036)
+2026-02-11 18:03:36 | INFO     | core.base_scraper         | Scraped article: බේරුවල නීති විරෝධී ගබ්සා මධ්‍යස්ථානයක් වටලයි – වෛද... (8b531551)
+2026-02-11 18:03:38 | INFO     | core.base_scraper         | Scraped article: තල්දූව අමිතිරිගල ප්‍රදේශයේ බිහිසුණු අනතුරක් – තිදෙ... (2b3b1775)
+2026-02-11 18:03:38 | INFO     | core.base_scraper         | Scraping page 17: https://www.itnnews.lk/local/page/17/
+2026-02-11 18:03:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:03:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:03:40 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:03:40 | INFO     | core.base_scraper         | Found 9 articles on page 17
+2026-02-11 18:03:44 | INFO     | core.base_scraper         | Scraped article: කොහුවල සුපිරි වෙළඳසලක හදිසි ගින්නක්... (733b76e3)
+2026-02-11 18:03:47 | INFO     | core.base_scraper         | Scraped article: 33න් වන වරටත් පවත්වන 'කලා පොළ' ප්‍රදර්ශනය ඇරඹෙයි... (6ce13878)
+2026-02-11 18:03:50 | INFO     | core.base_scraper         | Scraped article: ඇමති නලින්දගෙන් විමල්ට එන්තරවාසියක්... (d8140b77)
+2026-02-11 18:03:53 | INFO     | core.base_scraper         | Scraped article: යුද හමුදා බුද්ධි අංශයට ලද තොරතුරක් මත දුන්ගල්පිටිය... (e2e321d3)
+2026-02-11 18:03:56 | INFO     | core.base_scraper         | Scraped article: බුදු පිළිමවල රනින් නිමවා ඇති ඌර්ණ රෝමධාතු සොරා ගත්... (8187e7f2)
+2026-02-11 18:03:59 | INFO     | core.base_scraper         | Scraped article: ගාල්ල, දෙවට ප්‍රදේශයේ පැරණි යකඩ එකතු කිරීමේ වෙළඳසැ... (42d78f1b)
+2026-02-11 18:04:02 | INFO     | core.base_scraper         | Scraped article: දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාව සහ කහතුඩුව අතර අනතු... (1c342f57)
+2026-02-11 18:04:05 | INFO     | core.base_scraper         | Scraped article: කාසියේ වාසිය එංගලන්තයට... (a07de8c7)
+2026-02-11 18:04:08 | INFO     | core.base_scraper         | Scraped article: ඉදිරි පැය 24දී මුහුදු ප්‍රදේශ සඳහා කාලගුණ අනාවැකිය... (ee03707c)
+2026-02-11 18:04:08 | INFO     | core.base_scraper         | Scraping page 18: https://www.itnnews.lk/local/page/18/
+2026-02-11 18:04:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:04:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:04:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:04:10 | INFO     | core.base_scraper         | Found 9 articles on page 18
+2026-02-11 18:04:15 | INFO     | core.base_scraper         | Scraped article: නවසීලන්තයට කඩුලු 5ක ජයක්... (c6657846)
+2026-02-11 18:04:17 | INFO     | core.base_scraper         | Scraped article: වාහන අංක තහඩු නිකුත් කිරීම ඉදිරි මාස තුන තුළ ඇරඹෙය... (32c44592)
+2026-02-11 18:04:20 | INFO     | core.base_scraper         | Scraped article: කෙටි කාලයකින් ආර්ථිකය ස්ථාවර කිරීමට රජයට හැකි වුණා... (43826aab)
+2026-02-11 18:04:23 | INFO     | core.base_scraper         | Scraped article: මහවැලි H කලාපයේ ගොවීන් 226 කට ඉඩම් ඔප්පු... (5a59ff19)
+2026-02-11 18:04:26 | INFO     | core.base_scraper         | Scraped article: පොලිස් විශේෂ මෙහෙයුමකින් සැකකරුවන් 526ක් අත්අඩංගුව... (f4362536)
+2026-02-11 18:04:29 | INFO     | core.base_scraper         | Scraped article: පොළොන්නරුව දිස්ත්‍රික්කයේ ගොවීන් farmernet.lk වෙබ්... (52d521b8)
+2026-02-11 18:04:32 | INFO     | core.base_scraper         | Scraped article: දියේ ගිලී අවසන් ගමන් ගිය වෛද්‍ය සිසුවා... (9e93b4c3)
+2026-02-11 18:04:35 | INFO     | core.base_scraper         | Scraped article: සමූපාකාර වෙළෙඳසැල් පාරිභෝගිකයින් හට ජිවිත රක්ෂණයක්... (5233b9b5)
+2026-02-11 18:04:38 | INFO     | core.base_scraper         | Scraped article: ප්‍රාදේශීය ලේකම් කාර්යාල ඩිජිටල්කරණය කිරීමෙන් වසරක... (7ebfeb8a)
+2026-02-11 18:04:38 | INFO     | core.base_scraper         | Scraping page 19: https://www.itnnews.lk/local/page/19/
+2026-02-11 18:04:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:04:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:04:41 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:04:41 | INFO     | core.base_scraper         | Found 9 articles on page 19
+2026-02-11 18:04:44 | INFO     | core.base_scraper         | Scraped article: යතුරු පැදි සොරකම් කළ පුද්ගලයෙක් අත්අඩංගුවට... (af0fd048)
+2026-02-11 18:04:47 | INFO     | core.base_scraper         | Scraped article: රන්දොඹේ ප්‍රදේශයේදී වෑන් රථයක් සහ යතුරු පැදියක් ගැ... (217713e3)
+2026-02-11 18:04:50 | INFO     | core.base_scraper         | Scraped article: වියළි ගංජා සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට... (93026887)
+2026-02-11 18:04:53 | INFO     | core.base_scraper         | Scraped article: යොවුන් සූපවේදී තරගාවලියේ දී ශ්‍රී ලංකාවට ලෝකඩ පදක්... (640461a9)
+2026-02-11 18:04:56 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි සර්වඥ ධාතු ප්‍රදර්ශනයේ 4 වන දිනය අදයි... (2c6713ce)
+2026-02-11 18:05:00 | INFO     | core.base_scraper         | Scraped article: T 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා – අය... (f56768f2)
+2026-02-11 18:05:03 | INFO     | core.base_scraper         | Scraped article: අද පෙරවරු 6.00 සිට පසුදින පෙරවරු 4.00 දක්වා මහනුවර... (ad9e83d3)
+2026-02-11 18:05:06 | INFO     | core.base_scraper         | Scraped article: දැනට පවතින වැසි තත්ත්වයේ තාවකාලික අඩුවීමක්... (74bdf12e)
+2026-02-11 18:05:08 | INFO     | core.base_scraper         | Scraped article: සූරියකන්ද පොලීසියේ හිටපු OIC සහ කොස්තාපල්ට ඇප... (c15d6727)
+2026-02-11 18:05:09 | INFO     | core.base_scraper         | Scraping page 20: https://www.itnnews.lk/local/page/20/
+2026-02-11 18:05:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:05:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:05:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:05:10 | INFO     | core.base_scraper         | Found 9 articles on page 20
+2026-02-11 18:05:14 | INFO     | core.base_scraper         | Scraped article: කච්චතිව් වාර්ෂික දේව මංගල්‍යය උත්කර්ශවත්ව පැවැත්වී... (0c134bf1)
+2026-02-11 18:05:17 | INFO     | core.base_scraper         | Scraped article: 2026 වසරේ ගතවූ කාලය තුළ සංචාරක පැමිණීම ලක්ෂ 3 ඉක්ම... (65915791)
+2026-02-11 18:05:21 | INFO     | core.base_scraper         | Scraped article: බස්නාහිර පළාතට ජංගම පුස්තකාල 10ක්... (b0744eba)
+2026-02-11 18:05:23 | INFO     | core.base_scraper         | Scraped article: කඹුරුපිටිය විවිධ සේවා සමූපකාර සමිතියේ අධ්‍යක්ෂ මණ්... (b69d3e38)
+2026-02-11 18:05:26 | INFO     | core.base_scraper         | Scraped article: පසුගිය වසරේ දී කුරුඳු අපනයනයෙන් කෝටි 8,000කට ආසන්න... (0123331c)
+2026-02-11 18:05:29 | INFO     | core.base_scraper         | Scraped article: විදුලි සැර වැදී මව සහ දියණිය ජීවිතක්ෂයට... (8d10f2da)
+2026-02-11 18:05:33 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තු මන්ත‍‍්‍රීවරුන්ගේ විශ‍‍්‍රාම වැටුප් ඉ... (f31dd0b6)
+2026-02-11 18:05:36 | INFO     | core.base_scraper         | Scraped article: මහනුවර ප්‍රදේශ කිහිපයකට හෙට පැය 22ක ජල කප්පාදුවක්... (2bcfce57)
+2026-02-11 18:05:38 | INFO     | core.base_scraper         | Scraped article: පකිස්ථානයට කඩුලු 03ක ජයක්... (b7bdb91b)
+2026-02-11 18:05:39 | INFO     | core.base_scraper         | Scraping page 21: https://www.itnnews.lk/local/page/21/
+2026-02-11 18:05:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:05:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:05:41 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:05:41 | INFO     | core.base_scraper         | Found 9 articles on page 21
+2026-02-11 18:05:44 | INFO     | core.base_scraper         | Scraped article: ප්‍රබල අකුණු ගැන අවවාදාත්මක නිවේදනයක්... (5cae60fe)
+2026-02-11 18:05:47 | INFO     | core.base_scraper         | Scraped article: සුරාබදු ආදායම් රැස්කිරීම වර්ධනය කරගැනීම සඳහා වන ඩි... (87cd384a)
+2026-02-11 18:05:50 | INFO     | core.base_scraper         | Scraped article: මහජන දේපළ කොල්ලකෑ කිසිදු පුද්ගලයෙකුට නීතියෙන් බේරී... (4961d2dc)
+2026-02-11 18:05:53 | INFO     | core.base_scraper         | Scraped article: වන අලි පහරදීමකින් කෝප්‍රල්වරයෙකු ජීවිතක්ෂයට... (6d39b145)
+2026-02-11 18:05:56 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතු වන්දනාවට සැදැහැවතුන් ... (0f092f34)
+2026-02-11 18:05:59 | INFO     | core.base_scraper         | Scraped article: හොරණ දිස්ත්‍රික් මහ රෝහලේ සහන සත්කාර සේවා ඒකකය ජනත... (e1782787)
+2026-02-11 18:06:02 | INFO     | core.base_scraper         | Scraped article: යන්ත්‍ර සූත්‍ර භාවිතයෙන් පරිසරයට හානි නොකර, සාම්ප්... (05b66457)
+2026-02-11 18:06:05 | INFO     | core.base_scraper         | Scraped article: නව ජාතික ඛනිජ ප්‍රතිපත්තිය හඳුන්වා දෙන තෙක් බර ඛනි... (88fe4ee1)
+2026-02-11 18:06:08 | INFO     | core.base_scraper         | Scraped article: ජෝර්ජියානු තානාපති සහ කථානායක අතර හමුවක්... (dbeed863)
+2026-02-11 18:06:08 | INFO     | core.base_scraper         | Scraping page 22: https://www.itnnews.lk/local/page/22/
+2026-02-11 18:06:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:06:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:06:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:06:10 | INFO     | core.base_scraper         | Found 9 articles on page 22
+2026-02-11 18:06:14 | INFO     | core.base_scraper         | Scraped article: මන්ත්‍රීවරියන් වාචික හිංසනයෙන් ආරක්ෂා කිරීමට ස්ථාව... (4ca0ba11)
+2026-02-11 18:06:17 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධී ලෙස ගෙන ආ ඇන්තූරියම් පැළ තොගයක් කටුනාය... (a5e436a9)
+2026-02-11 18:06:20 | INFO     | core.base_scraper         | Scraped article: T20 ලෝක කුසලාන තරගාවලිය අදින් ඇරඹෙයි... (26ff4ff3)
+2026-02-11 18:06:23 | INFO     | core.base_scraper         | Scraped article: ලාෆ් ගෑස් මිල සංශෝධනය කෙරේ... (5164f279)
+2026-02-11 18:06:26 | INFO     | core.base_scraper         | Scraped article: දෙව්නිමෝරි ධාතු ප්‍රදර්ශනයේ 3 වන දිනය අදයි... (75175f63)
+2026-02-11 18:06:29 | INFO     | core.base_scraper         | Scraped article: පළාත් කිහිපයකට පස්වරු 2 න් පසු වැසි... (d5c2def1)
+2026-02-11 18:06:35 | INFO     | core.base_scraper         | Scraped article: වත්මන් රජය අත්පත් කරගත් දැවැන්ත ජයග්‍රහණ... (910dbbb4)
+2026-02-11 18:06:39 | INFO     | core.base_scraper         | Scraped article: ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන ලේකම් සහ ඉන්දීය විදේ... (73f80830)
+2026-02-11 18:06:43 | INFO     | core.base_scraper         | Scraped article: අපේ රටේ ප්‍රධානතම ශක්තිය තිබෙන්නේ අපි එක්වන තැනයි ... (83966ba4)
+2026-02-11 18:06:44 | INFO     | core.base_scraper         | Scraping page 23: https://www.itnnews.lk/local/page/23/
+2026-02-11 18:06:47 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:06:47 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:06:47 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:06:47 | INFO     | core.base_scraper         | Found 9 articles on page 23
+2026-02-11 18:06:52 | INFO     | core.base_scraper         | Scraped article: "කවුරු උද්ඝෝෂණය කරත් 2027 වසරේ තුන්වැනි වැටුප් වර්... (65a8fdff)
+2026-02-11 18:06:58 | INFO     | core.base_scraper         | Scraped article: ග්‍රීන් පාත් පරිශ්‍රයේ කලාපොළ ප්‍රදර්ශනය හේතුවෙන් ... (8a1f23a5)
+2026-02-11 18:07:03 | INFO     | core.base_scraper         | Scraped article: මහජන හදිසි තත්ත්වයක් ප්‍රකාශයට පත් කිරීම වැඩි ඡන්ද... (d25688cb)
+2026-02-11 18:07:07 | INFO     | core.base_scraper         | Scraped article: 2025 වසරේදී පමණක් ඩොලර් බිලියන 3.9 ක විදෙස් ණය ගෙව... (b8c32736)
+2026-02-11 18:07:09 | INFO     | core.base_scraper         | Scraped article: අත්අඩංගුවට ගත් කෙහෙළියගේ දියණියට ඇප... (a2235bee)
+2026-02-11 18:07:14 | INFO     | core.base_scraper         | Scraped article: රතු වරෙන්තු කරුවන් 103 දෙනෙකු කඩිනමින් දිවයිනට රැග... (a24692a1)
+2026-02-11 18:07:18 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධීව මුහුදු කූඩැල්ලන් ඇල්ලූ සැකකරුවන් 07ක්... (e82ab70a)
+2026-02-11 18:07:21 | INFO     | core.base_scraper         | Scraped article: දිස්ත්‍රික්ක 25 ක කාර්මික විද්‍යාල නවීකරණයට පියවර... (4c6d421f)
+2026-02-11 18:07:26 | INFO     | core.base_scraper         | Scraped article: හදිසි නීතිය භාවිතකර මාධ්‍ය හෝ කිසිදු පාර්ශ්වයක් මර... (5f826c56)
+2026-02-11 18:07:26 | INFO     | core.base_scraper         | Scraping page 24: https://www.itnnews.lk/local/page/24/
+2026-02-11 18:07:28 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:07:28 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:07:28 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:07:28 | INFO     | core.base_scraper         | Found 9 articles on page 24
+2026-02-11 18:07:31 | INFO     | core.base_scraper         | Scraped article: මහනුවර – ගැටඹේ ගුවන් පාලමේ ඉදිකිරීම් යළි ඇරඹෙයි... (03764e85)
+2026-02-11 18:07:36 | INFO     | core.base_scraper         | Scraped article: මහනුවර – යාපනය මාර්ගයේ (A009) මහයියාව උමං මාර්ගයේ ... (34f82c97)
+2026-02-11 18:07:40 | INFO     | core.base_scraper         | Scraped article: උපාධිධාරීන් ශ්‍රී ලංකා ගුරු සේවයට බඳවා ගැනීමේ අයදු... (e8f0ccc3)
+2026-02-11 18:07:44 | INFO     | core.base_scraper         | Scraped article: ජයිකා ආදි ශිෂ්‍ය සංගම්වල සාර්ක් රටවල සංසදය පිළිබඳ ... (4d524ad7)
+2026-02-11 18:07:49 | INFO     | core.base_scraper         | Scraped article: ඉතිහාසයේ පළමුවරට ලංගමට කාන්තා කොන්දොස්තරවරු... (dbc5b565)
+2026-02-11 18:07:54 | INFO     | core.base_scraper         | Scraped article: වන්නියලැත්තන්ගේ ප්‍රධානත්වයෙන් රුක් රෝපණ වැඩසටහනක්... (da3f6c74)
+2026-02-11 18:07:58 | INFO     | core.base_scraper         | Scraped article: ඉදිරි පැය 24දී ත්‍රිකුණාමලය වෙරළට ඔබ්බෙන්වන මුහුදු... (297ab9d7)
+2026-02-11 18:08:02 | INFO     | core.base_scraper         | Scraped article: ප්‍රබල අකුණු ගැන අවවාදාත්මක නිවේදනයක්... (f2baecf3)
+2026-02-11 18:08:04 | INFO     | core.base_scraper         | Scraped article: හිටපු ඇමති කෙහෙළියගේ දියණියක් අත්අඩංගුවට... (9dd57426)
+2026-02-11 18:08:05 | INFO     | core.base_scraper         | Scraping page 25: https://www.itnnews.lk/local/page/25/
+2026-02-11 18:08:07 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:08:07 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:08:07 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:08:07 | INFO     | core.base_scraper         | Found 9 articles on page 25
+2026-02-11 18:08:12 | INFO     | core.base_scraper         | Scraped article: O/L විභාගය හේතුවෙන් 11 වැනිදා මැදියම් රැයෙන් උපකාර... (c816ac32)
+2026-02-11 18:08:15 | INFO     | core.base_scraper         | Scraped article: යුක්තිය සහ සාධාරණත්වය පිළිබඳ රටේ ජනතාවගේ වැඩිම අවධ... (9d6196b0)
+2026-02-11 18:08:18 | INFO     | core.base_scraper         | Scraped article: 'අනාගතයට සූදානම් – ඉන්දු ලංකා ද්වීපාර්ශ්වීය සංවාදය... (b09a1c50)
+2026-02-11 18:08:22 | INFO     | core.base_scraper         | Scraped article: උපරිමාධිකරණ සංකීර්ණය අධිකරණ කටයුතු සඳහා යළි ලබාදෙය... (abeadf29)
+2026-02-11 18:08:26 | INFO     | core.base_scraper         | Scraped article: T20 ලෝක කුසලානය හෙටයි... (ff660e81)
+2026-02-11 18:08:31 | INFO     | core.base_scraper         | Scraped article: සංචාරක ක්ෂේත්‍රය ශක්තිමත් කිරීමට නිදහස් ආර පැරෂුට්... (2c95a868)
+2026-02-11 18:08:34 | INFO     | core.base_scraper         | Scraped article: සර්වඥ ධාතූන්වහන්සේ වන්දනාවට ගංගාරාමයට අදත් ජන ගඟක්... (fa19e076)
+2026-02-11 18:08:39 | INFO     | core.base_scraper         | Scraped article: ආබාධ සහිත පුද්ගලයන් වෙනුවෙන් සේවා සැපයීම වැඩිදියුණ... (0afd19c6)
+2026-02-11 18:08:43 | INFO     | core.base_scraper         | Scraped article: ලොව වැඩිම ස්වාභාවික හා සංස්කෘතික උරුමයන් හිමි රට ච... (b08f31c3)
+2026-02-11 18:08:43 | INFO     | core.base_scraper         | Scraping page 26: https://www.itnnews.lk/local/page/26/
+2026-02-11 18:08:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:08:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:08:46 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:08:46 | INFO     | core.base_scraper         | Found 9 articles on page 26
+2026-02-11 18:08:49 | INFO     | core.base_scraper         | Scraped article: ජපානයේදී සැමැරූ අපේ නිදහස... (ac747367)
+2026-02-11 18:08:52 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව සහ මාලදිවයින අතර ක්ෂේත්‍ර කිහිපයක සහයෝ... (d90c9f12)
+2026-02-11 18:08:56 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවෙන් තවත් බේලි පාලම් 10 ක්... (b80e65a1)
+2026-02-11 18:09:03 | INFO     | core.base_scraper         | Scraped article: ආර්ථික බිඳවැටීමකින් පසු වේගවත්ව සංවර්ධන මාවතට පිවි... (3b21ac78)
+2026-02-11 18:09:05 | INFO     | core.base_scraper         | Scraped article: ඊයේ උපරිම වර්ෂාපතනය පානම වැව ප්‍රදේශයෙන්... (6039d72f)
+2026-02-11 18:09:08 | INFO     | core.base_scraper         | Scraped article: මින්නේරිය ගොවි ජනපද ව්‍යාපාරයේ ගොවීන් 200දෙනෙකුට ඉ... (78cded1c)
+2026-02-11 18:09:12 | INFO     | core.base_scraper         | Scraped article: රට ලබන ආර්ථික ජයග්‍රහණ ආර්ථිකයේ පතුළේම සිටින ජනතාව... (ddedc687)
+2026-02-11 18:09:15 | INFO     | core.base_scraper         | Scraped article: දයාසිරිගේ නඩුවක නියෝගය කල් යයි... (a8d92082)
+2026-02-11 18:09:15 | INFO     | core.base_scraper         | Scraping page 27: https://www.itnnews.lk/local/page/27/
+2026-02-11 18:09:18 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:09:18 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:09:18 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:09:18 | INFO     | core.base_scraper         | Found 9 articles on page 27
+2026-02-11 18:09:22 | INFO     | core.base_scraper         | Scraped article: හොරන් ගෙන ආ බෙහෙත් පෙති ලක්ෂ 7ක් සමග දෙදෙනෙකු කොටු... (65613da4)
+2026-02-11 18:09:25 | INFO     | core.base_scraper         | Scraped article: අනූෂ පැල්පිට ලබන 20 වැනිදා දක්වා යළි රිමාන්ඩ්... (b53fa34e)
+2026-02-11 18:09:32 | INFO     | core.base_scraper         | Scraped article: ගොයම කහවීම පාලනයට වැඩපිළිවෙළක්... (fe040945)
+2026-02-11 18:09:34 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප් ඉවත් ... (0084a8d2)
+2026-02-11 18:09:36 | INFO     | core.base_scraper         | Scraped article: පියාට සහ පුත්‍රයාට දිවි අහිමි කළ රිය අනතුර... (a74de753)
+2026-02-11 18:09:38 | INFO     | core.base_scraper         | Scraped article: උපරිමාධිකරණයේ තීන්දු තීරණ රටේ යුක්තිය පිළිබිඹු කරන... (fa109dfd)
+2026-02-11 18:09:40 | INFO     | core.base_scraper         | Scraped article: දිට්වා සුළි කුණාටුවෙන් ආපදාවට ලක් වූ පාසල් දරුවන් ... (172ada94)
+2026-02-11 18:09:42 | INFO     | core.base_scraper         | Scraped article: ප්‍රධාන මාර්ගයේ දුම්රිය ප්‍රමාදයක්... (8896909c)
+2026-02-11 18:09:44 | INFO     | core.base_scraper         | Scraped article: නුවරඑළිය හොඳම ආසියානු කඳුකර ගමනාන්ත ලැයිස්තුවට... (5c2b0641)
+2026-02-11 18:09:44 | INFO     | core.base_scraper         | Scraping page 28: https://www.itnnews.lk/local/page/28/
+2026-02-11 18:09:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:09:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:09:46 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:09:46 | INFO     | core.base_scraper         | Found 9 articles on page 28
+2026-02-11 18:09:48 | INFO     | core.base_scraper         | Scraped article: 20-20 ලෝක කුසලානය වෙනුවෙන් කොළඹ විශේෂ රථවාහන සැලැස... (636177cc)
+2026-02-11 18:09:50 | INFO     | core.base_scraper         | Scraped article: භූ විද්‍යා හා පතල් කාර්යාංශය ගවේෂණ බලපත්‍ර නිකුත් ... (d8b3d63a)
+2026-02-11 18:09:52 | INFO     | core.base_scraper         | Scraped article: පස් කණ්ඩියක් කඩා වැටී පුද්ගලයෙකු මියයයි... (8c2da351)
+2026-02-11 18:09:54 | INFO     | core.base_scraper         | Scraped article: කුෂ් මත්ද්‍රව්‍ය සමග සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට... (0c68af16)
+2026-02-11 18:09:56 | INFO     | core.base_scraper         | Scraped article: නව විගණකාධිපති කථානායකවරයා ඉදිරියේ රහස්‍යතාව පිළිබ... (d53386f2)
+2026-02-11 18:09:58 | INFO     | core.base_scraper         | Scraped article: පිරිසිදු හා විනිවිද පෙනෙන පාලනයක් තුළ රජය සැබෑ දේශ... (cb156c21)
+2026-02-11 18:10:01 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තුව අදත් රැස්වෙයි... (f6e4142f)
+2026-02-11 18:10:04 | INFO     | core.base_scraper         | Scraped article: දිට්වා වන්දි ලබාදීම් සහ සංවර්ධන ව්‍යාපෘති කිහිපයක ... (11f5eee4)
+2026-02-11 18:10:07 | INFO     | core.base_scraper         | Scraped article: ප්‍රදේශ කිහිපයකට මි.මී 50 ඉක්මවූ වැසි... (54301b31)
+2026-02-11 18:10:07 | INFO     | core.base_scraper         | Scraping page 29: https://www.itnnews.lk/local/page/29/
+2026-02-11 18:10:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:10:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:10:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:10:09 | INFO     | core.base_scraper         | Found 9 articles on page 29
+2026-02-11 18:10:12 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී සර්වඥ ධාතූන් වහන්සේ විදේශ රටකට වැඩම කරවනු ලබ... (3d8999a3)
+2026-02-11 18:10:16 | INFO     | core.base_scraper         | Scraped article: සංවර්ධන හවුල්කාරීත්වය ශක්තිමත් කිරීමේ අරමුණින් ලෝක... (f49a338a)
+2026-02-11 18:10:19 | INFO     | core.base_scraper         | Scraped article: මුතුරාජවෙල තෙත්බිම් කලාපයේ සිදුවන අනවසර ගොඩකිරීම් ... (adcb17c6)
+2026-02-11 18:10:22 | INFO     | core.base_scraper         | Scraped article: වැලිගම ප්‍රාදේශීය සභාවේ නව සභාපති සිය ධුරයේ වැඩ අර... (8b2e3dd9)
+2026-02-11 18:10:25 | INFO     | core.base_scraper         | Scraped article: කොළඹ නගරයේ මහල් නිවාස නඩත්තු භාර උප කොන්ත්‍රාත් සම... (ae7e2af7)
+2026-02-11 18:10:28 | INFO     | core.base_scraper         | Scraped article: කොළඹ මධ්‍යම බස්නැවතුම්පොල නවීකරණ ව්‍යාපෘතියේ ප්‍රග... (8af8a681)
+2026-02-11 18:10:31 | INFO     | core.base_scraper         | Scraped article: අම්බුලුවාවේ ගැටලුකාරී තත්ත්වය සොයා බලන්න පරිසර ඇමත... (cba5d590)
+2026-02-11 18:10:34 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය භාවිතා කළ කොන්දොස්තරවරුන් සහ රියදුරන් ... (53b06cd9)
+2026-02-11 18:10:37 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායල් රැකියා සඳහා අයදුම් කිරීම ගැන නිවේදනයක්... (814b3dee)
+2026-02-11 18:10:37 | INFO     | core.base_scraper         | Scraping page 30: https://www.itnnews.lk/local/page/30/
+2026-02-11 18:10:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:10:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:10:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:10:39 | INFO     | core.base_scraper         | Found 9 articles on page 30
+2026-02-11 18:10:43 | INFO     | core.base_scraper         | Scraped article: විදේශ ආපදා සහනාධාර සම්බන්ධීකරණ කමිටුව රැස්වෙයි... (a0e3853c)
+2026-02-11 18:10:46 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි සර්වඥ ධාතු ප්‍රදර්ශනය සම්බන්ධයෙන් සාකච... (e01c1db3)
+2026-02-11 18:10:49 | INFO     | core.base_scraper         | Scraped article: හෙරොයින් සමග බූස්ස බන්ධනාගාරයේ නියාමකවරයෙක් අත්අඩං... (23b59c93)
+2026-02-11 18:10:52 | INFO     | core.base_scraper         | Scraped article: පාසල් වලට ස්මාට් පුවරු අධ්‍යාපන අමාත්‍යංශය මගින් –... (39bfb70a)
+2026-02-11 18:10:55 | INFO     | core.base_scraper         | Scraped article: දිට්වා වන්දි ලබාදීම් සහ සංවර්ධන ව්‍යාපෘති කිහිපයක ... (b3035582)
+2026-02-11 18:10:58 | INFO     | core.base_scraper         | Scraped article: රාජ්‍ය සේවයේ කාර්යභාරය වඩාත් කාර්යක්ෂම කරමින් කර්ම... (7af5090a)
+2026-02-11 18:11:01 | INFO     | core.base_scraper         | Scraped article: ජාත්‍යන්තර මුහුදු සීමාවේදී ශ්‍රී ලාංකික ධීවරයින්ට ... (ceb5f387)
+2026-02-11 18:11:04 | INFO     | core.base_scraper         | Scraped article: ජනපති මේ මස අගදී ඉන්දියාවට... (e9c9250d)
+2026-02-11 18:11:07 | INFO     | core.base_scraper         | Scraped article: ඉතිහාසයේ වැඩිම මාසික සංචාරක පැමිණීම 2026 ජනවාරි මස... (8bbf1e07)
+2026-02-11 18:11:07 | INFO     | core.base_scraper         | Scraping page 31: https://www.itnnews.lk/local/page/31/
+2026-02-11 18:11:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:11:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:11:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:11:09 | INFO     | core.base_scraper         | Found 9 articles on page 31
+2026-02-11 18:11:13 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතු වන්දනාව ඇරඹෙයි – ගංගා... (ce18f679)
+2026-02-11 18:11:16 | INFO     | core.base_scraper         | Scraped article: ටිල්වින් සිල්වා ඇතුළු පිරිසක් ඉන්දියාවේ සංචාරයක... (e87dd4b6)
+2026-02-11 18:11:19 | INFO     | core.base_scraper         | Scraped article: කෝටියකට වැඩි වටිනාකමකින් යුත් කුෂ් මත්ද්‍රව්‍ය හා ... (182c243c)
+2026-02-11 18:11:22 | INFO     | core.base_scraper         | Scraped article: කොරියානු නි.කථානායක සහ කථානායකවරයා අතර හමුවක්... (39dc8910)
+2026-02-11 18:11:25 | INFO     | core.base_scraper         | Scraped article: නව විගණකාධිපති ලෙස සමුදිකා ජයරත්න වැඩ භාරගනී... (95c467dd)
+2026-02-11 18:11:28 | INFO     | core.base_scraper         | Scraped article: මගී සේවා අවසර බලපත්‍ර නෛතිකව පවරා දීම අද(5) සිට... (3ea2ac07)
+2026-02-11 18:11:31 | INFO     | core.base_scraper         | Scraped article: 'Rebuilding Sri Lanka' අරමුදලට First Capital Holdi... (11a19ca6)
+2026-02-11 18:11:34 | INFO     | core.base_scraper         | Scraped article: 'GovPAY' ඩිජිටල් රථවාහන දඩ ගෙවීමේ පද්ධතිය සාර්ථකව ... (37a972e0)
+2026-02-11 18:11:37 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලාංකික ශ්‍රමිකයින්ගෙන් කොරියානු ආර්ථිකයට ලැබ... (dfc215b6)
+2026-02-11 18:11:37 | INFO     | core.base_scraper         | Scraping page 32: https://www.itnnews.lk/local/page/32/
+2026-02-11 18:11:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:11:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:11:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:11:39 | INFO     | core.base_scraper         | Found 9 articles on page 32
+2026-02-11 18:11:43 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තුව රැස්වෙයි... (7ae05877)
+2026-02-11 18:11:46 | INFO     | core.base_scraper         | Scraped article: කොත්මලේ ජලාශයේ ජල මට්ටම පහළට – කඩදොර විහාරයේ නටඹුන... (7a25451e)
+2026-02-11 18:11:49 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධී ලෙස රැගෙන ආ දුම්වැටි 57,200ක් සමග සැකක... (51d8aadc)
+2026-02-11 18:11:52 | INFO     | core.base_scraper         | Scraped article: "GovPay" යෙදුම හරහා රියදුරන් 46,635 දෙනෙකු දඩ මුදල... (c096aeb1)
+2026-02-11 18:11:55 | INFO     | core.base_scraper         | Scraped article: දිය වැළකට හසුවී ගසාගෙන යමින් සිටි 7 දෙනෙකු බේරා ගැ... (f3e21adb)
+2026-02-11 18:11:58 | INFO     | core.base_scraper         | Scraped article: ගාල්ල බන්ධනාගාරයේ සිරමැදිරිවල තිබී සිම්පත් සහ මත්ද... (ba98cd07)
+2026-02-11 18:12:01 | INFO     | core.base_scraper         | Scraped article: පළාත් රැසකට විටින් විට වැසි... (20a5c09c)
+2026-02-11 18:12:04 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතුන් වහන්සේ වැඳපුදා ගැනී... (c82132f6)
+2026-02-11 18:12:07 | INFO     | core.base_scraper         | Scraped article: නිදහස් දින සැමරුම් රට පුරා... (2c5c2b76)
+2026-02-11 18:12:07 | INFO     | core.base_scraper         | Scraping page 33: https://www.itnnews.lk/local/page/33/
+2026-02-11 18:12:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:12:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:12:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:12:09 | INFO     | core.base_scraper         | Found 9 articles on page 33
+2026-02-11 18:12:13 | INFO     | core.base_scraper         | Scraped article: දෙහිබාලේගේ ප්‍රධාන ගෝලයෙකු බව කියන අයෙකු අත්අඩංගුව... (f9cee574)
+2026-02-11 18:12:16 | INFO     | core.base_scraper         | Scraped article: අමාත්‍ය විජිත හේරත් මහතා සහ කොරියා නියෝජිත පිරිසක්... (d8485d9e)
+2026-02-11 18:12:19 | INFO     | core.base_scraper         | Scraped article: සියලු දෙනා සතුව ඇති කැපවීම මත සැමට යහපත් හා නිදහස්... (7741986d)
+2026-02-11 18:12:22 | INFO     | core.base_scraper         | Scraped article: පසුගිය වසර ආර්ථික ජයග්‍රහණ රැසක් ලඟා කරගත් වසරක්... (ff0359bf)
+2026-02-11 18:12:25 | INFO     | core.base_scraper         | Scraped article: ස්වාධීන රූපවාහිනී ප්‍රවෘත්ති අංශයේ මාධ්‍යවේදියෙකු ... (ead1bae0)
+2026-02-11 18:12:28 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවේ 78 වැනි ජාතික නිදහස් දිනය වෙනුවෙන් චී... (0c5d4f4d)
+2026-02-11 18:12:31 | INFO     | core.base_scraper         | Scraped article: ඉදිරි පැය 24දී කන්කසන්තුරය වෙරළට ඔබ්බෙන්වන මුහුදු ... (15e2ff77)
+2026-02-11 18:12:34 | INFO     | core.base_scraper         | Scraped article: 78 වැනි නිදහස් දිනය වෙනුවෙන් වවුනියාව දිස්ත්‍රික්ක... (278126e5)
+2026-02-11 18:12:37 | INFO     | core.base_scraper         | Scraped article: ප්‍රබල අකුණු ගැන අනතුරු ඇඟවීමක්... (0f1ddbcd)
+2026-02-11 18:12:37 | INFO     | core.base_scraper         | Scraping page 34: https://www.itnnews.lk/local/page/34/
+2026-02-11 18:12:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:12:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:12:40 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:12:40 | INFO     | core.base_scraper         | Found 9 articles on page 34
+2026-02-11 18:12:44 | INFO     | core.base_scraper         | Scraped article: 78 වන ජාතික නිදහස් දින උලෙළ අමතා ජනාධිපති සිදු කළ ... (4f949305)
+2026-02-11 18:12:47 | INFO     | core.base_scraper         | Scraped article: 78 වැනි අභිමානවත් ජාතික නිදහස් දිනයට සමගාමීව නාවික... (f53e66f9)
+2026-02-11 18:12:49 | INFO     | core.base_scraper         | Scraped article: මෙරට ක්ෂේත්‍ර කිහිපයක වර්ධනයට කොරියාවේ සහාය... (f76a8227)
+2026-02-11 18:12:52 | INFO     | core.base_scraper         | Scraped article: මානසික සෞඛ්‍ය ප්‍රතිකාර කිරීම් ආයතනගතව මෙන්ම ප්‍රජ... (25938105)
+2026-02-11 18:12:55 | INFO     | core.base_scraper         | Scraped article: ලෝක විවාහක රූ රැජින තරගාවලියේ තෙවන ස්ථානය දිනූ සබී... (f8cc7a51)
+2026-02-11 18:12:58 | INFO     | core.base_scraper         | Scraped article: නිදහස් ශ්‍රී ලංකාවේ පළමු අගමැති මහාමාන්‍ය ඩී.එස් ස... (e675875e)
+2026-02-11 18:13:01 | INFO     | core.base_scraper         | Scraped article: ඓතිහාසික දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතු වහන්සේ අද පස... (311bf7af)
+2026-02-11 18:13:04 | INFO     | core.base_scraper         | Scraped article: උපාධිධාරීන් ශ්‍රී ලංකා ගුරු සේවයට බඳවා ගැනීමේ තරග ... (b09b8f66)
+2026-02-11 18:13:07 | INFO     | core.base_scraper         | Scraped article: ජාතිවාදයට සහ අන්තවාදයට කිසිදු ඉඩක් දෙන්නේ නැහැ – ජ... (2469abce)
+2026-02-11 18:13:07 | INFO     | core.base_scraper         | Scraping page 35: https://www.itnnews.lk/local/page/35/
+2026-02-11 18:13:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:13:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:13:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:13:09 | INFO     | core.base_scraper         | Found 9 articles on page 35
+2026-02-11 18:13:14 | INFO     | core.base_scraper         | Scraped article: 78 වන ජාතික නිදහස් දින සැමරුම ජනපති ප්‍රධානත්වයෙන්... (42dc9e0d)
+2026-02-11 18:13:16 | INFO     | core.base_scraper         | Scraped article: නිදහස් දිනයට සමගාමීව යුද්ධ හමුදාවේ නිලධාරීන් 9158ද... (c00711f2)
+2026-02-11 18:13:19 | INFO     | core.base_scraper         | Scraped article: ජාතික නිදහස් දිනය වෙනුවෙන් සිරකරුවන් 49 දෙනෙකුට වි... (51d0c4e4)
+2026-02-11 18:13:22 | INFO     | core.base_scraper         | Scraped article: කොළඹට අද විශේෂ රථවාහන සැලැස්මක්... (fe249381)
+2026-02-11 18:13:25 | INFO     | core.base_scraper         | Scraped article: ජාතියේ උන්නතිය වෙනුවෙන් සියලුදෙනාම අත්වැල් බැඳගත ය... (428535a9)
+2026-02-11 18:13:28 | INFO     | core.base_scraper         | Scraped article: 'පොහොසත් රටක් – ලස්සන ජීවිතයක්' ගොඩනැගීමට සහෝදරත්ව... (eac623f9)
+2026-02-11 18:13:30 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතූන් වහන්සේ දිවයිනට වැඩම... (59c310d6)
+2026-02-11 18:13:34 | INFO     | core.base_scraper         | Scraped article: 78වන නිදහස් දින සැමරුමට සියල්ල සූදානම්... (07b90499)
+2026-02-11 18:13:37 | INFO     | core.base_scraper         | Scraped article: ප්‍රදේශ කිහිපයකට වැසි... (004c9c39)
+2026-02-11 18:13:37 | INFO     | core.base_scraper         | Scraping page 36: https://www.itnnews.lk/local/page/36/
+2026-02-11 18:13:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:13:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:13:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:13:39 | INFO     | core.base_scraper         | Found 9 articles on page 36
+2026-02-11 18:13:43 | INFO     | core.base_scraper         | Scraped article: ගොඩනගමු ශ්‍රී ලංකා – 78වන අභිමානවත් නිදහස් දිනය අද... (7adc4d8f)
+2026-02-11 18:13:46 | INFO     | core.base_scraper         | Scraped article: හිටපු ජනාධිපති මෛත්‍රීපාලට කොටුව අධිකරණයෙන් සිදුකළ... (ad8aac93)
+2026-02-11 18:13:49 | INFO     | core.base_scraper         | Scraped article: දිවයිනට හෙට වැඩමකරවන දෙව්නි මෝරි සර්වඥ ධාතූන් වහන්... (f4e6072d)
+2026-02-11 18:13:52 | INFO     | core.base_scraper         | Scraped article: වැඩි කළ වතු කම්කරු වැටුප පෙබරවාරි 10 වනදා ලබාදෙනවා... (bc8705d3)
+2026-02-11 18:13:55 | INFO     | core.base_scraper         | Scraped article: මෝටර් රථ සඳහා අංක තහඩු මුද්‍රණය කිරීමේ කටයුතු කඩින... (d40d3fd9)
+2026-02-11 18:13:58 | INFO     | core.base_scraper         | Scraped article: කර්මාන්ත අමාත්‍යාංශය අඛණ්ඩව 4වන වරටත් කාර්ය සාධන ග... (d775ff3d)
+2026-02-11 18:14:01 | INFO     | core.base_scraper         | Scraped article: 2026 ජනවාරි මාසයේ වාර්තාගත සංචාරක පැමිණීමක්... (a200f6d4)
+2026-02-11 18:14:04 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව – ඕමානය අතර වෙළෙඳ සබඳතා ශක්තිමත් කිරීම... (d5f85253)
+2026-02-11 18:14:07 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී සර්වඥ ධාතූන් වහන්සේ වන්දනා කරන සැදැහැවතුන් ස... (0ee87342)
+2026-02-11 18:14:07 | INFO     | core.base_scraper         | Scraping page 37: https://www.itnnews.lk/local/page/37/
+2026-02-11 18:14:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:14:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:14:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:14:09 | INFO     | core.base_scraper         | Found 9 articles on page 37
+2026-02-11 18:14:13 | INFO     | core.base_scraper         | Scraped article: මොරන්තුඩුවේ රිය අනතුරක් – අයෙක් මරුට... (d0a9eb4d)
+2026-02-11 18:14:16 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා දුම්රිය සේවයට නවක නිලධාරීන් 42ක් බඳවා ග... (7a8edd25)
+2026-02-11 18:14:19 | INFO     | core.base_scraper         | Scraped article: පෙබරවාරි 6 වැනිදා පාර්ලිමේන්තු කටයුතුවල සංශෝධනයක්... (3ccd9714)
+2026-02-11 18:14:22 | INFO     | core.base_scraper         | Scraped article: අත්දැකීම් ඇති උපාධිධාරීන් ගුරු සේවයට ඇතුළත් කර ගැන... (7ef3c259)
+2026-02-11 18:14:25 | INFO     | core.base_scraper         | Scraped article: කෙහෙළියගේ ඥාති සහෝදරයෙකු වූ බණ්ඩාර රඹුක්වැල්ල ලබන ... (721ff1a0)
+2026-02-11 18:14:28 | INFO     | core.base_scraper         | Scraped article: විශ්වවිද්‍යාල පනත් කෙටුම්පතට කථානායකවරයාගේ සහතිකය... (9e623261)
+2026-02-11 18:14:31 | INFO     | core.base_scraper         | Scraped article: ගල් අඟුරුවල ගුණාත්මක තත්ත්වය පිළිබඳව ගැටළුවක් මතුව... (c7077020)
+2026-02-11 18:14:34 | INFO     | core.base_scraper         | Scraped article: ඇමති බංගලාව ළමා රැකවරණයට... (ce23e2d2)
+2026-02-11 18:14:37 | INFO     | core.base_scraper         | Scraped article: Govpay මගින් රථවාහන දඩ ගෙවීමේ පහසුව නුවරළිය හා හැට... (cc42e03e)
+2026-02-11 18:14:37 | INFO     | core.base_scraper         | Scraping page 38: https://www.itnnews.lk/local/page/38/
+2026-02-11 18:14:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:14:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:14:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:14:39 | INFO     | core.base_scraper         | Found 9 articles on page 38
+2026-02-11 18:14:43 | INFO     | core.base_scraper         | Scraped article: අත්අඩංගුවට ගත් රංගන ශිල්පී හේමාල් රණසිංහට ඇප... (dfeb9444)
+2026-02-11 18:14:46 | INFO     | core.base_scraper         | Scraped article: රෝහල් පද්ධතියට බලපෑමක් නොවන පරිදි වෛද්‍යවරුන්ගේ ස්... (d36a2a20)
+2026-02-11 18:14:48 | INFO     | core.base_scraper         | Scraped article: වෙළෙඳ හා ආයෝජන ප්‍රතිපත්ති දෙපාර්තමේන්තුවට නව අධ්‍... (b35ec5f4)
+2026-02-11 18:14:52 | INFO     | core.base_scraper         | Scraped article: නව විගණකාධිපති ලෙස එල්. එස්. අයි. ජයරත්න පත් කෙරෙය... (3683e1ed)
+2026-02-11 18:14:54 | INFO     | core.base_scraper         | Scraped article: පෙට්‍රල් නැව් තොග පහක් ගන්න කැබිනට් අනුමැතිය... (622964c5)
+2026-02-11 18:14:58 | INFO     | core.base_scraper         | Scraped article: සබරගමුව පළාත් සභා සංකීර්ණයේ ඉඩකඩ පුළුල් කිරීම සඳහා... (68853289)
+2026-02-11 18:15:01 | INFO     | core.base_scraper         | Scraped article: පාසල් සෞන්දර්ය අධ්‍යාපනය ප්‍රවර්ධනය සඳහා සෞන්දර්ය ... (18520b5f)
+2026-02-11 18:15:04 | INFO     | core.base_scraper         | Scraped article: ග්‍රාමීය ප්‍රජා ජල සම්පාදන ව්‍යාපෘති ක්‍රියාත්මක ක... (2f037ed7)
+2026-02-11 18:15:06 | INFO     | core.base_scraper         | Scraped article: 2025‑2030 සඳහා පුනර්ජනනීය බලශක්ති සම්පත් සංවර්ධන ස... (12926312)
+2026-02-11 18:15:07 | INFO     | core.base_scraper         | Scraping page 39: https://www.itnnews.lk/local/page/39/
+2026-02-11 18:15:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:15:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:15:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:15:09 | INFO     | core.base_scraper         | Found 9 articles on page 39
+2026-02-11 18:15:13 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව සහ ෆින්ලන්තය අතර දේශපාලන උපදේශන යාන්ත්... (8fc33e88)
+2026-02-11 18:15:16 | INFO     | core.base_scraper         | Scraped article: ජනපති සමග සාකච්ඡා සාර්ථකයි – සංවර්ධන නිලධාරීන් මාර... (d44562e9)
+2026-02-11 18:15:19 | INFO     | core.base_scraper         | Scraped article: ශිරන්ති රාජපක්ෂ FCIDයෙන් පැය 4කට පසු පිටව යයි... (2f147377)
+2026-02-11 18:15:22 | INFO     | core.base_scraper         | Scraped article: ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්... (8c25598e)
+2026-02-11 18:15:24 | INFO     | core.base_scraper         | Scraped article: මුදල් විශුද්ධිකරණය වැළැක්වීමේ තෙවන අන්‍යෝන්‍ය ඇගයී... (4bf9c682)
+2026-02-11 18:15:28 | INFO     | core.base_scraper         | Scraped article: චමල්ගේ පුත් ශමින්ද්‍ර අත්අඩංගුවට ගන්න ජාත්‍යන්තර ප... (dc1470b2)
+2026-02-11 18:15:31 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි සර්වඥ ධාතූන්වහන්සේලා ප්‍රදර්ශනයට සියලු... (23774c79)
+2026-02-11 18:15:34 | INFO     | core.base_scraper         | Scraped article: රජයේ වෛද්‍ය නිලධාරීන්ගේ කිසිදු වැඩ වර්ජනයකට කිසිලෙ... (03fd5c7b)
+2026-02-11 18:15:37 | INFO     | core.base_scraper         | Scraped article: ආබාධ සහිත ප්‍රජාව ජාතික සංවර්ධනයට දායක කර ගැනීම ගැ... (c62c8cee)
+2026-02-11 18:15:37 | INFO     | core.base_scraper         | Scraping page 40: https://www.itnnews.lk/local/page/40/
+2026-02-11 18:15:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:15:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:15:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:15:39 | INFO     | core.base_scraper         | Found 9 articles on page 40
+2026-02-11 18:15:43 | INFO     | core.base_scraper         | Scraped article: 78 වන නිදහස් දින සැමරුමට සියල්ල සූදානම්... (1368a7f7)
+2026-02-11 18:15:46 | INFO     | core.base_scraper         | Scraped article: ජාතික නිදහස් දිනය වෙනුවෙන් රුක් රෝපණ වැඩසටහනක්... (ee6003fc)
+2026-02-11 18:15:48 | INFO     | core.base_scraper         | Scraped article: නාමල් CIDයට පැමිණෙයි... (d09eda4a)
+2026-02-11 18:15:51 | INFO     | core.base_scraper         | Scraped article: රංගන ශිල්පී හේමාල් රණසිංහ අත්අඩංගුවට... (a43d4902)
+2026-02-11 18:15:54 | INFO     | core.base_scraper         | Scraped article: ශිරන්ති රාජපක්ෂ FCIDයට පැමිණෙයි... (2b1ca99b)
+2026-02-11 18:15:58 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා සහ එංගලන්ත තුන්වන T20 තරගය අදයි... (62c0e577)
+2026-02-11 18:16:01 | INFO     | core.base_scraper         | Scraped article: යතුරුපැදියක් බස් රථයක ගැටී තරුණයෙකු මරුට... (9ccc6a05)
+2026-02-11 18:16:04 | INFO     | core.base_scraper         | Scraped article: කෙහෙළියගේ ඥාති සහෝදරයෙකු වූ බණ්ඩාර රඹුක්වැල්ල අත්අ... (6ccd5b62)
+2026-02-11 18:16:07 | INFO     | core.base_scraper         | Scraped article: ශිරන්ති රාජපක්ෂ අද FCIDයට – නාමල් රාජපක්ෂ CIDයට... (6e2dd307)
+2026-02-11 18:16:07 | INFO     | core.base_scraper         | Scraping page 41: https://www.itnnews.lk/local/page/41/
+2026-02-11 18:16:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:16:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:16:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:16:09 | INFO     | core.base_scraper         | Found 9 articles on page 41
+2026-02-11 18:16:13 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවේ පාකිස්ථාන මහ කොමසාරිස් සහ නි.ආරක්‍ෂක ... (a91c6f6f)
+2026-02-11 18:16:16 | INFO     | core.base_scraper         | Scraped article: ත්‍රීරෝද රථයක් බවුසරයක ගැටෙයි – කාන්තාවක් ජීවිතක්ෂ... (bb3ba821)
+2026-02-11 18:16:19 | INFO     | core.base_scraper         | Scraped article: T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ටිකට් පත් අලෙවිය... (ca8df01a)
+2026-02-11 18:16:22 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තුව අද රැස්වෙයි... (26b7385c)
+2026-02-11 18:16:25 | INFO     | core.base_scraper         | Scraped article: ප්‍රදේශ කිහිපයකට මි.මී. 50 ඉක්මවූ වැසි... (04624fd7)
+2026-02-11 18:16:28 | INFO     | core.base_scraper         | Scraped article: අ.පො.ස උසස් පෙළ ජෛව පද්ධති තාක්ෂණවේදය ප්‍රායෝගික ප... (42e99f17)
+2026-02-11 18:16:30 | INFO     | core.base_scraper         | Scraped article: දිවයින පුරා පොලිස් කොට්ඨාස හරිතවත් කිරීමේ පැල රෝපණ... (6b810780)
+2026-02-11 18:16:34 | INFO     | core.base_scraper         | Scraped article: විස්සයි 20ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ටිකට් හෙට ... (ae92dc96)
+2026-02-11 18:16:37 | INFO     | core.base_scraper         | Scraped article: සාමාන්‍ය පෙළ විභාග කාලසටහන සහ ප්‍රවේශ පත්‍ර සංශෝධන... (0588d4e0)
+2026-02-11 18:16:37 | INFO     | core.base_scraper         | Scraping page 42: https://www.itnnews.lk/local/page/42/
+2026-02-11 18:16:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:16:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:16:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:16:39 | INFO     | core.base_scraper         | Found 9 articles on page 42
+2026-02-11 18:16:43 | INFO     | core.base_scraper         | Scraped article: කහටගස්දිගිලිය / කුකුළෑව / සමාධීගම ප්‍රධාන මාර්ගය ක... (6bb55252)
+2026-02-11 18:16:46 | INFO     | core.base_scraper         | Scraped article: ගැටලු සාකච්ඡාවට ජනාධිපතිවරයා සාකච්ඡාවක් ලබාදී තිබි... (d5c286fe)
+2026-02-11 18:16:49 | INFO     | core.base_scraper         | Scraped article: ත්‍රිකුණාමලය අධිකරණය ඉදිරිපිට පිටස්තර පිරිසක් සිදු... (718c5b64)
+2026-02-11 18:16:52 | INFO     | core.base_scraper         | Scraped article: විදෙස් සංචාරකයින් දෙදහසක් රැගත් මගී නෞකාවක් හම්බන්... (e9f020ec)
+2026-02-11 18:16:54 | INFO     | core.base_scraper         | Scraped article: බේරුවල සජබ ක්‍රියාකාරී හමුවේ උණුසුම් තත්ත්වයක්... (a0b92c9b)
+2026-02-11 18:16:58 | INFO     | core.base_scraper         | Scraped article: මලයාගම් වතු ජනතාවට වැටුපට අමතරව පර්චස් 10ක ඉඩමක් –... (93ea94b2)
+2026-02-11 18:17:01 | INFO     | core.base_scraper         | Scraped article: මුතුරාජවෙල තෙත් බිම් කලාපය සංරක්ෂණයට වැඩපිළිවෙළක් ... (c13c78c0)
+2026-02-11 18:17:04 | INFO     | core.base_scraper         | Scraped article: ආපදා තත්ත්වය කළමනාකරණය කර ගැනීමට ජාත්‍යන්තර හවුල්ක... (7b619d4d)
+2026-02-11 18:17:07 | INFO     | core.base_scraper         | Scraped article: 'Rebuilding Sri Lanka' අරමුදලට සංවර්ධන ලොතරැයි මණ්... (40eed53c)
+2026-02-11 18:17:07 | INFO     | core.base_scraper         | Scraping page 43: https://www.itnnews.lk/local/page/43/
+2026-02-11 18:17:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:17:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:17:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:17:09 | INFO     | core.base_scraper         | Found 9 articles on page 43
+2026-02-11 18:17:13 | INFO     | core.base_scraper         | Scraped article: ජාතික නිදහස් දිනය වෙනුවෙන් සිරකරුවන්ට විශේෂ ජනාධිප... (6b7f158a)
+2026-02-11 18:17:16 | INFO     | core.base_scraper         | Scraped article: අපේ ධීවරයින්ට ඉන්දීය වෙරළාරක්ෂකයින් පහරදීම ධීවර ඇම... (e5774a28)
+2026-02-11 18:17:19 | INFO     | core.base_scraper         | Scraped article: නීති ආධාර කොමිෂන් සභාවට නව කළමනාකරණ සහකාර නිලධාරීන... (a4ab0124)
+2026-02-11 18:17:22 | INFO     | core.base_scraper         | Scraped article: බදුල්ල වින්සන්ට් ඩයස් ක්‍රීඩාංගණය නවීකරණයෙන් පසු ව... (ceb97080)
+2026-02-11 18:17:25 | INFO     | core.base_scraper         | Scraped article: සියල්ලන්ට ප්‍රතිලාභ ලැබෙන නව පරිවර්තනීය යුගයක් ගොඩ... (627a9523)
+2026-02-11 18:17:28 | INFO     | core.base_scraper         | Scraped article: සංවර්ධනය යනු පරිසරය අමතක කර ලබාගත හැකි ජයග්‍රහණයක්... (e05fd943)
+2026-02-11 18:17:31 | INFO     | core.base_scraper         | Scraped article: චමල් රාජපක්ෂගේ බාල පුතු ශමීන්ද්‍ර රාජපක්ෂ අත්අඩංගු... (25ecc027)
+2026-02-11 18:17:34 | INFO     | core.base_scraper         | Scraped article: චමල් රාජපක්ෂ සහ ප්‍රසන්න රණතුංග අපරාධ පරීක්ෂණ දෙපා... (d92b490f)
+2026-02-11 18:17:37 | INFO     | core.base_scraper         | Scraped article: කැස්බෑ මස් සහ බිත්තර තොගයක් සමග 3ක් නාවික භාරයට... (9ffc82c3)
+2026-02-11 18:17:37 | INFO     | core.base_scraper         | Scraping page 44: https://www.itnnews.lk/local/page/44/
+2026-02-11 18:17:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:17:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:17:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:17:39 | INFO     | core.base_scraper         | Found 9 articles on page 44
+2026-02-11 18:17:43 | INFO     | core.base_scraper         | Scraped article: නාගරික සංවර්ධන අධිකාරියේ සේවාලාභින් සඳහා මාර්ගගත ග... (ca249707)
+2026-02-11 18:17:46 | INFO     | core.base_scraper         | Scraped article: විදෙස් රැකියා වංචාවන්ගෙන් ලාංකිකයින් ආරක්ෂා කිරීමට... (b802295b)
+2026-02-11 18:17:48 | INFO     | core.base_scraper         | Scraped article: ආපදාවෙන් විපතට පත් සිසුන්ට සුරක්ෂා සිසු රක්ෂණාවරණ ... (6cde2b8e)
+2026-02-11 18:17:52 | INFO     | core.base_scraper         | Scraped article: 2030 වසර වන විට පොල් ගෙඩි මිලියන 4200 ක ඉලක්කයක් –... (b0c4270a)
+2026-02-11 18:17:55 | INFO     | core.base_scraper         | Scraped article: ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්... (1e36e8cf)
+2026-02-11 18:17:58 | INFO     | core.base_scraper         | Scraped article: තැරැවූකරුවන් දමාගෙන දරුවන්ට මත්පැන් අලෙවි කරන මත්ප... (4876034f)
+2026-02-11 18:18:01 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය වැරදිවලට සම්බන්ධ සැකකරුවන් 803ක් ඊයේ අ... (77a57105)
+2026-02-11 18:18:04 | INFO     | core.base_scraper         | Scraped article: දික්ඕවිට වරායට ගෙන ආ කෝටි 300 කට අධික මත්ද්‍රව්‍ය ... (a26e3a8a)
+2026-02-11 18:18:07 | INFO     | core.base_scraper         | Scraped article: වැලිගම ප්‍රාදේශිය සභාවේ නව සභාපති මාලිමාවේ චින්තක ... (5d6d6ddc)
+2026-02-11 18:18:07 | INFO     | core.base_scraper         | Scraping page 45: https://www.itnnews.lk/local/page/45/
+2026-02-11 18:18:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:18:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:18:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:18:09 | INFO     | core.base_scraper         | Found 9 articles on page 45
+2026-02-11 18:18:13 | INFO     | core.base_scraper         | Scraped article: ගල්කිස්ස සිට දෙහිවල දක්වා මුහුදු තීරයේ කුණු කඳු ඉව... (feba6a26)
+2026-02-11 18:18:16 | INFO     | core.base_scraper         | Scraped article: පරිවර්තනීය වෙනසක් සිදුකිරීමේ දී මානව සම්පත ගුණාත්ම... (225cfc25)
+2026-02-11 18:18:19 | INFO     | core.base_scraper         | Scraped article: "ගෝනමැරියාව පාරිසරික ආරක්ෂක ප්‍රදේශය" ප්‍රකාශයට පත... (6b0a8ea5)
+2026-02-11 18:18:22 | INFO     | core.base_scraper         | Scraped article: කොටිකම්බොක්ක අනවසර තිරුවානා කැණීම් නැවැතීමට පියවර... (c126c3e2)
+2026-02-11 18:18:25 | INFO     | core.base_scraper         | Scraped article: 'මනුරාව' නීති සඟරාවේ හත්වන සංස්කරණය එළි දක්වයි... (13d22c0b)
+2026-02-11 18:18:28 | INFO     | core.base_scraper         | Scraped article: නිදහස් උත්සවයේ පෙරහුරු අදත්... (ad71fc5a)
+2026-02-11 18:18:31 | INFO     | core.base_scraper         | Scraped article: බලංගොඩ කස්සප හිමි ඇතුළු පිරිස යළිත් රිමාන්ඩ්... (547c5099)
+2026-02-11 18:18:34 | INFO     | core.base_scraper         | Scraped article: පොලිස් විශේෂ මෙහෙයුමකින් 576ක් අත්අඩංගුවට – 28894ක... (f480c4bf)
+2026-02-11 18:18:37 | INFO     | core.base_scraper         | Scraped article: 78 වන නිදහස් දින සමරු උළෙලට සමගාමීව පැවැත්වෙන සර්ව... (739a9d41)
+2026-02-11 18:18:37 | INFO     | core.base_scraper         | Scraping page 46: https://www.itnnews.lk/local/page/46/
+2026-02-11 18:18:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:18:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:18:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:18:39 | INFO     | core.base_scraper         | Found 9 articles on page 46
+2026-02-11 18:18:43 | INFO     | core.base_scraper         | Scraped article: කොටිකම්බොක්ක තිරුවානා සම්පත ආර්ථිකයට දායක කරගැනීම ... (542bf3d8)
+2026-02-11 18:18:46 | INFO     | core.base_scraper         | Scraped article: ඇමති නලින්දගෙන් සජබ නිරෝෂන් පාදුක්කට රුපියල් බිලිය... (110f51cc)
+2026-02-11 18:18:49 | INFO     | core.base_scraper         | Scraped article: හොර පාරෙන් ගෙන ආ එනසාල් සමග සැකකරුවෙකු කටුනායකදී අ... (2c4c4976)
+2026-02-11 18:18:52 | INFO     | core.base_scraper         | Scraped article: ලෝක තෙත්බිම් දින ජාතික උත්සවය අද අගමැති ප්‍රධානත්ව... (93eb41c4)
+2026-02-11 18:18:55 | INFO     | core.base_scraper         | Scraped article: නුගේගොඩ දුඹුරු සීනි වෙළෙඳසැල ගැන සමාජ මාධ්‍ය හරහා ... (524f341d)
+2026-02-11 18:18:58 | INFO     | core.base_scraper         | Scraped article: කාන්තාවන්ට තිබූ බාධාවක් ඉවත් කරමින් ගැසට්ටුවක්... (19858dc1)
+2026-02-11 18:19:01 | INFO     | core.base_scraper         | Scraped article: හලාවත – කුරුණෑගල මාර්ගයේ මාරක රිය අනතුරක් – පාර අය... (4383b2fd)
+2026-02-11 18:19:04 | INFO     | core.base_scraper         | Scraped article: සර්වඥ ධාතූන් වහන්සේ ප්‍රදර්ශනය වෙනුවෙන් විශේෂ රථවා... (1a136e9a)
+2026-02-11 18:19:07 | INFO     | core.base_scraper         | Scraped article: නිදහස් දිනයට සමගාමීව ජාතික කොඩිය ප්‍රදර්ශනය කරන්නැ... (cf2fe90d)
+2026-02-11 18:19:07 | INFO     | core.base_scraper         | Scraping page 47: https://www.itnnews.lk/local/page/47/
+2026-02-11 18:19:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:19:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:19:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:19:10 | INFO     | core.base_scraper         | Found 9 articles on page 47
+2026-02-11 18:19:14 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවට එරෙහි පන්දුවාර 20 තරගාවලියේ ජය එංගලන්... (777423a4)
+2026-02-11 18:19:16 | INFO     | core.base_scraper         | Scraped article: දිවයිනේ ඇතැම් ස්ථානවලට මි.මී 50 ක පමණ තරමක තද වැසි... (a253ffa5)
+2026-02-11 18:19:19 | INFO     | core.base_scraper         | Scraped article: රියදුරුගේ දස්කමින් මගීන් 40 දෙනෙකුගේ ජීවිත බේරෙයි... (7fef4356)
+2026-02-11 18:19:22 | INFO     | core.base_scraper         | Scraped article: GMOA සුළු පිරිසකගේ වර්ජනයට අපි යන්නේ නැහැ – විශේෂඥ... (5b8e6f72)
+2026-02-11 18:19:25 | INFO     | core.base_scraper         | Scraped article: වෛද්‍යවරුන්ගේ දරුවන්ගේ පාසල් ගැටලු විසඳන්න සෞඛ්‍ය ... (b0aac405)
+2026-02-11 18:19:28 | INFO     | core.base_scraper         | Scraped article: රිවස්ටන් සංචාරක කලාපය දෙස් විදෙස් සංචාරකයින්ට අද ස... (36772146)
+2026-02-11 18:19:31 | INFO     | core.base_scraper         | Scraped article: දුප්පත්කම හේතුවෙන් කිසිදු දරුවෙකුට වෘත්තීය හෝ උසස්... (0fbe5f87)
+2026-02-11 18:19:34 | INFO     | core.base_scraper         | Scraped article: ඉන්දියාවෙන් මෙරටට තවත් බේලි පාලම් 10ක්... (07ed137e)
+2026-02-11 18:19:37 | INFO     | core.base_scraper         | Scraped article: නිතීඥවරයෙකුට බියගැන්වීම් සිදුකර මෝටර් රථයට පහරදීමේ... (113ed43c)
+2026-02-11 18:19:37 | INFO     | core.base_scraper         | Scraping page 48: https://www.itnnews.lk/local/page/48/
+2026-02-11 18:19:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:19:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:19:40 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:19:40 | INFO     | core.base_scraper         | Found 9 articles on page 48
+2026-02-11 18:19:43 | INFO     | core.base_scraper         | Scraped article: ප්‍රවීන චිත්‍ර ශිල්පි බන්දුල හරිස්චන්ද්‍ර මහතා අභා... (77ef0fcb)
+2026-02-11 18:19:46 | INFO     | core.base_scraper         | Scraped article: ඉන්දීය වෙරළ ආරක්ෂකයින් පහර දුන් බවට පැවසෙන සිද්ධිය... (82201243)
+2026-02-11 18:19:49 | INFO     | core.base_scraper         | Scraped article: ගල්කුලමේදී මෝටර් රථ දෙකක් මුහුණට මුහුණ ගැටෙයි – පස... (13cd8193)
+2026-02-11 18:19:52 | INFO     | core.base_scraper         | Scraped article: ඉන්දියානු අයවැයෙන් ශ්‍රී ලංකාවට රුපියල් බිලියන 4ක්... (8f182eeb)
+2026-02-11 18:19:55 | INFO     | core.base_scraper         | Scraped article: රෝහල් සංවර්ධනයට යොදවන මුදල් අවභාවිතා නොකරන බවට සෞඛ... (3dec5b18)
+2026-02-11 18:19:58 | INFO     | core.base_scraper         | Scraped article: අලුත උපන් බිළිඳියකගේ මළ සිරුරක් ග්‍රෙගරි වැවෙන් හම... (459a03a7)
+2026-02-11 18:20:01 | INFO     | core.base_scraper         | Scraped article: ප්‍රබල අකුණු ගැන අනතුරු ඇඟවීමක්... (d92163d9)
+2026-02-11 18:20:04 | INFO     | core.base_scraper         | Scraped article: ජලය බැස නොගිය වනාතවිල්ලුව ගම්මානවල කිහිපයක ජලය ඉවත... (566fba32)
+2026-02-11 18:20:07 | INFO     | core.base_scraper         | Scraped article: මිල්කෝ සමාගමේ ආදායම් ලාභයෙන් කොටසක් කිරි ගොවීන්ට... (2283ced0)
+2026-02-11 18:20:07 | INFO     | core.base_scraper         | Scraping page 49: https://www.itnnews.lk/local/page/49/
+2026-02-11 18:20:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:20:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:20:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:20:09 | INFO     | core.base_scraper         | Found 9 articles on page 49
+2026-02-11 18:20:13 | INFO     | core.base_scraper         | Scraped article: ලක්ෂ 80කට අධික වටිනාකමින් යුක්ත අයිස් සමග යුවලක් අ... (c6259733)
+2026-02-11 18:20:16 | INFO     | core.base_scraper         | Scraped article: මධ්‍යම කඳුකරයට මද වැසි – මාර්ග බොහොමයක් ලිස්සන සුළ... (c2c191d1)
+2026-02-11 18:20:19 | INFO     | core.base_scraper         | Scraped article: බෙයිජිංහි ඩැක්සිං ගුවන් තොටුපොළේ සිට මංගල ගුවන් යා... (78066b58)
+2026-02-11 18:20:22 | INFO     | core.base_scraper         | Scraped article: හැටන් නගරයේ පදික වෙළෙන්දන් ඉවත් කර මහජන පොළ ආරම්භ ... (8df3e236)
+2026-02-11 18:20:25 | INFO     | core.base_scraper         | Scraped article: පොලිස් විශේෂ මෙහෙයුමකින් 779ක් අත්අඩංගුවට... (0433158e)
+2026-02-11 18:20:28 | INFO     | core.base_scraper         | Scraped article: මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ ගෝලයෙකු අය... (da425241)
+2026-02-11 18:20:31 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා එංගලන්ත දෙවැනි T20 තරගය අද... (45ada5ac)
+2026-02-11 18:20:34 | INFO     | core.base_scraper         | Scraped article: උනාකූරුවේ ශාන්තගේ ගෝලයෙකු ලක්ෂ 50ක අයිස් මත්ද්‍රව්... (3470d301)
+2026-02-11 18:20:38 | INFO     | core.base_scraper         | Scraped article: ලෝක තෙත්බිම් දින ජාතික උත්සවය හෙට අගමැති ප්‍රධානත්... (d56f4116)
+2026-02-11 18:20:38 | INFO     | core.base_scraper         | Scraping page 50: https://www.itnnews.lk/local/page/50/
+2026-02-11 18:20:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:20:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:20:40 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:20:40 | INFO     | core.base_scraper         | Found 9 articles on page 50
+2026-02-11 18:20:43 | INFO     | core.base_scraper         | Scraped article: ගංගාරාම පෙරහැරේ දෙවන දිනය අදයි – විශේෂ රථවාහන සැලැ... (7e168974)
+2026-02-11 18:20:46 | INFO     | core.base_scraper         | Scraped article: බුද්ධ ප්‍රතිමාවක් පැහැර ගත් පුද්ගලයන් 14 දෙනෙකු අත... (ecc4f72e)
+2026-02-11 18:20:49 | INFO     | core.base_scraper         | Scraped article: Miss Intercontinental – Strenth and Harmony සම්මාන... (86f60182)
+2026-02-11 18:20:52 | INFO     | core.base_scraper         | Scraped article: ප්‍රදේශ කිහිපයකට පස්වරු 2.00 න් පසු වැසි... (a0cb71c1)
+2026-02-11 18:20:56 | INFO     | core.base_scraper         | Scraped article: ශාසන ඉතිහාසයේ වැදගත් සිදුවීම් කිහිපයක් සනිටුහන් වූ... (e9febad1)
+2026-02-11 18:20:58 | INFO     | core.base_scraper         | Scraped article: ඉන්ධන මිල සංශෝධනය වෙයි – නව මිල ගණන් මෙන්න... (91e10755)
+2026-02-11 18:21:01 | INFO     | core.base_scraper         | Scraped article: PINNA LEGACY AWARDS 2026 – වසරේ ජනප්‍රියතම ප්‍රවෘත... (9f14b12a)
+2026-02-11 18:21:04 | INFO     | core.base_scraper         | Scraped article: සර්වඥ ධාතු ප්‍රදර්ශනය පිළිබඳ විශේෂ සම්බන්ධීකරණ කමි... (36582dce)
+2026-02-11 18:21:07 | INFO     | core.base_scraper         | Scraped article: නව අධ්‍යපන ප්‍රතිසංස්කරණ ගැන නිවැරදි කියවීමක් සහ අ... (7f148df3)
+2026-02-11 18:21:07 | INFO     | core.base_scraper         | Scraping page 51: https://www.itnnews.lk/local/page/51/
+2026-02-11 18:21:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:21:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:21:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:21:10 | INFO     | core.base_scraper         | Found 9 articles on page 51
+2026-02-11 18:21:13 | INFO     | core.base_scraper         | Scraped article: අධ්‍යාපනයේ වෙනස රටේම අනාගතයේ වෙනසකටයි – අගමැතිණිය ... (272b4f6b)
+2026-02-11 18:21:16 | INFO     | core.base_scraper         | Scraped article: චීනයේ "කැපිටල්" ගුවන් සේවය ශ්‍රී ලංකාවට ගුවන් ගමන්... (c1ade3b6)
+2026-02-11 18:21:19 | INFO     | core.base_scraper         | Scraped article: ත්‍රිකුණාමලය සහ මුලතිව් අතර මුහුදේ රික්ටර් මාපක 3.... (c51bb1b7)
+2026-02-11 18:21:22 | INFO     | core.base_scraper         | Scraped article: කෝටි ගණනක් වටිනා මැණික් ගනුදෙනුවකදී මූල්‍ය වංචාවක්... (57abfb22)
+2026-02-11 18:21:25 | INFO     | core.base_scraper         | Scraped article: ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේදනයක්... (e58f5936)
+2026-02-11 18:21:28 | INFO     | core.base_scraper         | Scraped article: එල්ලංගා කලමනාකරණ කමිටුවේ කාර්යභාරය පිළිබඳ අත්පොත එ... (c713af21)
+2026-02-11 18:21:31 | INFO     | core.base_scraper         | Scraped article: සමූපකාර ව්‍යාපාරයට ජාතික ක්‍රියාකාරී සැලැස්මක් සකස... (a0a54657)
+2026-02-11 18:21:34 | INFO     | core.base_scraper         | Scraped article: එක්සත් රාජධානියේ රැකියා දෙන බව පවසා ලක්ෂ 100ක් වංච... (468b0139)
+2026-02-11 18:21:37 | INFO     | core.base_scraper         | Scraped article: T20 ලෝක කුසලානයට සහභාගිවන නෙදර්ලන්ත ක්‍රිකට් කණ්ඩා... (3fa4b918)
+2026-02-11 18:21:37 | INFO     | core.base_scraper         | Scraping page 52: https://www.itnnews.lk/local/page/52/
+2026-02-11 18:21:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:21:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:21:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:21:39 | INFO     | core.base_scraper         | Found 9 articles on page 52
+2026-02-11 18:21:43 | INFO     | core.base_scraper         | Scraped article: හර්ෂ අබේවික්‍රම තනතුරින් ඉවත් කිරීම ගැන පැතිරෙන පු... (98cb61c6)
+2026-02-11 18:21:46 | INFO     | core.base_scraper         | Scraped article: පිඹුර – අගලවත්ත මූලික රෝහලේ සංවර්ධන කටයුතු රැසක් ජ... (1910ba6d)
+2026-02-11 18:21:49 | INFO     | core.base_scraper         | Scraped article: ජාතික ත්‍රිපෝෂ වැඩසටහනට කොරියාවෙන් ඩොලර් මිලියන 10... (77366d10)
+2026-02-11 18:21:52 | INFO     | core.base_scraper         | Scraped article: මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදයක් ගැන දැනුම්දීමක... (fa4dfadc)
+2026-02-11 18:21:55 | INFO     | core.base_scraper         | Scraped article: ITE අධ්‍යාපන සේවා ආයතනය නැරඹීමට විපක්ෂ නායක සජිත් ... (6eb1c78e)
+2026-02-11 18:21:58 | INFO     | core.base_scraper         | Scraped article: අධ්‍යාපන ප්‍රතිසංස්කරණ කථිකාව මාතර දී... (725519ab)
+2026-02-11 18:22:01 | INFO     | core.base_scraper         | Scraped article: ITN අවුරුදු කුමරා කුමරිය තරගයේ මූලික වටයේ තරග අද ප... (c646086b)
+2026-02-11 18:22:04 | INFO     | core.base_scraper         | Scraped article: දකුණු ආසියාවේ විශාලතම බෝට්ටු ප්‍රදර්ශනය ඇරඹෙයි... (386f36a7)
+2026-02-11 18:22:04 | INFO     | core.base_scraper         | Scraping page 53: https://www.itnnews.lk/local/page/53/
+2026-02-11 18:22:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:22:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:22:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:22:06 | INFO     | core.base_scraper         | Found 9 articles on page 53
+2026-02-11 18:22:10 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධී ලෙස කැස්බෑ බිත්තර 117ක් සන්තකයේ තබාගෙන... (4fc943b8)
+2026-02-11 18:22:13 | INFO     | core.base_scraper         | Scraped article: සංවර්ධන නිලධාරී ගැටළුව ගැන හරියට දැනුවත් වෙමු... (8a0cdcb7)
+2026-02-11 18:22:16 | INFO     | core.base_scraper         | Scraped article: හුණුපිටිය ගංගාරාමයේ නවම් පෙරහැර අද සහ හෙට – කොළඹ අ... (9ac430e6)
+2026-02-11 18:22:19 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයන්ට දැනුම්දීමක්... (bb9cc70b)
+2026-02-11 18:22:22 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධී ලෙස පොකිරිස්සන් අල්ලා වැඩි මුදලට අලෙවි... (7a44d672)
+2026-02-11 18:22:25 | INFO     | core.base_scraper         | Scraped article: විදෙස් රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ සැකකරුව... (0be61653)
+2026-02-11 18:22:28 | INFO     | core.base_scraper         | Scraped article: දිවයිනේ පළාත් රැසකට විටින් විට වැසි... (1b59944c)
+2026-02-11 18:22:31 | INFO     | core.base_scraper         | Scraped article: නිදහස් උත්සව පෙරහුරුවේ දෙවන දිනය අදයි – කොළඹ විශේෂ... (39a71460)
+2026-02-11 18:22:34 | INFO     | core.base_scraper         | Scraped article: එංගලන්ත කණ්ඩායම විස්සයි 20 තරගාවලියේ පෙරමුණ ගනී... (edaf8043)
+2026-02-11 18:22:34 | INFO     | core.base_scraper         | Scraping page 54: https://www.itnnews.lk/local/page/54/
+2026-02-11 18:22:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:22:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:22:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:22:36 | INFO     | core.base_scraper         | Found 9 articles on page 54
+2026-02-11 18:22:40 | INFO     | core.base_scraper         | Scraped article: පොලිස් ලොක්කෝ 6 කට ස්ථාන මාරු... (75625948)
+2026-02-11 18:22:43 | INFO     | core.base_scraper         | Scraped article: සමූපකාර ව්‍යාපාරය රටේ ආර්ථික ක්‍රියාවලියට දායකකර ග... (d99b409f)
+2026-02-11 18:22:46 | INFO     | core.base_scraper         | Scraped article: ගිනිඅවි සඳහා බලපත්‍ර හිමි පුද්ගලයින්ට දැනුම්දීමක්... (aec99b81)
+2026-02-11 18:22:49 | INFO     | core.base_scraper         | Scraped article: සමාජ මාධ්‍ය මගින් දරුවන්ට ඇති කරන බලපෑම පිළිබඳ ජාත... (7bafebdc)
+2026-02-11 18:22:52 | INFO     | core.base_scraper         | Scraped article: සංචාරක ක්ෂේත්‍රයේ වේගවත් සංවර්ධනයකට තීන්දු රැසක්... (1e04640b)
+2026-02-11 18:22:55 | INFO     | core.base_scraper         | Scraped article: විදේශීය රටක නිෂ්පාදිත ගිනි අවියක් සමග අත්අඩංගුවට ග... (6387d1ae)
+2026-02-11 18:22:58 | INFO     | core.base_scraper         | Scraped article: නව අධ්‍යාපන ප්‍රතිසංස්කරණ සම්බන්ධයෙන් පෙරපාසල් ගුර... (108d1a99)
+2026-02-11 18:23:01 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධීව මෙරටට ගෙනා දුම්වැටි ලක්ෂ 20 කට අධික ප... (28248729)
+2026-02-11 18:23:04 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවේ ගුවන් යානා නඩත්තු මධ්‍යස්ථානයක් පිහිට... (6eac6353)
+2026-02-11 18:23:04 | INFO     | core.base_scraper         | Scraping page 55: https://www.itnnews.lk/local/page/55/
+2026-02-11 18:23:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:23:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:23:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:23:06 | INFO     | core.base_scraper         | Found 9 articles on page 55
+2026-02-11 18:23:10 | INFO     | core.base_scraper         | Scraped article: රේන්බෝ විදේශ රැකියා ආයතනයේ හිමිකරු ලබන 13 දක්වා යළ... (47601bd2)
+2026-02-11 18:23:13 | INFO     | core.base_scraper         | Scraped article: ස්මාර්ට් පන්ති කාමරයකට අවශ්‍ය තිර ඇතුළු ඩිජිටල් උප... (3488bb37)
+2026-02-11 18:23:16 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය භාවිත කරන රියදුරන් පරීක්ෂා කිරීමේ ජංගම... (e3a77bf0)
+2026-02-11 18:23:19 | INFO     | core.base_scraper         | Scraped article: ජාතික ඵලදායිතා ප්‍රතිපත්තියක් නුදුරේදීම එළිදැක්වීම... (06683de6)
+2026-02-11 18:23:22 | INFO     | core.base_scraper         | Scraped article: රෙදිපිළි හා ඇඟළුම් නිෂ්පාදන කර්මාන්ත සංවර්ධනයට උපද... (4738f609)
+2026-02-11 18:23:25 | INFO     | core.base_scraper         | Scraped article: බණ්ඩාරගම පොල්තෙල් මෝලක ගින්නක් – ලක්ෂ 20ක දේපළ වින... (1082f7d4)
+2026-02-11 18:23:28 | INFO     | core.base_scraper         | Scraped article: දිවයිනේ මුහුදු ප්‍රදේශවලට සවස් කාලයේ වැසි... (852ebdff)
+2026-02-11 18:23:31 | INFO     | core.base_scraper         | Scraped article: ජාතික ඵලදායිතා ප්‍රතිපත්තියක් කඩිනමින් – ඇමති හඳුන... (220cfa55)
+2026-02-11 18:23:34 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධී මත්පැන් ස්කාගාරයක් වටලයි – සැකකරුවන් 0... (850ae468)
+2026-02-11 18:23:34 | INFO     | core.base_scraper         | Scraping page 56: https://www.itnnews.lk/local/page/56/
+2026-02-11 18:23:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:23:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:23:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:23:36 | INFO     | core.base_scraper         | Found 9 articles on page 56
+2026-02-11 18:23:40 | INFO     | core.base_scraper         | Scraped article: මීරිගමට හෙට විශේෂ රථ වාහන සැලැස්මක්... (1faae82e)
+2026-02-11 18:23:43 | INFO     | core.base_scraper         | Scraped article: පොලොන්නරුව දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීම ට... (673355d6)
+2026-02-11 18:23:46 | INFO     | core.base_scraper         | Scraped article: සමාජ මාධ්‍ය ඔස්සේ විදේශ රටක සිට ක්‍රියාත්මක කරන මහ... (043b8561)
+2026-02-11 18:23:49 | INFO     | core.base_scraper         | Scraped article: ඇමෙරිකාවේ මොන්ටානා ජාතික ආරක්ෂක බලකායේ කණ්ඩායමක් ද... (3c666a60)
+2026-02-11 18:23:52 | INFO     | core.base_scraper         | Scraped article: රාජිතට එරෙහි පැමිණිල්ල ජූලි 10 යළි කැඳවයි... (842d8c96)
+2026-02-11 18:23:54 | INFO     | core.base_scraper         | Scraped article: ඇමති ආනන්ද විජේපාල ගංගාරාම පුදබිමට – ඉදිරියේදී සිද... (a58c9080)
+2026-02-11 18:23:58 | INFO     | core.base_scraper         | Scraped article: ජොන්ස්ටන් ඇතුළු පස්දෙනා යළි රිමාන්ඩ්... (a053da1e)
+2026-02-11 18:24:01 | INFO     | core.base_scraper         | Scraped article: ලෝක තෙත්බිම් දින ජාතික උත්සවය පෙබරවාරි 02 බත්තරමුල... (123fdec9)
+2026-02-11 18:24:04 | INFO     | core.base_scraper         | Scraped article: භාවප්‍රභා නමින් දීපව්‍යාප්ත නර්තන තරගයක්... (54ecc3d2)
+2026-02-11 18:24:05 | INFO     | core.base_scraper         | Scraping page 57: https://www.itnnews.lk/local/page/57/
+2026-02-11 18:24:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:24:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:24:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:24:06 | INFO     | core.base_scraper         | Found 9 articles on page 57
+2026-02-11 18:24:10 | INFO     | core.base_scraper         | Scraped article: මාතලේ දිස්ත්‍රික්කයේ සංවර්ධන කටයුතු සඳහා මිලියන 40... (f3d6d3b5)
+2026-02-11 18:24:13 | INFO     | core.base_scraper         | Scraped article: ඇස් රෝහලේ දොස්තරලා සුළු පිරිසක් කළ වැඩේ ගැන දොස්තර... (f08f4f94)
+2026-02-11 18:24:16 | INFO     | core.base_scraper         | Scraped article: ඔබට ගෙයක් රටට හෙටක් යටතේ ඉදිකළ නිවසක් නිවෙස්හිමියන... (158ec3b3)
+2026-02-11 18:24:19 | INFO     | core.base_scraper         | Scraped article: බලන්ගොඩ කස්සප හිමි ඇතුළු පිරිසගේ රිට් පෙත්සමේ නියෝ... (c9e08ccb)
+2026-02-11 18:24:23 | INFO     | core.base_scraper         | Scraped article: නව අධ්‍යාපන ප්‍රතිසංස්කරණ ගැන පෙරපාසල් ගුරුවරුන්ගේ... (a943fc4c)
+2026-02-11 18:24:25 | INFO     | core.base_scraper         | Scraped article: Sip to fit ජංගම දුරකථන යෙදුම එළිදැක්වේ... (37cba973)
+2026-02-11 18:24:28 | INFO     | core.base_scraper         | Scraped article: වතු කම්කරු වැටුප් වැඩි කිරීමට අදාළ ගිවිසුමට අත්සන්... (8654e389)
+2026-02-11 18:24:31 | INFO     | core.base_scraper         | Scraped article: දිට්වාවෙන් කෘෂිකර්මාන්තට සිදු වූ බලපෑම සහ ඒවා යථාත... (c2c91603)
+2026-02-11 18:24:34 | INFO     | core.base_scraper         | Scraped article: ලක්ෂ 28ක මත්ද්‍රව්‍ය Pvc බටයක සඟවා ගෙන අලෙවි කරමින... (316eec0f)
+2026-02-11 18:24:34 | INFO     | core.base_scraper         | Scraping page 58: https://www.itnnews.lk/local/page/58/
+2026-02-11 18:24:37 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:24:37 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:24:37 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:24:37 | INFO     | core.base_scraper         | Found 9 articles on page 58
+2026-02-11 18:24:40 | INFO     | core.base_scraper         | Scraped article: ලෝක විවාහක රූ රැජින තෙවන ස්ථානය අපේ සබීනාට... (f121ce2c)
+2026-02-11 18:24:43 | INFO     | core.base_scraper         | Scraped article: යතුරුපැදියක් වෑන් රථයක ගැටී තරුණයෙකු ජීවිතක්ෂයට... (f4aa79a1)
+2026-02-11 18:24:46 | INFO     | core.base_scraper         | Scraped article: IMF ප්‍රධානී ක්‍රිස්ටලිනා ජෝර්ජිවා ලබන මාසයේ ශ්‍රී... (9e183c2b)
+2026-02-11 18:24:49 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා – එංගලන්ත T20 තරගාවලිය අද ඇරඹෙයි... (869d371d)
+2026-02-11 18:24:52 | INFO     | core.base_scraper         | Scraped article: නිදහස් උත්සවයේ පෙරහුරු හේතුවෙන් විශේෂ රථවාහන සැලැස... (22895b1e)
+2026-02-11 18:24:55 | INFO     | core.base_scraper         | Scraped article: විදුලි සැර වැදී දෙදෙනෙකු ජීවිතක්ෂයට... (2308b4ae)
+2026-02-11 18:24:58 | INFO     | core.base_scraper         | Scraped article: ජින්තුපිටියේ වෙඩි තැබීමට සම්බන්ධ සැකකරුවෙක් අත්අඩං... (346cd8e1)
+2026-02-11 18:25:01 | INFO     | core.base_scraper         | Scraped article: හුණුපිටිය ගංගාරාමයේ නවම් පෙරහැර හෙට සහ අනිද්දා – ක... (5d278eee)
+2026-02-11 18:25:04 | INFO     | core.base_scraper         | Scraped article: වතු කම්කරු වැටුප රුපියල් 1750/- කිරීමට අදාළ ගිවිසු... (c65f02ea)
+2026-02-11 18:25:04 | INFO     | core.base_scraper         | Scraping page 59: https://www.itnnews.lk/local/page/59/
+2026-02-11 18:25:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:25:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:25:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:25:06 | INFO     | core.base_scraper         | Found 9 articles on page 59
+2026-02-11 18:25:10 | INFO     | core.base_scraper         | Scraped article: ප්‍රදේශ කිහිපයකට වැසි... (c80d133f)
+2026-02-11 18:25:13 | INFO     | core.base_scraper         | Scraped article: අභියෝග දරා ගනිමින් රට යළි ගොඩනැගීමේ ශ්‍රී ලංකා රජය... (92a811f2)
+2026-02-11 18:25:16 | INFO     | core.base_scraper         | Scraped article: දූෂණ වංචාවලට එරෙහි ජනතා අපේක්ෂා පිළිබඳ රාජ්‍ය නිලධ... (a6604439)
+2026-02-11 18:25:18 | INFO     | core.base_scraper         | Scraped article: නිපා වෛරසයට බයවෙන්න එපා – නිවැරදි තොරතුරු ගැන පමණක... (ab3c8586)
+2026-02-11 18:25:22 | INFO     | core.base_scraper         | Scraped article: සාවද්‍ය පුවතක් සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශයෙන්... (24149513)
+2026-02-11 18:25:25 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවේ පොල් කර්මාන්තය ඉහළ නංවාලීමට පියවර... (4f056d09)
+2026-02-11 18:25:27 | INFO     | core.base_scraper         | Scraped article: 2026 වසර සඳහා දේශපාලන පක්ෂවලින් අයදුම්පත් කැඳවීමට ... (e86453bd)
+2026-02-11 18:25:31 | INFO     | core.base_scraper         | Scraped article: කෝටි 22ක් වටිනා කොකේන් සහ මත්පෙති තොගයක් සමග සැකකා... (52ac13db)
+2026-02-11 18:25:33 | INFO     | core.base_scraper         | Scraped article: ගොඩනගමු ශ්‍රී ලංකා – 78 වැනි ජාතික නිදහස් දින සැමර... (137fa093)
+2026-02-11 18:25:34 | INFO     | core.base_scraper         | Scraping page 60: https://www.itnnews.lk/local/page/60/
+2026-02-11 18:25:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:25:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:25:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:25:36 | INFO     | core.base_scraper         | Found 9 articles on page 60
+2026-02-11 18:25:40 | INFO     | core.base_scraper         | Scraped article: 78 වන නිදහස් දින සැමරුමට විශේෂ ආරක්ෂක වැඩපිළිවෙලක්... (0edc1f5b)
+2026-02-11 18:25:43 | INFO     | core.base_scraper         | Scraped article: සියලු ගුණ ධර්මයන්ගෙන් මෙන්ම සහකම්පනයෙන් සමන්විත අන... (24b73c6b)
+2026-02-11 18:25:45 | INFO     | core.base_scraper         | Scraped article: අතුරුදන් වූ දැරියක් සොයා ගන්න පොලිසිය මහජන සහාය පත... (a9624f23)
+2026-02-11 18:25:49 | INFO     | core.base_scraper         | Scraped article: විරෝධතාවකදී පුද්ගලයෙකුට පහරදුන් එජාප නාගරීක මන්ත්‍... (879987d4)
+2026-02-11 18:25:52 | INFO     | core.base_scraper         | Scraped article: මැණික් හා ස්වර්ණාභරණ කර්මාන්තයේ ගැටලු පිළිබඳව රජයේ... (ef443eac)
+2026-02-11 18:25:55 | INFO     | core.base_scraper         | Scraped article: ආදරණීය දුවේ පුතේ, පොහොසත් රටක් තුළ පොහොසත් අධ්‍යාප... (1606a39e)
+2026-02-11 18:25:58 | INFO     | core.base_scraper         | Scraped article: ඉත්තෑපාන දිස්ත්‍රික් රෝහලේ නව බාහිර රෝගී අංශය සහ හ... (4d7ec3b5)
+2026-02-11 18:26:01 | INFO     | core.base_scraper         | Scraped article: ලක්ෂ 40කට අධික දුම්වැටි හොරෙන් ගෙනා පුද්ගලයෙකු ගුව... (9ff615bc)
+2026-02-11 18:26:04 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා – පාකිස්තාන ඒකාබද්ධ ආර්ථික කොමිසමේ 13 ව... (8e4709d5)
+2026-02-11 18:26:04 | INFO     | core.base_scraper         | Scraping page 61: https://www.itnnews.lk/local/page/61/
+2026-02-11 18:26:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:26:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:26:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:26:06 | INFO     | core.base_scraper         | Found 9 articles on page 61
+2026-02-11 18:26:10 | INFO     | core.base_scraper         | Scraped article: රාජිතට එරෙහි නඩුවක් අප්‍රේල් 29වනදා කැඳවයි... (e47e3aeb)
+2026-02-11 18:26:13 | INFO     | core.base_scraper         | Scraped article: ජාතික සිනමා පාසලක් ආරම්භ කිරීම ගැන කලා සහ සංස්කෘති... (da82c076)
+2026-02-11 18:26:16 | INFO     | core.base_scraper         | Scraped article: ප්‍රමිතියෙන් තොර ගල් අඟුරු ආනයනය කළ සමාගමෙන් දඩ මු... (1bc38c2f)
+2026-02-11 18:26:19 | INFO     | core.base_scraper         | Scraped article: ගෙවුණු දින විසිපහට දෙලක්ෂ විසිදහස පන්නපු සංචාරක පැ... (76fa9cee)
+2026-02-11 18:26:22 | INFO     | core.base_scraper         | Scraped article: නවම් පෙරහැර සඳහා විශේෂ රථ වාහන සැලැස්මක්... (51996465)
+2026-02-11 18:26:24 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා අපනයන කාර්ය සාධක දර්ශක 2024 වාර්තාව එළි... (1c9c4391)
+2026-02-11 18:26:28 | INFO     | core.base_scraper         | Scraped article: විරෝධතාවකදී පුද්ගලයෙකුට පහරදුන් එජාප නාගරීක මන්ත්‍... (53990ca4)
+2026-02-11 18:26:31 | INFO     | core.base_scraper         | Scraped article: ප්‍රවීණ සිනමාවේදී සේන සමරසිංහ දිවි රඟ මඩලින් සමුගන... (cf3e1212)
+2026-02-11 18:26:34 | INFO     | core.base_scraper         | Scraped article: මියන්මාරයේ මාෆියා කල්ලියක එකම පවුලේ 11කට මරණ දඬුවම... (28aa9023)
+2026-02-11 18:26:34 | INFO     | core.base_scraper         | Scraping page 62: https://www.itnnews.lk/local/page/62/
+2026-02-11 18:26:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:26:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:26:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:26:36 | INFO     | core.base_scraper         | Found 9 articles on page 62
+2026-02-11 18:26:40 | INFO     | core.base_scraper         | Scraped article: පළමු වසරට නව අධ්‍යාපන ප්‍රතිසංස්කරණ හඳුන්වාදීම අගම... (2ca9860a)
+2026-02-11 18:26:43 | INFO     | core.base_scraper         | Scraped article: පියතුමාට පහරදීමේ සිද්ධියට සම්බන්ධ පොලිස් නිලධාරීන්... (69887952)
+2026-02-11 18:26:46 | INFO     | core.base_scraper         | Scraped article: වාහන සොරකමේ ගිය සැකකරුවෙකු මත්කුඩු සමග අල්ලයි... (55da564e)
+2026-02-11 18:26:49 | INFO     | core.base_scraper         | Scraped article: ගොවි ජනතාව වෙනුවෙන් රක්ෂණ මාසයක් ප්‍රකාශයට පත් කෙර... (3f8fe85a)
+2026-02-11 18:26:52 | INFO     | core.base_scraper         | Scraped article: ලංගම සතු විශාලතම ඩිපෝවේ සංවර්ධනය වෙනුවෙන් රුපියල් ... (e3552c23)
+2026-02-11 18:26:55 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධීව රැගෙන ආ දුම්වැටි 30,000ක් සමග සැකකරුව... (1cf7cb41)
+2026-02-11 18:26:58 | INFO     | core.base_scraper         | Scraped article: පළමු ශ්‍රේණියට පාසල් ළමුන් ඇතුළත් කර ගැනීමේ ජාතික ... (39574969)
+2026-02-11 18:27:01 | INFO     | core.base_scraper         | Scraped article: වලාන දූෂණ මර්දන ඒකකයේ අධ්‍යක්ෂ තනතුරට රොහාන් ඔලුගල... (9c4d1f2f)
+2026-02-11 18:27:04 | INFO     | core.base_scraper         | Scraped article: නව අධ්‍යාපන ප්‍රතිසංස්කරණ යටතේ පළමු ශ්‍රේණියට පාසල... (7fb6fb58)
+2026-02-11 18:27:04 | INFO     | core.base_scraper         | Scraping page 63: https://www.itnnews.lk/local/page/63/
+2026-02-11 18:27:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:27:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:27:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:27:06 | INFO     | core.base_scraper         | Found 9 articles on page 63
+2026-02-11 18:27:10 | INFO     | core.base_scraper         | Scraped article: SSC ක්‍රීඩාංගණයේ අභිනව විදුලි ආලෝක පද්ධතිය විවෘත ක... (e6056030)
+2026-02-11 18:27:13 | INFO     | core.base_scraper         | Scraped article: දිවයිනේ බොහෝ ප්‍රදේශවලට වියළි කාලගුණික තත්ත්වයක්... (850b481a)
+2026-02-11 18:27:16 | INFO     | core.base_scraper         | Scraped article: ඇල්ලමුල්ල ප්‍රාථමික විද්‍යාලයට නව ගොඩනැගිල්ලක්... (dce90e09)
+2026-02-11 18:27:19 | INFO     | core.base_scraper         | Scraped article: කොළඹ නගර සභා වාහනවලින් ඉන්ධන ඇද විකුණූ සේවකයින් දෙ... (94b361dc)
+2026-02-11 18:27:22 | INFO     | core.base_scraper         | Scraped article: ගෝඨාභයත් එක්ක 07 දෙනෙකුට ශ්‍රේෂ්ඨාධිකරණයෙන් නොතීසි... (9ae053d2)
+2026-02-11 18:27:25 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියෙන් තුන් අවුරුදු... (04fda626)
+2026-02-11 18:27:28 | INFO     | core.base_scraper         | Scraped article: ගල් අගුරු නිසා ලැබුණු ඩොලර් මිලියන දෙකයි දශම එකක ද... (3d1f4de7)
+2026-02-11 18:27:30 | INFO     | core.base_scraper         | Scraped article: විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියට අදාළ ශ... (058c686c)
+2026-02-11 18:27:34 | INFO     | core.base_scraper         | Scraped article: ඇමති විජිතගේ ලිපි ශීර්ෂ හොරට සාදා විදේශ රැකියා ජාව... (864c14da)
+2026-02-11 18:27:34 | INFO     | core.base_scraper         | Scraping page 64: https://www.itnnews.lk/local/page/64/
+2026-02-11 18:27:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:27:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:27:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:27:36 | INFO     | core.base_scraper         | Found 9 articles on page 64
+2026-02-11 18:27:40 | INFO     | core.base_scraper         | Scraped article: විමර්ශන අවසන්කොට මාර්තුවේ රනිල්ට නඩු පවරනවා – නීති... (8845fafb)
+2026-02-11 18:27:42 | INFO     | core.base_scraper         | Scraped article: 2026-2030 මිනිස් ජාවාරම මැඩලීමේ සහ වැළැක්වීමේ ජාති... (39fe66a2)
+2026-02-11 18:27:46 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය රටින් තුරන් කිරීම සඳහා සියලු අංශ කැපවී... (81c50467)
+2026-02-11 18:27:49 | INFO     | core.base_scraper         | Scraped article: මාස්ටර් චෙෆ් රියැලිටි අත්දැකීම එළඹෙන පෙබරවාරි මාසය... (fab3a6ee)
+2026-02-11 18:27:52 | INFO     | core.base_scraper         | Scraped article: දිනකට නව පිළිකා රෝගීන් 100ක් හඳුනා ගනියි... (769a04ef)
+2026-02-11 18:27:55 | INFO     | core.base_scraper         | Scraped article: උපාධිධාරීන්ට ලබාදෙන සීමාවාසික පුහුණුව සාර්ථක ක්‍රි... (d2a8d66e)
+2026-02-11 18:27:58 | INFO     | core.base_scraper         | Scraped article: ඉදිරි පැය 24 මුහුදු ප්‍රදේශවලට වැසි රහිත කාලගුණික ... (b7afdfa6)
+2026-02-11 18:28:01 | INFO     | core.base_scraper         | Scraped article: BREAKING NEWS : හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක ර... (10b15925)
+2026-02-11 18:28:04 | INFO     | core.base_scraper         | Scraped article: ලන්ඩන් ගමනට එරෙහිව රනිල්ට නඩු පැවරීම මාර්තුවල... (9018cba6)
+2026-02-11 18:28:04 | INFO     | core.base_scraper         | Scraping page 65: https://www.itnnews.lk/local/page/65/
+2026-02-11 18:28:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:28:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:28:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:28:06 | INFO     | core.base_scraper         | Found 9 articles on page 65
+2026-02-11 18:28:10 | INFO     | core.base_scraper         | Scraped article: හැටන් නගරයේ මත්ස්‍ය වෙළෙඳුන්ගේ විරෝධතාව අවසන් වෙයි... (8ebe7216)
+2026-02-11 18:28:13 | INFO     | core.base_scraper         | Scraped article: හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක අධිකරණයට... (2ea0af06)
+2026-02-11 18:28:16 | INFO     | core.base_scraper         | Scraped article: පොලිස් විශේෂ මෙහෙයුමෙන් 799ක් අත්අඩංගුවට... (995e22f2)
+2026-02-11 18:28:18 | INFO     | core.base_scraper         | Scraped article: ආහාර සුරක්ෂිතතාව පිළිබඳ පුරුදු පාසල් විෂය නිර්දේශය... (d742c82f)
+2026-02-11 18:28:22 | INFO     | core.base_scraper         | Scraped article: රනිල් අධිකරණයට... (f132df27)
+2026-02-11 18:28:25 | INFO     | core.base_scraper         | Scraped article: ව්‍යසනයේ අභියෝග දරා ගනිමින් යළි ගොඩනැඟීමට ශ්‍රී ලං... (d1c8a4aa)
+2026-02-11 18:28:28 | INFO     | core.base_scraper         | Scraped article: ආමදූව සහ පටලංගල ධීවර තොටුපළේ අඩුපාඩු සොයා බලන්න නි... (e8ef7fa7)
+2026-02-11 18:28:31 | INFO     | core.base_scraper         | Scraped article: 'ශ්‍රී සර්වඥ ධාතු වන්දනාව' සඳහා කොළඹට එන ජනතාවට සි... (2ac79460)
+2026-02-11 18:28:34 | INFO     | core.base_scraper         | Scraped article: සමස්ත ලංකා කෘෂි රක්ෂණ සේවක සංගමයේ සාමාජිකයින් කෘෂි... (21b72ab7)
+2026-02-11 18:28:34 | INFO     | core.base_scraper         | Scraping page 66: https://www.itnnews.lk/local/page/66/
+2026-02-11 18:28:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:28:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:28:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:28:36 | INFO     | core.base_scraper         | Found 9 articles on page 66
+2026-02-11 18:28:40 | INFO     | core.base_scraper         | Scraped article: පූජ්‍ය බලංගොඩ කස්සප හිමි ඇතුළු පිරිස යළි රිමාන්ඩ්... (0b7ec66e)
+2026-02-11 18:28:43 | INFO     | core.base_scraper         | Scraped article: ආපදාවෙන් බලපෑමට ලක්වූ තනි, සුළු හා ක්ෂුද්‍ර ව්‍යාප... (1de80f6e)
+2026-02-11 18:28:46 | INFO     | core.base_scraper         | Scraped article: ගෝඨාභය ඇතුළු 7කට ශ්‍රේෂ්ඨාධිකරණයෙන් නොතීසි... (14b098d8)
+2026-02-11 18:28:49 | INFO     | core.base_scraper         | Scraped article: 2025-2029 ජාතික අපනයන සංවර්ධන සැලැස්ම සකස් කිරීම අ... (a0a8982b)
+2026-02-11 18:28:52 | INFO     | core.base_scraper         | Scraped article: කලපු සහ වැව් ආශ්‍රිතව ධීවර කර්මාන්තයේ නිරත ධීවරයන්... (0643f36d)
+2026-02-11 18:28:55 | INFO     | core.base_scraper         | Scraped article: මනුෂ්‍ය ඝාතනයකට අවශ්‍ය කර සිටි සැකකරුවෙකු අත්අඩංගු... (691bef29)
+2026-02-11 18:28:58 | INFO     | core.base_scraper         | Scraped article: හිටපු ජනපති රනිල්ගේ ලේකම් සමන් ඒකනායක අත්අඩංගුවට ග... (079161de)
+2026-02-11 18:29:01 | INFO     | core.base_scraper         | Scraped article: කටුනායක ගුවන් තොටුපොළේ e-Gates පහසුකම අද සිට... (d4522aa7)
+2026-02-11 18:29:04 | INFO     | core.base_scraper         | Scraped article: වෘත්තීය අධ්‍යාපනය නංවාලීම සඳහා පුහුණු ආයතන ශක්තිමත... (943c0838)
+2026-02-11 18:29:05 | INFO     | core.base_scraper         | Scraping page 67: https://www.itnnews.lk/local/page/67/
+2026-02-11 18:29:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:29:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:29:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:29:06 | INFO     | core.base_scraper         | Found 9 articles on page 67
+2026-02-11 18:29:10 | INFO     | core.base_scraper         | Scraped article: පොලිස් විශේෂ මෙහෙයුමකින් 586ක් අත්අඩංගුවට... (2606d757)
+2026-02-11 18:29:13 | INFO     | core.base_scraper         | Scraped article: මුදල් ප්‍රතිපත්තියේ වෙනසක් නැහැ – ශ්‍රී ලංකා මහ බැ... (75227bdd)
+2026-02-11 18:29:16 | INFO     | core.base_scraper         | Scraped article: වසරේ මේ දක්වා සංචාරක පැමිණීම ලක්ෂ 02 ඉක්මවයි... (54997c51)
+2026-02-11 18:29:19 | INFO     | core.base_scraper         | Scraped article: යතුරුපැදි අනතුරකින් 31 හැවිරිදි පුද්ගලයෙකු මරුට... (0cc9e4dd)
+2026-02-11 18:29:22 | INFO     | core.base_scraper         | Scraped article: එක්දින තරගාවලියේ ජය එංගලන්තයට... (609f9d99)
+2026-02-11 18:29:25 | INFO     | core.base_scraper         | Scraped article: රනිල්ට එරෙහි නඩුව අද යළි කැඳවයි... (7065cd22)
+2026-02-11 18:29:28 | INFO     | core.base_scraper         | Scraped article: මනුෂ්‍ය ඝාතනයකට අවශ්‍ය කර සිටි සැකකරුවෙකු අත්අඩංගු... (1ba44ed1)
+2026-02-11 18:29:31 | INFO     | core.base_scraper         | Scraped article: පාකිස්තාන අග්‍රාමාත්‍යවරයාගේ කර්මාන්ත සහ නිෂ්පාදන ... (5c106349)
+2026-02-11 18:29:34 | INFO     | core.base_scraper         | Scraped article: ආරවුලක් දුරදිග යාමෙන් තරුණියකට දිවි අහිමිවෙයි... (e9406248)
+2026-02-11 18:29:34 | INFO     | core.base_scraper         | Scraping page 68: https://www.itnnews.lk/local/page/68/
+2026-02-11 18:29:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:29:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:29:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:29:36 | INFO     | core.base_scraper         | Found 9 articles on page 68
+2026-02-11 18:29:40 | INFO     | core.base_scraper         | Scraped article: දිට්වා සුළි කුණාටුවෙන් ආපදාවට පත් ප්‍රදේශවල වර්තමා... (adf1b254)
+2026-02-11 18:29:43 | INFO     | core.base_scraper         | Scraped article: අස්වැසුම දීමනාව සහ වැඩිහිටි දීමනාව අද ගිණුම්ගත කෙර... (67ac1eac)
+2026-02-11 18:29:46 | INFO     | core.base_scraper         | Scraped article: ජාතික නිවාස වැඩසටහන අගමැති ප්‍රධානත්වයෙන් අද ගාල්ල... (4ede0940)
+2026-02-11 18:29:49 | INFO     | core.base_scraper         | Scraped article: බොහෝ ප්‍රදේශවල වියළි කාලගුණික තත්ත්වයක්... (12146169)
+2026-02-11 18:29:52 | INFO     | core.base_scraper         | Scraped article: 'Rebuilding Sri Lanka' අරමුදලට පෞද්ගලික ධනයෙන් රුප... (2876257f)
+2026-02-11 18:29:54 | INFO     | core.base_scraper         | Scraped article: හිගුරක්ගොඩ දියබුබුල ප්‍රධාන මාර්ගය මංතීරු දෙකක් ලෙ... (cae58156)
+2026-02-11 18:29:58 | INFO     | core.base_scraper         | Scraped article: දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් බදු ගෙවන්නන් හඳුනාග... (229c2807)
+2026-02-11 18:30:01 | INFO     | core.base_scraper         | Scraped article: ආර්ථික හා වෙළෙඳ කටයුතු ශක්තිමත් කරගන්න ටිල්වින් සි... (f66c87d3)
+2026-02-11 18:30:04 | INFO     | core.base_scraper         | Scraped article: ලෝක ආර්ථිකයට අලුත් පිටුවක් එක්වෙයි – ඉන්දියාවත් යු... (dca90e8b)
+2026-02-11 18:30:04 | INFO     | core.base_scraper         | Scraping page 69: https://www.itnnews.lk/local/page/69/
+2026-02-11 18:30:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:30:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:30:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:30:06 | INFO     | core.base_scraper         | Found 9 articles on page 69
+2026-02-11 18:30:10 | INFO     | core.base_scraper         | Scraped article: යාපනයේ වායු දූෂණය අවම කිරීමට ගෙන ඇති ක්‍රියාමාර්ග ... (65beb7a6)
+2026-02-11 18:30:13 | INFO     | core.base_scraper         | Scraped article: 77 වන ඉන්දීය ජනරජ දිනය වෙනුවෙන් විශේෂ සැමරුම් උත්ස... (14557f31)
+2026-02-11 18:30:16 | INFO     | core.base_scraper         | Scraped article: ගිලිහී යන සාරධර්ම යළි කැඳවාගෙන ඒමට සියලු ක්ෂේත්‍රව... (0c4e9fda)
+2026-02-11 18:30:19 | INFO     | core.base_scraper         | Scraped article: Gulfood 2026 ප්‍රදර්ශනයට ඇමති වසන්ත සහභාගී වෙයි... (fc53c229)
+2026-02-11 18:30:22 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව සහ නෙදර්ලන්තය අතර ද්විපාර්ශ්වික සබඳතා ... (5c439f1c)
+2026-02-11 18:30:25 | INFO     | core.base_scraper         | Scraped article: පී. හැරිසන් FCIDයෙන් පිටව යයි... (af18b86d)
+2026-02-11 18:30:28 | INFO     | core.base_scraper         | Scraped article: වෘත්තීය ක්‍රියාමාර්ග ගනිමින් තමන් ළඟට පැමිණෙන රෝගී... (303be79f)
+2026-02-11 18:30:31 | INFO     | core.base_scraper         | Scraped article: කාන්තාවක් ඝාතනය කර සැඟව සිටින මොහු දැක්කොත් පොලිසි... (6c3ad3d4)
+2026-02-11 18:30:34 | INFO     | core.base_scraper         | Scraped article: මෙරට සංවර්ධන ඉලක්ක කරා යාමට සංවර්ධන ව්‍යාපෘති ප්‍ර... (4de1c2ab)
+2026-02-11 18:30:34 | INFO     | core.base_scraper         | Scraping page 70: https://www.itnnews.lk/local/page/70/
+2026-02-11 18:30:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:30:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:30:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:30:36 | INFO     | core.base_scraper         | Found 9 articles on page 70
+2026-02-11 18:30:40 | INFO     | core.base_scraper         | Scraped article: නාඳුනන මෘත ශරීරයක් හඳුනා ගැනීමට පොලිසිය මහජන සහාය ... (6c413cb7)
+2026-02-11 18:30:43 | INFO     | core.base_scraper         | Scraped article: කළුතර කැලිඩෝ වෙරළ තීරය සහ කළු ගඟ මුවදොර යළි ප්‍රති... (962797c5)
+2026-02-11 18:30:46 | INFO     | core.base_scraper         | Scraped article: Automated Spectrum Management System – ASMS ප්‍රසම... (145fb4df)
+2026-02-11 18:30:49 | INFO     | core.base_scraper         | Scraped article: ලංකා පොස්පේට් සමාගම කැණීම් කරනු ලබන රොක් පොස්පේට් ... (13ee991e)
+2026-02-11 18:30:52 | INFO     | core.base_scraper         | Scraped article: වරාය හා සැපයුම් සංවර්ධන ව්‍යාපෘතියේ සංවර්ධන කටයුතු... (c2f67373)
+2026-02-11 18:30:55 | INFO     | core.base_scraper         | Scraped article: කොළඹ වරායෙන් බහාලුම් 323ක් නිදහස් කිරීමේ විමර්ශන ක... (41500961)
+2026-02-11 18:30:58 | INFO     | core.base_scraper         | Scraped article: වෝටර්ස් එජ් අසලින් නව විනෝදාස්වාද පුරවරයක්: අක්කර ... (dd5090b5)
+2026-02-11 18:31:01 | INFO     | core.base_scraper         | Scraped article: හානියට පත් සියලු ආගමික සිද්ධස්ථාන එහි පෞරාණිකත්වය ... (5e7c370b)
+2026-02-11 18:31:04 | INFO     | core.base_scraper         | Scraped article: නුවරඑළියට තේමා උද්‍යානයක්... (ec5f7c64)
+2026-02-11 18:31:05 | INFO     | core.base_scraper         | Scraping page 71: https://www.itnnews.lk/local/page/71/
+2026-02-11 18:31:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:31:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:31:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:31:06 | INFO     | core.base_scraper         | Found 9 articles on page 71
+2026-02-11 18:31:10 | INFO     | core.base_scraper         | Scraped article: 2026 විදේශ රැකියා ඉලක්කය 310,000ක්... (616d77c8)
+2026-02-11 18:31:13 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා මහවැලි අධිකාරිය යට‌තේ ඇති ගොවිපොළ 17ක ඵ... (d91eff34)
+2026-02-11 18:31:16 | INFO     | core.base_scraper         | Scraped article: ආවරන්කාල් තොණ්ඩමනාරු මාර්ගය වැඩිදියුණු කිරීමේ ව්‍ය... (d4dd8327)
+2026-02-11 18:31:19 | INFO     | core.base_scraper         | Scraped article: රියදුරු බලපත්‍ර වලංගු කාලය තාවකාලිකව දීර්ඝ කිරීමේ ... (d989eff8)
+2026-02-11 18:31:22 | INFO     | core.base_scraper         | Scraped article: කාර්මික අධ්‍යාපන හා පුහුණුකිරීමේ දෙපාර්තමේන්තුවේ අ... (8ca34b6b)
+2026-02-11 18:31:25 | INFO     | core.base_scraper         | Scraped article: කාන්තා හා ළමා කටයුතු විෂයට අදාළව නව නීති හා සංශෝධන... (8ba84cb3)
+2026-02-11 18:31:28 | INFO     | core.base_scraper         | Scraped article: අස්වැසුම දීමනාව සහ වැඩිහිටි දීමනාව හෙට ගිණුම්ගත කෙ... (b60d41da)
+2026-02-11 18:31:31 | INFO     | core.base_scraper         | Scraped article: විගණකාධිපතිවරයා සම්බන්ධයෙන් ත්‍රෛනිකායික මහනාහිමිව... (6d2c490a)
+2026-02-11 18:31:34 | INFO     | core.base_scraper         | Scraped article: අවසන් සටනේ කාසියේ වාසිය සංචාරක එංගලන්ත කණ්ඩායමට... (29d72cfb)
+2026-02-11 18:31:34 | INFO     | core.base_scraper         | Scraping page 72: https://www.itnnews.lk/local/page/72/
+2026-02-11 18:31:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:31:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:31:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:31:36 | INFO     | core.base_scraper         | Found 9 articles on page 72
+2026-02-11 18:31:40 | INFO     | core.base_scraper         | Scraped article: ගිනිගත්හේන නගරය හරහා ධාවනය වූ වාහන 12ක් තාවකාලිකව ... (0dbf0463)
+2026-02-11 18:31:43 | INFO     | core.base_scraper         | Scraped article: ජාතික මානසික සෞඛ්‍ය විද්‍යායතනයට වසර 100ක්... (5ebabbcb)
+2026-02-11 18:31:46 | INFO     | core.base_scraper         | Scraped article: ප්‍රකාශයක් ලබාදීම සඳහා පැමිණි වෛද්‍ය රුක්ෂාන් බෙල්... (57bbfd80)
+2026-02-11 18:31:49 | INFO     | core.base_scraper         | Scraped article: සංචාරක ක්ෂේත්‍රයේ ප්‍රවර්ධනයට ත්‍රිකුණාමල දිස්ත්‍ර... (c13c590e)
+2026-02-11 18:31:52 | INFO     | core.base_scraper         | Scraped article: ප්‍රජා ශක්ති වැඩසටහන සම්බන්ධයෙන් වන පනත කඩිනමින්... (d84fa7dd)
+2026-02-11 18:31:55 | INFO     | core.base_scraper         | Scraped article: 77 වන ඉන්දීය ජනරජ දිනය වෙනුවෙන් විශේෂ සැමරුම් උත්ස... (c442efc6)
+2026-02-11 18:31:58 | INFO     | core.base_scraper         | Scraped article: කිතුල් කර්මාන්තය දියුණු කරන්න රාජ්‍ය මැදිහත්වීම ලබ... (eed5c592)
+2026-02-11 18:32:01 | INFO     | core.base_scraper         | Scraped article: පාසල් ළමයින් අතර සීඝ්‍රයෙන් ව්‍යාප්ත වන මත්ද්‍රව්‍... (892ae35a)
+2026-02-11 18:32:04 | INFO     | core.base_scraper         | Scraped article: Gulfood 2026 ප්‍රදර්ශනය මගින් ශ්‍රී ලංකාවේ ආහාරපාන... (92298593)
+2026-02-11 18:32:04 | INFO     | core.base_scraper         | Scraping page 73: https://www.itnnews.lk/local/page/73/
+2026-02-11 18:32:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:32:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:32:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:32:06 | INFO     | core.base_scraper         | Found 9 articles on page 73
+2026-02-11 18:32:10 | INFO     | core.base_scraper         | Scraped article: හෙරොයින් සමග පොලිස් කොස්තාපල්වරියක් බදුල්ල නගරයේ ද... (2dd1b7f1)
+2026-02-11 18:32:13 | INFO     | core.base_scraper         | Scraped article: කතෝලික පියතුමෙකුට පහරදීමේ සිද්ධියේ පොලිසියේ හයදෙනා... (e7254ebc)
+2026-02-11 18:32:16 | INFO     | core.base_scraper         | Scraped article: කිලෝ මීටර දහසකට ආසන්න ප්‍රමාණයක අලි වැටවල් ඉදිකිරී... (05268799)
+2026-02-11 18:32:19 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා සත්ව නිෂ්පාදන හා සෞඛ්‍ය සේවයේ නවක පත්වී... (822d62b8)
+2026-02-11 18:32:22 | INFO     | core.base_scraper         | Scraped article: වැවිලි ප්‍රජාවගේ නිවාස සිහිනය සැබෑ කරමින් ඉන්දියාන... (e50149d4)
+2026-02-11 18:32:25 | INFO     | core.base_scraper         | Scraped article: ශිරන්ති අද FCID එන්න බැහැ කියයි... (62f4e8bf)
+2026-02-11 18:32:28 | INFO     | core.base_scraper         | Scraped article: පී. හැරිසන් මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසයට... (d96b4c20)
+2026-02-11 18:32:31 | INFO     | core.base_scraper         | Scraped article: ප්‍රවීණ මාධ්‍ය­වේ­දී දයා සෝම­සිරි මහතා අභා­ව­ප්‍රා... (4d380a81)
+2026-02-11 18:32:34 | INFO     | core.base_scraper         | Scraped article: දික්වැල්ල කැලෑවකින් රිවෝල්වරයක්, ජීව අත්බෝම්බයක් හ... (e4a0cd96)
+2026-02-11 18:32:34 | INFO     | core.base_scraper         | Scraping page 74: https://www.itnnews.lk/local/page/74/
+2026-02-11 18:32:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:32:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:32:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:32:36 | INFO     | core.base_scraper         | Found 9 articles on page 74
+2026-02-11 18:32:40 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා – එංගලන්ත අවසන් එක්දින තරගය අද... (07cf381a)
+2026-02-11 18:32:44 | INFO     | core.base_scraper         | Scraped article: පුරාවස්තු සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට... (fd038488)
+2026-02-11 18:32:46 | INFO     | core.base_scraper         | Scraped article: ජාතික නිවාස වැඩ­ස­ට­හන අග­මැ­ති ප්‍රධා­න­ත්ව­යෙන් ... (93e10e33)
+2026-02-11 18:32:49 | INFO     | core.base_scraper         | Scraped article: රාජ්‍ය සෞඛ්‍ය කළමණාකරණ සහකාර තනතුර සඳහා 213කට පත්ව... (c1897d49)
+2026-02-11 18:32:52 | INFO     | core.base_scraper         | Scraped article: 'ගොඩනගමු අධිෂ්ඨානයේ සංහිඳ' ජාතික වැඩසටහනෙහි සමාරම්... (a8060530)
+2026-02-11 18:32:55 | INFO     | core.base_scraper         | Scraped article: ප්‍රදේශ කිහිපයකට වැසි... (df1d511f)
+2026-02-11 18:32:58 | INFO     | core.base_scraper         | Scraped article: ඇෆ්ගනිස්ථාන පැරදූ ශ්‍රී ලංකා යොවුන් පිලට කඩුලු 4ක ... (62194e09)
+2026-02-11 18:33:01 | INFO     | core.base_scraper         | Scraped article: පාස්කු ප්‍රහාරය සම්බන්ධයෙන් හේමසිරිට සහ පූජිත්ට එර... (835f2e2e)
+2026-02-11 18:33:04 | INFO     | core.base_scraper         | Scraped article: අලුත්ගම දර්ගා නගරය ලෝටස් පාර සංවර්ධනයට පියවර... (025d43bc)
+2026-02-11 18:33:04 | INFO     | core.base_scraper         | Scraping page 75: https://www.itnnews.lk/local/page/75/
+2026-02-11 18:33:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:33:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:33:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:33:06 | INFO     | core.base_scraper         | Found 9 articles on page 75
+2026-02-11 18:33:10 | INFO     | core.base_scraper         | Scraped article: අම්පාර දිස්ත්‍රික්කයේ කුඹුරු ආශ්‍රිත ගොයම් කහවීමේ ... (ce6343bb)
+2026-02-11 18:33:13 | INFO     | core.base_scraper         | Scraped article: නිවාස 16025ක් ජාතියට දායාද කරන්න ජාතික නිවාස සංවර්... (1d5f2081)
+2026-02-11 18:33:15 | INFO     | core.base_scraper         | Scraped article: ආපදාවට පත් ජනතාවගේ සෞඛ්‍ය ආරක්ෂණයට කුරුණෑගල වෛද්‍ය... (5de1d312)
+2026-02-11 18:33:19 | INFO     | core.base_scraper         | Scraped article: රාජ්‍ය සේවකයින් ඔවුන්ගේ සේවා වපසරිය තුළ ඉලක්ක කරා ... (efe43911)
+2026-02-11 18:33:22 | INFO     | core.base_scraper         | Scraped article: රුපියල් බිලියන 30ක වියදමින් මෙරට ග්‍රාමීය මාර්ග සං... (43c0cebb)
+2026-02-11 18:33:25 | INFO     | core.base_scraper         | Scraped article: වසර 100ක් සපිරෙන ජාතික මානසික සෞඛ්‍ය විද්‍යායතනය... (f02e3eb8)
+2026-02-11 18:33:28 | INFO     | core.base_scraper         | Scraped article: වෙනස් වෙන්න යන කොටුව දුම්රියපොළ... (e4103c76)
+2026-02-11 18:33:31 | INFO     | core.base_scraper         | Scraped article: 2026 ජාත්‍යන්තර රේගු දිනය අමාත්‍ය ආචාර්ය අනිල් ජයන... (00b483e0)
+2026-02-11 18:33:35 | INFO     | core.base_scraper         | Scraped article: දොස්තරලාගේ වෘත්තීය ක්‍රියා මාර්ගයට ජනතාවගෙන් දැඩි ... (ec14c358)
+2026-02-11 18:33:35 | INFO     | core.base_scraper         | Scraping page 76: https://www.itnnews.lk/local/page/76/
+2026-02-11 18:33:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:33:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:33:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:33:36 | INFO     | core.base_scraper         | Found 9 articles on page 76
+2026-02-11 18:33:40 | INFO     | core.base_scraper         | Scraped article: පසුගිය දින 25ට රිය අනතුරු 147ක් – 155 දෙනෙකුට දිවි... (9ed553c6)
+2026-02-11 18:33:43 | INFO     | core.base_scraper         | Scraped article: ආපදාවෙන් විනාශ වූ මාතලේ රයිතලාව පාලම වෙනුවට ඉන්දිය... (237f9e36)
+2026-02-11 18:33:46 | INFO     | core.base_scraper         | Scraped article: එක්ස්ප්‍රස් පර්ල් නෞකාවේ දේශීය නියෝජිත සමාගම ගැන ශ... (a0126611)
+2026-02-11 18:33:49 | INFO     | core.base_scraper         | Scraped article: අනුරාධපුර – මහනුවර ප්‍රධාන මාර්ගයේ බිහිසුණු අනතුරක... (ca630ba0)
+2026-02-11 18:33:52 | INFO     | core.base_scraper         | Scraped article: බිබිල – බදුල්ල ප්‍රධාන මාර්ගයේ බස් රථ දෙකක් එකිනෙක... (7e96417d)
+2026-02-11 18:33:55 | INFO     | core.base_scraper         | Scraped article: "WILD LANKA" ජාත්‍යන්තර සම්මන්ත්‍රණය ඇරඹේ... (c6f54e2c)
+2026-02-11 18:33:58 | INFO     | core.base_scraper         | Scraped article: හොර වීසා බලපත්‍රයක් භාවිතා කරමින් ස්පාඤ්ඤයට පළා යා... (529c1515)
+2026-02-11 18:34:01 | INFO     | core.base_scraper         | Scraped article: පනත් කෙටුම්පත් දෙකක් සඳහා ආංශික අධීක්ෂණ කාරක සභාවේ... (3dffcd03)
+2026-02-11 18:34:04 | INFO     | core.base_scraper         | Scraped article: පැය දෙකක් තුළ වාහන 24ක අඩුපාඩු සම්බන්ධයෙන් තහනම් න... (637332a0)
+2026-02-11 18:34:04 | INFO     | core.base_scraper         | Scraping page 77: https://www.itnnews.lk/local/page/77/
+2026-02-11 18:34:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:34:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:34:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:34:06 | INFO     | core.base_scraper         | Found 9 articles on page 77
+2026-02-11 18:34:10 | INFO     | core.base_scraper         | Scraped article: ඊශ්‍රායලයේ රැකියා ලබාදෙන බව පවසා සමාජ මාධ්‍යයේ මුද... (be5f58f9)
+2026-02-11 18:34:13 | INFO     | core.base_scraper         | Scraped article: මෙරට බලශක්ති ක්ෂේත්‍රයේ දියුණුවට එක්සත් අරාබි එමීර... (5d67b425)
+2026-02-11 18:34:16 | INFO     | core.base_scraper         | Scraped article: දිවයින වටා වන මුහුදු ප්‍රදේශවල වැසි රහිත කාලගුණයක්... (62d38bb0)
+2026-02-11 18:34:19 | INFO     | core.base_scraper         | Scraped article: ධුරයෙන් ඉවත්ව යන පාකිස්තානු මහ කොමසාරිස් සහ කථානාය... (01cbe5ce)
+2026-02-11 18:34:22 | INFO     | core.base_scraper         | Scraped article: යොවුන් ලෝක කුසලානයේ කාසියේ වාසිය ශ්‍රී ලංකාවට – ප්... (9e5ef65c)
+2026-02-11 18:34:25 | INFO     | core.base_scraper         | Scraped article: ඩයනාගේ නඩුවක් කල් යයි... (eea43aba)
+2026-02-11 18:34:28 | INFO     | core.base_scraper         | Scraped article: 2025 වසරේ දී ශ්‍රී ලංකාවේ අපනයනය ඇමරිකානු ඩොලර් බි... (ee5ff416)
+2026-02-11 18:34:32 | INFO     | core.base_scraper         | Scraped article: 77 වන ඉන්දීය ජනරජ දින සැමරුම කොළඹදී... (d388785d)
+2026-02-11 18:34:34 | INFO     | core.base_scraper         | Scraped article: මහනුවර ගුරුදෙණිය අධ්‍යාපන සංවර්ධන පර්යේෂණ හා පුහුණ... (0800bed9)
+2026-02-11 18:34:34 | INFO     | core.base_scraper         | Scraping page 78: https://www.itnnews.lk/local/page/78/
+2026-02-11 18:34:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:34:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:34:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:34:36 | INFO     | core.base_scraper         | Found 9 articles on page 78
+2026-02-11 18:34:40 | INFO     | core.base_scraper         | Scraped article: කන්තලේ වී වගාවට රෝගයකින් බලපෑම් – රෝගය වැළැක්වීමට ... (635d70f5)
+2026-02-11 18:34:43 | INFO     | core.base_scraper         | Scraped article: ලෝකය සමග තරග කළ හැකි දරුවෙකු බිහි කිරීම නව අධ්‍යාප... (94a0af25)
+2026-02-11 18:34:46 | INFO     | core.base_scraper         | Scraped article: දකුණු මුහුදේ දී මත්ද්‍රව්‍ය සමග ඇල්ලූ යාත්‍රා දෙකට... (504cc463)
+2026-02-11 18:34:49 | INFO     | core.base_scraper         | Scraped article: කතෝලික පියතුමෙකුට පහරදීමේ සිද්ධියේ පොලිසියේ 06 යළි... (75360b12)
+2026-02-11 18:34:53 | INFO     | core.base_scraper         | Scraped article: GMOA සුළු පිරිසක් අද උදෑසන 8 සිට අඛණ්ඩ වෘත්තීය ක්‍... (8b9a0e31)
+2026-02-11 18:34:55 | INFO     | core.base_scraper         | Scraped article: 'ගොඩනගමු අධිෂ්ඨානයේ සංහිඳ' ජාතික වැඩසටහන ජනපති ප්‍... (d043859e)
+2026-02-11 18:34:58 | INFO     | core.base_scraper         | Scraped article: ජීවිත 80ක් බේරගත් ලංගම රියදුරු... (9ee1c4c2)
+2026-02-11 18:35:01 | INFO     | core.base_scraper         | Scraped article: සෞඛ්‍ය කළමනාකරණයට අලුතෙන් පත්වීම් 213ක්... (52639c9e)
+2026-02-11 18:35:04 | INFO     | core.base_scraper         | Scraped article: 'දිට්වා' සුළි කුණාටුවෙන් නිවාස අහිමි වූවන් සඳහා නව... (ba059c5d)
+2026-02-11 18:35:05 | INFO     | core.base_scraper         | Scraping page 79: https://www.itnnews.lk/local/page/79/
+2026-02-11 18:35:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:35:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:35:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:35:06 | INFO     | core.base_scraper         | Found 9 articles on page 79
+2026-02-11 18:35:10 | INFO     | core.base_scraper         | Scraped article: 78 වැනි නිද­හස් දින උලෙළ 'ගොඩනගමු ශ්‍රී ලංකා' තේමා... (4c9d21a8)
+2026-02-11 18:35:13 | INFO     | core.base_scraper         | Scraped article: 2025 සෘජු විදේශ ආයෝජන ඇමරිකානු ඩොලර් බිලියනය ඉක්මව... (a971d268)
+2026-02-11 18:35:16 | INFO     | core.base_scraper         | Scraped article: මාතර තානායම අසළ සිට නිල්වලා ගං මෝය දක්වා වෙරළ නැරඹ... (cbf3daa7)
+2026-02-11 18:35:19 | INFO     | core.base_scraper         | Scraped article: iRoad ව්‍යාපෘතියේ පස්වන අදියර නැගෙනහිර පළාතෙන් ඇරඹ... (6f26bdf0)
+2026-02-11 18:35:22 | INFO     | core.base_scraper         | Scraped article: ලක් මව රනින් සැරසූ ටාවි සමරවීර දිවයිනට... (512ae530)
+2026-02-11 18:35:25 | INFO     | core.base_scraper         | Scraped article: අයිස් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 3කට අධික ප්‍රමාණයක්... (c6f85ee8)
+2026-02-11 18:35:28 | INFO     | core.base_scraper         | Scraped article: බලපත්‍ර නොමැතිව මැණික් ගැරූ සැකකරුවන් දෙදෙනෙකු අත්... (2d9c3d7c)
+2026-02-11 18:35:31 | INFO     | core.base_scraper         | Scraped article: ඉතිහාසයේ පළමු වරට රන් අවුන්සයක මිල ඩොලර් 5,000 ඉක්... (8957ef00)
+2026-02-11 18:35:34 | INFO     | core.base_scraper         | Scraped article: යොවුන් ලෝක කුසලානයේදී සුපිරි 6 වටයේ ශ්‍රී ලංකාව ක්... (9af49d82)
+2026-02-11 18:35:34 | INFO     | core.base_scraper         | Scraping page 80: https://www.itnnews.lk/local/page/80/
+2026-02-11 18:35:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:35:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:35:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:35:36 | INFO     | core.base_scraper         | Found 9 articles on page 80
+2026-02-11 18:35:40 | INFO     | core.base_scraper         | Scraped article: දක්ෂිණ අධිවේගී මාර්ගයේ අතහැර දමා ගිය සුඛෝපභෝගී මෝට... (270e6e10)
+2026-02-11 18:35:43 | INFO     | core.base_scraper         | Scraped article: දිවයිනේ ඇතැම් ස්ථානවලට මි.මී 50 ක පමණ තරමක තද වැසි... (d3ff3e26)
+2026-02-11 18:35:46 | INFO     | core.base_scraper         | Scraped article: එක්සත් අරාබි එමීර් රාජ්‍යයේ ආයෝජකයන් ආකර්ෂණය කිරීම... (99017074)
+2026-02-11 18:35:49 | INFO     | core.base_scraper         | Scraped article: ගිලන් රථයක් සහ ලොරි රථයක් ගැටී බිහිසුණු අනතුරක් – ... (2785c1a5)
+2026-02-11 18:35:52 | INFO     | core.base_scraper         | Scraped article: කතෝලික පියතුමෙකුට පහරදුන්නා යැයි කියන චෝදනාවකට පොල... (6435d14e)
+2026-02-11 18:35:55 | INFO     | core.base_scraper         | Scraped article: ජාතික කාන්තා කොමිෂන් සභාව ක්‍රියාත්මක කිරීමට රජය ස... (e0f61f87)
+2026-02-11 18:35:58 | INFO     | core.base_scraper         | Scraped article: ජාත්‍යන්තර මූල්‍ය සංස්ථාවෙන් ඩොලර් මිලියන 166ක ආයෝ... (004d2c74)
+2026-02-11 18:36:01 | INFO     | core.base_scraper         | Scraped article: චීන රජයෙන් වතුකරයේ පාසල් ළමුන් 500කට පාසල් පොත් සහ... (9e43aee6)
+2026-02-11 18:36:04 | INFO     | core.base_scraper         | Scraped article: ගාල්ලේ මහාපරිමාණ ගව ඝාතකාගාරයක් වටලයි – ව්‍යාපාරික... (20688975)
+2026-02-11 18:36:04 | INFO     | core.base_scraper         | Scraping page 81: https://www.itnnews.lk/local/page/81/
+2026-02-11 18:36:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:36:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:36:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:36:06 | INFO     | core.base_scraper         | Found 9 articles on page 81
+2026-02-11 18:36:10 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තු නියෝජ්‍ය මහලේකම් පත් කිරීමේදී ඇතැම් න... (aa6d9edd)
+2026-02-11 18:36:13 | INFO     | core.base_scraper         | Scraped article: අද අළුයම කොල්ලුපිටියේ ගොඩනැගිල්ලකට වෙඩි ප්‍රහාරයක්... (c1ca8e4e)
+2026-02-11 18:36:16 | INFO     | core.base_scraper         | Scraped article: මෙරට පළමු ජාත්‍යන්තර අක්ෂි සත්කාර දෘෂ්ටිවේදී සමුළු... (bd7d6692)
+2026-02-11 18:36:19 | INFO     | core.base_scraper         | Scraped article: මහනුවර සහ මාතලේ දිස්ත්‍රික්කවල ආපදාවට පත් ආගමික ස්... (30bade47)
+2026-02-11 18:36:22 | INFO     | core.base_scraper         | Scraped article: හම්බන්තොට වන අලි ගැටළුවට විසඳුම් සෙවීම සඳහා විශේෂ ... (dd688db6)
+2026-02-11 18:36:25 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තු නියෝජ්‍ය මහලේකම්ගේ වැඩ තහනම් කිරීම ගැ... (760b2d28)
+2026-02-11 18:36:28 | INFO     | core.base_scraper         | Scraped article: අධ්‍යාපන ප්‍රතිසංස්කරණ ඉල්ලා බදුල්ලෙන් ඇසුනු හඬ... (c1e6d17f)
+2026-02-11 18:36:31 | INFO     | core.base_scraper         | Scraped article: පොලිස් අණ නොතකා ගවයින් ප්‍රවාහනය කළ ලොරි රථයකට වෙඩ... (53981be7)
+2026-02-11 18:36:34 | INFO     | core.base_scraper         | Scraped article: දික්ඕවිට වරායෙන් හමූ වූ මත්ද්‍රව්‍ය තොගයේ වටිනාකම ... (61368035)
+2026-02-11 18:36:34 | INFO     | core.base_scraper         | Scraping page 82: https://www.itnnews.lk/local/page/82/
+2026-02-11 18:36:36 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:36:36 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:36:36 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:36:36 | INFO     | core.base_scraper         | Found 9 articles on page 82
+2026-02-11 18:36:40 | INFO     | core.base_scraper         | Scraped article: කැපුම් තුවාල සහිත කාන්තා මළසිරුරක් බෙරගල රක්ෂිතයෙන... (b03b4e8e)
+2026-02-11 18:36:44 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තු නියෝජ්‍ය මහලේකම්ගේ වැඩ තහනම් කළ හේතු ... (8612d310)
+2026-02-11 18:36:46 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය වැරදිවලට සම්බන්ධ සැකකරුවන් 773 ක් අත්අ... (98aecd52)
+2026-02-11 18:36:50 | INFO     | core.base_scraper         | Scraped article: දකුණු මුහුදු තීරයේදී නාවික හමුදා භාරයට ගත් මත්ද්‍ර... (bbf14ec1)
+2026-02-11 18:36:52 | INFO     | core.base_scraper         | Scraped article: කෝටි 13කට අධික " කුෂ්" සහ "හෂීෂ්" මත්ද්‍රව්‍ය සමග ... (157e5f80)
+2026-02-11 18:36:55 | INFO     | core.base_scraper         | Scraped article: ලෝක ලාදුරු දිනය අදයි... (09581653)
+2026-02-11 18:36:58 | INFO     | core.base_scraper         | Scraped article: බඹර ප්‍රහාරයකට ලක්වීමෙන් 40 හැවිරිදි පුද්ගලයෙක් ජී... (7d361fee)
+2026-02-11 18:37:01 | INFO     | core.base_scraper         | Scraped article: අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් කාන්තාවක් ජීව... (63345bc6)
+2026-02-11 18:37:01 | INFO     | core.base_scraper         | Scraping page 83: https://www.itnnews.lk/local/page/83/
+2026-02-11 18:37:03 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:37:03 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:37:03 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:37:03 | INFO     | core.base_scraper         | Found 9 articles on page 83
+2026-02-11 18:37:07 | INFO     | core.base_scraper         | Scraped article: පළාත් රැසකට විටින් විට වැසි... (99d13b6c)
+2026-02-11 18:37:09 | INFO     | core.base_scraper         | Scraped article: අද උපරිම උෂ්ණත්වය රත්නපුරයට... (77f471bd)
+2026-02-11 18:37:13 | INFO     | core.base_scraper         | Scraped article: රතු නිවේදන නිකුත් කර තිබූ සංවිධානාත්මක අපරාධකරුවෙක... (3aed8835)
+2026-02-11 18:37:16 | INFO     | core.base_scraper         | Scraped article: ආරෝග්‍යා සුවතා මධ්‍යස්ථාන 42ක් ජනතා අයිතියට... (8f56a719)
+2026-02-11 18:37:18 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තුවේ නියෝජ්‍ය මහ ලේකම් චමින්ද කුලරත්නගේ ... (424b41e1)
+2026-02-11 18:37:22 | INFO     | core.base_scraper         | Scraped article: කාදිනල් හිමි සහ පාප්වහන්සේ අතර හමුවක්... (6cffc03b)
+2026-02-11 18:37:25 | INFO     | core.base_scraper         | Scraped article: ප්‍රජාශක්ති ගම හදන සැලසුම් සඳහා නව ඩිජිටල් පද්ධතිය... (c4aae440)
+2026-02-11 18:37:28 | INFO     | core.base_scraper         | Scraped article: එංගලන්ත කණ්ඩායමට ලකුණු 220ක ඉලක්කයක්... (188c441a)
+2026-02-11 18:37:31 | INFO     | core.base_scraper         | Scraped article: 83 වන ජාතික මල්ලවපොර ශූරතාවලියේදී ගුවන් හමුදාවට ඓත... (0a5c47cb)
+2026-02-11 18:37:31 | INFO     | core.base_scraper         | Scraping page 84: https://www.itnnews.lk/local/page/84/
+2026-02-11 18:37:33 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:37:33 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:37:33 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:37:33 | INFO     | core.base_scraper         | Found 9 articles on page 84
+2026-02-11 18:37:37 | INFO     | core.base_scraper         | Scraped article: රාජ්‍ය වෙසක් උත්සවය මැයි මස 30 වැනිදා... (773dcd8f)
+2026-02-11 18:37:40 | INFO     | core.base_scraper         | Scraped article: නිදහස් උළෙලේ නිල ලාංඡනය එළිදකී... (b0af04e9)
+2026-02-11 18:37:43 | INFO     | core.base_scraper         | Scraped article: වසරේ ගතවූ දින 22 තුළ සංචාරකයින් 194,553 දෙනෙකු දිව... (0cc0f0b8)
+2026-02-11 18:37:46 | INFO     | core.base_scraper         | Scraped article: දිට්වා සුළි කුණාටුවෙන් ආපදාවට පත් ජනතාවට රජයෙන් ලබ... (ce46ff22)
+2026-02-11 18:37:49 | INFO     | core.base_scraper         | Scraped article: දිට්වා සුළි කුණාටුවෙන් පීඩාවට පත් ජනතාවට තවදුරටත් ... (2e2faf4d)
+2026-02-11 18:37:52 | INFO     | core.base_scraper         | Scraped article: 'Rebuilding Sri Lanka' අරමුදලට RIL Property PLC වෙ... (5fcbe0c7)
+2026-02-11 18:37:56 | INFO     | core.base_scraper         | Scraped article: ඕස්ට්‍රේලියා දිනය සැමරීම වෙනුවෙන් පැවති වැඩසටහනකට ... (2bb86ade)
+2026-02-11 18:37:58 | INFO     | core.base_scraper         | Scraped article: නාගරික සංවර්ධනයේ සැබෑ අර්ථය ගොඩනැගිලි ඉදි කිරීමට එ... (49b5d1dc)
+2026-02-11 18:38:01 | INFO     | core.base_scraper         | Scraped article: හපුතලේ සොරගුණේදී ලංගම සහ පෞද්ගලික බස් රථ මුහුණට මු... (badd3442)
+2026-02-11 18:38:01 | INFO     | core.base_scraper         | Scraping page 85: https://www.itnnews.lk/local/page/85/
+2026-02-11 18:38:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:38:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:38:04 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:38:04 | INFO     | core.base_scraper         | Found 9 articles on page 85
+2026-02-11 18:38:08 | INFO     | core.base_scraper         | Scraped article: Rebulding Sri Lanka වැඩසටහනට එක්සත් ජාතීන්ගේ අඛණ්ඩ... (18d61bdf)
+2026-02-11 18:38:10 | INFO     | core.base_scraper         | Scraped article: වැටුප් වැඩිවීම ගැන රාජ්‍ය සහ පෞද්ගලික සේවකයන්ගේ ප්... (42858f1b)
+2026-02-11 18:38:13 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව – එංගලන්ත දෙවන එක්දින ක්‍රිකට් තරගය අද... (9b7155a8)
+2026-02-11 18:38:16 | INFO     | core.base_scraper         | Scraped article: වෛද්‍ය වර්ජනයට වෛද්‍ය සංගම්වලත් ජනතාවගේත් දැඩි අප්... (339f05d5)
+2026-02-11 18:38:19 | INFO     | core.base_scraper         | Scraped article: යුද්ධ හමුදා බුද්ධි තොරතුරක් මත ගංජා වගාවක් වටලයි... (c0fe8b8c)
+2026-02-11 18:38:22 | INFO     | core.base_scraper         | Scraped article: විපතට පත් මිරිදිය ධීවරයින්ට රුපියල් මිලියන 226ක සහ... (096938a8)
+2026-02-11 18:38:25 | INFO     | core.base_scraper         | Scraped article: ආරෝග්‍යා සුවතා මධ්‍යස්ථාන 42ක් අද ජනතා අයිතියට... (09fd3666)
+2026-02-11 18:38:28 | INFO     | core.base_scraper         | Scraped article: කොළඹ වරාය නගරයේ බලයලත් තැනැත්තන් (AP) පත් කිරීමේ බ... (9173888b)
+2026-02-11 18:38:31 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබූ බහුදින යාත්‍රා ද... (c0a9b467)
+2026-02-11 18:38:31 | INFO     | core.base_scraper         | Scraping page 86: https://www.itnnews.lk/local/page/86/
+2026-02-11 18:38:33 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:38:33 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:38:33 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:38:34 | INFO     | core.base_scraper         | Found 9 articles on page 86
+2026-02-11 18:38:37 | INFO     | core.base_scraper         | Scraped article: දෙහිවල ප්‍රදේශයේදී ගැහැනු ළමයෙකුට වෙඩි තැබීමේ සිද්... (bd777196)
+2026-02-11 18:38:40 | INFO     | core.base_scraper         | Scraped article: කටාර් හිදී මිය ගිය ලාංකිකයන් වෙනුවෙන් ඔවුන්ගේ පවුල... (231fb87c)
+2026-02-11 18:38:43 | INFO     | core.base_scraper         | Scraped article: අද සිට නව පරිශ්‍රයකට යන දියතලාව රාජ්‍ය ඔසුසල... (c4c0b60a)
+2026-02-11 18:38:46 | INFO     | core.base_scraper         | Scraped article: පළාත් රැසකට අද දිනයේ වැසි... (0e8412fb)
+2026-02-11 18:38:49 | INFO     | core.base_scraper         | Scraped article: මත්ද්‍රව්‍ය පිරවූ බහුදින ධීවර යාත්‍රා 2ක් නාවික හම... (c1989e9e)
+2026-02-11 18:38:52 | INFO     | core.base_scraper         | Scraped article: රාජ්‍ය සේවක වැටුප් මේ මාසයේ සිට ඉහළට – වැටුප් ගෙවන... (f2d2eb1a)
+2026-02-11 18:38:55 | INFO     | core.base_scraper         | Scraped article: වෛද්‍යවරුන්ගේ වැඩවර්ජනයට එරෙහිව මානවහිමිකම් කොමිසම... (abd79209)
+2026-02-11 18:38:58 | INFO     | core.base_scraper         | Scraped article: නිල්ගල වනාන්තරය රක්ෂිතයක් බව ගැසට් කෙරේ... (be0f2c33)
+2026-02-11 18:39:01 | INFO     | core.base_scraper         | Scraped article: විපක්‍ෂය කියන්න ඕනේ නැහැ – මට ගෙදර යන්න ජනතාව කිව්... (85c94a82)
+2026-02-11 18:39:01 | INFO     | core.base_scraper         | Scraping page 87: https://www.itnnews.lk/local/page/87/
+2026-02-11 18:39:03 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:39:03 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:39:03 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:39:03 | INFO     | core.base_scraper         | Found 9 articles on page 87
+2026-02-11 18:39:07 | INFO     | core.base_scraper         | Scraped article: 2026 වසරේ ගෙවුණු දින 22ට විෂ මත්ද්‍රව්‍ය භාවිතා කළ... (4f3fc2b6)
+2026-02-11 18:39:10 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තු‍ව ලබන මස 03, 05 සහ 6 යන දිනවල නැවත රැ... (67e0fedb)
+2026-02-11 18:39:13 | INFO     | core.base_scraper         | Scraped article: රාගම නගර සංවර්ධනයට බාධා වන අනවසර ඉදිකිරීම් ඉවත් කි... (619bc54e)
+2026-02-11 18:39:16 | INFO     | core.base_scraper         | Scraped article: වෛද්‍යවරුන්ගේ වැඩවර්ජන පිළිබඳ ඇමති නලින්දගෙන් දීර්... (e649267f)
+2026-02-11 18:39:19 | INFO     | core.base_scraper         | Scraped article: සුරක්ෂා කඳවුරුවල රැදී සිටින ජනතාවට වෛද්‍ය පහසුකම් ... (b533c4ee)
+2026-02-11 18:39:22 | INFO     | core.base_scraper         | Scraped article: ව්‍යවස්ථා සභාවට සිවිල් සමාජ නියෝජිතයින් නාමයෝජනා ක... (e9094ff8)
+2026-02-11 18:39:25 | INFO     | core.base_scraper         | Scraped article: ප්‍රථම තාක්ෂණ සේවා හා ආධාරක මධ්‍යස්ථානය වවුනියාව ව... (fc6fc6a0)
+2026-02-11 18:39:28 | INFO     | core.base_scraper         | Scraped article: දිට්වා සුළි කුණාටුවෙන් විපතට පත් මිරිදිය ධීවරයින්ට... (868370fc)
+2026-02-11 18:39:31 | INFO     | core.base_scraper         | Scraped article: ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියා... (e3fa9b40)
+2026-02-11 18:39:31 | INFO     | core.base_scraper         | Scraping page 88: https://www.itnnews.lk/local/page/88/
+2026-02-11 18:39:33 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:39:33 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:39:33 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:39:33 | INFO     | core.base_scraper         | Found 9 articles on page 88
+2026-02-11 18:39:37 | INFO     | core.base_scraper         | Scraped article: ඇමති සුසිල් රණසිංහට අලුත් තනතුරක්... (90458b17)
+2026-02-11 18:39:40 | INFO     | core.base_scraper         | Scraped article: විශ්වවිද්‍යාල සංශෝධන පනත් කෙටුම්පත තුන්වන වර කියවී... (c388b5e2)
+2026-02-11 18:39:43 | INFO     | core.base_scraper         | Scraped article: යතුරුපැදි දෙකක් එකිනෙක ගැටීමෙන් සිදුවූ අනතුරකින් ප... (3bd96525)
+2026-02-11 18:39:46 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තු සංසදයේ සාමාජික මන්ත්‍රීවරයන් සඳහා දෙද... (be2445d2)
+2026-02-11 18:39:49 | INFO     | core.base_scraper         | Scraped article: හිටපු අමාත්‍ය ප්‍රසන්න රණතුංග මහතාට ලක්ෂ 50ක අමතර ... (b36dbb39)
+2026-02-11 18:39:52 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවෙන් ළමා ශ්‍රමය තුරන් කිරීම පිළිබඳව සාකච... (39979071)
+2026-02-11 18:39:55 | INFO     | core.base_scraper         | Scraped article: ඉදිරි පැය 36 තුළ ප්‍රදේශ රැසකට විටින් විට වැසි තත්... (9ed453ef)
+2026-02-11 18:39:58 | INFO     | core.base_scraper         | Scraped article: අද ඩොලරයේ අගය... (825fa432)
+2026-02-11 18:40:01 | INFO     | core.base_scraper         | Scraped article: කොටස් වෙළඳපොළෙන් ඉතිහාසගත වාර්තාවක්... (3c6c7b67)
+2026-02-11 18:40:01 | INFO     | core.base_scraper         | Scraping page 89: https://www.itnnews.lk/local/page/89/
+2026-02-11 18:40:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:40:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:40:04 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:40:04 | INFO     | core.base_scraper         | Found 9 articles on page 89
+2026-02-11 18:40:07 | INFO     | core.base_scraper         | Scraped article: කඩිනමින් වැඩ නිමවෙන කබරගල නිවාස ව්‍යාපෘතිය... (627eb203)
+2026-02-11 18:40:11 | INFO     | core.base_scraper         | Scraped article: අත්අඩංගුවට ගත් අනූෂ පැල්පිට රිමාන්ඩ්... (ac3a280d)
+2026-02-11 18:40:13 | INFO     | core.base_scraper         | Scraped article: ගැබ්ගෙල පිළිකාව හඳුනා ගැනීමේ යන්ත්‍ර 12ක් දිස්ත්‍ර... (a04ee037)
+2026-02-11 18:40:16 | INFO     | core.base_scraper         | Scraped article: නුවරඑළියට පැමිණෙන සංචාරකයන් මතක සටහන් එක් කිරීමට ත... (f1661643)
+2026-02-11 18:40:19 | INFO     | core.base_scraper         | Scraped article: සිවිල් ආරක්ෂක දෙපාර්තමේන්තු සාමාජිකයන්ගේ දිනක වැටු... (f7f75677)
+2026-02-11 18:40:23 | INFO     | core.base_scraper         | Scraped article: ආපදාවෙන් බලපෑමට ලක්වූවන් සවිබල ගැන්වීමට අදාළව නව ච... (3e997637)
+2026-02-11 18:40:25 | INFO     | core.base_scraper         | Scraped article: රාජ්‍ය සේවකයින්ගේ වැඩිවුණු වැටුප බැංකු ගිණුමට – රා... (aa922787)
+2026-02-11 18:40:28 | INFO     | core.base_scraper         | Scraped article: චාමර සම්පත්ට අධි චෝදනා... (70a359a4)
+2026-02-11 18:40:31 | INFO     | core.base_scraper         | Scraped article: අනූෂ පැල්පිට අල්ලස් කොමිසමේ අත්අඩංගුවට... (ba6cb1fb)
+2026-02-11 18:40:31 | INFO     | core.base_scraper         | Scraping page 90: https://www.itnnews.lk/local/page/90/
+2026-02-11 18:40:34 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:40:34 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:40:34 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:40:34 | INFO     | core.base_scraper         | Found 9 articles on page 90
+2026-02-11 18:40:37 | INFO     | core.base_scraper         | Scraped article: දිට්වා නිසා වැටුණු රට අසීරුවෙන් ගොඩ නගමින් සිටින අ... (3415e828)
+2026-02-11 18:40:40 | INFO     | core.base_scraper         | Scraped article: දිට්වා නිසා බලපෑම් එල්ලවූ ආර්ථිකය යළි නගා සිටුවන්න... (97cc8d4d)
+2026-02-11 18:40:43 | INFO     | core.base_scraper         | Scraped article: රාගම නගර සංවර්ධනය ගැන ආණ්ඩුවේ අලුත්ම සැලැස්ම ඇමති ... (164da8b3)
+2026-02-11 18:40:46 | INFO     | core.base_scraper         | Scraped article: ලෝක ආර්ථික සමුළුවට සහභාගී වූ අග්‍රාමාත්‍යවරිය දිවය... (f02641e3)
+2026-02-11 18:40:49 | INFO     | core.base_scraper         | Scraped article: Rebuilding Sri Lanka අරමුදල රු.බිලියන 8.5 ඉක්මවයි... (0f00c664)
+2026-02-11 18:40:52 | INFO     | core.base_scraper         | Scraped article: 2025 සෘජු විදේශ ආයෝජන ඩොලර් බිලියනය ඉක්මවයි – 2024... (27c08388)
+2026-02-11 18:40:56 | INFO     | core.base_scraper         | Scraped article: ජොන්ස්ටන් ඇතුළු පිරිස යළි රක්ෂිතයට... (74801373)
+2026-02-11 18:40:58 | INFO     | core.base_scraper         | Scraped article: යොවුන් සේනාංකයේ උපදේශකයින්ගේ වැටුප් ගැටලුවට විසඳුම... (aa7c8314)
+2026-02-11 18:41:01 | INFO     | core.base_scraper         | Scraped article: දත්ත මත පදනම් වූ ඩිජිටල් කෘෂිකර්මාන්තයක් වෙනුවෙන් ... (1718abab)
+2026-02-11 18:41:01 | INFO     | core.base_scraper         | Scraping page 91: https://www.itnnews.lk/local/page/91/
+2026-02-11 18:41:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:41:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:41:04 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:41:04 | INFO     | core.base_scraper         | Found 9 articles on page 91
+2026-02-11 18:41:07 | INFO     | core.base_scraper         | Scraped article: අගමැති ස්විට්සර්ලන්තයේ වෙසෙන ශ්‍රී ලාංකික ව්‍යාපාර... (1addcef3)
+2026-02-11 18:41:10 | INFO     | core.base_scraper         | Scraped article: අවම උෂ්ණත්වය නුවරඑළියෙන්... (8abf745b)
+2026-02-11 18:41:13 | INFO     | core.base_scraper         | Scraped article: කළුතර නෑබඩ මාර්ගයේ සිදුවූ අනතුරකින් පුද්ගලයන් 04 ද... (080f899d)
+2026-02-11 18:41:16 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා දැල්පන්දු සංගමයේ නව සභාපති ලෙස වජිරා නෙ... (65d5b04d)
+2026-02-11 18:41:19 | INFO     | core.base_scraper         | Scraped article: රණවිරු ශ්‍රම දායකත්වයෙන් දීඝවාපිය මහා සෑ රඳුන්ගේ ප... (7c767dba)
+2026-02-11 18:41:22 | INFO     | core.base_scraper         | Scraped article: වගුරුබිමක සඟවා තිබූ T56 ගිනිඅවියක් සොයා ගැනේ... (6fb0c275)
+2026-02-11 18:41:25 | INFO     | core.base_scraper         | Scraped article: පුරාවස්තු ලබාගැනීමේ අරමුණින් කැණීම් කළ 07ක් අත්අඩං... (c5634f19)
+2026-02-11 18:41:28 | INFO     | core.base_scraper         | Scraped article: පස් කන්දක් කඩාවැටී තිදෙනෙකු මියයයි... (bab8a178)
+2026-02-11 18:41:31 | INFO     | core.base_scraper         | Scraped article: දියතලාව රාජ්‍ය ඔසුසල හෙට සිට නව පරිශ්‍රයක... (77dee617)
+2026-02-11 18:41:32 | INFO     | core.base_scraper         | Scraping page 92: https://www.itnnews.lk/local/page/92/
+2026-02-11 18:41:33 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:41:33 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:41:33 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:41:33 | INFO     | core.base_scraper         | Found 9 articles on page 92
+2026-02-11 18:41:37 | INFO     | core.base_scraper         | Scraped article: ජින්තුපිටියේ වෙඩි තැබීමට සම්බන්ධ සැකකරුවෙකු අත්අඩං... (210389c2)
+2026-02-11 18:41:40 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තුව අදත් රැස්වෙයි... (9a541f94)
+2026-02-11 18:41:43 | INFO     | core.base_scraper         | Scraped article: ආරෝග්‍යා සුවතා මධ්‍යස්ථාන 42ක් හෙට ජනතා අයිතියට... (113876ed)
+2026-02-11 18:41:46 | INFO     | core.base_scraper         | Scraped article: ප්‍රදේශ කිහිපයකට සවස් කාලයේ වැසි... (fa88a602)
+2026-02-11 18:41:49 | INFO     | core.base_scraper         | Scraped article: Davosහි නිල සංචාරය අතරතුරදී අගමැතිනිය ස්විට්සර්ලන්... (acd4f969)
+2026-02-11 18:41:52 | INFO     | core.base_scraper         | Scraped article: සිංහ පුතුන් ජය ගනී... (0bebf3c4)
+2026-02-11 18:41:55 | INFO     | core.base_scraper         | Scraped article: පැතිබැම්මක් කඩා වැටීමෙන් පුද්ගලයින් 3ක් ජීවිතක්ෂයට... (814e0539)
+2026-02-11 18:41:58 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව සමග සබඳතා පුළුල් කරන්න ප්‍රංශය සූදානමි... (96d6c8d3)
+2026-02-11 18:42:01 | INFO     | core.base_scraper         | Scraped article: උතුරු පළාත් ආයෝජන සමුළුව යාපනය තිරුවල්උවර් ශාලාවේද... (dbb8ffc9)
+2026-02-11 18:42:01 | INFO     | core.base_scraper         | Scraping page 93: https://www.itnnews.lk/local/page/93/
+2026-02-11 18:42:03 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:42:03 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:42:03 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:42:03 | INFO     | core.base_scraper         | Found 9 articles on page 93
+2026-02-11 18:42:07 | INFO     | core.base_scraper         | Scraped article: නව අධ්‍යාපන ප්‍රතිසංස්කරණ මේ වසරේදීම ක්‍රියාත්මක ක... (83adf0be)
+2026-02-11 18:42:10 | INFO     | core.base_scraper         | Scraped article: චීනයෙන් විදුලි බස් රථ 100ක් ශ්‍රී ලංකාවට... (270e6617)
+2026-02-11 18:42:13 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ නව ඉංජිනේරු පීඨ ග... (f0923232)
+2026-02-11 18:42:16 | INFO     | core.base_scraper         | Scraped article: වීප්ලවීය ව්‍යවහාරයේ දෘෂ්ටිවාදී සලකුණ ලෙනින් කියවමු... (0d208239)
+2026-02-11 18:42:19 | INFO     | core.base_scraper         | Scraped article: නීතිපති ඉවත් කිරීමක් ගැන කැබිනෙට්ටුවේ සාකච්ඡාවක් න... (71cd1218)
+2026-02-11 18:42:22 | INFO     | core.base_scraper         | Scraped article: කොළඹ මහනගර සභාවේ සිදු වී ඇති බව කියන දූෂණ වංචා සොය... (f5a32500)
+2026-02-11 18:42:25 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවෙන් එංගලන්තයට ලකුණු 272ක ඉලක්කයක්... (0ceac185)
+2026-02-11 18:42:28 | INFO     | core.base_scraper         | Scraped article: මෙරට කෘෂිකර්‌මාන්තය නගාසිටුවීමට චීනයේ සහාය... (74e5097c)
+2026-02-11 18:42:31 | INFO     | core.base_scraper         | Scraped article: දිට්වා නිසා හානියට පත් පාසල් නැවත ගොඩනගන්න තුර්කිය... (14c1b65a)
+2026-02-11 18:42:31 | INFO     | core.base_scraper         | Scraping page 94: https://www.itnnews.lk/local/page/94/
+2026-02-11 18:42:34 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:42:34 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:42:34 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:42:34 | INFO     | core.base_scraper         | Found 9 articles on page 94
+2026-02-11 18:42:37 | INFO     | core.base_scraper         | Scraped article: කොළඹ බැස්ටියන් මාවත බස් නැවතුම්පොලේදී ගංජා භාවිත ක... (21c50775)
+2026-02-11 18:42:40 | INFO     | core.base_scraper         | Scraped article: අයිරංගනී සේරසිංහ මහත්මියගේ රුව සමග ශ්‍රී ලාංකේය සි... (803f43c3)
+2026-02-11 18:42:43 | INFO     | core.base_scraper         | Scraped article: NICD ආයතනයේ නව පරිගණක විද්‍යාගාරය විවෘත කෙරේ... (7a91ccdc)
+2026-02-11 18:42:46 | INFO     | core.base_scraper         | Scraped article: ඉන්දීය ගායිකා අනුරාධා පෞද්වාල් සහ ටිල්වින් සිල්වා ... (d3a86327)
+2026-02-11 18:42:49 | INFO     | core.base_scraper         | Scraped article: කොළඹ වරායට පැමිණි රාජකීය ඕමාන නාවික හමුදාවේ 'AL SE... (1ed25674)
+2026-02-11 18:42:52 | INFO     | core.base_scraper         | Scraped article: කාසියේ වාසිය ශ්‍රී ලංකාවට... (dbd7e2f1)
+2026-02-11 18:42:55 | INFO     | core.base_scraper         | Scraped article: මෙරට තුර්කි තනාපති සහ ඇමති අබයරත්න අතර හමුවක්... (40dc3d62)
+2026-02-11 18:42:58 | INFO     | core.base_scraper         | Scraped article: 2026 20-20 ලෝක කුසලානය මෙරට ප්‍රදර්ශනය කිරීමේ සංචා... (bdb1c25f)
+2026-02-11 18:43:01 | INFO     | core.base_scraper         | Scraped article: රජ මාවතේ කොහොඹගාන පාලම විවෘත කෙරේ... (fae451f0)
+2026-02-11 18:43:01 | INFO     | core.base_scraper         | Scraping page 95: https://www.itnnews.lk/local/page/95/
+2026-02-11 18:43:03 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:43:03 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:43:03 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:43:03 | INFO     | core.base_scraper         | Found 9 articles on page 95
+2026-02-11 18:43:07 | INFO     | core.base_scraper         | Scraped article: සැකකරුවෙකු අල්ලන්න පොලිසිය මහජන සහාය පතයි... (4762adc0)
+2026-02-11 18:43:10 | INFO     | core.base_scraper         | Scraped article: පනස් හතර වසරක ශ්‍රී ලංකා ජාතික චිත්‍රපට සංස්ථා ගමන... (60f15089)
+2026-02-11 18:43:13 | INFO     | core.base_scraper         | Scraped article: කැළේට ගිය නිවාස ව්‍යාපෘති ගැන ඇමති සුසිල්ගෙන් හෙළි... (82d9aec4)
+2026-02-11 18:43:16 | INFO     | core.base_scraper         | Scraped article: මේ වසරේ ග්‍රාම සංවර්ධනයට රුපියල් මිලියන එක්ලක්ෂ අස... (6c0632aa)
+2026-02-11 18:43:19 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා උත්තේජක මර්දන නියෝජිතායතනයේ නිල වෙබ් අඩ... (c65d2859)
+2026-02-11 18:43:23 | INFO     | core.base_scraper         | Scraped article: නව අධ්‍යාපන ප්‍රතිසංස්කරණ ඉල්ලා තුන්වන දිනටත් ගාල්... (ee50ad50)
+2026-02-11 18:43:25 | INFO     | core.base_scraper         | Scraped article: ගලහ දෙල්තොටවත්ත ප්‍රදේශයෙන් සොයාගත් පාෂාණයට ඉහළ වා... (0cb39f67)
+2026-02-11 18:43:28 | INFO     | core.base_scraper         | Scraped article: කාන්තාවන්ට නායකත්ව පරිසරය හදන හැටි අගමැතිනිය ලොවට ... (3a766283)
+2026-02-11 18:43:31 | INFO     | core.base_scraper         | Scraped article: රටින් පැන්න අපරාධකරුවන් 95කට රතු වරෙන්තු... (d8fa11e4)
+2026-02-11 18:43:32 | INFO     | core.base_scraper         | Scraping page 96: https://www.itnnews.lk/local/page/96/
+2026-02-11 18:43:33 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:43:33 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:43:33 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:43:33 | INFO     | core.base_scraper         | Found 9 articles on page 96
+2026-02-11 18:43:37 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවේ කෘත්‍රිම බුද්ධි ප්‍රතිපත්ති සම්පාදනයට... (2f00875f)
+2026-02-11 18:43:40 | INFO     | core.base_scraper         | Scraped article: ATM යන්ත්‍රවලින් මුදල් ලබා ගැනීමට අපහසු පුද්ගලයන් ... (fa138c9a)
+2026-02-11 18:43:43 | INFO     | core.base_scraper         | Scraped article: CORZENT EDGE (PVT) LTD වෙතින් 'Rebuilding Sri Lank... (1dc5e3a7)
+2026-02-11 18:43:46 | INFO     | core.base_scraper         | Scraped article: COLOMBO STOCK EXCHANGE (GL 12) වෙතින් 'Rebuilding ... (012afb25)
+2026-02-11 18:43:49 | INFO     | core.base_scraper         | Scraped article: 24 වෙනිදා සිට දියතලාව රාජ්‍ය ඔසුසල නව පරිශ්‍රයක... (d44ad91a)
+2026-02-11 18:43:52 | INFO     | core.base_scraper         | Scraped article: තිරසර ආර්ථිකයක් වෙනුවෙන් උතුරු ආයෝජන සමුළුව ඇරඹෙයි... (86dd0a0f)
+2026-02-11 18:43:55 | INFO     | core.base_scraper         | Scraped article: හම්බන්තොට දිස්ත්‍රික්කයේ ප්‍රජා සභා නියෝජිතයන් දැන... (e24b47a1)
+2026-02-11 18:43:58 | INFO     | core.base_scraper         | Scraped article: පාර්ලිමේන්තුව අදත් රැස්වෙයි... (512ec9b6)
+2026-02-11 18:44:01 | INFO     | core.base_scraper         | Scraped article: අයිස් සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට... (0e317dff)
+2026-02-11 18:44:02 | INFO     | core.base_scraper         | Scraping page 97: https://www.itnnews.lk/local/page/97/
+2026-02-11 18:44:03 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:44:03 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:44:03 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:44:03 | INFO     | core.base_scraper         | Found 9 articles on page 97
+2026-02-11 18:44:07 | INFO     | core.base_scraper         | Scraped article: ආරක්ෂණවාදයෙන් වළකින්නැයි චීනය යුරෝපා සංගමයෙන් ඉල්ල... (8d3f8292)
+2026-02-11 18:44:10 | INFO     | core.base_scraper         | Scraped article: IMF නියෝජිතයින් පිරිසක් අද දිවයිනට... (3c43bb6e)
+2026-02-11 18:44:13 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකා – එංග­ලන්ත තරගය පස්වරුවේ... (223db162)
+2026-02-11 18:44:16 | INFO     | core.base_scraper         | Scraped article: හෙට සිට වියළි කාලගුණික තත්ත්වයේ වෙනසක්... (268b5337)
+2026-02-11 18:44:19 | INFO     | core.base_scraper         | Scraped article: මඩකලපුව දිස්ත්‍රික්කයේ ඩෙංගු පැතිර යාමේ අවදානමක්... (6090ef58)
+2026-02-11 18:44:22 | INFO     | core.base_scraper         | Scraped article: මධ්‍යම කඳුකරය සුරක්ෂිත කර යළි ගොඩනැඟීම වෙනුවෙන් සි... (01aa03f4)
+2026-02-11 18:44:25 | INFO     | core.base_scraper         | Scraped article: ජනතාව රජය කෙරෙහි විශ්වාසය තැබීම හේතුවෙන් නව ආයෝජන ... (788e0542)
+2026-02-11 18:44:28 | INFO     | core.base_scraper         | Scraped article: සංක්‍රමණික සෞඛ්‍ය මධ්‍යස්ථානයේ කාර්යක්ෂමතාව ඉහළ නං... (f5f370e0)
+2026-02-11 18:44:31 | INFO     | core.base_scraper         | Scraped article: අත්වැල් බැඳගමු ලාදුරු දුරලමු – ලෝක ලාදුරු දිනය ජනව... (f42b6f6f)
+2026-02-11 18:44:31 | INFO     | core.base_scraper         | Scraping page 98: https://www.itnnews.lk/local/page/98/
+2026-02-11 18:44:33 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:44:33 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:44:33 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:44:33 | INFO     | core.base_scraper         | Found 9 articles on page 98
+2026-02-11 18:44:37 | INFO     | core.base_scraper         | Scraped article: වීප්ලවීය ව්‍යවහාරයේ දෘෂ්ටිවාදී සලකුණ ලෙනින් කියවමු... (df711433)
+2026-02-11 18:44:40 | INFO     | core.base_scraper         | Scraped article: අර්බුදවලින් ගොඩ ඒම සඳහා රජය ආරම්භ කර ඇති වැඩපිළිවෙ... (95b1264a)
+2026-02-11 18:44:43 | INFO     | core.base_scraper         | Scraped article: ධීවර විශ්‍රාම වැටුප් යෝජනා ක්‍රමය යටතේ ධීවරයන්ට සහ... (b17487fb)
+2026-02-11 18:44:46 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාව සහ එංගලන්තය අතර එක්දින ක්‍රිකට් තරගාවල... (f7639a82)
+2026-02-11 18:44:49 | INFO     | core.base_scraper         | Scraped article: නීතිපතිවරයා පිළිබඳ සමාජ මාධ්‍ය ඔස්සේ පළවන සටහන්වලට... (a64cd80d)
+2026-02-11 18:44:52 | INFO     | core.base_scraper         | Scraped article: අභාවප්‍රාප්ත නන්දන ගුණතිලක මහතාගේ දේහය පිළිබඳ අවසන... (8e7c5fa5)
+2026-02-11 18:44:55 | INFO     | core.base_scraper         | Scraped article: ආපදාවට පත් ජනතාවට රුපියල් පනස් දහසේ දීමනාව ලබාදීම ... (8f44387d)
+2026-02-11 18:44:58 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවේ කාබනික කෘෂිකාර්මික නිෂ්පාදන අපනයන අංශ... (95d67803)
+2026-02-11 18:45:01 | INFO     | core.base_scraper         | Scraped article: හිටපු ජනාධිපති මහින්ද රාජපක්ෂගේ පාලන සමයේ හිටපු ජන... (267b4594)
+2026-02-11 18:45:01 | INFO     | core.base_scraper         | Scraping page 99: https://www.itnnews.lk/local/page/99/
+2026-02-11 18:45:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:45:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:45:04 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:45:04 | INFO     | core.base_scraper         | Found 9 articles on page 99
+2026-02-11 18:45:07 | INFO     | core.base_scraper         | Scraped article: ICC T20 ලෝක කුසලානය මෙරට ප්‍රදර්ශනය කිරීමේ සංචාරය ... (844096a6)
+2026-02-11 18:45:10 | INFO     | core.base_scraper         | Scraped article: සලාම් රමසාන් 2026″ ශ්‍රී ලාංකේය මුස්ලිම් සංස්කෘතික... (9d48a453)
+2026-02-11 18:45:13 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී පාද වන්දනාවේ පැමිණි විදේශිකයෙක් ඇතුලු 06 දෙන... (f20f22cf)
+2026-02-11 18:45:16 | INFO     | core.base_scraper         | Scraped article: අල්ලසක් ලෙස රුපියල් 50,000ක මුදලක් පොලිසියට දෙන්න ... (0daedcd4)
+2026-02-11 18:45:19 | INFO     | core.base_scraper         | Scraped article: ආරෝග්‍යා සුවතා මධ්‍යස්ථාන 42 ක් ජනතා අයිතියට... (2170ba76)
+2026-02-11 18:45:22 | INFO     | core.base_scraper         | Scraped article: මත්ලෝලී රියදුරන් හඳුනා ගැනීමේ ජංගම රසායනාගාර පරීක්... (f19cc7b2)
+2026-02-11 18:45:25 | INFO     | core.base_scraper         | Scraped article: වනජීවී හා වනාන්තර අපරාධ සම්බන්ධ මහජන පැමිණිලි 189ක... (2070c5ad)
+2026-02-11 18:45:28 | INFO     | core.base_scraper         | Scraped article: රුපියල් මිලියන 900කට අධික මුදලක් වංචා කළ රේන්බෝ අය... (177982c5)
+2026-02-11 18:45:31 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධීව ආනයනය කරන ලද දුම්වැටි තොගයක් විනාශ කෙ... (56e43a2a)
+2026-02-11 18:45:31 | INFO     | core.base_scraper         | Scraping page 100: https://www.itnnews.lk/local/page/100/
+2026-02-11 18:45:33 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:45:33 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:45:33 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:45:33 | INFO     | core.base_scraper         | Found 9 articles on page 100
+2026-02-11 18:45:37 | INFO     | core.base_scraper         | Scraped article: ස්වර්ණාභරණ අලෙවිසැලකින් ලක්ෂ 3කට ආසන්න වටිනාකමකින්... (2d125c9b)
+2026-02-11 18:45:40 | INFO     | core.base_scraper         | Scraped article: සාම සාධක රාජකාරී සඳහා ගුවන් හමුදාවේ 110ක් මධ්‍යම අ... (eb1062c6)
+2026-02-11 18:45:43 | INFO     | core.base_scraper         | Scraped article: අධ්‍යාපන ප්‍රතිසංස්කරණ සඳහා සහාය දෙන බව විශ්වවිද්‍... (edea5dc8)
+2026-02-11 18:45:47 | INFO     | core.base_scraper         | Scraped article: අතුරුදන් වූ මේ දැරිය සොයා ගන්න පොලීසිය මහජන සහාය ප... (aefd2a74)
+2026-02-11 18:45:49 | INFO     | core.base_scraper         | Scraped article: අගමැතිතුමිය Davos හි ගෝලීය සංසදය අමතයි... (61559539)
+2026-02-11 18:45:52 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී සර්වඥ ධාතු වන්දනාව' පෙබරවාරි 04 සිට 11 දක්වා... (a05ec28d)
+2026-02-11 18:45:55 | INFO     | core.base_scraper         | Scraped article: හොරෙන් මුහුදු කූඩැල්ලන් ඇල්ලූ පුද්ගලයින් 04ක් නාවි... (6801468c)
+2026-02-11 18:45:58 | INFO     | core.base_scraper         | Scraped article: 2025 වර්ෂය සඳහා පිළිගත් දේශපාලන පක්ෂවල නම් ප්‍රකාශ... (350a4efa)
+2026-02-11 18:46:01 | INFO     | core.base_scraper         | Scraped article: ජාතික ශිෂ්‍යභට බලකායේ සමස්ත ලංකා ක්‍රීඩා උලෙළ යාපන... (35ae876a)
+2026-02-11 18:46:01 | INFO     | core.base_scraper         | Reached max_pages limit: 100
+2026-02-11 18:46:01 | INFO     | core.base_scraper         | Category scrape complete: itn/local - 852 new, 48 skipped, 0 failed
+2026-02-11 18:46:01 | INFO     | __main__                  | ✓ Completed local: 852 articles, 100 pages
+2026-02-11 18:46:01 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 18:46:01 | INFO     | __main__                  |   - Articles: 852
+2026-02-11 18:46:01 | INFO     | __main__                  |   - Pages: 100
+2026-02-11 18:46:01 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-11 18:46:01 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 18:46:01 | INFO     | __main__                  |   Total articles in corpus: 897
+2026-02-11 18:46:01 | INFO     | __main__                  |   itn: 897 articles
+2026-02-11 18:46:01 | INFO     | __main__                  |     - local: 897 articles
+2026-02-11 18:46:01 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 18:46:01 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 18:46:01 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 18:46:01 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 18:46:01 | INFO     | __main__                  | ✓ SessionManager closed
