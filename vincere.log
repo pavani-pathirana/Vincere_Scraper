@@ -2494,3 +2494,109 @@ UnicodeEncodeError: 'charmap' codec can't encode characters in position 32-40: c
 2026-02-11 14:54:32 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
 2026-02-11 14:54:32 | INFO     | core.session_manager      | SessionManager closed
 2026-02-11 14:54:32 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 17:23:38 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 17:23:38 | INFO     | __main__                  | Initializing components...
+2026-02-11 17:23:38 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 17:23:38 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 17:23:38 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 17:23:38 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 17:23:38 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 17:23:38 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 17:23:38 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 17:23:38 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 17:23:38 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 17:23:38 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 17:23:38 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 17:23:38 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 17:23:38 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 17:23:38 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 17:23:38 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 17:23:38 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 17:23:38 | INFO     | __main__                  | Target categories for itn: local
+2026-02-11 17:23:38 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 17:23:38 | INFO     | __main__                  |   Scraping itn - local
+2026-02-11 17:23:38 | INFO     | __main__                  | ======================================================================
+2026-02-11 17:23:38 | INFO     | __main__                  | Max pages for this category: 5 (to reach limit of 100)
+2026-02-11 17:23:38 | INFO     | core.base_scraper         | Starting category scrape: itn/local
+2026-02-11 17:23:39 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/local/
+2026-02-11 17:23:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:23:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:23:41 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:23:41 | INFO     | core.base_scraper         | Found 9 articles on page 1
+2026-02-11 17:23:42 | INFO     | core.base_scraper         | Scraped article: වන අලි දුම්රියේ ගැටීම වැළැක්වීමට දුම්රියට විශේෂ කැ... (411aebd9)
+2026-02-11 17:23:43 | INFO     | core.base_scraper         | Scraped article: කාන්තාවක් රවටා මුදල් ගැරූ දෙදෙනෙකු අත්අඩංගුවට... (701c724a)
+2026-02-11 17:23:45 | INFO     | core.base_scraper         | Scraped article: බලංගොඩ කස්සප හිමියන් ඇතුළු පිරිසට ඇප... (fab97a31)
+2026-02-11 17:23:47 | INFO     | core.base_scraper         | Scraped article: හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක තවදුරටත් රක්ෂිත බ... (8bc18f69)
+2026-02-11 17:23:48 | INFO     | core.base_scraper         | Scraped article: ඇමති විජිත පලස්තීන විදේශ අමාත්‍යවරයාට මෙරට සංචාරයක... (1348710f)
+2026-02-11 17:23:49 | INFO     | core.base_scraper         | Scraping page 2: https://www.itnnews.lk/local/page/2/
+2026-02-11 17:23:50 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:23:50 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:23:50 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:23:50 | INFO     | core.base_scraper         | Found 9 articles on page 2
+2026-02-11 17:23:53 | INFO     | core.base_scraper         | Scraped article: වවුනියාවේ මාර්ග සංවර්ධනයට බිලියන 1.8ක්... (c456d647)
+2026-02-11 17:23:55 | INFO     | core.base_scraper         | Scraped article: තාක්ෂණයේ දියුණුව ඕනෑම ක්ෂේත්‍රයක ගමන් මග තීරණය කරන... (2c854f3d)
+2026-02-11 17:23:58 | INFO     | core.base_scraper         | Scraped article: ආපදාවෙන් රට නැවත ගොඩනැගීමට උපරිම සහාය ලබාදෙනවා – ආ... (69b271dc)
+2026-02-11 17:23:59 | INFO     | core.base_scraper         | Scraped article: අග්‍රාමාත්‍යවරිය සහ යුරෝපීය බාහිර ක්‍රියාකාරී සේවය... (a2e15d79)
+2026-02-11 17:24:00 | INFO     | core.base_scraper         | Scraping page 3: https://www.itnnews.lk/local/page/3/
+2026-02-11 17:24:01 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:24:01 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:24:01 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:24:01 | INFO     | core.base_scraper         | Found 9 articles on page 3
+2026-02-11 17:24:05 | INFO     | core.base_scraper         | Scraped article: වතුකම්කරුවන් බලන්න ගිය ජනපති – "අපිව බලන්න ආ එකම ජ... (d2179bf9)
+2026-02-11 17:24:08 | INFO     | core.base_scraper         | Scraped article: බුද්ධ ශාසන සභාව රැස්වෙයි... (f4d354ac)
+2026-02-11 17:24:11 | INFO     | core.base_scraper         | Scraped article: පළමුවෙන් පන්දුවට පහරදීමට දකුණු අප්‍රිකානු කණ්ඩායමට... (83b3eb76)
+2026-02-11 17:24:14 | INFO     | core.base_scraper         | Scraped article: ජාතික ජල සම්පාදන මණ්ඩලයේ සාමාන්‍යාධිකාරීවරයෙකු අල්... (7d6b8b9c)
+2026-02-11 17:24:17 | INFO     | core.base_scraper         | Scraped article: ආසියානු වෙඩි තැබීමේ ශූරතා තරගාවලියේදී ශ්‍රී ලංකාවට... (d6c4ebdb)
+2026-02-11 17:24:19 | INFO     | core.base_scraper         | Scraped article: සමන් ඒකනායකට එරෙහි නඩුව අද කැඳවයි... (f88188d6)
+2026-02-11 17:24:23 | INFO     | core.base_scraper         | Scraped article: වැඩි මිලට සහල් විකිණූ වැලිමඩ වෙළෙන්දෙකුට ලක්ෂයක දඩ... (3e9fe524)
+2026-02-11 17:24:26 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි සර්වඥ ධාතූන් වහන්සේ නැවත ඉන්දියාවට වැඩ... (239840f8)
+2026-02-11 17:24:29 | INFO     | core.base_scraper         | Scraped article: දුර­ක­තන අස්ථා­න­ගත වීම් සහ සොර­කම් සම්බ­න්ධ­යෙන් ... (af69d491)
+2026-02-11 17:24:29 | INFO     | core.base_scraper         | Scraping page 4: https://www.itnnews.lk/local/page/4/
+2026-02-11 17:24:31 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:24:31 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:24:31 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:24:31 | INFO     | core.base_scraper         | Found 9 articles on page 4
+2026-02-11 17:24:35 | INFO     | core.base_scraper         | Scraped article: කහල්ල පල්ලෙකැලේ අභය භූමියේ අනවසරයෙන් කුකුළු ගොවිපළ... (ddec6387)
+2026-02-11 17:24:38 | INFO     | core.base_scraper         | Scraped article: වැලගෙඩියක් නිසා අවසන් ගමන් ගිය සිඟිත්තිය – දියණියග... (6b499f9a)
+2026-02-11 17:24:41 | INFO     | core.base_scraper         | Scraped article: කස්සප හිමි ඇතුළු පිරිස අධිකරණයට... (4fb19d26)
+2026-02-11 17:24:44 | INFO     | core.base_scraper         | Scraped article: ඡන්දහිමි නාමලේඛන ප්‍රතිශෝධනය ඇරඹෙයි... (64cccd10)
+2026-02-11 17:24:47 | INFO     | core.base_scraper         | Scraped article: ඌව පරණගම "ප්‍රජා ශක්ති" සභාපතිවරුන්ට පත්වීම් ලිපි ... (f4292c28)
+2026-02-11 17:24:50 | INFO     | core.base_scraper         | Scraped article: අමරකීර්ති අතුකෝරළ ඝාතන නඩුවේ තීන්දුව අද... (b5205c56)
+2026-02-11 17:24:53 | INFO     | core.base_scraper         | Scraped article: දියේ ගිලී විදේශීය ජාතිකයෙකු මියයයි... (292d32d3)
+2026-02-11 17:24:56 | INFO     | core.base_scraper         | Scraped article: නීති විරෝධී මත්පැන් සමග සැකකාරියක් අත්අඩංගුවට... (a9c4c2ab)
+2026-02-11 17:24:59 | INFO     | core.base_scraper         | Scraped article: O/L උපකාරක පන්ති අද මධ්‍යම රාත්‍රියේ සිට විභා­ගය අ... (32f398ea)
+2026-02-11 17:24:59 | INFO     | core.base_scraper         | Scraping page 5: https://www.itnnews.lk/local/page/5/
+2026-02-11 17:25:02 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 17:25:02 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 17:25:02 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 17:25:02 | INFO     | core.base_scraper         | Found 9 articles on page 5
+2026-02-11 17:25:05 | INFO     | core.base_scraper         | Scraped article: "රටම එකට" මධ්‍යම පළාත් වැඩසටහන ජනපති ප්‍රධානත්වයෙන... (6e3cbd12)
+2026-02-11 17:25:08 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතු අද යළි ඉන්දියාවට වැඩම... (2a0a9c08)
+2026-02-11 17:25:11 | INFO     | core.base_scraper         | Scraped article: හෙට සිට පවතින වියලි කාලගුණික තත්ත්වයේ වෙනසක්... (959a8dfa)
+2026-02-11 17:25:14 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි සර්වඥ ධාතු ප්‍රද­ර්ශ­නය හෙට (11) පෙර­ව... (be557d1b)
+2026-02-11 17:25:17 | INFO     | core.base_scraper         | Scraped article: අතුරුගිරිය – මාලබේ ප්‍රධාන මාර්ගයේ සංවර්ධන කටයුතු ... (d0a6d237)
+2026-02-11 17:25:19 | INFO     | core.base_scraper         | Scraped article: දෙව්නි මෝරි ශ්‍රී සර්වඥ ධාතුන් වහන්සේ වැඳපුදා ගැනී... (042fbe38)
+2026-02-11 17:25:23 | INFO     | core.base_scraper         | Scraped article: ශ්‍රී ලංකාවේ 78 වන නිදහස වෙනුවෙන් ඇමෙරිකාවේ සහ රුස... (4cf17a96)
+2026-02-11 17:25:26 | INFO     | core.base_scraper         | Scraped article: ගොවියාත්, පාරිභෝගිකයාත් සුරක්ෂිත කරන්න රජයෙන් වැඩප... (0d8c6992)
+2026-02-11 17:25:29 | INFO     | core.base_scraper         | Scraped article: රටම එකට ජාතික මෙහෙයුමේ මධ්‍යම පළාත් වැඩසටහන ජනපති ... (ede841eb)
+2026-02-11 17:25:29 | INFO     | core.base_scraper         | Reached max_pages limit: 5
+2026-02-11 17:25:30 | INFO     | core.base_scraper         | Category scrape complete: itn/local - 36 new, 9 skipped, 0 failed
+2026-02-11 17:25:30 | INFO     | __main__                  | ✓ Completed local: 36 articles, 5 pages
+2026-02-11 17:25:30 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 17:25:30 | INFO     | __main__                  |   - Articles: 36
+2026-02-11 17:25:30 | INFO     | __main__                  |   - Pages: 5
+2026-02-11 17:25:30 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-11 17:25:30 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 17:25:30 | INFO     | __main__                  |   Total articles in corpus: 45
+2026-02-11 17:25:30 | INFO     | __main__                  |   itn: 45 articles
+2026-02-11 17:25:30 | INFO     | __main__                  |     - local: 45 articles
+2026-02-11 17:25:30 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 17:25:30 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 17:25:30 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 17:25:30 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 17:25:30 | INFO     | __main__                  | ✓ SessionManager closed

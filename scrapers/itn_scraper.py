@@ -419,9 +419,10 @@ class ITNScraper(BaseScraper):
         
         # Method 3: Construct next URL if articles found (reasonable limit: 200 pages)
         if current_page < 200:
-            articles = soup.select('article') or soup.select('.post')
+            # Check for ITN-specific article links (h3.entry-title a with date-based URLs)
+            article_links = soup.select('h3.entry-title a[href*="itnnews.lk"]')
             
-            if len(articles) >= 5:  # If we found at least 5 articles, likely more pages exist
+            if len(article_links) >= 5:  # If we found at least 5 articles, likely more pages exist
                 # Parse current URL to extract category
                 parsed = urlparse(current_url)
                 path_parts = parsed.path.strip('/').split('/')
