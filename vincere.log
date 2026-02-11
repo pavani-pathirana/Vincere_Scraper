@@ -4134,3 +4134,551 @@ tenacity.RetryError: RetryError[<Future at 0x246d2846b40 state=finished raised C
 2026-02-11 18:46:01 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
 2026-02-11 18:46:01 | INFO     | core.session_manager      | SessionManager closed
 2026-02-11 18:46:01 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-11 18:55:50 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-11 18:55:50 | INFO     | __main__                  | Initializing components...
+2026-02-11 18:55:50 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-11 18:55:50 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-11 18:55:50 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-11 18:55:50 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-11 18:55:50 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-11 18:55:50 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-11 18:55:50 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-11 18:55:50 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-11 18:55:50 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-11 18:55:50 | INFO     | __main__                  | Scraping single site: itn
+2026-02-11 18:55:50 | INFO     | __main__                  | 
+######################################################################
+2026-02-11 18:55:50 | INFO     | __main__                  |   SITE: ITN
+2026-02-11 18:55:50 | INFO     | __main__                  | ######################################################################
+
+2026-02-11 18:55:50 | INFO     | __main__                  | Initializing scraper for: itn
+2026-02-11 18:55:50 | INFO     | core.base_scraper         | Initialized ITNScraper for itn
+2026-02-11 18:55:50 | INFO     | scrapers.itn_scraper      | ITN News: Found 7 categories
+2026-02-11 18:55:50 | INFO     | __main__                  | Target categories for itn: local
+2026-02-11 18:55:50 | INFO     | __main__                  | 
+======================================================================
+2026-02-11 18:55:50 | INFO     | __main__                  |   Scraping itn - local
+2026-02-11 18:55:50 | INFO     | __main__                  | ======================================================================
+2026-02-11 18:55:50 | INFO     | __main__                  | Max pages for this category: 100 (to reach limit of 2000)
+2026-02-11 18:55:50 | INFO     | core.base_scraper         | Starting category scrape: itn/local
+2026-02-11 18:55:50 | INFO     | core.base_scraper         | Scraping page 1: https://www.itnnews.lk/local/
+2026-02-11 18:55:53 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:55:53 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:55:53 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:55:53 | INFO     | core.base_scraper         | Found 9 articles on page 1
+2026-02-11 18:55:54 | INFO     | core.base_scraper         | Scraped article: වසර 36කට පසුව මඩකලපුව රාමක්‍රිෂ්ණ මිෂන් විද්‍යාලයේ... (d6f5dc77)
+2026-02-11 18:55:55 | INFO     | core.base_scraper         | Scraped article: 2026 ජාත්‍යන්තර කාන්තා දින ජාතික සැමරුම මාතර දී... (ce13b3d1)
+2026-02-11 18:55:56 | INFO     | core.base_scraper         | Scraped article: වැඩි කළ වැටුප ලබාගත් වතු කම්කරුවන් කෝවිල් වෙත ගොස්... (879306d3)
+2026-02-11 18:55:57 | INFO     | core.base_scraper         | Scraping page 2: https://www.itnnews.lk/local/page/2/
+2026-02-11 18:55:58 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:55:58 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:55:58 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:55:58 | INFO     | core.base_scraper         | Found 9 articles on page 2
+2026-02-11 18:56:00 | INFO     | core.base_scraper         | Scraping page 3: https://www.itnnews.lk/local/page/3/
+2026-02-11 18:56:01 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:01 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:01 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:01 | INFO     | core.base_scraper         | Found 9 articles on page 3
+2026-02-11 18:56:03 | INFO     | core.base_scraper         | Scraping page 4: https://www.itnnews.lk/local/page/4/
+2026-02-11 18:56:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:04 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:04 | INFO     | core.base_scraper         | Found 9 articles on page 4
+2026-02-11 18:56:06 | INFO     | core.base_scraper         | Scraping page 5: https://www.itnnews.lk/local/page/5/
+2026-02-11 18:56:07 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:08 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:08 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:08 | INFO     | core.base_scraper         | Found 9 articles on page 5
+2026-02-11 18:56:09 | INFO     | core.base_scraper         | Scraping page 6: https://www.itnnews.lk/local/page/6/
+2026-02-11 18:56:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:10 | INFO     | core.base_scraper         | Found 9 articles on page 6
+2026-02-11 18:56:12 | INFO     | core.base_scraper         | Scraping page 7: https://www.itnnews.lk/local/page/7/
+2026-02-11 18:56:13 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:13 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:13 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:13 | INFO     | core.base_scraper         | Found 9 articles on page 7
+2026-02-11 18:56:15 | INFO     | core.base_scraper         | Scraping page 8: https://www.itnnews.lk/local/page/8/
+2026-02-11 18:56:16 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:16 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:16 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:16 | INFO     | core.base_scraper         | Found 9 articles on page 8
+2026-02-11 18:56:18 | INFO     | core.base_scraper         | Scraping page 9: https://www.itnnews.lk/local/page/9/
+2026-02-11 18:56:19 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:19 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:19 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:19 | INFO     | core.base_scraper         | Found 9 articles on page 9
+2026-02-11 18:56:20 | INFO     | core.base_scraper         | Scraping page 10: https://www.itnnews.lk/local/page/10/
+2026-02-11 18:56:22 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:22 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:22 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:22 | INFO     | core.base_scraper         | Found 9 articles on page 10
+2026-02-11 18:56:23 | INFO     | core.base_scraper         | Scraping page 11: https://www.itnnews.lk/local/page/11/
+2026-02-11 18:56:25 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:25 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:25 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:25 | INFO     | core.base_scraper         | Found 9 articles on page 11
+2026-02-11 18:56:26 | INFO     | core.base_scraper         | Scraping page 12: https://www.itnnews.lk/local/page/12/
+2026-02-11 18:56:28 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:28 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:28 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:28 | INFO     | core.base_scraper         | Found 9 articles on page 12
+2026-02-11 18:56:30 | INFO     | core.base_scraper         | Scraping page 13: https://www.itnnews.lk/local/page/13/
+2026-02-11 18:56:31 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:31 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:31 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:31 | INFO     | core.base_scraper         | Found 9 articles on page 13
+2026-02-11 18:56:33 | INFO     | core.base_scraper         | Scraping page 14: https://www.itnnews.lk/local/page/14/
+2026-02-11 18:56:34 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:34 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:34 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:34 | INFO     | core.base_scraper         | Found 9 articles on page 14
+2026-02-11 18:56:36 | INFO     | core.base_scraper         | Scraping page 15: https://www.itnnews.lk/local/page/15/
+2026-02-11 18:56:37 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:37 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:37 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:37 | INFO     | core.base_scraper         | Found 9 articles on page 15
+2026-02-11 18:56:39 | INFO     | core.base_scraper         | Scraping page 16: https://www.itnnews.lk/local/page/16/
+2026-02-11 18:56:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:40 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:40 | INFO     | core.base_scraper         | Found 9 articles on page 16
+2026-02-11 18:56:41 | INFO     | core.base_scraper         | Scraping page 17: https://www.itnnews.lk/local/page/17/
+2026-02-11 18:56:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:43 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:43 | INFO     | core.base_scraper         | Found 9 articles on page 17
+2026-02-11 18:56:45 | INFO     | core.base_scraper         | Scraping page 18: https://www.itnnews.lk/local/page/18/
+2026-02-11 18:56:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:46 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:46 | INFO     | core.base_scraper         | Found 9 articles on page 18
+2026-02-11 18:56:47 | INFO     | core.base_scraper         | Scraping page 19: https://www.itnnews.lk/local/page/19/
+2026-02-11 18:56:49 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:49 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:49 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:49 | INFO     | core.base_scraper         | Found 9 articles on page 19
+2026-02-11 18:56:50 | INFO     | core.base_scraper         | Scraping page 20: https://www.itnnews.lk/local/page/20/
+2026-02-11 18:56:52 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:52 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:52 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:52 | INFO     | core.base_scraper         | Found 9 articles on page 20
+2026-02-11 18:56:53 | INFO     | core.base_scraper         | Scraping page 21: https://www.itnnews.lk/local/page/21/
+2026-02-11 18:56:55 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:55 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:55 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:55 | INFO     | core.base_scraper         | Found 9 articles on page 21
+2026-02-11 18:56:56 | INFO     | core.base_scraper         | Scraping page 22: https://www.itnnews.lk/local/page/22/
+2026-02-11 18:56:58 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:56:58 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:56:58 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:56:58 | INFO     | core.base_scraper         | Found 9 articles on page 22
+2026-02-11 18:56:59 | INFO     | core.base_scraper         | Scraping page 23: https://www.itnnews.lk/local/page/23/
+2026-02-11 18:57:00 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:00 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:00 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:00 | INFO     | core.base_scraper         | Found 9 articles on page 23
+2026-02-11 18:57:02 | INFO     | core.base_scraper         | Scraping page 24: https://www.itnnews.lk/local/page/24/
+2026-02-11 18:57:03 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:03 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:03 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:03 | INFO     | core.base_scraper         | Found 9 articles on page 24
+2026-02-11 18:57:05 | INFO     | core.base_scraper         | Scraping page 25: https://www.itnnews.lk/local/page/25/
+2026-02-11 18:57:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:06 | INFO     | core.base_scraper         | Found 9 articles on page 25
+2026-02-11 18:57:08 | INFO     | core.base_scraper         | Scraping page 26: https://www.itnnews.lk/local/page/26/
+2026-02-11 18:57:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:09 | INFO     | core.base_scraper         | Found 9 articles on page 26
+2026-02-11 18:57:11 | INFO     | core.base_scraper         | Scraping page 27: https://www.itnnews.lk/local/page/27/
+2026-02-11 18:57:12 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:12 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:12 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:12 | INFO     | core.base_scraper         | Found 9 articles on page 27
+2026-02-11 18:57:14 | INFO     | core.base_scraper         | Scraping page 28: https://www.itnnews.lk/local/page/28/
+2026-02-11 18:57:15 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:15 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:15 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:15 | INFO     | core.base_scraper         | Found 9 articles on page 28
+2026-02-11 18:57:16 | INFO     | core.base_scraper         | Scraping page 29: https://www.itnnews.lk/local/page/29/
+2026-02-11 18:57:18 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:18 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:18 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:18 | INFO     | core.base_scraper         | Found 9 articles on page 29
+2026-02-11 18:57:19 | INFO     | core.base_scraper         | Scraping page 30: https://www.itnnews.lk/local/page/30/
+2026-02-11 18:57:20 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:20 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:20 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:20 | INFO     | core.base_scraper         | Found 9 articles on page 30
+2026-02-11 18:57:22 | INFO     | core.base_scraper         | Scraping page 31: https://www.itnnews.lk/local/page/31/
+2026-02-11 18:57:23 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:23 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:23 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:23 | INFO     | core.base_scraper         | Found 9 articles on page 31
+2026-02-11 18:57:25 | INFO     | core.base_scraper         | Scraping page 32: https://www.itnnews.lk/local/page/32/
+2026-02-11 18:57:26 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:26 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:26 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:26 | INFO     | core.base_scraper         | Found 9 articles on page 32
+2026-02-11 18:57:27 | INFO     | core.base_scraper         | Scraping page 33: https://www.itnnews.lk/local/page/33/
+2026-02-11 18:57:29 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:29 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:29 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:29 | INFO     | core.base_scraper         | Found 9 articles on page 33
+2026-02-11 18:57:30 | INFO     | core.base_scraper         | Scraping page 34: https://www.itnnews.lk/local/page/34/
+2026-02-11 18:57:32 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:32 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:32 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:32 | INFO     | core.base_scraper         | Found 9 articles on page 34
+2026-02-11 18:57:33 | INFO     | core.base_scraper         | Scraping page 35: https://www.itnnews.lk/local/page/35/
+2026-02-11 18:57:35 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:35 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:35 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:35 | INFO     | core.base_scraper         | Found 9 articles on page 35
+2026-02-11 18:57:36 | INFO     | core.base_scraper         | Scraping page 36: https://www.itnnews.lk/local/page/36/
+2026-02-11 18:57:37 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:37 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:37 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:37 | INFO     | core.base_scraper         | Found 9 articles on page 36
+2026-02-11 18:57:39 | INFO     | core.base_scraper         | Scraping page 37: https://www.itnnews.lk/local/page/37/
+2026-02-11 18:57:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:40 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:40 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:40 | INFO     | core.base_scraper         | Found 9 articles on page 37
+2026-02-11 18:57:42 | INFO     | core.base_scraper         | Scraping page 38: https://www.itnnews.lk/local/page/38/
+2026-02-11 18:57:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:43 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:43 | INFO     | core.base_scraper         | Found 9 articles on page 38
+2026-02-11 18:57:45 | INFO     | core.base_scraper         | Scraping page 39: https://www.itnnews.lk/local/page/39/
+2026-02-11 18:57:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:46 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:46 | INFO     | core.base_scraper         | Found 9 articles on page 39
+2026-02-11 18:57:47 | INFO     | core.base_scraper         | Scraping page 40: https://www.itnnews.lk/local/page/40/
+2026-02-11 18:57:49 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:49 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:49 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:49 | INFO     | core.base_scraper         | Found 9 articles on page 40
+2026-02-11 18:57:50 | INFO     | core.base_scraper         | Scraping page 41: https://www.itnnews.lk/local/page/41/
+2026-02-11 18:57:51 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:51 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:51 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:51 | INFO     | core.base_scraper         | Found 9 articles on page 41
+2026-02-11 18:57:53 | INFO     | core.base_scraper         | Scraping page 42: https://www.itnnews.lk/local/page/42/
+2026-02-11 18:57:54 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:54 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:54 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:54 | INFO     | core.base_scraper         | Found 9 articles on page 42
+2026-02-11 18:57:56 | INFO     | core.base_scraper         | Scraping page 43: https://www.itnnews.lk/local/page/43/
+2026-02-11 18:57:57 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:57:57 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:57:57 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:57:57 | INFO     | core.base_scraper         | Found 9 articles on page 43
+2026-02-11 18:57:59 | INFO     | core.base_scraper         | Scraping page 44: https://www.itnnews.lk/local/page/44/
+2026-02-11 18:58:00 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:00 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:00 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:00 | INFO     | core.base_scraper         | Found 9 articles on page 44
+2026-02-11 18:58:02 | INFO     | core.base_scraper         | Scraping page 45: https://www.itnnews.lk/local/page/45/
+2026-02-11 18:58:03 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:03 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:03 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:03 | INFO     | core.base_scraper         | Found 9 articles on page 45
+2026-02-11 18:58:05 | INFO     | core.base_scraper         | Scraping page 46: https://www.itnnews.lk/local/page/46/
+2026-02-11 18:58:06 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:06 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:06 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:06 | INFO     | core.base_scraper         | Found 9 articles on page 46
+2026-02-11 18:58:08 | INFO     | core.base_scraper         | Scraping page 47: https://www.itnnews.lk/local/page/47/
+2026-02-11 18:58:09 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:09 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:09 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:09 | INFO     | core.base_scraper         | Found 9 articles on page 47
+2026-02-11 18:58:10 | INFO     | core.base_scraper         | Scraping page 48: https://www.itnnews.lk/local/page/48/
+2026-02-11 18:58:12 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:12 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:12 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:12 | INFO     | core.base_scraper         | Found 9 articles on page 48
+2026-02-11 18:58:13 | INFO     | core.base_scraper         | Scraping page 49: https://www.itnnews.lk/local/page/49/
+2026-02-11 18:58:15 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:15 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:15 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:15 | INFO     | core.base_scraper         | Found 9 articles on page 49
+2026-02-11 18:58:16 | INFO     | core.base_scraper         | Scraping page 50: https://www.itnnews.lk/local/page/50/
+2026-02-11 18:58:17 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:17 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:17 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:17 | INFO     | core.base_scraper         | Found 9 articles on page 50
+2026-02-11 18:58:19 | INFO     | core.base_scraper         | Scraping page 51: https://www.itnnews.lk/local/page/51/
+2026-02-11 18:58:20 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:20 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:20 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:20 | INFO     | core.base_scraper         | Found 9 articles on page 51
+2026-02-11 18:58:22 | INFO     | core.base_scraper         | Scraping page 52: https://www.itnnews.lk/local/page/52/
+2026-02-11 18:58:23 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:23 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:23 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:23 | INFO     | core.base_scraper         | Found 9 articles on page 52
+2026-02-11 18:58:25 | INFO     | core.base_scraper         | Scraping page 53: https://www.itnnews.lk/local/page/53/
+2026-02-11 18:58:26 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:26 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:26 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:26 | INFO     | core.base_scraper         | Found 9 articles on page 53
+2026-02-11 18:58:27 | INFO     | core.base_scraper         | Scraping page 54: https://www.itnnews.lk/local/page/54/
+2026-02-11 18:58:29 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:29 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:29 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:29 | INFO     | core.base_scraper         | Found 9 articles on page 54
+2026-02-11 18:58:30 | INFO     | core.base_scraper         | Scraping page 55: https://www.itnnews.lk/local/page/55/
+2026-02-11 18:58:31 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:32 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:32 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:32 | INFO     | core.base_scraper         | Found 9 articles on page 55
+2026-02-11 18:58:33 | INFO     | core.base_scraper         | Scraping page 56: https://www.itnnews.lk/local/page/56/
+2026-02-11 18:58:34 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:34 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:34 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:34 | INFO     | core.base_scraper         | Found 9 articles on page 56
+2026-02-11 18:58:36 | INFO     | core.base_scraper         | Scraping page 57: https://www.itnnews.lk/local/page/57/
+2026-02-11 18:58:38 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:38 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:38 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:38 | INFO     | core.base_scraper         | Found 9 articles on page 57
+2026-02-11 18:58:39 | INFO     | core.base_scraper         | Scraping page 58: https://www.itnnews.lk/local/page/58/
+2026-02-11 18:58:40 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:41 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:41 | INFO     | core.base_scraper         | Found 9 articles on page 58
+2026-02-11 18:58:42 | INFO     | core.base_scraper         | Scraping page 59: https://www.itnnews.lk/local/page/59/
+2026-02-11 18:58:44 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:44 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:44 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:44 | INFO     | core.base_scraper         | Found 9 articles on page 59
+2026-02-11 18:58:45 | INFO     | core.base_scraper         | Scraping page 60: https://www.itnnews.lk/local/page/60/
+2026-02-11 18:58:47 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:47 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:47 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:47 | INFO     | core.base_scraper         | Found 9 articles on page 60
+2026-02-11 18:58:48 | INFO     | core.base_scraper         | Scraping page 61: https://www.itnnews.lk/local/page/61/
+2026-02-11 18:58:49 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:50 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:50 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:50 | INFO     | core.base_scraper         | Found 9 articles on page 61
+2026-02-11 18:58:51 | INFO     | core.base_scraper         | Scraping page 62: https://www.itnnews.lk/local/page/62/
+2026-02-11 18:58:52 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:52 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:52 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:52 | INFO     | core.base_scraper         | Found 9 articles on page 62
+2026-02-11 18:58:54 | INFO     | core.base_scraper         | Scraping page 63: https://www.itnnews.lk/local/page/63/
+2026-02-11 18:58:55 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:55 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:55 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:55 | INFO     | core.base_scraper         | Found 9 articles on page 63
+2026-02-11 18:58:57 | INFO     | core.base_scraper         | Scraping page 64: https://www.itnnews.lk/local/page/64/
+2026-02-11 18:58:58 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:58:58 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:58:58 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:58:58 | INFO     | core.base_scraper         | Found 9 articles on page 64
+2026-02-11 18:59:00 | INFO     | core.base_scraper         | Scraping page 65: https://www.itnnews.lk/local/page/65/
+2026-02-11 18:59:01 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:01 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:01 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:01 | INFO     | core.base_scraper         | Found 9 articles on page 65
+2026-02-11 18:59:03 | INFO     | core.base_scraper         | Scraping page 66: https://www.itnnews.lk/local/page/66/
+2026-02-11 18:59:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:04 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:04 | INFO     | core.base_scraper         | Found 9 articles on page 66
+2026-02-11 18:59:05 | INFO     | core.base_scraper         | Scraping page 67: https://www.itnnews.lk/local/page/67/
+2026-02-11 18:59:07 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:07 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:07 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:07 | INFO     | core.base_scraper         | Found 9 articles on page 67
+2026-02-11 18:59:08 | INFO     | core.base_scraper         | Scraping page 68: https://www.itnnews.lk/local/page/68/
+2026-02-11 18:59:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:10 | INFO     | core.base_scraper         | Found 9 articles on page 68
+2026-02-11 18:59:11 | INFO     | core.base_scraper         | Scraping page 69: https://www.itnnews.lk/local/page/69/
+2026-02-11 18:59:13 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:13 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:13 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:13 | INFO     | core.base_scraper         | Found 9 articles on page 69
+2026-02-11 18:59:14 | INFO     | core.base_scraper         | Scraping page 70: https://www.itnnews.lk/local/page/70/
+2026-02-11 18:59:16 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:16 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:16 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:16 | INFO     | core.base_scraper         | Found 9 articles on page 70
+2026-02-11 18:59:17 | INFO     | core.base_scraper         | Scraping page 71: https://www.itnnews.lk/local/page/71/
+2026-02-11 18:59:19 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:19 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:19 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:19 | INFO     | core.base_scraper         | Found 9 articles on page 71
+2026-02-11 18:59:20 | INFO     | core.base_scraper         | Scraping page 72: https://www.itnnews.lk/local/page/72/
+2026-02-11 18:59:22 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:22 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:22 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:22 | INFO     | core.base_scraper         | Found 9 articles on page 72
+2026-02-11 18:59:23 | INFO     | core.base_scraper         | Scraping page 73: https://www.itnnews.lk/local/page/73/
+2026-02-11 18:59:25 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:25 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:25 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:25 | INFO     | core.base_scraper         | Found 9 articles on page 73
+2026-02-11 18:59:26 | INFO     | core.base_scraper         | Scraping page 74: https://www.itnnews.lk/local/page/74/
+2026-02-11 18:59:28 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:28 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:28 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:28 | INFO     | core.base_scraper         | Found 9 articles on page 74
+2026-02-11 18:59:29 | INFO     | core.base_scraper         | Scraping page 75: https://www.itnnews.lk/local/page/75/
+2026-02-11 18:59:31 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:31 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:31 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:31 | INFO     | core.base_scraper         | Found 9 articles on page 75
+2026-02-11 18:59:32 | INFO     | core.base_scraper         | Scraping page 76: https://www.itnnews.lk/local/page/76/
+2026-02-11 18:59:33 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:34 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:34 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:34 | INFO     | core.base_scraper         | Found 9 articles on page 76
+2026-02-11 18:59:35 | INFO     | core.base_scraper         | Scraping page 77: https://www.itnnews.lk/local/page/77/
+2026-02-11 18:59:37 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:37 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:37 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:37 | INFO     | core.base_scraper         | Found 9 articles on page 77
+2026-02-11 18:59:38 | INFO     | core.base_scraper         | Scraping page 78: https://www.itnnews.lk/local/page/78/
+2026-02-11 18:59:39 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:39 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:39 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:39 | INFO     | core.base_scraper         | Found 9 articles on page 78
+2026-02-11 18:59:41 | INFO     | core.base_scraper         | Scraping page 79: https://www.itnnews.lk/local/page/79/
+2026-02-11 18:59:43 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:43 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:43 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:43 | INFO     | core.base_scraper         | Found 9 articles on page 79
+2026-02-11 18:59:44 | INFO     | core.base_scraper         | Scraping page 80: https://www.itnnews.lk/local/page/80/
+2026-02-11 18:59:46 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:46 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:46 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:46 | INFO     | core.base_scraper         | Found 9 articles on page 80
+2026-02-11 18:59:47 | INFO     | core.base_scraper         | Scraping page 81: https://www.itnnews.lk/local/page/81/
+2026-02-11 18:59:49 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:49 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:49 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:49 | INFO     | core.base_scraper         | Found 9 articles on page 81
+2026-02-11 18:59:50 | INFO     | core.base_scraper         | Scraping page 82: https://www.itnnews.lk/local/page/82/
+2026-02-11 18:59:52 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:52 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:52 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:52 | INFO     | core.base_scraper         | Found 9 articles on page 82
+2026-02-11 18:59:53 | INFO     | core.base_scraper         | Scraping page 83: https://www.itnnews.lk/local/page/83/
+2026-02-11 18:59:55 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:55 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:55 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:55 | INFO     | core.base_scraper         | Found 9 articles on page 83
+2026-02-11 18:59:56 | INFO     | core.base_scraper         | Scraping page 84: https://www.itnnews.lk/local/page/84/
+2026-02-11 18:59:58 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 18:59:58 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 18:59:58 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 18:59:58 | INFO     | core.base_scraper         | Found 9 articles on page 84
+2026-02-11 18:59:59 | INFO     | core.base_scraper         | Scraping page 85: https://www.itnnews.lk/local/page/85/
+2026-02-11 19:00:01 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:01 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:01 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:01 | INFO     | core.base_scraper         | Found 9 articles on page 85
+2026-02-11 19:00:02 | INFO     | core.base_scraper         | Scraping page 86: https://www.itnnews.lk/local/page/86/
+2026-02-11 19:00:04 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:04 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:04 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:04 | INFO     | core.base_scraper         | Found 9 articles on page 86
+2026-02-11 19:00:06 | INFO     | core.base_scraper         | Scraping page 87: https://www.itnnews.lk/local/page/87/
+2026-02-11 19:00:07 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:07 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:07 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:07 | INFO     | core.base_scraper         | Found 9 articles on page 87
+2026-02-11 19:00:08 | INFO     | core.base_scraper         | Scraping page 88: https://www.itnnews.lk/local/page/88/
+2026-02-11 19:00:10 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:10 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:10 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:10 | INFO     | core.base_scraper         | Found 9 articles on page 88
+2026-02-11 19:00:11 | INFO     | core.base_scraper         | Scraping page 89: https://www.itnnews.lk/local/page/89/
+2026-02-11 19:00:12 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:12 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:12 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:12 | INFO     | core.base_scraper         | Found 9 articles on page 89
+2026-02-11 19:00:14 | INFO     | core.base_scraper         | Scraping page 90: https://www.itnnews.lk/local/page/90/
+2026-02-11 19:00:15 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:15 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:16 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:16 | INFO     | core.base_scraper         | Found 9 articles on page 90
+2026-02-11 19:00:17 | INFO     | core.base_scraper         | Scraping page 91: https://www.itnnews.lk/local/page/91/
+2026-02-11 19:00:19 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:19 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:19 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:19 | INFO     | core.base_scraper         | Found 9 articles on page 91
+2026-02-11 19:00:21 | INFO     | core.base_scraper         | Scraping page 92: https://www.itnnews.lk/local/page/92/
+2026-02-11 19:00:22 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:22 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:22 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:22 | INFO     | core.base_scraper         | Found 9 articles on page 92
+2026-02-11 19:00:24 | INFO     | core.base_scraper         | Scraping page 93: https://www.itnnews.lk/local/page/93/
+2026-02-11 19:00:25 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:25 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:25 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:25 | INFO     | core.base_scraper         | Found 9 articles on page 93
+2026-02-11 19:00:27 | INFO     | core.base_scraper         | Scraping page 94: https://www.itnnews.lk/local/page/94/
+2026-02-11 19:00:28 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:28 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:28 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:28 | INFO     | core.base_scraper         | Found 9 articles on page 94
+2026-02-11 19:00:30 | INFO     | core.base_scraper         | Scraping page 95: https://www.itnnews.lk/local/page/95/
+2026-02-11 19:00:31 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:31 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:31 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:31 | INFO     | core.base_scraper         | Found 9 articles on page 95
+2026-02-11 19:00:33 | INFO     | core.base_scraper         | Scraping page 96: https://www.itnnews.lk/local/page/96/
+2026-02-11 19:00:35 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:35 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:35 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:35 | INFO     | core.base_scraper         | Found 9 articles on page 96
+2026-02-11 19:00:36 | INFO     | core.base_scraper         | Scraping page 97: https://www.itnnews.lk/local/page/97/
+2026-02-11 19:00:38 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:38 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:38 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:38 | INFO     | core.base_scraper         | Found 9 articles on page 97
+2026-02-11 19:00:40 | INFO     | core.base_scraper         | Scraping page 98: https://www.itnnews.lk/local/page/98/
+2026-02-11 19:00:41 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:41 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:41 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:41 | INFO     | core.base_scraper         | Found 9 articles on page 98
+2026-02-11 19:00:43 | INFO     | core.base_scraper         | Scraping page 99: https://www.itnnews.lk/local/page/99/
+2026-02-11 19:00:44 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:44 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:44 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:44 | INFO     | core.base_scraper         | Found 9 articles on page 99
+2026-02-11 19:00:46 | INFO     | core.base_scraper         | Scraping page 100: https://www.itnnews.lk/local/page/100/
+2026-02-11 19:00:47 | WARNING  | scrapers.itn_scraper      | No article containers found in ITN local list page
+2026-02-11 19:00:47 | INFO     | scrapers.itn_scraper      | Found 9 unique article links using ITN date-based URL pattern
+2026-02-11 19:00:47 | INFO     | scrapers.itn_scraper      | ITN local: Extracted 9 articles from list page
+2026-02-11 19:00:47 | INFO     | core.base_scraper         | Found 9 articles on page 100
+2026-02-11 19:00:49 | INFO     | core.base_scraper         | Reached max_pages limit: 100
+2026-02-11 19:00:49 | INFO     | core.base_scraper         | Category scrape complete: itn/local - 3 new, 897 skipped, 0 failed
+2026-02-11 19:00:49 | INFO     | __main__                  | ✓ Completed local: 3 articles, 100 pages
+2026-02-11 19:00:49 | INFO     | __main__                  | 
+✓ Completed itn:
+2026-02-11 19:00:49 | INFO     | __main__                  |   - Articles: 3
+2026-02-11 19:00:49 | INFO     | __main__                  |   - Pages: 100
+2026-02-11 19:00:49 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-11 19:00:49 | INFO     | __main__                  | Corpus statistics:
+2026-02-11 19:00:49 | INFO     | __main__                  |   Total articles in corpus: 900
+2026-02-11 19:00:49 | INFO     | __main__                  |   itn: 900 articles
+2026-02-11 19:00:49 | INFO     | __main__                  |     - local: 900 articles
+2026-02-11 19:00:49 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-11 19:00:49 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-11 19:00:49 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-11 19:00:49 | INFO     | core.session_manager      | SessionManager closed
+2026-02-11 19:00:49 | INFO     | __main__                  | ✓ SessionManager closed
