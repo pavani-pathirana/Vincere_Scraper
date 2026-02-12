@@ -6,6 +6,7 @@ Pattern: Clean, high-density text articles with robust selectors
 Focus: Quality journalism with well-structured content
 """
 
+import re
 import logging
 from typing import List, Dict, Optional
 from datetime import datetime
@@ -106,30 +107,19 @@ class NewsFirstScraper(BaseScraper):
         """
         Build URL for a specific page of article list.
         
-        NewsFirst uses standard pagination: /[category]/page/[num]/
+        NewsFirst limitation: JavaScript SPA with no server-side pagination.
+        Only page 1 (category URL) returns content via HTTP. Pages 2+ require JS.
         
         Args:
             category_url: Base URL for category
             page: Page number (1-indexed)
         
         Returns:
-            Full URL for article list page
+            Full URL for article list page (only page 1 supported)
         """
-        if page == 1:
-            # First page is the category URL itself
-            return category_url
-        
-        # Ensure category_url ends with /
-        if not category_url.endswith('/'):
-            category_url += '/'
-        
-        # Remove trailing slash temporarily
-        base = category_url.rstrip('/')
-        
-        # Add page segment: /page/[num]/
-        paginated_url = f"{base}/page/{page}/"
-        
-        return paginated_url
+        # NewsFirst only supports page 1 via static HTTP requests
+        # All pagination requires JavaScript execution
+        return category_url
     
     def parse_article_list_page(self, html: str, category: str) -> List[ArticleMetadata]:
         """
@@ -164,9 +154,23 @@ class NewsFirstScraper(BaseScraper):
         
         if not article_containers:
             logger.warning(f"No article containers found in NewsFirst {category} list page")
-            # Fallback: look for links to sinhala articles
-            content_area = soup.select_one('main') or soup.select_one('.content') or soup
-            article_containers = content_area.select('a[href*="/sinhala/"]')
+            # Fallback: look for links with date-based URLs (NewsFirst pattern: sinhala/YYYY/MM/DD/article-slug)
+            # NewsFirst uses relative paths (no leading slash)
+            all_links = soup.select('a[href*="sinhala/"]')
+            
+            # Deduplicate by URL and validate date pattern
+            seen_urls = set()
+            article_containers = []
+            for link in all_links:
+                href = link.get('href', '')
+                if href and href not in seen_urls:
+                    # Verify it matches NewsFirst article pattern: sinhala/YYYY/MM/DD/
+                    if re.search(r'sinhala/\d{4}/\d{2}/\d{2}/', href):
+                        article_containers.append(link)
+                        seen_urls.add(href)
+            
+            if article_containers:
+                logger.info(f"Found {len(article_containers)} unique article links using NewsFirst date-based URL pattern")
         
         for container in article_containers:
             try:
@@ -188,11 +192,11 @@ class NewsFirstScraper(BaseScraper):
                     article_url = urljoin(self.BASE_URL, article_url)
                 
                 # Skip if not a Sinhala article
-                if '/sinhala/' not in article_url:
+                if 'sinhala/' not in article_url:
                     continue
                 
-                # Skip category pages and other non-article URLs
-                if '/page/' in article_url or article_url.endswith(('/local/', '/world/', '/sports/')):
+                # Validate NewsFirst article URL format: must contain sinhala/YYYY/MM/DD/
+                if not re.search(r'sinhala/\d{4}/\d{2}/\d{2}/', article_url):
                     continue
                 
                 # Extract headline
@@ -294,8 +298,10 @@ class NewsFirstScraper(BaseScraper):
         else:
             headline = self.text_processor.process_headline(headline_elem.get_text())
         
-        # Extract body (main content) - NewsFirst has clean content divs
+        # Extract body (main content) - NewsFirst uses div.new_details
         body_elem = (
+            soup.select_one('div.new_details') or
+            soup.select_one('#testId') or
             soup.select_one('div.entry-content') or
             soup.select_one('div.article-content') or
             soup.select_one('div.post-content') or
@@ -389,9 +395,9 @@ class NewsFirstScraper(BaseScraper):
         Extract URL for next page from current page HTML.
         
         NewsFirst pagination patterns:
-        - <a class="next"> or <a rel="next">
-        - Numbered pagination with clear links
-        - /page/[num]/ segment pattern
+        - JavaScript SPA: Next button has no href (handled by Angular)
+        - Manual construction: Uses ?page=X query parameter
+        - Example: https://www.newsfirst.lk/sinhala/sports/?page=2
         
         Args:
             current_url: Current page URL
@@ -438,31 +444,13 @@ class NewsFirstScraper(BaseScraper):
                     logger.debug(f"NewsFirst: Found next page in pagination: {next_url}")
                     return next_url
         
-        # Method 3: Construct next URL if articles found (reasonable limit: 300 pages)
-        if current_page < 300:
-            articles = soup.select('article') or soup.select('.post')
-            
-            if len(articles) >= 5:  # If we found at least 5 articles, likely more pages exist
-                # Parse current URL to extract category
-                parsed = urlparse(current_url)
-                path_parts = parsed.path.strip('/').split('/')
-                
-                # Remove 'page' and page number if present
-                if 'page' in path_parts:
-                    page_idx = path_parts.index('page')
-                    category_parts = path_parts[:page_idx]
-                else:
-                    category_parts = path_parts
-                
-                # Reconstruct category path
-                category_path = '/'.join(category_parts)
-                
-                # Build next page URL
-                next_page_num = current_page + 1
-                next_url = f"{self.BASE_URL}/{category_path}/page/{next_page_num}/"
-                
-                logger.debug(f"NewsFirst: Constructed next page URL: {next_url}")
-                return next_url
+        # NewsFirst limitation: JavaScript SPA with no working server-side pagination
+        # The site only returns the latest ~10-15 articles via SSR, older content requires
+        # JavaScript execution. Since we're using static HTTP requests, we can only scrape page 1.
+        # To maximize coverage: scrape all categories instead of deep pagination in one category.
+        logger.info(f"NewsFirst: JavaScript SPA detected - pagination not supported via HTTP requests")
+        logger.info(f"Stopping after page {current_page}. To get more articles, scrape other categories.")
+        return None
         
         # No next page found
         logger.info(f"NewsFirst: No next page found after page {current_page}")

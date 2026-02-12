@@ -42,52 +42,48 @@ class AdaDeranaScraper(BaseScraper):
     
     BASE_URL = 'https://sinhala.adaderana.lk'
     
-    # Category ID mapping
+    # Ada Derana limitation: Category pages are JavaScript SPA with no server-side pagination
+    # Strategy: Scrape homepage which shows ~40-50 latest articles across all categories
+    # Each "category" just re-scrapes the homepage (limited but functional)
     CATEGORIES = {
-        'politics': {'id': '1', 'name': 'දේශපාලන'},
-        'sports': {'id': '2', 'name': 'ක්‍රීඩා'},
-        'business': {'id': '3', 'name': 'ව්‍යාපාර'},
-        'entertainment': {'id': '4', 'name': 'විනෝදාස්වාදය'},
-        'local': {'id': '5', 'name': 'දේශීය'},
-        'international': {'id': '6', 'name': 'ජාත්‍යන්තර'},
-        'features': {'id': '7', 'name': 'විශේෂාංග'},
-        'crime': {'id': '8', 'name': 'අපරාධ'}
+        'latest': {'id': 'homepage', 'name': 'නවතම පුවත්'},
+        'hot': {'id': 'hot', 'name': 'උණුසුම් පුවත්'},
     }
     
     def get_category_urls(self) -> Dict[str, str]:
         """
         Get mapping of category names to their URLs.
         
+        Ada Derana limitation: JavaScript SPA, no working pagination.
+        Using homepage and hot-news page for latest articles.
+        
         Returns:
             Dict mapping category_name → category_url
         """
-        category_urls = {}
-        
-        for category_key, category_info in self.CATEGORIES.items():
-            cat_id = category_info['id']
-            url = f"{self.BASE_URL}/news.php?id={cat_id}"
-            category_urls[category_key] = url
+        category_urls = {
+            'latest': f"{self.BASE_URL}/",
+            'hot': f"{self.BASE_URL}/sinhala-hot-news.php",
+        }
             
-        logger.info(f"Ada Derana: Found {len(category_urls)} categories")
+        logger.info(f"Ada Derana: Found {len(category_urls)} categories (homepage-based)")
         return category_urls
     
     def get_article_list_url(self, category_url: str, page: int = 1) -> str:
         """
         Build URL for a specific page of article list.
         
+        Ada Derana limitation: JavaScript SPA with no server-side pagination.
+        Only page 1 (homepage/hot-news) has content.
+        
         Args:
-            category_url: Base URL for category (e.g., ...news.php?id=1)
+            category_url: Base URL for category
             page: Page number (1-indexed)
         
         Returns:
-            Full URL for article list page
+            Category URL (only page 1 supported)
         """
-        if page == 1:
-            # First page doesn't need &page parameter
-            return category_url
-        
-        # Subsequent pages: add &page=[page]
-        return f"{category_url}&page={page}"
+        # Ada Derana homepage only - no pagination
+        return category_url
     
     def parse_article_list_page(self, html: str, category: str) -> List[ArticleMetadata]:
         """
@@ -122,9 +118,12 @@ class AdaDeranaScraper(BaseScraper):
         
         if not article_containers:
             logger.warning(f"No article containers found in Ada Derana {category} list page")
-            # Try fallback: all links in main content area
+            # Try fallback: all links in main content area with relative news/ pattern
             content_area = soup.select_one('#content') or soup.select_one('.content') or soup
-            article_containers = content_area.select('a[href*="/news/"]')
+            # Match both relative (news/XXXXX) and absolute (/news/XXXXX) patterns
+            import re
+            all_links = content_area.select('a[href]')
+            article_containers = [link for link in all_links if re.search(r'(^|/)news/\d+', link.get('href', ''))]
         
         for container in article_containers:
             try:
@@ -136,14 +135,16 @@ class AdaDeranaScraper(BaseScraper):
                 
                 article_url = link_elem.get('href', '')
                 
-                # Make absolute URL
+                # Make absolute URL - handle both relative (news/XXXXX) and absolute (/news/XXXXX)
                 if article_url.startswith('/'):
                     article_url = urljoin(self.BASE_URL, article_url)
                 elif not article_url.startswith('http'):
+                    # Relative URL like news/221218
                     article_url = urljoin(self.BASE_URL, article_url)
                 
-                # Skip if not a news article URL
-                if '/news/' not in article_url:
+                # Skip if not a news article URL (must have news/ pattern)
+                import re
+                if not re.search(r'/news/\d+', article_url):
                     continue
                 
                 # Extract headline
@@ -317,11 +318,8 @@ class AdaDeranaScraper(BaseScraper):
         """
         Extract URL for next page from current page HTML.
         
-        Ada Derana pagination patterns:
-        - <a class="next"> or <a class="next-page">
-        - <a> with text "මීළඟ" (Next in Sinhala)
-        - Numbered pagination links
-        - Or just increment &page parameter
+        Ada Derana limitation: JavaScript SPA with no server-side pagination.
+        Homepage/hot-news page only shows latest articles (no next page).
         
         Args:
             current_url: Current page URL
@@ -329,62 +327,11 @@ class AdaDeranaScraper(BaseScraper):
             current_page: Current page number
         
         Returns:
-            URL for next page, or None if no next page
+            None (no pagination supported)
         """
-        soup = BeautifulSoup(html, 'lxml')
-        
-        # Method 1: Find "Next" link
-        next_link = (
-            soup.select_one('a.next') or
-            soup.select_one('a.next-page') or
-            soup.select_one('a[rel="next"]') or
-            soup.select_one('a:-soup-contains("මීළඟ")') or  # "Next" in Sinhala
-            soup.select_one('a:-soup-contains("Next")')
-        )
-        
-        if next_link and next_link.get('href'):
-            next_url = next_link['href']
-            
-            # Make absolute URL
-            if next_url.startswith('/'):
-                next_url = urljoin(self.BASE_URL, next_url)
-            elif not next_url.startswith('http'):
-                next_url = urljoin(current_url, next_url)
-            
-            logger.debug(f"Ada Derana: Found next page link: {next_url}")
-            return next_url
-        
-        # Method 2: Check for numbered pagination and look for current_page + 1
-        pagination_links = soup.select('.pagination a') or soup.select('a[href*="page="]')
-        
-        next_page_num = current_page + 1
-        for link in pagination_links:
-            href = link.get('href', '')
-            if f'page={next_page_num}' in href:
-                next_url = urljoin(self.BASE_URL, href)
-                logger.debug(f"Ada Derana: Found next page in pagination: {next_url}")
-                return next_url
-        
-        # Method 3: Check if current page has articles (if yes, assume next page exists)
-        # Only up to a reasonable limit (e.g., 100 pages)
-        if current_page < 100:
-            articles = soup.select('div.news-item') or soup.select('a[href*="/news/"]')
-            
-            if len(articles) >= 10:  # If we found at least 10 articles, likely more pages exist
-                # Parse current URL and add/increment page parameter
-                parsed = urlparse(current_url)
-                query_params = parse_qs(parsed.query)
-                
-                # Get category ID from current URL
-                cat_id = query_params.get('id', [None])[0]
-                
-                if cat_id:
-                    next_url = f"{self.BASE_URL}/news.php?id={cat_id}&page={next_page_num}"
-                    logger.debug(f"Ada Derana: Constructed next page URL: {next_url}")
-                    return next_url
-        
-        # No next page found
-        logger.info(f"Ada Derana: No next page found after page {current_page}")
+        # Ada Derana doesn't support pagination via HTTP requests
+        logger.info(f"Ada Derana: JavaScript SPA detected - pagination not supported via HTTP requests")
+        logger.info(f"Stopping after page {current_page}. Homepage shows latest ~40-50 articles only.")
         return None
 
 

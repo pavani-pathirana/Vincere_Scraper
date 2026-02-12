@@ -30,6 +30,7 @@ from scrapers.hirunews_scraper import HiruNewsScraper
 from scrapers.itn_scraper import ITNScraper
 from scrapers.newsfirst_scraper import NewsFirstScraper
 from scrapers.lankatruth_scraper import LankaTruthScraper
+from scrapers.lankadeepa_scraper import LankadeepaScraper
 
 
 # Global flag for graceful shutdown
@@ -137,6 +138,7 @@ def get_scraper_class(site_name: str) -> Type[BaseScraper]:
         'itn': ITNScraper,
         'newsfirst': NewsFirstScraper,
         'lankatruth': LankaTruthScraper,
+        'lankadeepa': LankadeepaScraper,
     }
     
     site_name_lower = site_name.lower()
@@ -312,6 +314,7 @@ Examples:
   python main.py --resume
   
   # Debug mode with detailed logging
+  python main.py --site lankadeepa --limit 200
   python main.py --site adaderana --category sports --debug
         """
     )
@@ -425,12 +428,12 @@ Examples:
             
             # Get all pagination states from database
             # For now, we'll scrape all supported sites
-            sites_to_scrape = ['adaderana', 'hirunews', 'itn', 'newsfirst', 'lankatruth']
+            sites_to_scrape = ['adaderana', 'hirunews', 'itn', 'newsfirst', 'lankatruth', 'lankadeepa']
             
             logger.info(f"Will attempt to resume: {', '.join(sites_to_scrape)}")
         
         elif args.site.lower() == 'all':
-            sites_to_scrape = ['adaderana', 'hirunews', 'itn', 'newsfirst', 'lankatruth']
+            sites_to_scrape = ['adaderana', 'hirunews', 'itn', 'newsfirst', 'lankatruth', 'lankadeepa']
             logger.info(f"Scraping all sites: {', '.join(sites_to_scrape)}")
         
         else:
