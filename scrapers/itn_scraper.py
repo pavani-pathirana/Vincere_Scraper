@@ -161,9 +161,10 @@ class ITNScraper(BaseScraper):
             # Fallback: look for any links with date-based URLs (ITN pattern: /YYYY/MM/DD/article-id/)
             # ITN duplicates each article (image link + text link), so select only text links
             # Text links are inside h3.entry-title
-            all_links = soup.select('h3.entry-title a[href*="itnnews.lk/2024/"], h3.entry-title a[href*="itnnews.lk/2025/"], h3.entry-title a[href*="itnnews.lk/2026/"], h3.entry-title a[href*="itnnews.lk/2027/"]')
+            # Match any year (not just 2024-2027) to handle older articles in entertainment/archive categories
+            all_links = soup.select('h3.entry-title a[href*="itnnews.lk"]')
             
-            # Deduplicate by URL (just in case)
+            # Deduplicate by URL and validate date pattern
             seen_urls = set()
             article_containers = []
             for link in all_links:
