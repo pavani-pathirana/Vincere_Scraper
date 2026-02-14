@@ -7,7 +7,7 @@ Pattern: Topic-based navigation with articles
 
 import logging
 import re
-from typing import List, Dict
+from typing import List, Dict, Optional
 from datetime import datetime
 from urllib.parse import urljoin
 
@@ -82,18 +82,19 @@ class BBCSinhalaScraper(BaseScraper):
         """
         Build URL for a specific page of article list.
         
-        BBC Sinhala uses client-side rendering with infinite scroll.
-        Only page 1 is reliably scrapeable.
+        BBC Sinhala supports pagination via ?page=N query parameter.
         
         Args:
             category_url: Base URL for category
             page: Page number (1-indexed)
         
         Returns:
-            Category URL (only page 1 supported)
+            Category URL with page parameter
         """
-        # BBC Sinhala uses JavaScript infinite scroll - no server-side pagination
-        return category_url
+        # BBC Sinhala supports pagination with ?page=N
+        if page == 1:
+            return category_url
+        return f"{category_url}?page={page}"
     
     def parse_article_list_page(self, html: str, category: str) -> List[ArticleMetadata]:
         """
@@ -270,7 +271,54 @@ class BBCSinhalaScraper(BaseScraper):
         
         return article
     
-    def get_next_page_url(self, current_url: str, html: str, current_page: int) -> str:
-        """Get URL for the next page. BBC Sinhala only supports page 1."""
-        # No pagination for BBC Sinhala (JavaScript infinite scroll)
+    def get_next_page_url(self, current_url: str, html: str, current_page: int) -> Optional[str]:
+        """
+        Get URL for the next page by parsing pagination info.
+        
+        BBC Sinhala shows pagination like: පිටුව2අතරින්40 (Page 2 of 40)
+        
+        Args:
+            current_url: Current page URL
+            html: Current page HTML
+            current_page: Current page number (1-indexed)
+        
+        Returns:
+            URL for next page, or None if on last page
+        """
+        soup = BeautifulSoup(html, 'lxml')
+        
+        # Try to find "Next" button or link
+        next_link = soup.select_one('a[aria-label*="ඊළඟ"], a[aria-label*="next"], a[rel="next"]')
+        if next_link and next_link.get('href'):
+            next_href = next_link.get('href')
+            if next_href.startswith('http'):
+                return next_href
+            elif next_href.startswith('/'):
+                return f"https://www.bbc.com{next_href}"
+        
+        # Fallback: parse pagination text to check if there are more pages
+        # Look for text like "පිටුව2අතරින්40" (Page 2 of 40)
+        pagination_divs = soup.select('[class*="pagination"], nav[aria-label*="පිටු"]')
+        for div in pagination_divs:
+            text = div.get_text(strip=True)
+            # Extract current and total page numbers from Sinhala text
+            # Format: "පිටුව{current}අතරින්{total}"
+            if 'අතරින්' in text:
+                try:
+                    # Extract numbers - they appear before and after "අතරින්"
+                    import re
+                    numbers = re.findall(r'\d+', text)
+                    if len(numbers) >= 2:
+                        current = int(numbers[0])
+                        total = int(numbers[1])
+                        
+                        if current < total:
+                            # Generate next page URL
+                            next_page = current_page + 1
+                            base_url = current_url.split('?')[0]
+                            return f"{base_url}?page={next_page}"
+                except (ValueError, IndexError):
+                    pass
+        
+        # No more pages found
         return None
