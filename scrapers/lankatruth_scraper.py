@@ -50,33 +50,33 @@ class LankaTruthScraper(BaseScraper):
     
     # Category mapping
     CATEGORIES = {
-        'news': {
-            'slug': 'news',
+        'local': {
+            'id': 2,
             'name': 'පුවත්'
         },
-        'politics': {
-            'slug': 'politics',
-            'name': 'දේශපාලන'
-        },
-        'sports': {
-            'slug': 'sports',
-            'name': 'ක්‍රීඩා'
-        },
         'international': {
-            'slug': 'international',
-            'name': 'ජාත්‍යන්තර'
+            'id': 3,
+            'name': 'විදෙස් පුවත්'
         },
         'entertainment': {
-            'slug': 'entertainment',
-            'name': 'විනෝදාස්වාදය'
+            'id': 4,
+            'name': 'කලා'
         },
         'business': {
-            'slug': 'business',
-            'name': 'ව්‍යාපාර'
+            'id': 5,
+            'name': 'ආර්ථික'
         },
-        'features': {
-            'slug': 'features',
-            'name': 'විශේෂාංග'
+        'sports': {
+            'id': 6,
+            'name': 'ක්‍රීඩා'
+        },
+        'environment': {
+            'id': 57,
+            'name': 'පරිසර'
+        },
+        'video': {
+            'id': 58,
+            'name': 'වීඩියෝ'
         }
     }
     
@@ -90,8 +90,8 @@ class LankaTruthScraper(BaseScraper):
         category_urls = {}
         
         for category_key, category_info in self.CATEGORIES.items():
-            slug = category_info['slug']
-            url = f"{self.SINHALA_BASE}/{slug}/"
+            cat_id = category_info['id']
+            url = f"{self.SINHALA_BASE}/?cat={cat_id}"
             category_urls[category_key] = url
         
         logger.info(f"Lanka Truth: Found {len(category_urls)} categories")
@@ -101,14 +101,12 @@ class LankaTruthScraper(BaseScraper):
         """
         Build URL for a specific page of article list.
         
-        Lanka Truth may use either:
-        - Query-based: /[category]/?page=[num]
-        - Segment-based: /[category]/page/[num]/
-        
-        We'll try segment-based first (more common), with fallback to query-based.
+        Lanka Truth uses WordPress-style pagination:
+        - Page 1: /?cat=[id]
+        - Page 2+: /?paged=[num]&cat=[id]
         
         Args:
-            category_url: Base URL for category
+            category_url: Base URL for category (contains ?cat=ID)
             page: Page number (1-indexed)
         
         Returns:
@@ -118,15 +116,13 @@ class LankaTruthScraper(BaseScraper):
             # First page is the category URL itself
             return category_url
         
-        # Ensure category_url ends with /
-        if not category_url.endswith('/'):
-            category_url += '/'
+        # Extract cat ID from category_url
+        # category_url format: https://lankatruth.com/si/?cat=3
+        cat_id = category_url.split('?cat=')[1].split('&')[0] if '?cat=' in category_url else ''
         
-        # Try segment-based pagination first
-        base = category_url.rstrip('/')
-        paginated_url = f"{base}/page/{page}/"
-        
-        return paginated_url
+        # Build paginated URL: /?paged=N&cat=ID
+        return f"{self.SINHALA_BASE}/?paged={page}&cat={cat_id}"
+    
     
     def parse_article_list_page(self, html: str, category: str) -> List[ArticleMetadata]:
         """
@@ -196,6 +192,7 @@ class LankaTruthScraper(BaseScraper):
                 
                 # Extract headline
                 headline_elem = (
+                    container.select_one('.elementor-post__title') or
                     container.select_one('h2.entry-title') or
                     container.select_one('h3.entry-title') or
                     container.select_one('h2') or
@@ -296,6 +293,7 @@ class LankaTruthScraper(BaseScraper):
         
         # Extract body (main content)
         body_elem = (
+            soup.select_one('.elementor-widget-theme-post-content') or
             soup.select_one('div.entry-content') or
             soup.select_one('div.article-content') or
             soup.select_one('div.post-content') or
