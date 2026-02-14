@@ -9,6 +9,9 @@ from scrapers.hirunews_scraper import HiruNewsScraper
 from scrapers.itn_scraper import ITNScraper
 from scrapers.newsfirst_scraper import NewsFirstScraper
 from scrapers.lankatruth_scraper import LankaTruthScraper
+from scrapers.lankadeepa_scraper import LankadeepaScraper
+from scrapers.silumina_scraper import SiluminaScraper
+from scrapers.bbc_sinhala_scraper import BBCSinhalaScraper
 
 __all__ = [
     'AdaDeranaScraper',
@@ -16,4 +19,7 @@ __all__ = [
     'ITNScraper',
     'NewsFirstScraper',
     'LankaTruthScraper',
+    'LankadeepaScraper',
+    'SiluminaScraper',
+    'BBCSinhalaScraper',
 ]
