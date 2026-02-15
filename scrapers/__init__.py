@@ -12,6 +12,8 @@ from scrapers.lankatruth_scraper import LankaTruthScraper
 from scrapers.lankadeepa_scraper import LankadeepaScraper
 from scrapers.silumina_scraper import SiluminaScraper
 from scrapers.bbc_sinhala_scraper import BBCSinhalaScraper
+from scrapers.divaina_scraper import DivainaScraper
+from scrapers.ada_lk_scraper import AdaLkScraper
 
 __all__ = [
     'AdaDeranaScraper',
@@ -22,4 +24,6 @@ __all__ = [
     'LankadeepaScraper',
     'SiluminaScraper',
     'BBCSinhalaScraper',
+    'DivainaScraper',
+    'AdaLkScraper',
 ]

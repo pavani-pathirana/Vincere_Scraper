@@ -33,6 +33,8 @@ from scrapers.lankatruth_scraper import LankaTruthScraper
 from scrapers.lankadeepa_scraper import LankadeepaScraper
 from scrapers.silumina_scraper import SiluminaScraper
 from scrapers.bbc_sinhala_scraper import BBCSinhalaScraper
+from scrapers.divaina_scraper import DivainaScraper
+from scrapers.ada_lk_scraper import AdaLkScraper
 
 
 # Global flag for graceful shutdown
@@ -143,6 +145,8 @@ def get_scraper_class(site_name: str) -> Type[BaseScraper]:
         'lankadeepa': LankadeepaScraper,
         'silumina': SiluminaScraper,
         'bbc': BBCSinhalaScraper,
+        'divaina': DivainaScraper,
+        'ada': AdaLkScraper,
     }
     
     site_name_lower = site_name.lower()
