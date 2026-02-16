@@ -35,6 +35,12 @@ from scrapers.silumina_scraper import SiluminaScraper
 from scrapers.bbc_sinhala_scraper import BBCSinhalaScraper
 from scrapers.divaina_scraper import DivainaScraper
 from scrapers.ada_lk_scraper import AdaLkScraper
+from scrapers.gossiplanka_scraper import GossipLankaScraper
+from scrapers.gagana_scraper import GaganaLkScraper
+from scrapers.lankacnews_scraper import LankaCNewsScraper
+from scrapers.lankapuvath_scraper import LankapuvathScraper
+from scrapers.sarasaviya_scraper import SarasaviyaScraper
+from scrapers.mawratanews_scraper import MawrataNewsScraper
 
 
 # Global flag for graceful shutdown
@@ -147,6 +153,12 @@ def get_scraper_class(site_name: str) -> Type[BaseScraper]:
         'bbc': BBCSinhalaScraper,
         'divaina': DivainaScraper,
         'ada': AdaLkScraper,
+        'gossiplanka': GossipLankaScraper,
+        'gagana': GaganaLkScraper,
+        'lankacnews': LankaCNewsScraper,
+        'lankapuvath': LankapuvathScraper,
+        'sarasaviya': SarasaviyaScraper,
+        'mawratanews': MawrataNewsScraper,
     }
     
     site_name_lower = site_name.lower()

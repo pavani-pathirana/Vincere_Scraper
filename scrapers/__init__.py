@@ -14,6 +14,12 @@ from scrapers.silumina_scraper import SiluminaScraper
 from scrapers.bbc_sinhala_scraper import BBCSinhalaScraper
 from scrapers.divaina_scraper import DivainaScraper
 from scrapers.ada_lk_scraper import AdaLkScraper
+from scrapers.gossiplanka_scraper import GossipLankaScraper
+from scrapers.gagana_scraper import GaganaLkScraper
+from scrapers.lankacnews_scraper import LankaCNewsScraper
+from scrapers.lankapuvath_scraper import LankapuvathScraper
+from scrapers.sarasaviya_scraper import SarasaviyaScraper
+from scrapers.mawratanews_scraper import MawrataNewsScraper
 
 __all__ = [
     'AdaDeranaScraper',
@@ -26,4 +32,10 @@ __all__ = [
     'BBCSinhalaScraper',
     'DivainaScraper',
     'AdaLkScraper',
+    'GossipLankaScraper',
+    'GaganaLkScraper',
+    'LankaCNewsScraper',
+    'LankapuvathScraper',
+    'SarasaviyaScraper',
+    'MawrataNewsScraper',
 ]
