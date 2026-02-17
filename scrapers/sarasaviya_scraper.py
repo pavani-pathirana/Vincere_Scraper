@@ -233,7 +233,17 @@ class SarasaviyaScraper(BaseScraper):
         try:
             soup = BeautifulSoup(html, 'lxml')
             
-            # Look for next page link - WordPress common selectors
+            # Sarasaviya uses <link rel="next"> in HTML head for pagination
+            # This is an SEO tag, not a visible link
+            link_tag = soup.select_one('link[rel="next"]')
+            if link_tag and link_tag.get('href'):
+                next_url = link_tag.get('href')
+                if not next_url.startswith('http'):
+                    next_url = urljoin(self.BASE_URL, next_url)
+                logger.info(f"Found next page URL (SEO tag): {next_url}")
+                return next_url
+            
+            # Fallback: Look for visible next page links
             next_link = soup.select_one('.next, .next-page, a[rel="next"], .pagination .next')
             if next_link and next_link.get('href'):
                 next_url = next_link.get('href')

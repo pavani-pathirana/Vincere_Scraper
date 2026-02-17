@@ -229,7 +229,17 @@ class MawrataNewsScraper(BaseScraper):
         try:
             soup = BeautifulSoup(html, 'lxml')
             
-            # Look for next page link - JNews and WordPress selectors
+            # Look for next page link - JNews theme uses specific classes
+            # Try JNews-specific selector first
+            next_link = soup.select_one('a.page_nav.next, a.page_number_link.next')
+            if next_link and next_link.get('href'):
+                next_url = next_link.get('href')
+                if not next_url.startswith('http'):
+                    next_url = urljoin(self.BASE_URL, next_url)
+                logger.info(f"Found next page URL (JNews): {next_url}")
+                return next_url
+            
+            # Fallback: Generic WordPress and other selectors
             next_link = soup.select_one('.next, .next-page, a[rel="next"], .jeg_navigation .next')
             if next_link and next_link.get('href'):
                 next_url = next_link.get('href')
