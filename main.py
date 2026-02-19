@@ -41,6 +41,7 @@ from scrapers.lankacnews_scraper import LankaCNewsScraper
 from scrapers.lankapuvath_scraper import LankapuvathScraper
 from scrapers.sarasaviya_scraper import SarasaviyaScraper
 from scrapers.mawratanews_scraper import MawrataNewsScraper
+from scrapers.vidusara_scraper import VidusaraScraper
 
 
 # Global flag for graceful shutdown
@@ -159,6 +160,7 @@ def get_scraper_class(site_name: str) -> Type[BaseScraper]:
         'lankapuvath': LankapuvathScraper,
         'sarasaviya': SarasaviyaScraper,
         'mawratanews': MawrataNewsScraper,
+        'vidusara': VidusaraScraper,
     }
     
     site_name_lower = site_name.lower()

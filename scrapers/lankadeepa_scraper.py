@@ -25,6 +25,7 @@ class LankadeepaScraper(BaseScraper):
         'latest': 'Latest',
         'business': 'Business',
         'sports': 'Sports',
+        'kelimadala': 'Kelimadala (Sports)',
         'news': 'News',
         'politics': 'Politics',
         'thaksalawa': 'Thaksalawa',
@@ -55,6 +56,7 @@ class LankadeepaScraper(BaseScraper):
             'latest': f'{self.BASE_URL}/',  # Homepage
             'business': f'{self.BASE_URL}/business/9/',
             'sports': f'{self.BASE_URL}/sports/3/',
+            'kelimadala': f'{self.BASE_URL}/kelimadala/3/',  # Sports/Kelimadala
             'news': f'{self.BASE_URL}/news/101/',
             'politics': f'{self.BASE_URL}/politics/54/',
             'thaksalawa': f'{self.BASE_URL}/thaksalawa/55/',

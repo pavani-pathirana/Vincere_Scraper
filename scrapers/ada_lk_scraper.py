@@ -72,6 +72,11 @@ class AdaLkScraper(BaseScraper):
             'slug': 'religion',
             'id': '4',
             'name': 'ආගම'
+        },
+        'saaravita': {
+            'slug': 'saaravita',
+            'id': '8',
+            'name': 'සාරවිට - විනෝදාංශ'
         }
     }
     

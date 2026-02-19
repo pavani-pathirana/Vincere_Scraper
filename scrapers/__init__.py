@@ -20,6 +20,7 @@ from scrapers.lankacnews_scraper import LankaCNewsScraper
 from scrapers.lankapuvath_scraper import LankapuvathScraper
 from scrapers.sarasaviya_scraper import SarasaviyaScraper
 from scrapers.mawratanews_scraper import MawrataNewsScraper
+from scrapers.vidusara_scraper import VidusaraScraper
 
 __all__ = [
     'AdaDeranaScraper',
@@ -38,4 +39,5 @@ __all__ = [
     'LankapuvathScraper',
     'SarasaviyaScraper',
     'MawrataNewsScraper',
+    'VidusaraScraper',
 ]
