@@ -1,0 +1,13 @@
+{
+  "body": "Location track කිරීම නවත්වන්න අපි බොහෝ වෙලාවට කරන්නේ Google Maps වල තිබෙන location history කියන option එක disable කරන එක වුණත්, ඒ හරහා ඇත්තටම අපේ location එක track කරන එක නවත්වන්නට Google සමාගම කටයුතු කරන්නේ නැහැ.\n\nමේ location history කියන්නේ Google සමාගම විසින් ඔයාගේ ඉන්න තැන දැනගන්න භාවිතා කරන ක්‍රම වලින් එකක් පමණක් බවත්, ඔවුන්ගේ සේවාවන් අපි වෙනුවෙන් personalize කිරීමට, search results ආදිය අදාල රටට අනුකූලව ලබාදීමට මෙන්ම ads පෙන්වීම  වැනි වෙනත් කටයුතු සඳහා අපි නොදැනුවත්වම වෙනත් ක්‍රම වලින් අපේ location එක Google සමාගම විසින් track කරනු ලබන බවtheguardianවෙබ් අඩවිය විසින් වාර්ථා කරනු ලබනවා.\n\nඔයා location history පහසුකම නවත්වන්නට කටයුතු කල විටGoogle Maps Timelineඑක වෙනුවෙන් ඔයාගේ location එක record වෙන එක නවත්වන්නට කටයුතු කලත්,“some location data may be saved as part of your activity on other Google services, like Search and Maps”යනුවෙන් අනතුරු ඇඟවීමක් සිදු කරනු ලබනවා.\n\nමෙමඟින් කියවෙන්නේ Search, Maps වැනි වෙනත් Google සේවා භාවිතා කිරීමේදී ඔයාගේ location එක save වෙන්න ඉඩ ඇති බව වන අතර මේ අනුව ඔයා smartphone එකකින් කාළගුණ තොරතුරු බලන්නට කටයුතු කරනු ලැබුවත්, Google Search පහසුකම හෝ Maps පහසුකම භාවිතා කලත් ඔයාගේ location එක save කරගන්නට ඔවුන් කටයුතු කරනු ලබනවා.\n\nඉතින් මේක ඇත්තටම නවත්වන්න ඕන නම්, \"Web & App Activity\" කියන පහසුකම නැවැත්වීම හා අදාල වෙනස්කම් සිදු කළ යුතු වෙනවා.\n\nSettings -> Google -> Google Account -> data & personalisation -> Web & App Activity ->Web & App Activityඑක off කළ යුතු වෙනවා\n\nSettings -> Google -> Google Account -> data & personalisation -> Location History ->Use Location Historyඑක off කළ යුතු වෙනවා\n\nමීට අමතරව ඔයා Google සේවාවන් භාවිතා කරමින් කරන ලද දේවල් හැම දෙයක්ම වගේMy Activity page එකහරහා දැකගන්න අවස්ථාව තිබෙන අතර ඒ පිළිබඳව වැඩි විස්තර දැනගන්නට හෝ ඒවා මකා දමන්නට එහිදී ඔබට අවස්ථාව ලැබෙනවා.\n\nඑමෙන්ම මෙතෙක් කල් ඔබගේ location history එක save වෙලා තියනවා නම්,Google Maps Timelineඑක හරහා bin icon එක එහෙමත් නැතිනම් Delete all location History කියන button එක click කිරීමෙන් ඒ සියළු විස්තර මකා දමන්නට ඔබට අවස්ථාව තියනවා.",
+  "category": "google",
+  "date": "2018-08-14",
+  "extraction_timestamp": "2026-02-20T12:23:19.558074",
+  "headline": "Google විසින් ඔබගේ location එක track කිරීම සම්පූර්ණයෙන්ම නවතා දමන ක්‍රමය",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/how-to-turn-off-googles-location-tracking/",
+  "word_count": 317
+}

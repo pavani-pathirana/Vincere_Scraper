@@ -1,0 +1,13 @@
+{
+  "body": "Google Athenticator යනූ2FAනැතහොත් දෙපියවර සත්‍යාපන ක්‍රියාවලිය (පාස්වර්ඩ් එකකට අමතරව තවත් Code එකක්) මගින් තමන්ගේ ගිණුම් ආරක්ශා කිරීම සඳහා යොදාගන්නා ප්‍රධාන app වලින් එකක් බව මේ වන විට අපි හැමෝම දන්න කාරණයක්.\n\nකොහොම වුණත් Google සමාගම විසින් වසර ගණනාවක් තිස්සේ මේ Google Authenticator App එකේ සැලකිය යුතු වෙනසක් සිදු නොකළ අතරAndroid Policeවෙබ් අඩවිය වාර්ථා කරන ආකාරයට මේ සඳහා අවසන් වරට update එකක් නිකුත් කර ඇත්තේ 2017 වර්ෂයේදීයි.\n\n2020 වසරේදී නව විශේෂාංගයක් සමඟින් Google Authenticator App එක update කර ඇති අතර, අලුත් ජංගම දුරකථන වල ඇති aspect ratio වලට ගැලපෙන පරිදි  app එක rebuild කිරීම ද, AMOLED තිර සඳහා True-Dark mode එක enable කිරීම ද සිදු කර ඇති බව Android Police වෙබ් අඩවිය වැඩිදුරටත් පෙන්වා දෙනවා.\n\nතම Accounts වෙනත් දුරකතථනයක් සඳහා පහසුවෙන් මාරු කිරීමේ හැකියාව ද මෙම අලුතෙන් එකතු වූ විශේෂාංග වලින් එකක් වන අතර මෙහිදී Account සියල්ල තනි QR Code එකක් මගින් පැරණි දුරකථනයේ සිට අලුත් දුරකථනයට transfer කිරීමේ හැකියාව ලැබෙනවා.\n\nආරක්ෂාව සඳහා මෙම export කිරීමකින් පසුව Authenticator App එක තුල \"Accounts were recently exported\" යන Banner එකක් ද ප්‍රදර්ශනය කිරීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nමීට ‍පෙර තිබූ තත්වය මත සියලු QR Codes Scan කිරීම හෝ එකිනෙක කේත අනෙක් ජංගම දුරකථනයට ඇතුලත් කිරීමට සිදු වූ අතර මෙය Google Authenticator ගේ ප්‍රධාන තරඟකරු වන Authy App එකේ මීට බොහෝ කලකට පෙර තිබුනද Google වෙත ලබාදීමට Google සමාගම විශාල කාලයක් ගනු ලැබුවා.\n\nඑමෙන්ම මෙය දැනට Android පරිශීලකයින් වෙත පමණක් ලැබී ඇති බව පෙනෙන්නට ඇති අතර ඉදිරියේදී iOS පරිශීලකයින් හට ද මෙය ලබාදීමට Google සමාගම කටයුතු කරනු ඇත.\n\nමීට අමතරව මෙම update එක මගින් 16:9 (aspect ratio) අනුපාත වලට තිබෙන දුරකථන තිර සඳහා ගැලපෙන ආකාරයට නිර්මාණය කර ඇති අතර Google සමාගමේ අලුත්ම Material Design 2 guideline වලට අනුකූලව UI එක නිර්මාණය කිරීමටත් කටයුතු කර තිබෙනවා.\n\nකොහොම නමුත් මෙය තවමත් Google Play Store වෙත නිකුත් වී නොමැති නමුත් ඉක්මණින්ම එයට ඇතුලත් කරනු ඇති අතර එතෙක් ඉවසන් සිටීමට අපහසු නම්APK Mirrorවෙබ් අඩවියෙන් ලබාගත හැක.\n\nමෙය ආරක්ෂන උපාංගයක් වන බැවින් 3rd Party වෙබ් අඩවි වලින් අප්ඩේඩ් ලබාගැනීමේදී සැළකිලිමත් වන ලෙසද දන්වා සිටින්නෙමු.",
+  "category": "security",
+  "date": "2020-05-08",
+  "extraction_timestamp": "2026-02-20T12:09:20.001173",
+  "headline": "වසර 3කට පසු Google Authenticator app එකට update එකක් ලබාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/google-authenticator-gets-its-first-update-in-years-finally-lets-you-transfer-accounts-between-devices/",
+  "word_count": 326
+}

@@ -1,0 +1,13 @@
+{
+  "body": "SSID එකට, එහෙමත් නැතිනම් නමට % සංකේතය ය‍ොදා ඇති Wi-Fi network වලට iPhone හරහා සම්බන්ධ වීමට උත්සාහ කිරීමේදී අදාල iPhone එකේ Wi-Fi පහසුකම අක්‍රීය වන අමුතු ආකාරයේ bug එකක් ගැන මේ වන විට වාර්තා වෙනවා.\n\nCarl Schou නම් security researcher කෙනෙකු විසින් Twitter පණිවිඩයක් හරහා මෙය වාර්තා කර සිටින අතර, ඔහු විසින්%secretclub%powerයනුවෙන් නම් කරන ලද Wi-Fi network එකක් භාවිතා කිරීමට උත්සාහ කිරීමේදී අදාල iOS device එක මෙලෙස අකර්මන්‍යය තත්ත්වයට පත් වන බව ප්‍රකාශ කර සිටිනවා.\n\nYou can permanently disable any iOS device's WiFI by hosting a public WiFi named %secretclub%powerResetting network settings is not guaranteed to restore functionality.#infosec#0day\n\nමෙලෙස Wi-Fi පහසුකම අක්‍රීය වූ විට network settings reset කිරීම හරහා හෝ එම පහසුකම නැවත enable කරගත නොහැකි බව The Verge වෙබ් අඩවිය වාර්තා කරනවා.\n\nමීට සති කිහිපයකට පෙර මේ Schou සහ ඔහුගේ software reverse engineer කරනු ලබන කණ්ඩායම විසින් අනාවරණය කළ පරිදි%p%s%s%s%s%nයන SSID එක භාවිතා කිරීමේදී iOS devices වල Wi-Fi disable වන බව මෙන්ම AirDrop වැනි පහසුකම් භාවිතා කළ නොහැකි වන බව අනාවරණය කරනු ලැබුවා.\n\nAfter joining my personal WiFi with the SSID “%p%s%s%s%s%n”, my iPhone permanently disabled it’s WiFi functionality. Neither rebooting nor changing SSID fixes it :~)pic.twitter.com/2eue90JFu3\n\nබොහෝ programming languages වලදී % ලකුණ variable වල ඇති දත්ත format කිරීම සඳහා භාවිතා කරනු ලබනවා. උදාහරණයක් වශයෙන් C language එකේ %n ලෙස string format function එකකදී යොදාගනු ලබන්නේ අදාල string එකේ ඇති characters ගණන වෙනත් variable එකකට assign කිරීම සඳහායි.\n\nබොහෝ විට iOS වල internal libraries වලදී මෙම Wi-Fi network name (SSID) එක ඉහත සඳහන් ආකාරයට භාවිතා කර ඇත්නම් runtime error එකක් ලෙස මෙවැනි දෙයක් සිදු විය හැකි බව 9to5mac වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nApple සමාගම මේ වන විටත් මෙම ගැටළුව fix කිරීම සඳහා කටයුතු කරමින් සිටිනු ඇති බව අනුමාන කළ හැකි අතර ඒ සඳහා update එකක් ලබාදෙන තෙක්, % ලකුණ සහිත Wi-Fi network වලට iOS devices හරහා සම්බන්ධ නොවී සිටීමෙන් මෙම ගැටළුව මගහරවාගත හැකි වෙනවා.",
+  "category": "security",
+  "date": "2021-07-06",
+  "extraction_timestamp": "2026-02-20T12:05:50.521485",
+  "headline": "Wi-Fi network එකක නම පමණක් භාවිතා කරමින් iPhone වල Wi-Fi පහසුකම අකර්මන්‍යය කළ හැකි bug එකක් සොයාගැනීමට සමත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/researcher-finds-certain-network-names-can-disable-wi-fi-on-iphones/",
+  "word_count": 305
+}

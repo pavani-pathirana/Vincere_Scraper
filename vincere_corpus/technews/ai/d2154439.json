@@ -1,0 +1,13 @@
+{
+  "body": "1961 වර්ෂයේ IBM සමාගම විසින් නිෂ්පාදනය කළ ලොව ප්‍රථමVirtual assistantලෙස සැලකෙනIBM Shoeboxඑකේ සිට මේ වෙන කොට මේ virtual assistant ලා අති විශාල දියුණුවක් ලබා ගැනීමට සමත් වී තිබෙනවා.\n\nමේ වෙන කොට app එකක් විදිහට අපේ smartphone එකට එන්නට තරම් දියුණු තත්ත්වයක තිබෙන මේ assistant apps අතරින් වැඩිම නිරවද්‍යතාවකට හිමිකම් කියන සේවාව ගැන සොයා බලන්නටLoup Venturesකියන සමාගම පසුගිය දා කටයුතු කර තිබුණා.\n\nමේ අනුව Google Assistant, Amazon Alexa, Apple Siri, සහ Microsoft Cortana අතරින් වැඩිම නිරවද්‍යතාවකට හිමිකම් කියන සේවාව Google Assistant බව ඔවුන්ගේ පරීක්ෂණ හරහා අනාවරණය කර ගැනීමට ඔවුන් සමත් වී තිබෙනවා.\n\nමෙම පරීක්ෂණය ඉහත සඳහන් කළ සේවාවන් 4 අතරම තනි තනිව සිදු කර ඇති අතර මෙය  Local, Commerce, Navigation, Information, Command යන category 4 යටතේ query 800 ක ප්‍රශ්න මාලවකින් සමන්විත වී තිබෙනවා.\n\nමේ අතරින් 85.5% ක ප්‍රමාණයකට නිවැරදිව පිළිතුරු දීමෙන් Google Assistant ඉදිරියෙන් ම සිටින අතර මීළඟට Apple Siri 78.5% ක ප්‍රමාණයකට නිවැරදිව පිළිතුරු ලබා දී තිබෙනවා.\n\nකොහොම නමුත් මෙහි Command යන category එක යටතේ යොමු කරන ලද විධානයන්ට Google Assistant අබිබවා Apple Siri ඉදිරියෙන් සිටිනවා. මේ Command යන category එකට අයත් වන්නේ call එකක් ගැනීම, message එකක් කියවීම, calendar entry එකක් දැමීම වැනි අපි එදිනෙදා දුරකථනය භාවිතයෙන් සිදු කරන task එකක් සිදු කිරීමට අදාළ assistant භාවිතා කර සිදු කර ගැනීමයි.\n\nමේ අනුව තොරතුරු ලබා දීමේ දී Google Assistant අනෙකුත් සියළුම සේවාවන් අබිබවා කටයුතු කිරීමට සමත් වන බවක් දැකිය හැකි වෙනවා.\n\nපසුගිය වසර තුල දී Google සමාගම ඔවුන්ගේ Assistant සේවාව දියුණු කිරීමට වැඩි වශයෙන් සැලකිල්ලක් දක්වා ඇති බව මේ මගින් තහවුරු වෙනවා.\n\nකොහොම වුනත් මෙම පරීක්ෂණයන් සිදු කර ඇත්තේ ජංගම දුරකථනයක දී පමණක් වන අතර Google Home හෝ Amazon Echo වැනි smart devices හරහා මෙම සේවාවන් කටයුතු කරන ආකාරය මීට වඩා වෙනස් විය හැක. ඒ වෙනුවෙන් ද තවත් පරීක්ෂණයක් සිදු කිරීමට මෙම සමාගම බලාපොරොත්තු වන බව වැඩිදුරටත් ඔවුන් සඳහන් කරනවා.",
+  "category": "ai",
+  "date": "2018-08-05",
+  "extraction_timestamp": "2026-02-20T12:08:26.018969",
+  "headline": "Alexa, Siri, සහ Cortana අභිබවා Google Assistant වැඩිම නිරවද්‍යතාවකට හිමිකම් කියයි",
+  "source": "technews",
+  "tags": [
+    "ai"
+  ],
+  "url": "https://technews.lk/google-assistant-is-more-accurate-than-alexa-siri-and-cortana/",
+  "word_count": 291
+}

@@ -1,0 +1,13 @@
+{
+  "body": "අපි කවුරුත් දන්නවා වෙන operating system එකකදී නිර්මාණය කරපු text file එකක් notepad එකෙන් open කලොත් කොහොමද පෙන්නන්නේ කියලා. ඔන්න Microsoft එක අන්තිමේදී තීරණය කරලා තියනවා Notepad එකේ තිබුණු මේ අවුල fix කරන්න.\n\nමේ notepad එක මුලින්ම release කරලා තියෙන්නේ 1985 දි Windows 1.0 (Windows 10 නෙවෙයි 1.0) කියන operating system එකත් එක්ක. නමුත් Microsoft එකට මේ Notepad එකේ තියන ප්‍රධාන ප්‍රශ්ණයක් වුණු text files හරි විදිහට පෙන්නන්න බැරි කම, එහෙමත් නැත්තම් formatting අවුල් වෙන ගතිය fix කරන්න අවුරුදු 33ක් ගිහින් තියනවා.\n\nUnix, Linx එහෙමත් නැත්තම් macOS වගේ එකක නිර්මාණය කරපු text file එකක් මේ විදිහට windows notepad එකෙන් open කලාම අවුල් වෙලා පෙන්නන්න හේතු වෙලා තියෙන්නේ මේ End of Line (EOL) characters කියන ඒවා, ඒ කියන්නේ අළුත් line එක අඳුරගන්න භාවිතා කරන සංඥාව එහෙමත් නැත්තම් character එක.\n\nඔය උඩ පෙන්නලා තියන Screenshot එකේ තියෙන්නේ දැනට අපිට ඒ වගේ text file එකක් පෙන්නන විදිහ. මේක IT field එකේ ඉන්න ගොඩ දෙනෙකුටම ලොකුම ලොකු හිසරදයක් බව ඔයාලා ගොඩ දෙනෙක් දන්නවත් ඇති.\n\nනමුත් ඔන්න දැන් අළුතින්ම release කරපු Windows 10 insider build එකත් එක්ක මේ issue එක fix කරලා තියනවා. දැන් notepad එකට පුළුවන් Mac වල Line endings (CR), Unix/Linux වල line endings (LF) වගේම Windows වල line endings වන (CRLF) අඳුරගන්න.\n\nඅළුත් එකේ අර උඩ පෙන්නපු text file එකම පෙන්නන්නේ මෙන්න මේ විදිහට.\n\nමීට අමතරව ඔයාලට පේනවා ඇති status bar එකේ පෙන්නලා තියනවා දැනට open කරලා තියන file එකේ‍ අඳුරගත්ත EOL format එක මොකක්ද කියලත්.\n\nඒ වගේම එයාලා කියලා තියනවා මේකට අපි කැමති නැත්තම් හරි, අපේ තිබුණු files මේක නිසා අවුල් වෙලා පෙන්නනවා නම් හරි මේක disable කරගන්නේ කොහාමද කියලත්. ඒකට කරන්න තියෙන්නේ පහළ තියන registry key එක වෙනස් කරන එකයි. මේ key එකෙන් තමයි Notepad එක ඔයා Enter key එක press කලාම add වෙන්න ඕන EOL  format එක අඳුරගන්න ක්‍රමය තීරණය කරන්නේ.",
+  "category": "microsoft",
+  "date": "2018-05-09",
+  "extraction_timestamp": "2026-02-20T12:13:47.974759",
+  "headline": "Text file එකක් හරියට පෙන්නන්න අවුරුදු 33ක් ගිය Notepad එක",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/text-file-33-notepad/",
+  "word_count": 292
+}

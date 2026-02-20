@@ -1,0 +1,13 @@
+{
+  "body": "Incoming call එකක notification එකක් භාවිතා වන ක්‍රමවේදය භාවිතා කරමින් Home button එක press කළ විට device එක lock වන ආකාරයේ නව Ransomware virus එකක් පිළිබඳව අනතුරු ඇඟවීමට Microsoft සමාගම කටයුතු කර තිබෙනවා.\n\nMalLocker.B යන නමින් හැඳින්වෙන මෙය ransomware වර්ගයට අයත් වෛරසයක් වුවත්, මේ හරහා අදාල ජංගම දුරකථනේ files encrypt නොකරන නමුත්, ජංගම දුරකථනය unlock කළ නොහැකි ලෙස පවත්වාගෙන යෑමට මෙය සමත් වන බව ඔවුන් පෙන්වා දෙනවා.\n\nමීට පෙර ‍පැමිණි මේ ආකාරයේ ransomware වලින් Andorid වල ඇති SYSTEM_ALERT_WINDOW යන permission එක අවභාවිතා කර ඉහත ආකාරයේ notice එකක් පෙන්වීමට කටයුතු කරනු ලබන අතර එයින් ඉවත්වීමට පරිශීලකයා හට හැකියාවක් ලබාදෙන්නෙ නැහැ.\n\nකොහොම නමුත් anti-malaware software මගින් මෙම ක්‍රමය හඳුනාගත් පසුව එය තවදුරටත් භාවිතා කළ නොහැකි වූ නමුත් මේ අලුත් වෛරසය මගින් Android ජංගම දුරකථන වල call screen එක පෙන්වන activity එක අවභාවිතා කරමින් මෙම notice එක පෙන්වනු ලබන අතර, පරිශීලකයා හට එයින් ඉවත්වීමට ඇති හැකියාව ද අවහිර කරනු ලබනවා.\n\nමෙම ක්‍රියාවලියට අදාල code segments ද ඉතාමත් දැඩි ලෙස obfuscate කර ඇති නිසා සාමාන්‍යය ලෙස code එක කියවා තේරුම් ගැනීම ඉතාමත් අපහසු බවද Microsoft සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමෙය පැතිරෙන්නේ forum සහ අනෙකුත් ස්ථාන වලින් බෙදාහරින apk හරහා වන බැවින් ඒ පිළිබඳව අවධානයෙන් පසුවන ලෙස Microsoft 365 Defender Research Team එක ප්‍රකාශ කරනවා.",
+  "category": "security",
+  "date": "2020-10-12",
+  "extraction_timestamp": "2026-02-20T12:07:28.698298",
+  "headline": "Android වලට පැමිණිය හැකි Ransomware එකක් ගැන Microsoft සමාගම විසින් අනතුරු ඇඟවීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/microsoft-warns-android-users-about-a-new-ransomware/",
+  "word_count": 200
+}

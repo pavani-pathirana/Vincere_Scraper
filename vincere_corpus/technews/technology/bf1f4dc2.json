@@ -1,0 +1,13 @@
+{
+  "body": "Qualcomm සමාගම විසින්ලොව ප්‍රථම mobile 5G antenna එක එළිදැක්වූ බවමෙන්ම2nd Generation 5G Chip එකක් ද එළි දැක්වීමට කටයුතු කළ බවමීට ටික කාළයකට කලින් අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nකොහොම නමුත් ඔන්න දැන්, තවත් ප්‍රසිද්ධ chip නිෂ්පාදකවරයෙකු වන MediaTek සමාගම විසින් 5G modem එකක් අන්තර්ගත කර ඇති ලොව ප්‍රථම mobile chipset එක, එහෙමත් නැතිනම් SoC එක එළිදැක්වීමට කටයුතු කර තිබෙන බව වාර්ථා වෙනවා.\n\nමේ අලුත්SoC එකටඔවුන්ගේ Helio M70 5G modem එක අන්තර්ගත කර ඇති අතර න්‍යායික වශයෙන් ගත් කළ 4.7Gbps download speed එකක් සහ 2.5GB upload speed එකක් ද තිබෙන බව ඔවුන් පෙන්වා දෙනවා.\n\nQualcomm සමාගමේ X55 5G modem එකතරම් download speed එකක් (7Gbps) මෙයට නොතිබුණත්, මෙහි ඇති modem එක ප්‍රධාන chip එකටම අන්තර්ගත කර ඇති නිසාවෙන් අමතර battery power එක භාවිතා කිරීම හා ඒ සඳහා යන ඉඩ ප්‍රමාණය අවම කරගැනීමට අවස්ථාව ජංගම දුරකථන නිෂ්පාදකයන් හට මේ මගින් ලැබෙනවා.\n\nIntel සමාගම 5G chip නිෂ්පාදනයෙන් ඉවත් වීමත්, ඇමෙරිකාව විසින් Huawei සමාගම blacklist කිරීමත් නිසාවෙන් Qualcomm සමාගමත් සමඟ තරඟ කිරීමට MediaTek සමාගමට වැඩි අවස්ථාවක් ලැබෙන බව බොහෝ දෙනා විශ්වාස කරන අතර මේ වසර අවසාන වන විට ජංගම දුරකථන නිෂ්පාදකයන් හට මේ chips ලබා දීමට බළාපොරොත්තු වන බවත්, 2020 වර්ෂයේ මුල් භාගය වන විට මේ හරහා බළගැන්වෙන ජංගම දුරකථන වෙළඳපොලට පැමිණෙනු ඇති බවත් MediaTek සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "technology",
+  "date": "2019-05-30",
+  "extraction_timestamp": "2026-02-20T12:18:46.089646",
+  "headline": "5G modem එකක් අන්තර්ගත වන ලොව පළමු Mobile Chipset එක එළිදැක්වීමට MediaTek ආයතනය සමත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/mediatek-has-unveiled-the-worlds-first-mobile-chipset-with-an-integrated-5g-modem/",
+  "word_count": 205
+}

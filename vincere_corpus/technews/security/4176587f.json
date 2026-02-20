@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය සිකුරාදා (මැයි 3) සිට ලොව පුරා බොහොමයක් Firefox පරිශීලකයන් හට ඔවුන්ගේ Firefox add-ons ක්‍රියවිරහිතව තිබූ අතර අලුතින් Add-ons install කිරීමට ද නොහැකි වී තිබුණා.\n\nමෙයට හේතුව වී ඇත්තේ Firefox තුල ඇතිආරක්ෂක සහතික (security certificates) නැවත අලුත් කිරීමට අපොහොසත් වීමවන අතර මේ සදහා ඊයේ දිනයේදී Firefox ආයතනය මෙම ගැටළුව නිරාකරණය කරමින් පවතින බවටනිවේදනයක්නිකුත් කර තිබුණා.\n\nWe rolled out a hotfix that re-enables affected add-ons. The fix will be automatically applied in the background within the next few hours.For more details, please check out the update athttps://t.co/G5ypnckjdM\n\nමේ වෙනුවෙන් පැය කිහිපයක් ඇතුලත තාවකාලික විසඳුමක් ලබා දීමට Firefox ආයතනය කටයුතු කර ඇති අතර එය ඔවුන්ගේ Study system එක හරහා ස්ථාපනය වන බැවින් පහත පියවර අනුගමනය කර එය enable කර තබාගන්නා ලෙස ඔවුන් ඉල්ලා සිටිනවා.\n\nMozilla ආයතනයවිසින් Firefox පරිශීලකයන් හට ප්‍රකාශ කර සිටින්නේ මීට අමතරව මේ වෙනුවෙන් කිසිඳු workaround එකක් සිදු නොකරන ලෙසත් එසේ සිදු කිරීම හරහා ඔබගේ ආරක්ෂාවට තර්ජනයක් ඇති විය හැකි බවත් ය.\n\nඑමෙන්ම මීට අදාල ස්ථාවර fix එක නිකුත් කළ විට ඒ සඳහා කිසිවක් අමුතුවෙන් සිදු කිරීමට අවශ්‍යය නොවන අතර අදාල කටයුතු background එකෙන් ස්ව්‍යංක්‍රීයවම සිදු වනු ඇති බවත් ඔවුන් වැඩිදුරටත් ප්‍රකාශ කරනවා.",
+  "category": "security",
+  "date": "2019-05-06",
+  "extraction_timestamp": "2026-02-20T12:11:59.796636",
+  "headline": "Firefox වල Certificate එකක් කල් ඉකුත් වීම නිසාවෙන් සියළුම add-ons තාවකාලිකව ක්‍රියාවිරහිත වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/mozilla-is-fixing-a-bug-that-stopped-firefox-extensions-from-working/",
+  "word_count": 183
+}

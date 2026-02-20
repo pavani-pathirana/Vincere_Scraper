@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය බ්‍රහස්පතින්දා (23) සිට විටින් විට ඇතැම් LastPass පරිශීලකයින් හට ඔවුන්ගේ LastPass ගිණුම් වලට විවිධ ස්ථාන වලින් යම්කිසිවෙකු login වීමට උත්සාහ කළ බවත් (Unusual Attempted Login Activity), කෙසේ නමුත් එම උත්සාහයන් ව්‍යර්ථ කළ බවත් සඳහන් කරමින් email පණිවුඩ ලැබෙන්නට වුණා.\n\nමෙහි විශේෂත්වය වූයේ මෙම email වලට අනුව අදාල login attempts සිදු කර ඇත්තේ එම LastPass ගිණුම් වල සැබෑ Master Password එක භාවිතා කිරීමෙන් වන අතර, මේ පිළිබඳව නිවේදනයක් නිකුත් කරමින් LastPass ආයතනය තහවුරු කර සිටියේ මෙම තත්ත්වයට හේතුව වන්නේ credential stuffing attack එකක් වන බවයි.\n\nමෙහිදී අලුතින් LastPass සේවාව hack වී නොමැති බවත්, මෙම attack එක හරහා කිසිවෙකුගේ master passwords අවධානමකට ලක් නොවූ බවත් LastPass ආයතනය තහවුරු කර සිටියා.\n\nඑමෙන්ම malware වැනි අනතුරුදායක වැඩසටහනක් හෝ browser extension එකක් හෝ phishing attack භාවිතා කරමින් LastPass හි master passwords hack කරගැනී‍මේ ක්‍රියාවලියන් පිළිබඳව ද තොරතුරක් වාර්තා නොවන බව ද ඔවුන් වැඩිදුරටත් ප්‍රකාශ කරනු ලැබුවා.\n\nඅදාල හැකර්වරයා විසින් සාමාන්‍යයෙන් පරිශීලකයා login වෙන location වලින් බැහැරව, වෙනත් location වලින් login වීමට උත්සාහ කිරීම නිසාවෙන් එම උත්සාහයන් සාර්ථකව ව්‍යර්ථ කිරීමට LastPass ආයතනයට හැකියාව ලැබී තිබෙනවා.\n\nLastPass ආයතනයේ Product Management හි ප්‍රධානියෙකු වන Dan DeMichele විසින් BleepingComputer වෙබ් අඩවියට ප්‍රකාශයක් නිකුත් කරමින් කියා සිටියේ මෙලෙස යවා ඇති email වලින් ඇතැම් ඒවා LastPass සේවාවේ ගැටළුවක් නිසාවෙන් වැරදීමකින් send වී ඇති බව සහ, එහි ප්‍රතිපලයක් ලෙස ඔවුන්ගේ alert system එක වෙනස් කිරීමට කටයුතු කරනු ලැබූ බවයි.\n\nකෙසේ වෙතත් ඔබ LastPass පරිශීලකයෙකු නම්, ඔබගේ Master Password එක නිතර නිතර වෙනස් කරගැනීම නුවණට හුරු කාරණයක් වන අතර, multi-factor authentication පහසුකම ද සක්‍රීය කර තැබීමෙන් ඔබගේ LastPass ගිණුම hack වීමේ අවධානම අවම කරගැනීමට හැකි වෙන බව අමුතුවෙන් කිව යුතු නැහැ.",
+  "category": "security",
+  "date": "2021-12-30",
+  "extraction_timestamp": "2026-02-20T12:05:22.180907",
+  "headline": "පසුගිය දින වල සිදු වූ Hacking ප්‍රහාර වලින් Master Passwords අවධානමකට ලක් නොවූ බව LastPass ආයතනය විසින් තහවුරු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/lastpass-denies-claims-that-master-passwords-may-have-been-compromised/",
+  "word_count": 259
+}

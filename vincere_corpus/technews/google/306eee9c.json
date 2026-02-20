@@ -1,0 +1,13 @@
+{
+  "body": "Google Chrome Browser එක භාවිතා කරමින් YouTube Video එකක් නරඹන විට හෝ Spotify වල Audio එකකට සවන් දෙන විට එය නැවැත්වීමට අවශ්‍යය නම් අදාල වෙබ් අඩවිය විසින් ලබා දී තිබෙන Play/Pause button එක භාවිතා කළ යුතු වෙනවා.\n\nවෙනත් tab එකක වැඩ කරමින් සිටින විට තවත් tab එකක play වෙමින් පවතින video/audio එක නැවැත්වීම තරමක් කරදරකාරී කටයුත්තක් වන අතර මෙම ගැටළුව විසඳීමට මේ වන විට Google සමාගම කටයුතු කරමින් පවතිනවා.\n\nමේ වන විට Google Chrome වල toolbar එකට මේ Play/Pause පහසුකම එකතු කිරීමට Google සමාගම කටයුතු කර ඇති අතර මෙය Global Media Controls යන නමින් හැඳින්වෙනවා. දැනට මෙම පහසුකම පරීක්ෂණ මට්ටමේ ඇති අතරChrome Canary සංස්කරණ වලමෙය දැකගැනීමේ හැකියාව තිබෙනවා.\n\nඔබ Chrome Canary සංස්කරණය භාවිතා කරනවා නම් chrome://flags/ ලෙස address bar එක මත type කර මීළඟට ලැබෙන screen එක හරහා “Global Media Controls” ලෙස search කළහොත් මෙම පහසුකම enable කරගැනීමේ හැකියාව ලැබෙනවා.\n\nඑය enable කිරීමෙන් අනතුරුව browser එක restart කළ යුතු වන අතර Address Bar එක අවසන් වන ස්ථානයේ මේ අලුත් play button එක දැකගැනීමේ හැකියාව තිබෙනවා.\n\nමේ පහසුකම සාමාන්‍යය Chrome සංස්කරණයට එකතු කිරීමට නියමිත දිනයක් පිළිබඳව තවමත් සඳහනක් නොමැති නමුත් නුදුරේදීම Chrome භාවිතා කරනු ලබන සියළුදෙනා හට මෙම ප්‍රයෝජනවත් පහසුකම භාවිතා කිරීමේ හැකියාව ලැබෙනු ඇත.",
+  "category": "google",
+  "date": "2019-07-08",
+  "extraction_timestamp": "2026-02-20T12:17:57.463156",
+  "headline": "Google Chrome වලට Play/Pause buttons එකතු කිරීමට Google සමාගම කටයුතු කරන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-is-testing-a-play-pause-button-on-the-chrome-toolbar/",
+  "word_count": 194
+}

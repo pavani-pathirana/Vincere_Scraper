@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය July 26 වනදාMicrosoft සමාගමවිසින් Windows 10 20H1 Test build Version එක නිකුත් කිරීමට කටයුතු කරනු ලැබුවා.\n\nමේ සමගින් මෙතෙක් Windows 10 හි Search පහසුකම සමඟින් අන්තර්ගත කර තිබූ Cortana වෙනුවට, එය වෙනමUser Interfaceඑකක් සමගින් chat කරන (conversational) ආකාරයට Commands ලබා දෙමින් හැසිරවිය හැකි වැඩිදියුණු කරන ලද සංස්කරණක් ලෙසWindows Insidersලා හට නිකුත් කර තිබුනා.\n\nමේ අලුත් Cortana App එක හරහා බොහෝ දෙනෙක් කැමතිBing answers, Assistant conversations, Apps විවෘත කිරීම, lists සකසා ගැනීම වගේම Alarms, Reminders හා Timers වැනි දෑ සකස් කිරීමටත් හැකියාව ලැබෙනවා.\n\nWindows හි Insider ප්‍රධානියෙකු වනDonar Sarkerවිසින්Windows නිල Blogපිටුවේ මේ පිළිබදව හදුන්ව‍ා දෙමින් කියා සිටියේ මීට පෙර තිබුණු Cortana හි සියලු අංග තවමත් මේ අලුත් සංස්කරණයට ඇතුළත්ව නැතත් ඒවා ඉක්මනින්ම එකතු කිරිමට කටයුතු කරන බවයි.\n\nඉතින් මේ අලුත්ම Cortana සංස්කරණය දැන් නවතම Fast Ring preview of Windows 10 හරහා Windows Insiders හට ලබාගැනීමට හැකියාවක් පවතින අතර 2020 වසරේ මුල් භාගය වන විට මෙම පහසුකම සියලූම Windows භාවිතා කරන්නන් හට ලබා දීමට Microsoft සමාගම බලාපොරොත්තුවෙන් සිටින බව දැනගන්නට ලැබෙනවා.",
+  "category": "microsoft",
+  "date": "2019-07-29",
+  "extraction_timestamp": "2026-02-20T12:10:48.211702",
+  "headline": "Windows 10 හි Search bar එකෙන් වෙන්වූ Cortana අලුත් app එකක් ලෙස Windows 10 වලට නිකුත් කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-unveils-new-cortana-app-for-windows-10/",
+  "word_count": 160
+}

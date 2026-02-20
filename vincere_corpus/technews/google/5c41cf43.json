@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මාර්තු මාසයේදීNokia 1.3 ජංගම දුරකථනයත් සමඟ එහි default camera app එක ලෙසCamera Go නමින් නව camera app එකක් හඳුන්වාදීමට Google සමාගම කටයුතු කළ අතර එය Android Go ධාවනය වන උපාංග සඳහා විශේෂයෙන් නිර්මාණය කර ඇති camera app එකක් වෙනවා.\n\nමේ වන විට මෙම Camera Go app එක සඳහා Night Mode විශේෂාංගයක් ලැබෙමින් පවතින අතර මෙම පහසුකම සඳහා සහාය දක්වන Android Go උපාංග වලට flasher එක නොමැතිව අඩු ආලෝක තත්වයක් ඇති අවස්ථා වලදී ගුණාත්මක බවින් ඉහළ photos ලබා ගැනීමට දැන් හැකියාව ලැබෙනවා.\n\nAndroid Go ධාවනය වන උපාංග සඳහා විශේෂිත වූ camera modules සඳහා මෙම camera app එක ගොඩනගා ඇති බවත්, මෙය software feature එකක් පමණක්ම නොව software සහ hardware වල එකතුවක් බවත් ඉහත වීඩියෝවෙහි සඳහන් කරන අතර දැනට පවතින සියලුම Android Go දුරකතන සඳහා මෙම පහසුකම ලබාගැනීමට නොහැකි හේතුවද මෙය වෙනවා.\n\nමෙම පහසුකම Pixel ජංගම දුරකතනවල ඇති Night Sight හැකියාවන්ට සමාන නොවුනත්, 1GB තරම් අඩු RAM ධාරිතාවයකින් යුක්ත උපාංග සඳහා මෙවැනි Night Mode එකක් ලබාදීම සිත් ඇදගන්නා සුළුය.\n\nGoogle සමාගම පවසන්නේ මෙම Night Mode පහසුකම මගින් අඩු ආලෝක තත්වයන් සහිත අවස්ථා වලදී වුවද, දීප්තිමත් සහ වඩාත් නිවැරදි වර්ණ සහිත photos ලබා ගැනීමට පරිශීලකයින් හට හැකියාව ඇති බව වන අතර මෙම Night Mode පහසුකම ක්‍රියාත්මක වන්නේ, එකවර shots කිහිපයක් ලබාගෙන එම shots සියල්ලම merge කිරීමෙන් බව Google සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.\n\nCamera Go app එකේ Night Mode විශේෂාංගය Nokia 1.3, Wiko Y61 සහ Wiko Y81 යන smartphones සඳහා දැනටමත් ලබාදීමට කටයුතු කර ඇති අතර Camera Go app එක සඳහා ඉදිරියේදී HDR mode එකක්ද හඳුන්වාදීමට නියමිතව ඇති බව Google සමාගම විසින් වැඩිදුරටත් සඳහන් කරනු ලබනවා.",
+  "category": "google",
+  "date": "2020-10-06",
+  "extraction_timestamp": "2026-02-20T12:09:27.522167",
+  "headline": "Camera Go app එක සඳහා Night Mode පහසුකම ලබාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-camera-go-update-brings-night-mode-photography-to-low-end-phones/",
+  "word_count": 253
+}

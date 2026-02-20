@@ -1,0 +1,13 @@
+{
+  "body": "2015 වර්ෂයේDiscord සේවාවආරම්භ වීමේ සිට, මේ වන විට මිලියන 250 කට අධික පරිශීලකයින් පිරිසක් ඒ සමඟින් සම්බන්ධ වී ඇති අතර මෙය බොහෝ විට Gamers ලා සහ professionals ලා අතර මෙය ඉතාමත් ජනප්‍රිය සේවාවක් වෙනවා.\n\nමේ සේවාව මෙතරම් ප්‍රසිද්ධ වීමට ප්‍රධානතම හේතුවක් වනුයේ text-based communication මෙන්මVoIP callsලබාගැනීමේදී ද මෙහි ඇතුලත් වන විවිධ ආකාරයේ පහසුකම් නිසාවෙන් වන අතර මෙය තවත් වැඩිදියුණු කරමින් තම පාරිශිලකයන් හට හොඳ තත්ත්වයේ calling experience එකක් ලබා දීම සඳහා noise suppression සම්බන්ධයෙන් ප්‍රසිද්ධ සමාගමක් වන Krisp ආයතනය සමඟින් සම්බන්ධ වී, මේ වසර මුලදී desktop පරිශීලකයින් සඳහා noise suppression feature එක හඳුන්වාදීමට Discord ආයතනය කටයුතු කරනු ලැබුවා.\n\nමෙහි විශේෂත්වය වන්නේ මේ noise reduction පහසුකම, එහෙමත් නැතිනම් background noise ඉවත් කිරීමේ ක්‍රියාවලිය ක්‍රියාත්මක වන්නේmachine learning තාක්ෂණයඋපයෝගී කරගෙන වීමයි.\n\nමේ වන විට මෙම පහසුකමඔවුන්ගේ Android app එකේalpha සංස්කරණයකට අන්තර්ගත කිරීමට කටයුතු කර ඇති අතර  ඇතැම් Android පරිශීලකයින් සඳහා මෙය ලබාදීමට කටයුතු කර ඇති බවXDA-Developers වෙබ් අඩවියපෙන්වා දෙනවා.\n\nDiscord app එක තුළ ඔබ යම්කිසි channel එකක සිටින විට, noise suppression feature එක App එකේ ඉහළ දකුණු කෙළවරේ නව icon එකක් ලෙස දිස් වන අතර noise suppression icon එක මත tap කළ විට background noise එක ක්ෂණිකව ඉවත් වීමක් සිදු වෙනවා.\n\nඑසේ නැතහොත් app එකේ settings වලට ගොස් හෝ ඕනෑම channel එකක, three-dot menu එකට ගොස් noise suppression පහසුකම සියළුම calls සඳහා enable කිරීමේ හැකියාව පවතිනවා.\n\nමෙම feature එක තවමත් ඉතා සුළු පරිශීලකයින් ප්‍රමාණයකට පමණක් ලබා දි ඇති බව සදහන් වන අතර, ඔබට අවශ්‍යනම් පහත link එකෙන් ගොස් Discord 24-alpha 1 APK එක Download කර ගැනිමේ හැකියාව තිබෙනවා.\n\nකොහොම නමුත් XDA-Developers වෙබ් අඩවිය පෙන්වා දෙන අන්දමට ඔවුන්ගේ ඇතැම් පරිශීලකයින් මේ APK එක භාවිතා කරමින් අදාල පහසුකම භාවිතා කිරීමට උත්සාහ කරනු ලැබුවත් එය සාර්ථක නොවූ බවත්, ඉදිරි සති කිහිපය ඇතුලත මෙය තවත් පරිශීලකයින් හට ලැබෙනු ඇති බවත්, ඔබට මෙම පහසුකම ලැබේවි යැයි සිතන්නේ නම් මෙය උත්සාහ කර බලන ලෙසත් ප්‍රකාශ කර සිටිනවා.",
+  "category": "ai",
+  "date": "2020-06-05",
+  "extraction_timestamp": "2026-02-20T12:05:45.853492",
+  "headline": "Discord Android Beta App ‍එකට noise suppression පහසුකමක් අන්තර්ගත කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "ai"
+  ],
+  "url": "https://technews.lk/discord-introduces-background-noise-suppression-in-android-beta/",
+  "word_count": 298
+}

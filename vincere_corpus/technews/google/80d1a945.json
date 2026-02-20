@@ -1,0 +1,13 @@
+{
+  "body": "2019 වර්ෂයේදී Google සමාගම විසින් Google Assistant වෙත compact, එහෙමත් නැතිනම් ප්‍රමාණයෙන් කුඩා UI එකක් හඳුන්වාදීමට කටයුතු කළ අතර, Pixel ජංගම දුරකථන වලින් ආරම්භ වූ මෙය 2020 වසර පුරාවට ‍අනෙකුත් ජංගම දුරකථන වලට ලබාදීමට කටයුතු කළා.\n\nමෙලෙස හඳුන්වාදුන් compact view එක මේ දක්වා සුදු සහ කළු පැහැයෙන් පමණක් ලබාදීමට කටයුතු කලද, මේ වන විට එය තවත් වර්ණයන්ගෙන් භාවිතා කිරීමේ හැකියාව ලබාදීම පිළිබඳව අත්හදාබැලීම් සිදු කිරීමට Google සමාගම කටයුතු කරමින් සිටිනවා.\n\nමෙය බොහෝ විට Android 12 සමඟින් හඳුන්වාදීමට නියමිත පහසුකමක් වන, පරිශීලකයාගේ wallpaper එකෙන් colors තෝරාගෙන එය system එක පුරාම notifications quick setting accent color එක ලෙස භාවිතා කිරීමේ හැකියාවට සහාය ලබාදීම සඳහා නිර්මාණය කරනු ලබනු ඇති බව ද XDA-Developers වෙබ් අඩවිය වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමීට අමතරව Apple සමාගම විසින් හඳුන්වාදුන් Siri Shortcuts පහසුකමට තරමක් දුරට සමාන ලෙස නිර්මාණය කර තිබෙන Google Assistant වලට හඳුන්වාදෙන පහසුකමක් වන My Actions පහසුකම පිළිබඳව ද මේ වන විට තොරතුරු වාර්තා වී තිබෙනවා.\n\nමෙම පහසුකම භාවිතා කරමින් පරිශීලකයා විසින් කලින් සකස් කරන ලද actions කිහිපයක් එක් tap එකක් හරහා සිදු කරගැනීමට හැකියාව ලැබෙනවා. උදාහරණයක් ලෙස ඉහත screenshots වල ඇති Set volume to 50% යන action එක tap කළහොත්, ජංගම දුරකථනයෙහි volume එක 50% ලෙස ස්ව්‍යංක්‍රීයව වෙනස් වෙනවා.\n\nමෙම පහසුකම Android 11 ධාවනය වන Sony Xperia phone එකක් හරහා පරීක්ෂාකර බලා ඇති නමුත් එම Android සංස්කරණයම භාවිතා වන Pixel 4 ජංගම දුරකථනයක enable කරගැනීමට හැකියාව නොලැබුණු බව XDA-Developers වෙබ් අඩවිය වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "google",
+  "date": "2021-05-15",
+  "extraction_timestamp": "2026-02-20T12:06:39.915843",
+  "headline": "Siri shortcuts වලට සමාන shortcuts පහසුකමක් සහ colorful design එකක් Google Assistant වෙත ලබාදීමට Google සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-assistant-tests-a-funky-colorful-design-alongside-one-click-shortcuts/",
+  "word_count": 227
+}

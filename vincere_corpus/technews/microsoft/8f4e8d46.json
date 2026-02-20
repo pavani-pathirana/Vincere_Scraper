@@ -1,0 +1,13 @@
+{
+  "body": "1990 වර්ෂයේ Microsoft සමාගම විසින් ඔවුන්ගේWindows මෙහෙයුම් පද්ධතියේ 3.0 වැනි සංස්කරණයසමඟින් ලොවට හඳුන්වා දුන්File Manager program එකඔන්න දැන් Windows 10 වලටත් ලබා දීමට Microsoft සමාගම කටයුතු කර තිබෙනවා.\n\nමේ App එක UWP, එහෙමත් නැතිනම්Universal Windows Platform(UWP) app එකක් විදිහට Microsoft Store එක හරහා නිකුත් කිරීමට මොවුන් කටයුතු කර ඇති අතර මේ project එක 2018 වර්ෂයේදීopen-source කිරීමටMicrosoft සමාගම කටයුතු කළා.\n\nමේ අනුවමේ අලුත් (පැරණි) Windows File Manager App එකPC, Mobile, Surface Hub සහ HoloLens යන Windows 10 මගින් බළගැන්වෙන devices වලදී භාවිතා කිරීමේ අවස්ථාව Windows 10 පරිශීලකයන් හට ලැබෙන බව ඔවුන් පෙන්වා දෙනවා.\n\nකොහොම වුණත් මෙහි system requirements වල පෙන්වන ආකාරයට මේ App එක හරි හැටි ක්‍රියාත්මක වීමට නම් Windows 10, 16,299 build එක අවශ්‍යය බව සඳහන් වන අතර දැනටමත් ඔබ දන්නවා ඇතිWindows Mobileසඳහා ලැබුණු අවසාන build එක 15,254 බව.\n\nඉතින් ඔබ දැනගත යුතු දෙයක් වන්නේ මේ App එක එදිනෙදා කටයුතු සිදු කිරීමට නම් මේ වන විට නොගැලපෙන නමුත් පරිගණක භාවිතා කිරීමට අලුත් පිරිසට මේ දේවල් පටන් ගන්නා විට තිබුණු ආකාරය ගැන අවබෝධයක් ලබා ගැනීමට මේ හරහා හැකියාව ලැබෙනවා.",
+  "category": "microsoft",
+  "date": "2019-02-03",
+  "extraction_timestamp": "2026-02-20T12:11:47.585647",
+  "headline": "Windows 3 වල තිබුණු File Manager එක Windows 10 වලට ලබා දීමට Microsoft සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-launches-the-original-windows-file-manager-for-windows-10/",
+  "word_count": 168
+}

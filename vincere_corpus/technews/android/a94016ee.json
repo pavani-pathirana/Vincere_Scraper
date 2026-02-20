@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මාසයේදී Google Play Store app එකෙහි (v15.9.21)APK teardown එකක් මගින්in-app dialog එකක් හරහා Play Store හි apps වලට reviews එක් කිරීමට පරිශීලකයින්ට ඉඩදීමේ ක්‍රමයක් Google සමාගම විසින් ක්‍රියාත්මක කිරීමට සූදානම් වන බව XDA-Developers වෙබ් අඩවිය විසින් අනාවරණය කරගනු ලැබුවා.\n\nඑමඟින් යම්කිසි app එකක් භාවිතා කරන පරිශීලකයන් හට එම භාවිතා කරනු ලබන app එකෙන් ඉවත් වීමකින් තොරව app එක සඳහා rating එකක් ලබාදීමේ හැකියාව ලබාදීමට කටයුතු කර තිබුණා.\n\nඔන්න දැන්, Google සමාගම විසින් ඔවුන්ගේ Android Developers Blog එක හරහා නිවේදනයක් නිකුත් කරමින් මේIn-App Review APIඑක නිකුත් කර ඇති අතර එමඟින් මෘදුකාංග සංවර්ධකයින් හට ඔවුන්ගේ apps වලට in-app review dialog එකතු කිරීමට ඉඩ ලබාදෙනු ලබනවා.\n\n📣 Introducing in-app review API! 📣Developers can now ask for ratings and reviews from within your app with the new in-app review API.See how →https://t.co/sUTLcKTTX1#11WeeksOfAndroidpic.twitter.com/XnslxIbkOe\n\nමේ අලුත් API එක හරහා app එක beta අවස්ථාවක ඇති විට developer හට සෘජුවම ලබාදෙනු ලබන private review සඳහා ද සහාය දක්වනු ලබන බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nIn-app review process එක පරිශීලකයින් සඳහා බාධාවකින් තොරව භාවිතා කල හැකි බව සහතික කිරීම සඳහා Google සමාගම විසින් මෘදුකාංග සංවර්ධකයින් සඳහා API integration කිරීම සඳහා පියවර හතරක් දක්වා ඇත.\n\nAPI එක self-contained සඳහා නිර්මාණය කර ඇති බවත් user feedback හි අපක්ෂපාතී බව සහතික කිරීම සඳහා අමතර prompting අවශ්‍ය නොවන බවත් Google සමාගම විසින් ප්‍රකාශ කරයි.\n\nමේ API එක භාවිතා කිරීමේදී developer විසින් API එක භාවිතා කිරීම හැරුණුකොට වෙනත් කිසිඳු ලෙසකින් පරිශීලකයා හට අමතර විස්තර පෙන්වීම අවශ්‍යය නොවන බවත්, නිතර නිතර මෙම prompt එක පෙන්වමින් පරිශීලකයාට බාධා වන අයුරින් මෙය අවභාවිතා කිරීම වැලැක්වීම සඳහා ඒය භාවිතා කළ හැකි වාර ගණනෙහි සීමාවක් පැනවීමට ද ඔවුන් කටයුතු කර තිබෙනවා.",
+  "category": "android",
+  "date": "2020-08-07",
+  "extraction_timestamp": "2026-02-20T12:10:04.056783",
+  "headline": "App එකෙන් ඉවත් නොවී Play Store Reviews ලබාදීමේ හැකියාව සහිත In-App Review API එක ලබාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/googles-new-in-app-review-api-lets-developers-ask-for-play-store-reviews-without-leaving-the-app/",
+  "word_count": 263
+}

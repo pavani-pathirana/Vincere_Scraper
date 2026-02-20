@@ -1,0 +1,13 @@
+{
+  "body": "මේ වන විට ලෝකයේ වැඩිම පිරිසක් භාවිතා කරන Messenger Platform එක වන WhatsApp සේවාවෙන් මේ වන විටත් අපි බොහෝ ප්‍රයෝජන ලබා ගන්නවා.\n\nනමුත් මෙහිදී අපට මුහුණ පෑමට සිදු වන ගැටලුවක් තමයි, Images සහ Videos ඉතාමත් හොද quality එකක් යටතේ අන් අය අතර හුවමාරු කර ගැනීමේ නොහැකියාව. එහෙමත් නැත්නම් අපි images සහ videos යවන විට, ඒවායේ quality එක ඉතාමත් අඩු තත්ත්වයකට compress වී ලබන්නා වෙත යෑම.\n\nමෙම ගැටලුව බොහෝ කාලයක් තිස්සේ WhatsApp Developers ලා අතර සහ Twitter වැනි සමාජ මාධ්‍ය තුළ බොහෝ ලෙස කතාවට ලක් වුණා.\n\nපසුගිය ජූලි 9 වැනි දින නිකුත් කළ WhatsApp Beta update එක (v2.21.14.16) සමඟ මෙලෙස උසස් තත්වයේ Quality එකක් යටතේ Images සහ Videos යැවීමේ හැකියාව ලබාදීමට WhatsApp ආයතනය කටයුතු කර තිබෙනවා.\n\nමෙහිදී ඔබට මෙම WhatsApp Settings හරහා Photo upload quality එකAuto, Best quality, Data saverයනුවෙන් Option කිහිපයක් යටතේ තෝරාගැනීමේ හැකියාවක් ලබාදී තිබෙනවා.\n\nමේ අනුව තවදුරටත් high quality images හෝ videos යැවීමට අවශ්‍යය වූ විට ඒවා document ආකාරයෙන් යැවීමේ අවශ්‍යයතාවයක් පැන නොනගිනු ඇති අතර, ඉතාමත් පහසුවෙන් image preview එක ද සහිතව අදාල පහසුකම භාවිතා කිරීමේ හැකියාව පරිශීලකයින් හට ලැබෙනු ඇත.\n\nමෙම විශේෂාංගය මූලිකව beta පරිශීලකයින් හට ලබාදීමෙන් අනතුරුව එහිදී ඇතිවන ගැටලු වැනි දේ නිරාකරණය කර ඉදිරියේදී සාමන්‍යය පරිශීලකයින් හට ලබාදීමට WhatsApp සමාගම කටයුතු කරනු ඇති.",
+  "category": "social-media",
+  "date": "2021-07-11",
+  "extraction_timestamp": "2026-02-20T12:08:38.481759",
+  "headline": "Quality එක ආරක්ෂා කරගනිමින් WhatsApp හරහා Images සහ Videos යැවීමේ හැකියාව ලබාදීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/whatsapp-will-let-you-send-images-and-videos-in-their-best-quality/",
+  "word_count": 198
+}

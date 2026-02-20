@@ -1,0 +1,13 @@
+{
+  "body": "Twitter platform එකහරහා tweet පළ කිරීමේදී ඔබ සිටින නිවැරදිම ස්ථානය, එහෙමත් නැතිනම් precise location එක tag කිරීමේ පහසුකම ඉවත් කර දැමීමට මේ වන විට Twitter ආයතනය තීරණය කර තිබෙනවා.\n\nමේ පහසුකම වැඩි දෙනා අතර ජනප්‍රිය නොවීමත්, වැඩිදෙනෙකු මෙය භාවිතා නොකිරීමත් හා Tweet කිරීමේ අත්දැකීම පහසු කිරීමේ අරමුණ ඇතිව මෙය තම platform එකෙන් ඉවත් කිරීමට ඔවුන් තීරණය කර ඇති නමුත්, Photos upload කරන විට හාFourSquare,Yelpවැනි වෙනත් Maps සම්බන්ධ සේවාවන් භාවිතා කරන විට පමණක් මේ පහසුකම භාවිතා කිරීමේ හැකියාව ලැබෙනවා.\n\nMost people don't tag their precise location in Tweets, so we're removing this ability to simplify your Tweeting experience. You'll still be able to tag your precise location in Tweets through our updated camera. It's helpful when sharing on-the-ground moments.\n\nකිසියම් event එකක් හෝ concert එකක් වැනි දෙයක් පිළිබඳව Tweets පළ කරනු ලබන විට අදාල location එක එකතු කිරීමේ හැකියාව ලබා දීම මගින් Twitter පරිශීලකයන් එකතු කිරීම වෙනුවෙන් 2009 වර්ෂයේදී මේ පහසුකම Twitter වෙතට එක් කිරීමට මොවුන් කටයුතු කලත්, කල් යෑමේදී Hashtag සහ trending topics වටා සියල්ලෝම පාහේ එකතු වන්නට වූ නිසාවෙන් මේ පහසුකම කිසිවෙකු අතරත් ජනප්‍රිය වූවේ නැහැ.\n\nමේ අතරතුර කිසිවෙකු විසින් මේ පහසුකම නෙදැනුවත්ව භාවිත කළහොත්, ඔහු හෝ ඇය සිටින ස්ථානය නිවැරදිවම සමාජ මාධ්‍යය හරහා පළ වන නිසාවෙන් මෙහි privacy risk එකක් ද ඇති තිබෙන බව Twitter ආයතනය වැඩිදුරටත් පෙන්වා‍ දෙනවා.",
+  "category": "social-media",
+  "date": "2019-06-19",
+  "extraction_timestamp": "2026-02-20T12:18:28.871477",
+  "headline": "Twitter වෙතින් Precise Geotagging පහසුකම ඉවත් කිරීමට තීරණය කරයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/twitter-removes-support-for-precise-geotagging/",
+  "word_count": 211
+}

@@ -1,0 +1,13 @@
+{
+  "body": "වසර ගණනාවක් තිස්සේ Twitter මත Twitter ගිණුම් ‍verify කිරීම සඳහා සාමාන්‍යය Twitter පරිශීලකයින් හට හැකියාවක් නොතිබුණු අතර මේ verification program එක තාවකාලිකව නවත්වා දැමීමට Twitter ආයතනය කටයුතු කර තිබුණා.\n\nකොහොම නමුත් මේ වන විට මේ verification program එක නැවතත් ආරම්භ කරමින් ඒ සඳහා සාමාන්‍යය පුද්ගලයින් හට තම Twitter ගිණුම හරහා ම request එකක් යැවිය හැකි ක්‍රමයක් නිර්මාණය කිරීමට Twitter සමාගම කටයුතු කර ඇති බව වාර්ථා වෙනවා.\n\nමේ වන විට Facebook, Instagram සහ Twitter පිළිබඳව මෙවැනි තොරතුරු රාශියක් හෙළි කළ, ප්‍රසිද්ධ reverse engineer කෙනෙකු වනJane Manchun Wongවිසින් මැතකදී මෙය තහවුරු කර ඇති අතර මේ අනුව account settings වලට ගිය විට“Request Verification”යනුවෙන් option ලබා දි ඇති නමුත් තවමත් මෙම feature එක සියළු දෙනා හට ම භාවිතා කිරිමට හැකි වෙන පරිදි නිකුත් කර නොමැති බව Twitter ආයතනය සනාථ කර තිබෙනවා.\n\nTwitter is working on “Request Verification” 👀(I’m not Twitter employee. I’m not tech support)pic.twitter.com/ED58QsD7kM\n\nTwitter සමාගම විසින් මීට පෙර මෙම verification request කිරීමේ හැකියාව ලබා දී තිබුණද එය 2017 වර්ෂයේදී පමණ තාවකාලිකව නැවැත්විමට කටයුතු කෙරුණු අතර එයට හේතුව වුයේ Charlottesville rally සංවිධායකවරයා වූ Jason Kessler හට verifications එක ලබා දීම මගින් ඇති වූ ගැ‍ටළු හේතුවෙනුයි.\n\nVerification was meant to authenticate identity & voice but it is interpreted as an endorsement or an indicator of importance. We recognize that we have created this confusion and need to resolve it. We have paused all general verifications while we work and will report back soon\n\nකෙසේ වෙතත් 2017 වර්ෂයේදී මේ verification request ලබා ගැනීම තාවකාලිකව තවතා තිබියදීත්, Twitter සේවකයින් සමඟ සම්බන්ධතා ඇති අයට පමණක් ලබා ගත හැකි backchannel process එක හරහා Twitter සමාගම සෑම මසකම ගිණුම් දහස් ගණනක් රහසේම verify කර ඇති බව‍ටEngadget වෙබ් අඩවියපෙන්වා දෙනවා.\n\nදැනට, Twitter සමාගම මෙම නව ක්‍රියාවලිය ආරම්භ කිරීමට සූදානම් වන දිනය පිළිබඳව හෝ එය ක්‍රියාත්මක වන්නේ කෙසේද යන්න පිළිබඳව සඳහන් කර නොමැති වුවත්, නුදුරු අනාගතයේදීම verification requests තමන්ගේ Twitter ගිණුම හරහා ම සිදු කිරීමට හැකියාව ලැබෙනු ඇති බව අනුමාන කළ හැකි වෙනවා.",
+  "category": "social-media",
+  "date": "2020-06-09",
+  "extraction_timestamp": "2026-02-20T12:12:41.530214",
+  "headline": "Twitter ගිණුම් verify කිරීමේ හැකියාව නැවතත් ලබාදීමට Twitter සමාගම සූදානම් වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/twitter-will-bring-back-verification-requests/",
+  "word_count": 312
+}

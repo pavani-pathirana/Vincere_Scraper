@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය වසරේ අගෝස්තු මාසයේදී Google සමාගම විසින් Google Workspace (G-Suite) පරිශීලකයන් හට Gmail තුළ Google Meet, Chat සහ Rooms tabs ලබාදීමට කටයුතු කල අතර ඉන් මාස අටකට පමණ පසුව, Google සමාගම විසින් personal accounts සඳහාද chat integration එක ලබාදීමට කටයුතු කරමින් සිටින බව වාර්තා වෙනවා.\n\nGoogle සමාගම විසින්Google chats මගින් Hangouts සේවාව ප්‍රතිස්ථාපනය කිරීමට කටයුතු කර ඇති අතරඒ සමඟ මෙම විශේෂාංගය සියලුම Google පරිශීලකයන් හට ලබාදීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nකෙසේ වෙතත්, Twitter පරිශීලකයෙකු වනPratik Goswami විසින් පෙන්වා දෙන ආකාරයට, මෙම chat integration එක default ලෙස enable වී නොමැති අතර ඔබගේ Android දුරකතනයේ මෙම chat option එක enable කිරීම සඳහා, Gmail හි Settings වෙත ගොස් “General” යටතේ ඇති “Chat (Early Access)” check box එක මත tap කලයුතු වෙනවා.\n\nඔබ එය සක්‍රිය කරගත් පසුව ඔබගේ දුරකථනයේ Gmail app එක restart වන අතර ඉන්පසුව, Gmail app එකෙහි පහතින් Chat සහ Rooms ලෙස නව tabs දෙකක් දැකගැනීමට හැකියාව ලැබෙනවා.\n\nඑමෙන්ම, සෑම chat message එකක්ම දෙවරක් notify වීම වැළැක්වීමට option එකක්ද ලබාදීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nඔබගේ සියලු conversations එකම app එකකින් access කිරීමේ හැකියාව මෙම chat integration එකත් සමඟින් හිමි වන අතර මෙම විශේෂාංගය තවමත් early access මට්ටමේ ඇති බැවින්, එය සම්පූර්ණයෙන්ම දෝෂ රහිත experience එකක් ලබා නොදෙන බවද සඳහන් කළයුතු වෙනවා.\n\nකෙසේවෙතත්, මෙම chat option එක enable කළා සේම, \"Chat (Early Access)” check box එක මත ඇති tick එක ඉවත් කර මෙම පහසුකම disable කිරීමටද හැකියාව තිබෙනවා.\n\nමෙම විශේෂාංගය Android සඳහා වන Gmail app එකෙහි නවතම version එකත් සමඟ (version 2021.03.07.364486182) බොහොමයක් පරිශීලකයන් හට ලබාගැනීමට හැකියාව ඇති බව XDA-Developers වෙබ් අඩවිය වැඩිදුරටත් පෙන්වාදෙනවා.",
+  "category": "android",
+  "date": "2021-04-08",
+  "extraction_timestamp": "2026-02-20T12:06:44.308907",
+  "headline": "G-Suite පරිශීලකයින් හට පමණක් ලබාදී තිබුණු Google Chat පහසුකම සියළුම Gmail පරිශීලකයින් හට ලබාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/gmail-is-rolling-out-chat-integration-for-personal-google-accounts/",
+  "word_count": 252
+}

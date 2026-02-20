@@ -1,0 +1,13 @@
+{
+  "body": "Samsung සමාගමේ Exynos SoC එක බොහෝ කාලයක පටන්ම Qualcomm chipset සමඟින් සසඳන විට GPU performance එක අඩු බව ඔබ දැනටමත් දන්නවා ඇති.\n\nකොහොම නමුත් මේ වන විට මෙම ගැටළුවට පිළියමක් ඉදිරිපත් කිරීමට Samsung සමාගම සමත්වී ඇති අතර ලොව ප්‍රසිද්ධතම GPU නිෂ්පාදකයෙකු වන AMD සමාගම සමඟ partnership එකක් ආරම්භ කරමින් Samsung Exynos chipset සඳහා custom AMD GPU එකක් එකතු කිරීමට සූදානම් වන බව නිවේදනය කර තිබෙනවා.\n\nමූලිකව Samsung සමාගම විසින් ඔවුන්ගේම GPU එකක් design කිරීමට සූදානම් වූ නමුත් එය අති-සාර්ථක නොවූ අතර, මේ වන විට Samsung සහ AMD යන සමාගම් ද්විත්වයම එකතු වී mobile GPU එකක් design කිරීමට කටයුතු කරමින් සිටින බව වාර්තා වෙනවා.\n\nඑමෙන්ම Samsung සමාගම විසින් සැළසුම් කර ඇති අයුරින් වැඩ කටයුතු සිදු වුවහොත් මෙම වසර අවසාන වන විට මේ AMD GPU එක Exynos chipset එකක් සමඟින් දැකගත හැකි වනු ඇති බවත්, බොහෝ විට Samsung Galaxy S22 series එක මෙම chip එක හරහා බළගැන්වෙනු ඇති බවත් XDA-Developers වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nවිශේෂයෙන්ම මෙම partnership එක හරහා AMD සමාගමට mobile market එක සඳහා තමන්ගේ නිෂ්පාදනයන් ව්‍යාප්ත කිරීමට අවස්ථාවක් ලැබෙන අතර, Samsung සමාගමට තම chipset වල දුර්වලතාවයක් වුණු GPU performance එක වැඩි කරගනිමින් අනෙකුත් සමාගම් සමඟ කරට කර තරඟ කිරීමේ හැකියාව ලැබෙන බව දැකගත හැකි වෙනවා.",
+  "category": "technology",
+  "date": "2021-01-13",
+  "extraction_timestamp": "2026-02-20T12:06:05.136115",
+  "headline": "Samsung සමාගමේ මීළඟ Exynos chipset එක සහිත flagship  ජංගම දුරකථනය AMD GPU එකකින් බළගැන්වෙන වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/samsungs-next-flagship-exynos-will-have-an-amd-gpu/",
+  "word_count": 195
+}

@@ -1,0 +1,13 @@
+{
+  "body": "වර්ථමානය වන විට බොහොමයක් apps වල Dark mode option එක දක්නට ලැබෙන අතරම බොහෝ දෙනෙක් මේ option එකට ඉතාමත් ඇළුම් කරන බව දැකගන්න පුළුවන්.\n\nGoogle සමාගම විසින් ඔවුන්ගේ Android මත පදනම්ව ඇතිGoogle CalendarසහGoogle Keepයන Apps වලට මෙම Dark Mode එක ලබාදීමට කටයුතු කර තිබෙන බව වාර්ථා වෙන නමුත් Google Calendar සඳහා Android Nougat සහ ඊට ඉහළ මෙහෙයුම් පද්ධතීන් වලටත් Google Keep සඳහා Lollipop වලින් ඉහල මෙහෙයුම් පද්ධතීන් වලටත් පමණක් වන ලෙස මෙය නිකුත් කිරීමට කටයුතු කර තිබෙනවා.\n\nකෙසේවෙතත් Apple පාරිභෝගිකයන් හට මෙම විශේෂාංගය ලබා දීම සම්බන්ධයෙන් තවමත් Google සමාගම කිසිවක් ප්‍රකාශයට පත්කර නැත.😔\n\nමෙම update එක ඉදිරියේදී නිකුත් කිරීමට නියමිතAndroid Q මෙහෙයුම් පද්ධතියේ\"Dark Theme\" විශේෂාංගයේ කොටසක් වන අතර එහි මුල් පෙළ පියවරක් ලෙස first party apps, එනම් මෙහෙයුම් පද්ධතිය සඳහා නිර්මාණය කරනු ලැබූ apps එහි ඇති System-wide dark mode පහසුකම සඳහා සහාය දක්වන ලෙස update කරනු ලබනවා.\n\nඔබගේ device එක Android Q වලට update කළ පසු මෙම mode එක Android ‌මෙහෙයුම් පද්ධතියේ එන Dark Theme එක enable කළ විට ස්ව්‍යංක්‍රීයවම මේ apps වල dark mode එක ද enable වනු ඇත.\n\nමෙම apps දෙකෙහි නවතම සංස්කරණය ලබාදීම ක්‍රමාණුකූලව සතිදෙකක කාලයක් තුල සිදුකිරීමට කටයුතු කරන බව Google සමාගම ප්‍රකාශයට පත්කර ඇති අතර, පිළිවෙලින්Google Calendar මැයි 16 (2019) දින සිටත්, Google Keep මැයි 20 (2019) දින සිටත්ලබාදීමට නියමිතය.\n\nමේ වන විටත් Authentication, News, Messages, YouTube සහ Contacts ඇතුළු Google Apps ගණනාවකට මෙම Dark mode විශේෂාංගය ලබාදීමට Google ආයතනය කටයුතු කර ඇත.",
+  "category": "google",
+  "date": "2019-05-22",
+  "extraction_timestamp": "2026-02-20T12:18:49.874606",
+  "headline": "Google Calendar සහ Google Keep වලට Dark Mode එක ලබා දීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/dark-modes-are-here-for-google-calendar-and-google-keep/",
+  "word_count": 228
+}

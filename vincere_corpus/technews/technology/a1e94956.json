@@ -1,0 +1,13 @@
+{
+  "body": "Qualcomm සමාගමේ Snapdragon chip (SoC) series එකේ new version එක පිළිබඳ මේ වන විට අන්තර්ජාලයට තොරතුරු නිකුත් වී තිබෙන අතර ඒවාට අනුව මෙම chpset එක Snapdragon 888+ ලෙස හැඳින්වෙනු ඇති අතර එය 4nm fabrication process එක මත නිර්මාණය කෙරෙනු ඇති බව ද වාර්තා වෙනවා.\n\nජනප්‍රිය tech news leaker කෙනෙකු වන Evan Blass විසින් සිය Twitter ගිණුම ඔස්සේ Snapdragon පවුලේ මෙම නවතම flagship සාමාජිකයා පිළිබඳව හා එහි හැකියාවන් පිළිබඳව තොරතුරු share කර තිබෙනවා.\n\n\"SM8450 is Qualcomm's next-gen premium system-on-chip (SoC). It has an integrated Snapdragon X65 5G Modem-RF system. It is fabricated on a 4nm process.\"pic.twitter.com/u1GXMhOWBf\n\nඒ අනුව මෙම නවතම 4nm chipset එක සඳහා X65 5G modem එකක් ඇතුළත් කරනු ඇති අතර එමඟින් 10Gbps (තත්පරයට ගිගාබිට් 10 ක) wireless download speeds එකක් ලබාදෙනු ඇති අතර දැනට භාවිතාවේ ඇති Snapdragon 888 (5nm) chipset එකේ තිබෙන X60 5G modem එකට හැකියාව තිබෙන්නේ 7.5Gbps වේගයක් ලබා දීමට පමණයි.\n\nඑමෙන්ම මෙම powerful chipset එක සඳහා ARMv9 chip architecture එක මත ගොඩනැගෙන Kryo 780 CPU එකකින් බළගැන්වෙනු ඇති අතර, පැරණි මාදිලියේ තිබූ Adreno 660 GPU processor එක වෙනුවට, මෙම අලුත් version එකට Adreno 730 GPU එක භාවිතා කරනු ඇති.\n\nකෙසේ වුවත් තවමත් මෙම Adreno 730 GPU processor එකද නිල වශයෙන් හඳුන්වාදීමක් සිදුකර නැහැ.\n\nමීට අමතරව Adreno 665 video processing unit එකක් හා Adreno 1195 display processing unit එකකින්ද මෙම නවතම flagship chipset එක බල ගැන්වෙන අතර බොහෝ දුරට Galaxy S22 ද ඇතුළුව 2022 වසරේ දී නිකුත් වීමට නියමිත සියලුම flagship Android ජංගම දුරකථන මෙම chipset එක මගින් බලගැන්වෙනු ඇති.",
+  "category": "technology",
+  "date": "2021-06-05",
+  "extraction_timestamp": "2026-02-20T12:04:38.058900",
+  "headline": "මීළඟට නිකුත්වීමට නියමිත Snapdragon 888+ chipset එක 4nm process එක යටතේ නිෂ්පාදනය කරනු ලබන බව අනාවරණය වෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/qualcomms-snapdragon-888-successor-detailed-4nm-process-and-x65-modem/",
+  "word_count": 243
+}

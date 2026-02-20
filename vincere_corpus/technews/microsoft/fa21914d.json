@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft ආයතනයWindows 10 වල default web browser එක වනMicrosoft Edgeවෙනුවට අලුත් Browser එකක් නිර්මාණය කිරීමට කටයුතු කරනු ලබන බව මේ වන විට දැනගන්නට ලැබෙනවා.\n\nමේ නිසා Microsoft Edge Browser එක මෙන්ම එය බළගැන්වෙනrendering engine එකවනEdgeHTMLඑකද භාවිතයෙන් ඉවත් විය හැකි අතර සුපුරුදු නම වන Edge යන නමින්ම මේ අලුත් Browser එක හඳුන්වා දෙනවාද නැද්ද යන්න තවමත් මොවුන් තීරණය කර නැහැ.\n\nසමාන්‍යයෙන් නිතරම වගේ අපි Web Browser එකක් විදියට පාවිච්චි කරන්නේ 3rd Party software එකක්. නමුත් හොද Web Browser එකක් මෙහෙයුම් පද්ධතියටම අන්තර්ගත කරලා තිබෙනවා නම් එය ඉතාමත් හොඳ තත්ත්වයක් වනු ඇති බව බොහෝ දෙනෙකුගේ අදහස වෙනවා.\n\nමේ වෙනකොටත් Microsoft ආයතනය විසින් Google සමාගම විසින් පවත්වාගෙන යනChromium කියන Open-source project එකපාදක කරගෙන මේ අලුත් Web Browser එක නිර්මාණය කරන්නට තීරණය කර තිබෙනවා.\n\nඔයාලට මතක ඇති අපි කවුරුත් දන්නOpera Web Browser එකත්ඔවුන්ගේ පැරණි rendering engine එක අතහැර දමා මේ Chromium ව්‍යාපෘතිය පාදක කරගෙන ඔවුන්ගේ Desktop Browser එක සම්පූර්ණයෙන්ම ප්‍රතිනිර්මාණය කළා.\n\nඒ විතරක් නෙවෙයි, Microsoft ආයතනය විසින් Windows Lite නමින් අලුත්ම Operating System එකක් develop කරනු ලබන බවත් මේ වන විට නිළ නොලත් ආරංචි මාර්ග වලින් වාර්ථා වෙනවා.\n\nMicrosoft ලා කියන විදියට Google ආයතනය හදුන්වා දුන්නුChrome OS එකටහොද අභියෝගයක් වෙන්න මේ අලුත් Windows Lite එකට හැකියාව තිබෙන අතර මෙහිUniversal Windows Platform එකවෙනුවෙන් නිර්මාණය කළ Apps සහProgressive Web Appsපමණක් භාවිතා කළ හැකි වෙනවා.\n\nමේ අලුත් ම Windows Lite මෙහෙයුම් පද්ධතිය මිළ අඩු Laptop හා Tablets වලට යොදාගන්න කටයුතු කරනු ලබන බවත් වැඩිදුරටත් දැනගන්නට ලැබෙනවා.",
+  "category": "microsoft",
+  "date": "2018-12-05",
+  "extraction_timestamp": "2026-02-20T12:12:32.156576",
+  "headline": "Windows 10 වලට Microsoft Edge වෙනුවට අලුත් සාමාජිකයෙක් එන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-to-dump-edge-for-chromium-based-browser/",
+  "word_count": 229
+}

@@ -1,0 +1,13 @@
+{
+  "body": "වසර දෙකකට පමණ පෙර ආරම්භ කළ Google සමාගමෙහි unified cloud backup service එක වන Google One සේවාව පිළිබඳව ඔබ මේ වන විටත් දන්නවා ඇති.\n\nඔබ Gmail, Google Drive, Google Photos වැනි සේවාවන් භාවිතා කරන්නෙකු නම්, නොමිලයේ ලැබෙන 15GB සීමාව ඉක්මවා ගිය විට Google සමාගමේ සියළුම products සඳහා storage එක වැඩි කරගැනීමට මේ සේවාව හරහා අවස්ථාව ලැබුණා.\n\nමේ වන තුරු Google සේවාවන් වලට storage option එකක් ලෙස ලබා දී තිබුණු මේ සේවාව හරහා ඔන්න දැන් Android සහ iOS පරිශීලකයින් හට තමන්ගේ ජංගම දුරකථනයේ ඇති device data, multi-media messages, photos සහ videos ස්වයංක්‍රීයව backup කිරීමේ හැකියාව ලබාදීමට කටයුතු කර ඇති බව වාර්ථා වෙනවා.\n\nබොහෝ Android උපාංග Google Play Service එක හරහා ලබාදෙන backup manager service එකෙහි සහයෙන් පරිශීලකයන්ගේ Google Drive වල private directory එකක device settings, app data වැනි දෑ backup කිරීමට කටයුතු කලත්, ඒ හරහා MMS, photos, videos වැනි ජංගම දුරකථනයේ ඇති අනෙකුත් දත්ත backup කිරීමේ හැකියාවක් ලබාදී තිබුණේ නැහැ.\n\nකොහොම නමුත් මේ වන විට මේ Google One සේවාව හරහා තමන්ගේ ජංගම දුරකථයෙහි ඇති දත්ත සම්පූර්ණයෙන්ම backup කිරීමේ හැකියාව ලබාදී ඇති අතර ඔබගේ උපාංගය අනතුරකට ලක්වුවහොත්, නැතිවුවහොත් හෝ ඔබ නව ජංගම දුරකථනයකට upgrade වුවහොත් ඔබගේ ඡායාරූප, videos, contacts ඇතුළු සියලු වැදගත් තොරතුරු මේ සේවාව හරහා නැවත ලබාගත හැකි වෙනවා.\n\nමේ free backup විශේෂාංගයට අමතරව Google සමාගම විසින් අලුත් storage manager එකක් හඳුන්වාදීමට කටයුතු කර ඇති අතර එය mobile app එක හරහා සහ web app එකක් ලෙස භාවිතා කිරීමේ හැකියාව ලබාදී තිබෙනවා.\n\nමේ අලුත් storage manager එක හරහා Google Drive, Gmail සහ Google Photos වැනි සියළුම Google සේවාවන් වල ඇති files හඳුනාගෙන ඒ අතරින් වැඩි storage එකක් ලබාගෙන ඇති අනවශ්‍යය files ඇත්නම් ඒවා delete කිරීමට පරිශීලකයින් හට ඉඩ ලබා දෙනවා.\n\nසෑම Google account එකක් සමඟම නොමිලේ ලැබෙන 15GB storage එක මේ backup කිරීම සඳහා භාවිතා කළ හැකි අතර, ඊට අමතරව storage එක අවශ්‍යය නම්, Google One සේවාවේ 100GB storage option එක සඳහා මසකට ඩොලර් 1.99 ක මුදලක් ගෙවීමට සිදුවේ.\n\nමෙලෙස Google One storage plan එකක් ලබාගන්නා පරිශීලකයින් හට ඔවුන්ගේ plan එක තවත් සාමාජිකයින් පස්දෙනෙකු දක්වා බෙදා ගැනීමට ඉඩ ලැබෙන බැවින් ඔබ ලබාගන්නා storage එකෙන් ඔබට අවශ්‍යය ප්‍රමාණය භාවිතා කර, අමතර storage එක ඔබේ පවුලේ සාමාජිකයන් සමඟ බෙදාගැනීමේ හැකියාව ද ලැබෙනවා.\n\nමීට අමතරව මේ සාමාජිකත්වය සඳහා premium support, Google Play credits සහ Google Store member rewards ද ඇතුළත් ඇතුලත් වන බව Google සමාගම පෙන්වා දෙන අතර iOS පරිශීලකයින් සඳහා ද මෙම සේවාව ඉතාමත් ඉක්මණින් ලබාදීමට ඔවුන් බළාපොරොත්තුවෙන් සිටිනවා.",
+  "category": "google",
+  "date": "2020-07-31",
+  "extraction_timestamp": "2026-02-20T12:11:02.186120",
+  "headline": "Google One app එක හරහා Android ජංගම දුරකථන නොමිලේ backup කිරීමේ පහසුකම ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-one-will-back-up-ios-or-android-devices-for-free/",
+  "word_count": 385
+}

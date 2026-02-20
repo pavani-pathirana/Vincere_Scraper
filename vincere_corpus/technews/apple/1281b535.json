@@ -1,0 +1,13 @@
+{
+  "body": "සාමන්‍ය‍යෙන් ඇපල් WWD සමුළුව (Apple Worldwide Developers Conference එක) ඇමරිකාවේ, කැලිෆෝනියා ප්‍රාන්තයේ, San Jose හි McEnery සම්මේලන මධ්‍යස්ථානයේ දී පවත්වන නමුත් පසුගිය දින වල එම ප්‍රදේශයේ කොරෝනා ආසාධිතයන් හඳුනා ගැනීම බහුල බැවින් සම්මේලනය Online ලෙස පැවැත්වීමට තීරණය කර ඇති බව අපි මීට පෙර ඔබව දැනුවත් කළා මතක ඇති.\n\nමේ event එක මීළඟ ජුනි මස 22 වැනි දින සිය පැවැත්වීමට Apple සමාගම තීරණය කර ඇති අතර සියළුම Apple developer වරුන් හට, Apple සමාගමේDeveloper වෙබ් අඩවියහෝDeveloper app එකහරහා මේ සඳහා නොමිලයේ සහභාගී වීමේ හැකියාව පවතිනවා.\n\nමේ අනුව ලොව පුරා සිටින අලුත් හා නිර්මාණාත්මක Developer වරුන් හට iOS, iPadOS, macOS, tvOS, සහ watchOS වල අනාගතය ගැන පලමුව දැනගැනීමට WWDC20 උපකාර වෙන බව ඇපල් සමාගම පෙන්වා දෙනවා.\n\nඇපල් සමාගම විසින් Apple Developer App එක download කිරීමට Developers ලාව යොමු කරන අතර WWDC20 හි (Keynote, Platforms, sessions සහ lab schedules වැනි) අතිරේක වැඩසහටහන් තොරතුරු සහ තවත් දේ ජුනි මාසයේදී මෙයට එකතු කිරීමට නියමිත බව Apple සමාගම ප්‍රකාශ කර අතර මේ පිළිබඳ තොරතුරු ඇපල් වෙබ් අඩවිය තුලින්ද, ඊ මේල් හරහා ද ඉදිරියේදී ලැබෙනු ඇත.\n\nමෙවර event එක හරහා ළමා (ශිෂ්‍ය) Developers වරුන් හට තමන්ගේ programming දැනුම නිර්මාණාත්මකව ප්‍රදර්ශනය කිරීම සඳහාSwift Student Challengeනම් වූ අලුත් option එකක් එකතු කිරීමට Apple සමාගම සැළසුම් කර ඇති අතර මේ හරහා තමන්ගේ ම Swift Playground එකක් සාදාගෙන Swift Student Challenge එකට එකතු වීමේ හැකියාවද ලැබේ.\n\nSwift Playground යනු iPad සහ Mac සඳහා හඳුන්වාදෙනු ලැබූ නවතම app එකක් වන අතර එය Swift භාෂාව ඉගෙනීම පහසු මෙන්ම විනෝදජනක කරයි.\n\nමැයි මාසයේ 17 වන දින දක්වා ලොව පුරා ළමා Developer වරුන් හට මේ Swift Student Challenge එකට ඉදිරිපත් විය හැකි අතර මිනිත්තු තුනක Swift Playground දර්ශනයක් නිර්මාණය කර මේ සඳහා ඉදිරිපත් වීමේ හැකියාව තිබෙනවා.\n\nජයග්‍රාහකයන්ට සුවිශේෂී WWDC20 ජැකට් සහ පින් කට්ටලයක් ලැබෙන අතර ඔබ මේ පිළිබඳව උනන්දුවක් දක්වන්නේ නම්, වැඩි විස්තර සඳහා මේ වෙනුවෙන් වෙන් කර ඇතිනිළ developer page එකභාවිතා කළ හැක.\n\n9to5MacසහMacRumorsවිසින් කලින් නිකුත් වුනු iOS 14 හි විස්තර අනුව WWDC 2020 දී ප්‍රකාශයට පත් කළ හැකි software පිළිබඳ ඉඟි කිහිපයක්ද මේ වන විට පළවී තිබෙනවා.\n\n\"PencilKit API\" නම් වූ අත් අකුරු text බවට පත් කරනු ලබන පහසුකමක්, අලුත් Fitness app එකක්,Sleep Trackingආදී watchOs 7 සඳහා වන නව විශේෂාංග,iMessageවිශේෂාංග හාවැඩිදියුණු කල Cursor පහසුකම්ද මේ අතර වෙයි.",
+  "category": "apple",
+  "date": "2020-05-07",
+  "extraction_timestamp": "2026-02-20T12:11:32.459033",
+  "headline": "ජුනි මස 22 වැනි දින WWDC 2020 online event එක ආරම්භ කිරීමට Apple සමාගම දින නියම කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-to-host-virtual-worldwide-developers-conference-beginning-june-22/",
+  "word_count": 353
+}

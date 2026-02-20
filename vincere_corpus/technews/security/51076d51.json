@@ -1,0 +1,13 @@
+{
+  "body": "ඔන්න Encrypted emails යවපු හෝ යවන අයට ඉතාමත් වැදගත් වන ආරංචියක් තියනවා. ඔයා cryptography හෝ cyber security පැත්තට නැඹුරුවක් තියනවා නම් මේක ගොඩක් වැදගත් වේවි. නමුත් සමහර අයට මේක තේරුම් ගන්න ටිකක් අමාරු වේවි.\n\nමේPGPඑහෙමත් නැත්තම් Pretty Good Privacy කියන්නේ end-to-end encryption කරන්න යොදාගන්න open source ක්‍රමවේදයක්.\n\nඒ වගේම මේS/MIMEඑහෙමත් නැත්තම් Secure/Multipurpose Internet Mail Extensions කියන්නෙත් ඒ වගේasymmetric cryptography-based technology එකක්. මේකෙන් පුළුවන් අපිට mail එකක් encrypt කරන්නත් ඒ වගේම ඒක digitally sign කරන්නත්. ඒ කියන්නේ අතරමැදියෙක් ඒක වෙනස් කරන්න උත්සාහ කරලා තියනවා නම් ඒක අඳුරගන්නත් මේ ක්‍රමයෙන් පුළුවන්.\n\nකොහොම නමුත් මේ වෙනකොට PGP හෝ S/MIME කියන encryption tools භාවිතා කරගෙන ඔයා encrypted emails යවලා තියනවා නම්, ඔන්න දැන් හොයාගෙන තියනවා ඒ ක්‍රම වල දෝෂයක්. ඒ මගින් පුළුවන් වෙලා තියනවා මේ emails අර මම කලින් කියපු encryption වලින් decrypt කරගෙන සාමාන්‍යය text එකක් බවට පත් කරගන්න. ඒක නිසා මේ ක්‍රම භාවිතා කරනවා නම්, වහාම ඒක නවත්වන්න කියල මේක හොයාගත්ත පිරිස වගේම EFF එහෙමත් නැතිනම්Electronic Frontier Foundationඑකෙනුත් දැනුම්දීලා තියනවා.\n\nWe'll publish critical vulnerabilities in PGP/GPG and S/MIME email encryption on 2018-05-15 07:00 UTC. They might reveal the plaintext of encrypted emails, including encrypted emails sent in the past.#efail1/4\n\nවිශේෂයෙන්ම ඔයා මෙන්න මේ tools භාවිතා කරනවා නම් ඒවා ඉක්මණින්ම ඉවත් කරන්න කියලත් එයාලා දැනුම්දීලා තියනවා. ඒවා තාවකාලිකව ඉවත් කරගන්න විදිහත් EFF එක විසින් කියලා දීලා තියනවා.\n\nඒ වගේම තාමත් මේකට හරි පිළියමක් හොයාගෙන නැති බවත්, මේ ගැන වැඩි විස්තර සහිත පැහැදිලි කිරීමක් කරන්න EFF එකෙන් බළාපොරොත්තු වෙන බවත් සඳහන් කරලා තියනවා.",
+  "category": "security",
+  "date": "2018-05-15",
+  "extraction_timestamp": "2026-02-20T12:19:52.624517",
+  "headline": "PGP සහ S/MIME වලින් Encrypt කරන ලද Email අනතුරේ",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/pgp-s-mime-encrypt-email/",
+  "word_count": 239
+}

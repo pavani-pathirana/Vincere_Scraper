@@ -1,0 +1,13 @@
+{
+  "body": "Android Autoකියන operating system එක ගැන ගොඩ දෙනෙක් අහලා තිබුණත් මේAndroid Automotive OSකියන එක නම් තවමත් ඒ තරම්ම ප්‍රසිද්ධ මාතෘකාවක් නෙවෙයි.\n\nAndroid Auto කියන්නේ සාමාන්‍යය Android මෙහෙයුම් පද්ධතිය මත ගොඩනගන ලද interface එකක් පමණක් වන අතර එය සාමාන්‍යයෙන් අපි නිතර භාවිතා කරන Launcher app එකකට මදක් සමාන වෙන secondary interface එකක් විතරයි.\n\nනමුත් මේ Android Automotive OS කියන්නේ මෝටර් රථ වල අන්තර්ගත වන hardware සඳහාම විශේෂයෙන්ම නිර්මාණය කරන ලද මෙහෙයුම් පද්ධතියක් වන අතර මෙය සාමාන්‍යය Tablet එකක හෝ ජංගම දුරකථනයක install කර භාවිතා කිරීමේ හැකියාවක් නැහැ.\n\nමේ operating system එක දැනටමත් Volvo සමාගම විසින් නිෂ්පාදනය කරනු ලැබූ Polestar 2 මෝටර් රථයේ මෙම මෙහෙයුම් පද්ධතිය ඇතුලත් වන අතර මේ වන විට Google සමාගම විසින් මේ Android Automotive OS එකට media apps නිර්මාණය කිරීමේ හැකියාව ලොව පුරා developers ලා හට ලබා දීමට කටයුතු කරමින් සිටිනවා.\n\nමේ අනුව මෙවරGoogle I/O event එකඅතරතුරදී මේ අවස්ථාව ලබා දීමට මෙන්ම මේ media apps නිර්මාණය කරන ආකාරය පිළිබඳව ද වැඩසටහනක් ඉදිරිපත් කිරීමට Google සමාගම කටයුතු කරනු ලබන බව වාර්ථා වෙනවා.\n\nමූලික වශයෙන් Spotify සහ අනෙකුත් entertainment සේවාවන් සමඟ කටයුතු ආරම්භ කිරීමට Google සමාගම බළාපොරොත්තු වන අතර Navigation වගේ වෙනත් category සඳහා ද මෙහිදී අවධානය යොමු කිරීමට මොවුන් බළාපොරොත්තු වෙනවා.\n\nඑමෙන්ම Volvo සමාගමට අමතරව Fiat, Renault-Nissan-Mitsubishi යන ආයතන ද Google සමාගමේ මේ operating system එක ඔවුන්ගේ අනාගත මෝටර් රථ වල infotainment system වෙනුවෙන් භාවිතා කරන්නට බළාපොරොත්තු වන බව ද වැඩිදුරටත් දැනගන්නට ලැබෙනවා.",
+  "category": "android",
+  "date": "2019-05-03",
+  "extraction_timestamp": "2026-02-20T12:17:38.584828",
+  "headline": "Android Automotive OS එකට Spotify ඇතුළු අනෙකුත් media app නිර්මාණය කිරීමේ හැකියාව ලබා දෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-opens-android-automotive-os-to-spotify-other-media-app-developers/",
+  "word_count": 224
+}

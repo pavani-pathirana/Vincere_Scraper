@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය වසරේ පැවති WWDC event එකේදී Apple සමාගම ප්‍රකාශ කළ ආකාරයටMicrosoft Office 365 package එකදැන Mac App Store එකට එකතු කිරීමට ඊයේ දිනයේ කටයුතු කර තිබෙනවා.\n\nමේ අනුව Word, Excel, Powerpoint, Outlook, OneNote සහ OneDrive ඇතුළු සියළුම Office appsMac App Store එකහරහා download කරගතහැකි වන අතර මේ අතරින් Word, Excel, PowerPoint, සහ Outlook භාවිතා කිරීමට නම් Office 365 subscription එකක් තිබිය යුතු වෙනවා.\n\nමීට කලින් Microsoft වෙබ් අඩවිය භාවිතා කර මෙම apps ලබාගැනීමේ හැකියාව මෙන්මMicrosoft AutoUpdate tool එකහරහා මේවා update කිරීමේ හැකියාව ද තිබුණු නමුත් Mac App Store එක හරහා දැන් ඉතාමත් පහසුවෙන් download කරගැනීමේ අවස්ථාව ලැබෙනවාක් මෙන්ම, updates ඇති විටදී ඒවා ද automatically ම Mac App Store එක හරහා සිදු වන බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "microsoft",
+  "date": "2019-01-25",
+  "extraction_timestamp": "2026-02-20T12:11:51.108296",
+  "headline": "Microsoft Office Package එක Apple Mac App Store එක හරහා ලබා ගැනීමේ හැකියාව ලබා දෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-office-now-available-on-apples-mac-app-store/",
+  "word_count": 117
+}

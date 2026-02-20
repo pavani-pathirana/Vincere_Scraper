@@ -1,0 +1,13 @@
+{
+  "body": "WhatsApp මේ දින වල පරිශීලකයන් හට නිරන්තරයෙන් නව විශේෂාංග හඳුන්වා දෙමින් යාවත්කාලීන වන messaging සේවාවක් වන අතර පසුගිය කාලය පුරාවටම Meta සමාගම විසින් WhatsApp වෙත නව විශේෂාංග කිහිපයක්ම එකතු කිරීමට කටයුතු කරනු ලැබුවා.මේ වනවිට වාර්ථා වන තොරතුරුවලට අනුවWhatsApp desktop versionඑක සඳහාත් screen lock විශේෂාංගයක් හඳුන්වාදීමට Meta සමාගම සූදානම් වන අතර මෙම විශේෂාංගය ඔබගේ Android හෝ iOS දුරකථනයේ ඇති WhatsApp screen lock එකට බෙහෙවින් සමාන වෙනවා.මෙම නව screen lock feature එක හරහා WhatsApp desktop version එක භාවිතා කරමින් WhatsApp වෙත පිවිසෙන සෑම අවස්ථාවකම password එකක් ඇතුළත් කිරීමට හැකියාව ලැබෙන අතර එමඟින් වෙනත් අයෙකු ඔබගේ desktop එක භාවිතා කරන්නේ නම්, ඔබගේ WhatsApp chats වෙනත් පුද්ගලයන්ගෙන් ආරක්ෂිතව තබා ගැනීමට උපකාර වෙනවා.\n\nWhatsApp desktop version එක සඳහා වන මෙම screen lock විශේෂාංගය තවමත් beta පරිශීලකයන් සඳහා පරික්ෂා කරමින් සිටින විශේෂාංගයක් වන බැවින්, මෙහි ඇති UI elements ඉදිරි updates මඟින් තරමක් වෙනස් වීමට හැකියාව තිබෙනවා.\n\nමෙලෙස ඔබ විසින් screen lock එක සඳහා ලබාදෙන password එක ඔබගේ වෙනත් පරිගණක සමඟ හෝ WhatsApp servers සමඟ sync වීමක් සිඳු නොවන බැවින් යම්හෙයකින් ඔබගේ password එක අමතක වුවහොත්, WhatsApp mobile app එක හරහා අදාළ පරිගණකයෙන් logout වී නැවත QR code එක scan කර log වීම මඟින් ඔබගේ ගිණුමට නැවතත් පිවිසීමට හැකියාව හිමිවෙනවා.\n\nඑමෙන්ම MacBook සඳහා password එක වෙනුවට Touch ID එක භාවිතා කිරීමේ හැකියාවද මේ සමඟ ලැබී ඇති බවට වැඩිදුරටත් වාර්ථා වෙනවා.මෙම screen lock විශේෂාංගය දැනටමත් WhatsApp desktop beta පරිශීලකයන් හට ලැබෙමින් පවතින බැවින් මෙම විශේෂාංගය නුදුරේදීම stable සංස්කරණය වෙතද ලබාදීමට WhatsApp ආයතනය ක්‍රියාකරනු ඇතැයි බලාපොරොත්තු වෙන්න පුළුවන්.",
+  "category": "security",
+  "date": "2022-11-27",
+  "extraction_timestamp": "2026-02-20T12:05:11.179903",
+  "headline": "WhatsApp Desktop Version එක සඳහා Screen Lock විශේෂාංගයක් හඳුන්වාදෙන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/whatsapp-for-desktop-might-soon-get-a-screen-lock-feature/",
+  "word_count": 239
+}

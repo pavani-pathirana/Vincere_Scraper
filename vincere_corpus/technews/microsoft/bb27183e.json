@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය නොවැම්බර් මාසයේදී මිලෙන් අඩුඅලුත් Raspberry Pi 3 Model A+ මාදිලිය හඳුන්වා දීමට කටයුතු කළ බවඅපි ඔබව දැනුවත් කළා මතක ඇති.\n\nකොහොම වුණත් මේ දක්වාRaspberry Piවල install කිරීමට හැකියාව ලැබුණු මෙහෙයම් පද්ධති වලින් Linux පාදක කරගත් මෙහෙයුම් පද්ධති වලට වැඩි තැනක් ලැබුණත්, මේ වන තුරු Windows මෙහෙයුම් පද්ධති වලට නම් මේ Raspberry Pi ඒ තරම් සහයෝගයක් දැක්වීමට කටයුතු කලේ නැහැ.\n\nමෙයට ප්‍රධාන වශයෙන්ම හේතු වුණේ, මේ Raspberry Pi වල තිබෙනprocessor architectureඑක ARM එකක් වීමත්, මේARM architectureඑකට ගැලපෙන stable තත්ත්වයේ Windows මෙහෙයුම් පද්ධතියක් නොතිබීමත් වුවත්, Windows 10 සමඟින් මේ වෙනුවෙන් හොඳ සංස්කරණයක් නිෂ්පාදනය කිරීමට Microsoft සමාගම කටයුතු කලා.\n\nමේ වන තුරු Raspberry Pi වලට Windows 10 install කිරීම ටිකක් අපහසු කටයුත්තක් වුවත්, Jose Manuel නම් වූ developer කෙනෙකු විසින් මේ කාර්යය ඉතාමත් පහසුවෙන් කරගතහැකි tool එකක් නිර්මාණය කිරීමට කටයුතු කර තිබෙනවා.\n\nමේ project එකේනිළ GitHub page එකටඅනුව, මෙය Raspberry Pi 3 Model B හෝ B+ යන මාදිලි වලට භාවිතා කිරීටම් හැකියාව තිබෙන අතර මීට අවශ්‍යය වන Windows 10 ARM මෙහෙයුම් පද්ධතිය ලබා ගන්නා ආකාරය පිළිබඳව ද තොරතුරු ඇතුලත් වෙනවා.",
+  "category": "microsoft",
+  "date": "2019-02-13",
+  "extraction_timestamp": "2026-02-20T12:11:41.667002",
+  "headline": "Raspberry Pi වලට ඉතාමත් පහසුවෙන් Windows 10 ARM Edition එක Install කිරීමේ හැකියාව ලැබෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/you-can-now-install-windows-10-arm-on-the-raspberry-pi/",
+  "word_count": 168
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Email කියන්නේ මේ වෙනකොට අපි හැමෝටම වගේ නැතුවම බැරි දෙයක් වෙලා. ඔන්න Google ලා එයාලගේ Email client එකේ, ඒ කියන්නේ Gmail එකේ major release එකක් නිකුත් කරලා තියනවා පසුගිය අප්‍රේල් 25 වෙනිදා. අපි බලමු මොනවද එයාලගේ අළුත්ම features කියලා.\n\nමේ අළුත් look එකෙන් ඔයාලට පුළුවන් වෙනවා email එකක් ඇතුලේ තියන photos, documents වගේ attachments email එක open නොකරම බලන්න. ඒ වගේම Snooze වගේ තවත් quick actions පෙලක් ම ඒ අතර වෙනවා. Google keep, calendar, tasks වගේ apps ගොඩක් මේ අතරට එකතු වෙනවා. ඒ කියන්නේ ඔයාලට Google keep එකේ තියන note එකක් බලන්න දැන් keep වෙනම open කරන්න ඕන වෙන්නේ නෑ, Gmail එකේ ඉඳන්ම ඒක කරන්න පුළුවන්.\n\nඒ වගේම අපිට දැන් email එකක් මගහැරෙන්න තියන ඉඩකඩත් අඩු වෙලා තියනවා මේ අළුතින් add වුණ follow-up සහ reminders නිසා.\n\nSmart reply කියන්නේ මේ වගේ අළුතින් add වුණ තවත් feature එකක්. මේ පහසුකමත් එක්ක අපේ email එකට reply එකක් අතින් type කර කර ඉන්න ඕන වෙන්නේ නෑ. Email එකේ context එකට අනුව generated වුණු quick replies කිහිපයක් අතරින් කැමති එකක් අපිට තෝරගෙන එක click එකකින් reply කරන්න පුළුවන්.\n\nමේ වෙනසත් එක්ක Gmail mobile app එකට එකතු වුණු දෙයක් තමයි මේ high-priority notifications කියන්නේ. ඒ කියන්නේ අපිට high priority email එකක් ආවම, අපිට විශේෂ notification එකක් මගින් ඒ ගැන දැනුම් දෙන්නත් මේ අළුත් Gmail එකට පුළුවන්. ඒ වගේම අපි වැඩිය උනන්දුවක් දක්වන්නේ නැති Newsletters එහෙම තියනවා නම්, Gmail එකෙන් ඒවා analize කරලා, අපිට පෙන්නනවා.\n\nමේ හැම දේමත් එක්ක, ගොඩාක් වෙලාවට අපිට එන ඔය Phishing attack වගේ දෙවල් අඳුරගෙන, මොනවාහරි risky email එකක් නම් ඒ ගැන අපිට තවත් alert එකක් මගින් දන්වන්නත් මේ අළුත් Gmail එකට පුළුවන්.\n\nතවත් වැදගත්ම දෙයක් තමයි අපිට මොනවහරි confidential mail එකක් යවන්න ඕන නම්, ඔන්න දැන් Gmail එකේ තියනවා ඒකටම වෙන් වුණු Confidential mode කියලා එකක්. මේකෙන් අපිට පුළුවන් email එක ලබනා කෙනා විසින් forward කරන එක, copy කරන එක, download කරන එක වගේම print කරන එකත් වුනත් නවත්තන්න. ඒ වගේම ඕන නම් ඒ email එක යම්කිසි වෙලාවකින් පස්සේ expire වෙන්න වුනත් time එකක් දෙන්න පුළුවන්.\n\nමේ දේවල් ටික කියවපු ගමන් අපිට එන පළවෙනි ප්‍රශ්ණේ තමයි, දැන් කොහොමද අපි මේක ගන්නේ කියන එක. ඒකට කරන්න තියෙන්නේ සුළු දෙයයි.",
+  "category": "google",
+  "date": "2018-04-26",
+  "extraction_timestamp": "2026-02-20T12:24:04.742589",
+  "headline": "Gmail වල අළුත් පෙනුම සහ දැනගත යුතු දේවල්",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/gmail-new-look/",
+  "word_count": 347
+}

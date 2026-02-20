@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් ඔවුන්ගේ Mac පරිගණක බළගැන්වීම සඳහා ඔවුන්ගේම chipset එකක් වන Apple Silicon chips නිෂ්පාදනය කිරීමට කටයුතු කළ බව මීට පෙර කිහිප අවස්ථාවකදීම අපි ඔබව දැනුවත් කිරීමට කටයුතු කළා මතක ඇති.\n\nඔන්න දැන් Microsoft සමාගමත් මේ අනුව යමින් ඔවුන්ගේ Servers සහ Surface පරිගණක සඳහා ARM-based chipset එකක් නිර්මාණය කිරීමට කටයුතු කරමින් සිටින බවBloomberg වෙබ් අඩවියවාර්තා කරනවා.\n\nමේ වන විට Microsoft Azure cloud services සඳහා Intel-based processors භාවිතා කරනු ලබන අතර Surface devices නිෂ්පාදනය කරනු ලබන්නේ ද මූලිකව Intel processors පාදක කරගෙනයි.\n\nඑමෙන්ම කිහිප අවස්ථාවක AMD සමාගම සහ Qualcomm සමාගම සම්බන්ධ කරගනිමින් ඔවුන්ගේ Surface Laptop 3 එක සහ Surface Pro X යන devices එළිදැක්වීමට කටයුතු කරනු ලැබුවා.\n\nමෙම පුවත ඇසූ සැනින් Surface Pro X එක බළගැන්වෙන ARM-based chipset එකක් වන Microsoft SQ1 සහ SQ2 chipsets ගැන ඔබගේ මතකයට එනු ඇති නමුත්, වඩා සමීපව විමසා බැලු‍වහොත් එය Qualcomm සමාගමේ Snapdragon 8CX gen 1 සහ gen 2 compute platforms ද්විත්වයට දෙනු ලැබූ වෙනත් නමක් පමණක් බව දැකගතහැකි වනු ඇත.\n\nකොහොම නමුත් Microsoft සමාගම මෙයින් ඔබ්බට ගොස්, තමන්ගේම chipset එකක් design කිරීමට කටයුතු කරමින් සිටින අතර Amazon සමාගම ද දැනට වසරකට පමණ පෙර සිට Intel සහ AMD සමාගම් වලින් ඔබ්බට ගොස් AWS බළගැන්වීම සඳහා ARM-based Graviton2 processors භාවිතා කිරීමට කටයුතු කරමින් සිටිනවා.\n\nතවමත් මේ පිළිබඳව Microsoft සමාගම විසින් නිළ වශයෙන් නිවේදනය කිරීමට කටයුතු කර නොමැති අතර ඉදිරියේදී මේ පිළිබඳව තවත් විස්තර දැනගැනීමට හැකියාව ලැබෙනු ඇති බව අපේක්ෂා කළ හැකි වෙනවා.",
+  "category": "technology",
+  "date": "2020-12-19",
+  "extraction_timestamp": "2026-02-20T12:06:19.771401",
+  "headline": "Microsoft සමාගම විසින් Servers සහ Surface PC සඳහා ඔවුන්ගේම ARM-based chip එකක් නිර්මාණය කිරීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/microsoft-is-reportedly-designing-its-own-arm-based-chips-for-surface-pcs/",
+  "word_count": 227
+}

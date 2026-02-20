@@ -1,0 +1,13 @@
+{
+  "body": "Spotify, GroupMe, Pinterest සහ TikTok ඇතුළු ජනප්‍රිය apps ගණනාවක් crash වෙමින් පවතින බව පසුගිය බදාදා දින සවස සිට iOS පරිශීලකයින් crash reports ඉදිරිපත් කරමින් සිටියි.\n\nමේ පිළිබඳව වනGitHub thread එකකසදහන් වන පරිදි මෙය Facebook සමාගමේ SDK එකෙහි ඇති ගැටලුවක් නිසා සිදුවි ඇති බව වාර්ථා වෙනවා.\n\nDowndetectorවෙබ් අඩවිය වාර්ථා කරන ආකාරයට 3:30 සිට 5:30 pm (PT Time) දක්වා ලොව පුරා සිටින මේ සේවාවන් වල පරිශීලකයින්ගෙන් crash reports දස දහස් ගණනක් ලැබි ඇති අතර ජනප්‍රිය apps ගණනාවක් මෙලස crash වි ඇති බව සදහන් කර ඇත.\n\nමේ apps launch ක‍ල විගසම අදාල app එක closeවන බව මේ ‍user reports තුල සදහන් වි ඇති බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nWe’re aware of some issues right now and are checking them out! We’ll keep you posted.\n\nමේ ආකාරයේ බොහෝ දෙනා ඉතාමත් කැමැත්තෙන් භාවිතා කරනු ලබන apps, open වන විටම Facebook servers සමඟින් සම්බන්ධ වීමට උත්සාහ කරනු ලබන්නේ බොහෝ විට ads පෙන්වීම පිළිබඳව තොරතුරු හුවමාරු කරගැනීම සඳහා Facebook SDK එක භාවිතා කිරීම නිසාවෙන් වන අතර මේ ඔබ වෙනත් app එකක් භාවිතා කරමින් සිටිය ද Facebook සමාගම ඔබ අදාල අවස්ථාවෙි සිදු කරමින් සිටි දෑ පිළිබඳව දැඩි අවධානයකින් පසු වන බව මේ අනුව අවබෝධ කරගත හැක.\n\nමෘදුකාංග ඉන්ජිනේරුවරයෙකු හා9to5mac වෙබ් අඩවියේ ප්‍රකාශකවරයෙකුවන Guilherme Rambo විසින් ප්‍රකාශ කර සිටින්නේ Facebook සමාගම විසින් මෙම ගැටළුව හැකි ඉක්මනින් විසදිමට කටයුතු කරනු ලබන බවත්, කොහොම නමුත් එයට යම් කාලයක් ගත වන බවත් ය.\n\nIf I were Apple, I would be working hard on finding a way to “sandbox” these types of SDKs from the main app binary, to prevent issues like this (and leakage of user data to third-parties).https://t.co/AoLV9uR8KR\n\nGuilherme ඔහුගේ Twitter ගිණුම හරහා tweet පණිවිඩයක් තබමින් අනාගතයේදී මෙවැනිම දෙයක් සිදුවීම වැළැක්වීම සඳහා Apple සමාගමට කළ හැකි දේ පිළිබඳව යෝජනාවක් ද ඉදිරිපත් කිරීමට කටයුතු කර තිබෙනවා.\n\nමේ පිළිබඳව The Verge වෙබ් අඩවියට නිවේදනයක් නිකුත් කරමින් Facebook සමාගම ප්‍රකාශ කර ඇත්තේ, එදින Facebook iOS SDK එකට update එකක් නිකුත් කිරීමට කටයුතු කළ බවත්, ඒ හේතුවෙන් මෙය භාවිතා කරනු ලබන iOS apps crash වීම සිදුවී ඇති බවත්, එම ගැටළුව හැකි ඉක්මණින් හඳුනාගෙන විසඳුමක් ඉදිරිපත් කිරීමට ඔවුන් කටයුතු කළ බවත් ය.",
+  "category": "social-media",
+  "date": "2020-05-08",
+  "extraction_timestamp": "2026-02-20T12:13:22.816100",
+  "headline": "Facebook SDK එකෙහි ගැටළු හේතුවෙන් ප්‍රධාන iOS Apps ද ඇතුලුව iOS Apps ගණනාවක් crash වෙමින් පවතී",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/several-major-ios-apps-crashing-at-launch-due-to-facebook-sdk-issues/",
+  "word_count": 336
+}

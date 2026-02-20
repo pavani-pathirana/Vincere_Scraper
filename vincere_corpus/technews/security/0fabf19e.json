@@ -1,0 +1,13 @@
+{
+  "body": "Google Chrome භාවිතා කරන්නෙක් නම් Chrome extensions ගැන මේ වන විටත් දන්නවා ඇති.\n\nකොහොම නමුත් පසුගිය කාළසීමාව තුළ මේ Chrome Web Store එකේ ඇති Paid extension මිලදීගැනීමේදී විශාල වශයෙන් වංචනික ගණුදෙනු සිදුවී ඇති බවත්, මේ හේතුව නිසාවෙන් සියළුම paid extensions අත්හිටුවාදැමීමට Google සමාගම තීරණය කර තිබෙනවා.\n\nමේ අනුව අලුත් paid extensions මේ Web Store එකට ඇතුලත් කිරීමත්, දැනට ඇති paid extensions වලට අලුතින් updates එකතු කිරීමටත් හැකියාව extension develop කරන්නන් හට අහිමි වී තිබෙන අතර ඒවා “Spam and Placement in the Store” යනුවෙන් නම් කර reject කිරීමට කටයුතු කරනු ලබන බව වාර්ථා වෙනවා.\n\nකොහොම වුණත් මේ තත්ත්වය තාවකාලික විසඳුමක් වන බවත්, ඉතාමත් ඉක්මණින් මේ වංචාකාරී ක්‍රියාකාරකම් නතර කිරීමට ක්‍රමයක් ඉදිරිපත් කරනු ලබන බවත්, ඒ දක්වා මේ අවහිර කිරීම ක්‍රියාත්මක වන බවත් Google සමාගම පෙන්වා දෙනවා.\n\nඑමෙන්ම ඉහත ආකාරයෙන් reject වූ extensions සඳහා appeal කිරීම මගින් ඒවා නැවත Web Store එකට ඇතුලත් කිරීමේ හැකියාව ලබාදෙනු ඇති බවත් ඔවුන් වැඩිදුරටත් පෙන්වා‍ දෙනවා.\n\nමේ අවහිර කිරීමට අදාල වන්නේ Chrome Web Store එකේ payment system එක භාවිතා කරනු ලබන extensions පමණක් වන අතර වෙනත් payment system එකක් භාවිතා කරනු ලබන හෝ free extensions වලට මෙයින් කිසිඳු බළපෑමක් සිදු නොවන බවත් වාර්ථා වෙනවා.",
+  "category": "security",
+  "date": "2020-01-31",
+  "extraction_timestamp": "2026-02-20T12:09:46.864856",
+  "headline": "Chrome Web Store එකේ ඇති Paid extensions තාවකාලිකව අත්හිටුවීමට Google සමාගම තීරණය කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/google-puts-temporary-suspension-on-paid-chrome-web-store-extensions/",
+  "word_count": 188
+}

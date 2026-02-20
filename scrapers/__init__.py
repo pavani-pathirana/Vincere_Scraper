@@ -28,6 +28,12 @@ from scrapers.tecroom_scraper import TecroomScraper
 from scrapers.androidwedakarayo_scraper import AndroidWedakarayoScraper
 from scrapers.techcyclone_scraper import TechCycloneScraper
 from scrapers.techsayura_scraper import TechSayuraScraper
+from scrapers.technews_scraper import TechNewsScraper
+# General news scrapers
+from scrapers.colombotimes_scraper import ColomboTimesScraper
+from scrapers.lakvahini_scraper import LakvahiniScraper
+from scrapers.siyathanews_scraper import SiyathaNewsScraper
+from scrapers.asianmirror_scraper import AsianMirrorScraper
 
 __all__ = [
     'AdaDeranaScraper',
@@ -54,4 +60,10 @@ __all__ = [
     'AndroidWedakarayoScraper',
     'TechCycloneScraper',
     'TechSayuraScraper',
+    'TechNewsScraper',
+    # General news scrapers
+    'ColomboTimesScraper',
+    'LakvahiniScraper',
+    'SiyathaNewsScraper',
+    'AsianMirrorScraper',
 ]

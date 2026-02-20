@@ -1,0 +1,13 @@
+{
+  "body": "වර්තමානයේදී බොහොමයක් ජංගම දුරකතන සඳහා ඉහළ RAM ධාරිතාවයක් ලබාදීමට ජංගම දුරකතන නිෂ්පාදකයින් කටයුතු කරන නමුත් තරමක් මිලෙන් අඩු ජංගම දුරකතනවල තවමත් ඉහළ RAM ධාරිතාවයක් දැකගැනීමට හැකියාවක් නොමැති වෙනවා.\n\nඒ හේතුවෙන් තරමක් මිලෙන් අඩු ජංගම දුරකතනවල apps කිහිපයක් එකවර භාවිතා කිරීමට තරමක් අපහසු වෙනවා. මේ සඳහා විසදුමක් ලෙස ජංගම දුරකතනයේ storage එකෙන් කොටසක් virtual RAM එකක් ලෙස භාවිතා කිරීමට හැකියාව හිමිවෙනවා.\n\nRAM extension support is coming to@miuiromsoon... Not implemented yet, so I don't know how much storage and which devices support it. Probably the new ones.@MishaalRahman@aamirXDApic.twitter.com/wtOH9yRfHo\n\nමේ වනවිට, Xiaomi සමාගමද එවැනි විශේෂාංගයක් සිය පරිශීලකයන් වෙත හඳුන්වාදීමට කටයුතු කරන බව පෙනෙනවා. ඒ tipster කෙනෙකු වනKacper Skrzypek විසින්, MIUI 12 හි source code වල \"Memory extension\" ලෙස නම් කර ඇති විශේෂාංගයක් අනාවරණය කරගැනීමත් සමඟයි.\n\nමේ විශේෂාංගයට සමාන විශේෂාංගයක් Vivo X60 Pro + ජංගම දුරකතනය තුළින් ලබාදීමට Vivo සමාගමද මින් පෙර කටයුතු කර ඇති නමුත් එය 1GB capacity එකකට පමණක් සීමා වෙනවා.\n\nමෙම Memory extension විශේෂාංගය බොහෝ විට අඩු RAM ධාරිතාවක් ඇති පැරණි උපාංගවලට බෙහෙවින් ප්‍රයෝජනවත් වන බැවින් මෙම විශේෂාංගය ඉහළ මට්ටමේ Xiaomi දුරකථන වලට පමණක් සීමා නොවනු ඇතැයි අපේක්ෂා කල හැකි වෙනවා.",
+  "category": "technology",
+  "date": "2021-05-03",
+  "extraction_timestamp": "2026-02-20T12:04:59.309902",
+  "headline": "Xiaomi සමාගම විසින් MIUI සඳහා Memory extension විශේෂාංගයක් හඳුන්වාදීමට කටයුතු කරන බව වාර්තා වෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/xiaomi-working-on-a-memory-extension-feature-for-miui/",
+  "word_count": 179
+}

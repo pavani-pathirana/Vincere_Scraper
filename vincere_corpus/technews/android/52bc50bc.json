@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම ඔවුන්ගේGoogle Play Servicesසේවාවන්Android 4.0 සිට 4.0.4දක්වා වූ සංස්කරණ, එනම් Ice Cream Sandwich වලට සහාය දැක්වීම නිළ වශයෙන් නතර කර දැමීමට තීරණය කර තිබෙනවා.\n\nමේ අනුව Android Ice Cream Sandwich භාවිතා කරනු ලබන සියළුදෙනා හට Google Play Service app එක (14.7.99 සිට අලුත් versions දක්වා) Google Play Store එක හරහා update කිරීමේ හැකියාව අහිමි වී යනවා.\n\nGoogle Play Service යනු බොහෝ App developers ලා විසින් තමන්ගේ app නිර්මාණය කිරීමේදීPush notifications,Realtime Databasesවැනි සේවාවන් රාශියක් එකතු කරගැනීමට භාවිතා කරනු ලබන framework එකක් ලෙස හැඳින්විය හැක.\n\nAndroid මෙහෙයුම් පද්ධතිය භාවිතා කරනු ලබන බිලියන 2ක පරිශීලකයින් අතරින් වැඩි පිරිසක් මේ වන විට භාවිතා කරනු ලබන Android version එක ලෙස වාර්ථා වන්නේAndroid 7.0එහෙමත් නැතිනම් Android Nougat සංස්කරණයයි.\n\nපසුගිය ඔක්තෝම්බර් 26 වැනිදා වන විට මේ Ice Cream Sandwich සංස්කරණය භාවිතා කරනු ලබන පිරිස සමස්ථ Android පරිශීලකයින් ගෙන් 0.03% ක් පමණ වන බව ඔවුන් පෙන්වා දෙනවා. මෙය ඉතා කුඩා ප්‍රතිශතයක් ලෙස බැළු බැල්මට සිතුණත්, බිලියන දෙකක් වන සමස්ථ පරිශීලකයන් අතරින් මිලියන 6ක් පමණ ජංගම දුරකථන හා tablet මේ අතරට ඇතුලත් වෙනවා.\n\nමේ අනුව සියළුම Android developers ලා හට තම app වලminimum target API level එකඅවම වශයෙන් 16 (Android 4.1 Jelly Bean) ලෙස වෙනස් කළ යුතු බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nයම්කිසි developer කෙනෙකුට මීට පහළ versions සඳහා තවදුරටත් තම apps build කිරීමට අවශ්‍යය නම්, ඒ සඳහා minimum API level එක 14 හෝ 15 ලෙස සැකසූ තවත් APK එකක් build කිරීමට සිදු වනු ඇති අතර මේ සඳහා දBuild variants නම් වූ පහසුකමක්Android development වල පවතිනවා.\n\nඅපේTechie Android App එකේඅලුත් update වලටත් මේ හරහා බළපෑමක් ඇති වන අතර, ඔයා තවමත් Android ICS භාවිතා කරන, ඒ වගේම අපේ app එකත් භාවිතා කරන කෙනෙක් නම්,අපේ Community එකටඇවිත් මේ ගැන comment එකක් දාන්න. එහෙම කවුරුත් නැතිනම්, අපිට ICS ඉවත් කරලා, Jelly Bean වලට minimum target API level එක සකස් කරන්න හැකියාව ලැබෙනවා.",
+  "category": "android",
+  "date": "2018-12-08",
+  "extraction_timestamp": "2026-02-20T12:19:16.927427",
+  "headline": "Android 4 (ICS) සඳහා Google Play Services සහාය දැක්වීම නවතා දැමීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-is-ending-play-service-support-for-android-4-0-ice-cream-sandwich/",
+  "word_count": 291
+}

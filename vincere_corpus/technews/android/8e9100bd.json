@@ -1,0 +1,13 @@
+{
+  "body": "අපි භාවිතා කරන සෑම smartphone එකකම පාහේ අන්තර්ගත වන Airplane mode එක ගැන මේ වන විට නොදන්න කෙනෙක් නැහැ.\n\nමේ airplane mode එකෙන් වෙන්නේ අපේ ජංගම දුරකථනයේ තිබෙන සියළුම radio signal නිකුත් වන උපාංග ක්‍රියා විරහිත කිරීම වන අතර airplane එකකදී එයට ලැබෙන/යවනු ලබන පණිවිඩ වලට බධාවක් නොවීම සඳහා මූලිකව මෙය නිර්මාණය කර තිබෙනවා.\n\nකොහොම වුණත් Android 11 R සමඟින් මේ Airplane mode එකට වෙනසක් එකතු කිරීමට කටයුතු කර ඇති අතර මේ අනුව පහත අවස්ථා වලදී airplane mode එක on කිරීමට කටයුතු කලද Bluetooth පහසුකම ක්‍රියා විරහිත වීම නැවැත්වෙනවා.\n\nමීට අදාල වන commit එක මේ වන විටප්‍රධාන Android Source එකට merge කිරීමටකටයුතු කර ඇති අතර මෙය Context-aware Bluetooth airplane mode යන නමින් හැඳින්වීමට කටයුතු කර තිබෙනවා.\n\nමේ අනුව Android 11 වල සිට ඔබ Bluetooth හරහා සංගීතයට සවන්දෙමින් සිටින්නේ නම් හෝ Hearing Aid පහසුකම භාවිතා කරමින් සිටින්නේ නම්, airplane mode එක එම අවස්ථාව හඳුනාගෙන අනෙකුත් radios පමණක් off කිරීමට කටයුතු කරනු ලබනවා.",
+  "category": "android",
+  "date": "2020-01-28",
+  "extraction_timestamp": "2026-02-20T12:13:28.559766",
+  "headline": "Airplane mode එක on කිරීමත් සමඟින් Bluetooth Audio නතර වීමේ ගැටළුව Android 11 වලදී fix කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/airplane-mode-may-finally-stop-shutting-down-bluetooth-audio-starting-with-android-11-r/",
+  "word_count": 151
+}

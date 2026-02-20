@@ -49,6 +49,12 @@ from scrapers.tecroom_scraper import TecroomScraper
 from scrapers.androidwedakarayo_scraper import AndroidWedakarayoScraper
 from scrapers.techcyclone_scraper import TechCycloneScraper
 from scrapers.techsayura_scraper import TechSayuraScraper
+from scrapers.technews_scraper import TechNewsScraper
+# General news scrapers
+from scrapers.colombotimes_scraper import ColomboTimesScraper
+from scrapers.lakvahini_scraper import LakvahiniScraper
+from scrapers.siyathanews_scraper import SiyathaNewsScraper
+from scrapers.asianmirror_scraper import AsianMirrorScraper
 
 
 # Global flag for graceful shutdown
@@ -175,12 +181,17 @@ def get_scraper_class(site_name: str) -> Type[BaseScraper]:
         'androidwedakarayo': AndroidWedakarayoScraper,
         'techcyclone': TechCycloneScraper,
         'techsayura': TechSayuraScraper,
+        'technews': TechNewsScraper,
+        # General news scrapers
+        'colombotimes': ColomboTimesScraper,
+        'lakvahini': LakvahiniScraper,
+        'siyathanews': SiyathaNewsScraper,
+        'asianmirror': AsianMirrorScraper,
     }
     
     site_name_lower = site_name.lower()
-    
     if site_name_lower not in scrapers:
-        available = ', '.join(scrapers.keys())
+        available = ', '.join(sorted(scrapers.keys()))
         raise ValueError(f"Unsupported site '{site_name}'. Available: {available}")
     
     return scrapers[site_name_lower]

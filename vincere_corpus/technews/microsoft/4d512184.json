@@ -1,0 +1,13 @@
+{
+  "body": "Python programming language එකේ නිර්මාතෘවරයා වනGuido van Rossum මහතා2019 වර්ෂයේදී නිළ වශයෙන් ඔහුගේ වෘත්තීය ජීවිතයෙන් විශ්‍රාම ගැනීමට තීරණය කරනු ලැබූ නමුත් මේ වන විට ඔහු එය කම්මැලි සහගත බව ප්‍රකාශ කරමින් නැවතත් Microsoft සමාගමට සම්බන්ධ වීමට කටයුතු කර තිබෙන බව වාර්තා වෙනවා.\n\nI decided that retirement was boring and have joined the Developer Division at Microsoft. To do what? Too many options to say! But it’ll make using Python better for sure (and not just on Windows :-). There’s lots of open source here. Watch this space.\n\nමේ පිළිබඳව ඔහුගේ නිළ Twitter ගිණුම හරහා නිවේදනයක් නිකුත් කරමින් ඔහු ප්‍රකාශ කර සිටින්නේ ඔහු Microsoft සමාගමේ Developer Division එක සමඟින් එකතුවීමට කටයුතු කළ බවත්, ඉදිරියේදී Python භාශාව තවදුරටත් දියුණු කිරීමට සූදානමින් සිටින බවත් ය.\n\nඑමෙන්ම Microsoft සමාගමට එකතු වීම යන්නෙන් Windows වලට පමණක් සීමා වන බව අදහස් නොවන බවත්, Microsoft සමාගම තුළ open source projects ගණනාවක් ක්‍රියාත්මක වන බවත් ඔහු වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමේ වන විට 67 වැනි වියෙහි පසු වන Guido van Rossum මහතා විශ්‍රාම ගැනීමට පෙර Google සමාගම ඇතුළු ආයතන ගණනාවක සේවය කර ඇති අතර, අවසන් වශයෙන් Dropbox සමාගමේ සේවය කර තිබෙනවා.\n\nඑමෙන්ම ඔහු Python ක්‍රමලේඛ භාශාව නිර්මාණය කර තිබෙන්නේ නෙදර්ලන්තයේCentrum Wiskunde & Informatica(CWI), එහෙමත් නැතිනම් ගණිතය හා පරිගණක විද්‍යාව පිළිබඳ ජාතික පර්යේෂණ ආයතනයේ සේවය කරනු ලැබූ කාළසීමාව ඇතුලතදීයි.\n\nමේ වන විට ලොව පුරා machine learning සහ විශේෂයෙන්ම AI projects සඳහා භාවිතා කරනු ලබන ප්‍රධානතම programming language එකක් ලෙස Python language එක ප්‍රසිද්ධියට පත්ව තිබෙනවා.",
+  "category": "microsoft",
+  "date": "2020-11-16",
+  "extraction_timestamp": "2026-02-20T12:08:13.507977",
+  "headline": "Python ක්‍රමලේඛ භාශාවේ නිර්මාතෘවරයා වන Guido van Rossum මහතා Microsoft සමාගමට සම්බන්ධ වෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/python-creator-guido-van-rossum-joins-microsoft/",
+  "word_count": 235
+}

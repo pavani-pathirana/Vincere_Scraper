@@ -1,0 +1,13 @@
+{
+  "body": "Android ජංගම දුරකථන ඉලක්ක කරගෙන Google Play Store එක හරහා විවිධ වර්ගයේ විනාශකාරී apps publish කිරීම් ගණනාවක් පසුගිය වසර කිහිපය තුළ වාර්ථා වුණා.\n\nඒ අතරින් පසුගිය සැප්තැම්බර් මාසයේbanking apps නමින් පෙනී සිට දත්ත සොරකම් කළ apps කිහිපයක් ගැනමෙන්ම පසුගිය මැයි මාසයේදීමෙවැනි අනතුරුදායක apps සහ ඒවායෙන් බේරී සිටින ආකාරය ගැනඔබව දැනුවත් කළා මතක ඇති.\n\nඔන්න දැන්ESET ආයතනයේසේවය කරනු ලබනLukas Stefankoනමැති security researcher වරයෙකු විසින් Google Play Store එක හරහා malware වර්ගයේ virus එකක් සහිත apps 13ක් හඳුනාගෙන ඒ පිළිබඳ ප්‍රකාශයට පත් කිරීමට පසුගිය දිනක කටයුතු කළා.\n\nමෙම apps සියල්ලම පාහේsimulator gamesආකාරයෙන් පෙන්වා තිබූ අතර සියල්ල එකතුව ගත් විට මිලියන භාගයකට අධික ප්‍රමාණයක downloads ප්‍රමාණයක් සිදු කර තිබෙනවා. එමෙන්ම Google Play Store එකෙහි Trending ලැයිස්තුවට ද මේ app වලින් කිහිපයක් ඇතුළු වීමට සමත් වී තිබෙනවා.\n\nApp functionality demonstrationpic.twitter.com/11HskeD56S\n\nමේ සියළුම apps, Luiz O. Pinto නම් වූ එකම developer account එකක් හරහා publish කිරීමට කටයුතු කර තිබූ අතර මෙම apps install කිරීමෙන් අනතුරුව තවත් apk එකක් install කිරීමට පරිශීලකයා යොමු කරවන බව ඔහු වැඩිදුරටත් පෙන්වා දෙනවා.\n\nකොහොම නමුත් මේ වන විට Google සමාගම විසින් මේ apps 13 තම Play Store එකෙන් ඉවත් කිරීමට කටයුතු කර තිබෙනවා. එසේ වුවත් අත්වැරදීමකින් හෝ ඔබත් මෙම ගොන්නට අයත් වන app එකක් install කරගෙන සිටිනවා නම් එය වහාම ඉවත් කිරීමට කටයුතු කිරීමෙන් ඔබගේ දත්ත තවදුරටත් පිටවීම වැලැක්වීමට රුකුළක් වනු ඇත.",
+  "category": "android",
+  "date": "2018-11-27",
+  "extraction_timestamp": "2026-02-20T12:19:40.082070",
+  "headline": "මිලියන භාගයක් පමණ download කරගත් Malware සහිත Apps 13ක් Play Store එකෙන් ඉවත් කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-removes-13-apps-from-google-play-store-citing-malware/",
+  "word_count": 212
+}

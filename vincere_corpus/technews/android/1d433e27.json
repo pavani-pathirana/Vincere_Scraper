@@ -1,0 +1,13 @@
+{
+  "body": "බොහෝ විට Google Play Store එක හරහා අලුතින් නිකුත් වීමට නියමිත apps සඳහා pre-register වීම අපි නිතරම කරන දෙයක් වන නමුත්, මේ app එක නිකුත් කළ විට නැවතත් Play Store එකට ගොස් එය manually install කිරීමට අපට සිදු වෙනවා.\n\nමේ ගැටළුවට පිළියමක් ලෙස මෙලෙස pre-register වූ apps අදාල පරිශීලකයා වෙත available වූ විට, එය ස්ව්‍යංක්‍රීයව අදාල ජංගම දුරකථනයේ install වීමේ පහසුකමක් හඳුන්වාදීමට මේ වන විට Google සමාගම කටයුතු කර තිබෙනවා.\n\nඔබට දැනටමත් මෙම පහසුකම ලැබී ඇත්දැයි දැන ගැනීම සඳහා Play Store එක වෙත ගොස්Hero of Empireවැනි තවමත් pre-register වීමට පමණ ලබාදෙන යෙදුමක් වෙත ගොස් pre-registration button එක click කරන්න.\n\nඔබට මෙම පහසුකම දැනටමත් ලැබී ඇත්නම් 'Done' සහ 'Also install when available' ලෙස තෝරාගැනීම් දෙකක් ලැබෙනු ඇත.\n\nමෙහිදී ඔබ Also install when available select කලහොත් එම යෙදුම available වූ පසු ඔබගේ device එකට automatically install වන අතර ඔබ done select කලහොත් ඔබ තෝරාගත් application එක available වූ පසු notification එකක් මගින් දැනුම්දෙනු ලැබේ.\n\nකෙසේ වුවත් මෙහි automatically install වන පහසුකම තෝරාගත් පසු application එක download වීම සිදුවනු ඇත්තේ ඔබගේ device එක wifi connect වී ඇත්නම් පමණක් බවAndroid Policeවෙබ් අඩවිය පෙන්වා දෙනු ලබනවා.\n\nමේ පහසුකමPlay Store version 19.8.15-all [0] [PR] 307848585සංස්කරණයේ සහ ඊට පසුව නිකුත් වූ සංස්කරණ වල ඇතැම් පරිශීලකයින් පිරිසකට පමණක් තවමත් ලබාදී ඇති අතර ඉදිරියේදී සියළුම පරිශීලකයින් හට ලබාදීමට Google සමාගම කටයුතු කරනු ඇත.",
+  "category": "android",
+  "date": "2020-05-02",
+  "extraction_timestamp": "2026-02-20T12:12:44.509204",
+  "headline": "Pre-register වූ apps නිළ වශයෙන් available වූ විට ස්ව්‍යංක්‍රීයව install වීමේ පහසුකමක් Play Store එකට එකතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-play-store-install-when-available-app-game-pre-registration/",
+  "word_count": 214
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Twitter mobile app වලට Dark mode එක හඳුන්වා දී මේ වන විට බොහෝ කාලයක් ගත වෙලා තිබෙනවා.\n\nකොහොම නමුත් මේ Twitter app එක භාවිතා කරන බොහෝ දෙනෙකු හට මේ Dark mode එකට භාවිතා කර තිබූ තද නිල් පැහැයට හුරු වර්ණය ගැටළුවක් වී තිබුණු බවTwitter ආයතනයටදැනගැනීමට ලැබී ඇති අතර මේ වන විට මෙම Dark mode පහසුකම වෙනුවෙන් කළු වර්ණය භාවිතා කළ හැකි ක්‍රමයක් ලබා දීමට ඔවුන් කටයුතු කරමින් පවතිනවා.\n\nමේ අනුව Dark mode option එක on කළ පසු Dim, Lights out යනුවෙන් තවත් options දෙකක් දකින්නට ලැබෙන අතර, Dim යන option එක හරහා දැනට පවතින Dark mode එකත්, Lights out යන option එක හරහා මේ අලුත් true black dark mode එකත් enable කරගැනීමේ හැකියාව පවතිනවා.\n\nDark mode එක හඳුන්වා දීමට ප්‍රධාන සාධක ද්විත්වය වන අඳුරේදී ඇස් වලට පහසුවක් ගෙනදීම හා Battery power එක ඉතිරි කරගැනීම යන කරුණු දෙක අතුරින්, මේ battery power එක ඉතිරිකරගැනීමට නම් අදාල device එකේAMOLED displayඑකක් තිබිය යුතු වන අතර, අදාල app එකේ පවතින dark mode එක සැබැවින්ම කළු වර්ණය යොදාගෙන නිර්මාණය කර තිබීම අනිවාර්යය වෙනවා.\n\nසැබැවින්ම මෙම power saving එක සිදු වන්නේ AMOLED Display  කළු වර්ණය පෙන්වන ස්ථානයන්හි පවතින LED සියල්ල නිවා දමන බැවින්, ඒ සඳහා යන විදුලි බළය ඉතිරි වීම මගිනි.\n\nඉතින් සැබෑ කළු වර්ණය වෙනුවට නිල් වර්ණයක් භාවිතා කර තිබුණහොත් එම ක්‍රියාවලිය සිදු නොවන බව දැන් ඔබට පැහැදිලි වනු ඇත.\n\nමේ අලුත් option එක තවමත් iOS භාවිතා කරන්නන් හට පමණක් ලබා දී තිබෙන අතර ලඟදීම Android හා Twitter web පරිශීලකයන් හට ද ලබා දීමට Twitter සමාගම බළාපොරොත්තු වන බව වාර්ථා වෙනවා.\n\nIt was dark. You asked for darker! Swipe right to check out our new dark mode. Rolling out today.pic.twitter.com/6MEACKRK9K\n\nකොහොම නමුත් iPhone වල AMOLED Display අන්තර්ගත වන්නේ iPhone X හා ඊට පසුව නිකුත් වූ devices වල පමණක් වන අතර, ඒ අතරින් ද iPhone XR හි භාවිතා වන්නේ සාම්ප්‍රදායික LCD Display එකකුයි.\n\nඉතින් iOS භාවිතා කරන බහුතරයක් දෙනා හට මේ true black dark mode එකෙන් ලබාගතහැකි සැබෑ වටිනාකම ලබාගැනීමේ හැකියාව ඒ මගින් අහිමි වී යනවා.",
+  "category": "social-media",
+  "date": "2019-03-29",
+  "extraction_timestamp": "2026-02-20T12:20:24.546135",
+  "headline": "Twitter Mobile වලට true black night mode එකක් එකතු කිරීමට Twitter සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/twitter-for-mobile-is-getting-a-true-black-night-mode/",
+  "word_count": 320
+}

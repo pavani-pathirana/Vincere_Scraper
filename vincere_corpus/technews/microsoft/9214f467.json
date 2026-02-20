@@ -1,0 +1,13 @@
+{
+  "body": "Windows 10 එක ඕනම device එකකට, විශේෂයෙන්ම මිලෙන් අඩු low-spec devices වලටත් හරියන විදිහට නිර්මාණය කරන්න Microsoft එක ගොඩක් මහන්සි වුණා.\n\nගොඩක් වෙලාවට මේ වගේ devices නිර්මාණය කලේ ශිෂ්‍යයන් වගේ අඩු මිල ගණන් යටතේ තමන්ට එදිනෙදා කටයුතු කරගන්න ක්‍රමයක් අවශ්‍යය පිරිස ඉලක්ක කරගෙනයි. මේ වගේ laptop එකකින් web browse කරන්න, email send කරන්න, code කරන්න එහෙමත් නැත්තම් videos බලන්න වගේ එදිනෙදා කටයුතු ඉතාමත් පහසුවෙන් කරගන්න පුළුවන් වගේම දරන්න වෙන මූලික වියදමත් ගොඩක් අඩුයි.\n\nගොඩක් වෙලාවට මම අර උඩ සඳහන් කරපු devices නිර්මාණය කරලා තියෙන්නේ 32GB Flash Memory එකක් එක්ක. මේකෙන් device එකේ power save කරගන්න පුළුවන් වගේම, speed එකත් ගොඩක් වැඩි වෙනවා. මේ කොහොම වුණත්, Windows updates ගැන කතා කරද්දී නම් මේක ටිකක් වෙනස් වෙනවා. මේ 32GB storage එක Windows install කරන්න සහ මූලික apps ටික install කරන්න ඇති වුණාට Windows update  කරන්න මදි කියලා තමයි සඳහන් වෙන්නේ.\n\nLaptops විකුණන shop එකකදී  මේ පිළිබඳ video එකක් කරලා තියනවා. මේ video එකේ හැටියට මේ spec එකේ තියන හැම laptop එකකම වගේ storage space එක මදි වීම හේතුවෙන් Windows update කරන්න බැහැ කියන notification එක දකින්නට ලැබෙනවා.\n\nනමුත් ඔයාට clean install එකක් කරන්න පුළුවන් මේ 32GB storage එක තියාගෙනම. මේ පිළිබඳවWindows 10 system requirementspage එකෙත් විශේෂයෙන් සඳහන් කරලා තියනවා.\n\n“Small storage devices, like devices with 32GB hard drives or older devices with full hard drives, may need additional storage to complete the upgrade. You'll see instructions during the upgrade telling you what to do. You may need to either remove unneeded files from your device, or insert a USB flash drive to complete the upgrade,”-Microsoft\n\nඒ වගේම තමන්ගේ files හැම එකක්ම cloud එකේ තියාගන්න කියලා Microsoft එකෙන් තවදුරටත් කියනවා. මේ මගින් Windows වලට run වෙන්න අවශ්‍යය කරන local storage එක පවත්වාගෙන යන්න පුළුවන් වෙනවා. නමුත් ඉතින් ගොඩක් අපි වගේ අයට cloud storage භාවිතා කරන්න තාමත් තියන බාධක වැඩියි.\n\nකොහොම වුණත්, ඔයා අඩු මිළ Laptop එකක් හෝ 32GB storage එකක් තියන භාවිතා කරපු device එකක් එහෙම ගන්න හිතාගෙන ඉන්නවා නම්, ඒක කරන්න කලින් දෙපාරක් හිතන්න වෙනවා.",
+  "category": "microsoft",
+  "date": "2018-05-28",
+  "extraction_timestamp": "2026-02-20T12:13:40.928753",
+  "headline": "32GB Storage එකක් සහිත Windows 10 PC එකක් හොඳ තේරීමක් නොවන හේතුව මෙන්න",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/32gb-storage-windows-10-pc/",
+  "word_count": 323
+}

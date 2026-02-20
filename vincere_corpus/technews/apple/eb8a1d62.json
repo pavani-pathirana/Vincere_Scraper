@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මාසයේ පැවැත්වූ WWDC 2020 event එක අතරතුරදී iOS 14 සංස්කරණය පිළිබඳව තොරතුරු අනාවරණය කිරීමට Apple සමාගම කටයුතු කළ අතර ඒ පිළිබඳව වැඩිදුර තොරතුරු මින් පෙර ලිපියක් මඟින් අප ඔබව දැනුවත් කිරීමට කටයුතු කරනු ලැබුවා.\n\nWWDC 2020 event එක පැවැත්වීමෙන් අනතුරුව පළමු developer beta එක, ඒ සඳහා ලියාපදිංචි වූ testers ලා වෙත ලබාදීමට කටයුතු කල අතර එහිදී Apple සමාගම විසින් ජූලි මාසයේදී සෙසු පරිශීලකයින් සඳහා public testing build එකක් ලබා දෙන බවද නිවේදනය කරනු ලැබුවා.\n\nමේ වන විට මෙම public beta එක නිකුත් කිරීමට කටයුතු කර ඇති අතර iOS 14 සඳහා නිකුත් කරන ලද පළමු public beta version එක මෙය වන නමුත්, මෙය testing version එකක් වන බැවින් දෝෂ තිබීමට ඉඩ ඇති බැවින්, මෙම public beta එක ඔබ එදිනෙදා භාවිතා කරන primary device එකෙහි install කර ගැනීමෙන් වැලකී සිටින ලෙස Apple සමාගම විසින් වැඩිදුරටත් දැනුම් දී ති‍බෙනවා.\n\nPublic beta build එක මඟින් developer account එකක් නොමැති පරිශීලකයින් හට home screen එකෙහි widgets ලබාගැනීම, App Library, picture-in-picture (PIP), App Clips, නව iMessage වැඩිදියුණු කිරීම් වැනි iOS 14 වල ඇතුලත් වනනව විශේෂාංග සියල්ලමඅත්හදා බැලීමට අවස්ථාව ලැබෙනවා.\n\niPhone 6S සහ ඉන් පසුව නිකුත් කළ iPhones භාවිතා කරන සියළුම පරිශීලකයින් සඳහා iOS 14 සංස්කරණයෙහි stable build එකක් සැප්තැම්බර් මාසයේදී නිකුත් කිරීමට Apple සමාගම සූදානමින් සිටිනවා.",
+  "category": "apple",
+  "date": "2020-07-11",
+  "extraction_timestamp": "2026-02-20T12:10:42.356883",
+  "headline": "Apple සමාගම විසින් iOS 14 සංස්කරණයේ පළමු public beta එක නිකුත් කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-officially-launches-ios-14-public-beta/",
+  "word_count": 201
+}

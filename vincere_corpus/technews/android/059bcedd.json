@@ -1,0 +1,13 @@
+{
+  "body": "ලොව ජනප්‍රියතම web browser එක Google Chrome browser එක බව ඔබ දැනටමත් දන්නවා ඇති.\n\nඑමෙන්ම Android පරිශීලකයින් බොහෝ දෙනෙක් භාවිතා කරනු ලබන primary web browser එකද Google Chrome වන අතර, මේ හේතුවෙන්ම‍‍ Google සමාගම විසින් නිරන්තරයෙන් ලබාදෙන අලුත් පහසුකම් ලොව පුරා බොහෝමයක් දෙනා හට එක විටම භාවිතා කළ හැකි වෙනවා.\n\nඔන්න දැන්, මේ අලුත් පහසුකම් අතරට download scheduler එකක් ලබාදීමට Google සමාගම කටයුතු කරමින් සිටින අතර ඒ අනුව ඔබට යම් කිසි file එකක් download කිරීමට අවශ්‍යය දිනය සහ වේලාව කලින් සකස් කර තැබිය හැකි වෙනවා.\n\nඑසේ සකස් කර තබන දිනය සහ වේලාවට අනුව අදාල file එක ස්ව්‍යංක්‍රීයව download වීම සිදු වන අතර විශේෂයෙන්ම ශ්‍රී ලංකාව වැනි රටවල night-time data භාවිතා කරනු ලබන පිරිසට මේ පහසුකම ඉතාමත් වැදගත් වනු නොඅනුමානය.\n\nමෙය තවමත් පරීක්ෂණ මට්ටමේ තිබෙන පහසුකමක් වන අතර ඔබGoogle Chrome Canary සංස්කරණයභාවිතා කරන්නේ නම්,chrome://flagsයන්න address bar එක මත type කර මීළඟට ලැබෙන පිටුවේ ඇතිEnable download laterයන option එක enable කිරීමෙන් මෙය භාවිතා කළ හැකි වෙනවා.\n\nකොහොම නමුත් මේ පහසුකම සාමාන්‍යය පරිශීලකයින් හට ලබාදීමට නියමිත වන දිනයක් පිළිබඳව තවමත් වාර්ථා නොවන නමුත්, ඉතාමත් ඉක්මණින්ම මෙය stable සංස්කරණයට එකතු කිරීමට Google සමාගම කටයුතු කරනු ඇති බව අනුමාන කළ හැකි වෙනවා.",
+  "category": "android",
+  "date": "2020-07-20",
+  "extraction_timestamp": "2026-02-20T12:10:31.497871",
+  "headline": "Google Chrome භාවිතා කරන Android පරිශීලකයින් හට Download scheduler එකක් ලබාදීමට Google සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-chrome-for-android-is-getting-a-download-scheduler/",
+  "word_count": 187
+}

@@ -1,0 +1,13 @@
+{
+  "body": "කුඩා WordPress වෙබ් අඩවි වල සිට Facebook වැනි විශාල වෙබ් අඩවි දක්වා PHP භාවිතා කරමින් නිර්මාණය කර ඇති බව තාක්ෂණය ගැන උනන්දු ඔබ දැනටමත් දන්නවා ඇති.\n\nබොහෝ දෙනාගේ සිත දිනාගත් මේ programming language එක open source එකක් වන අතර, මේ වන විට එහි 8.0.3 වැනි stable සංස්කරණය නිකුත් කිරීමට කටයුතු කර තිබෙනවා.\n\nකොහොම නමුත් පසුගියදා හඳුනා නොගත් හැකර්වරයෙකු විසින් මේ PHP Language එකේ source code එක store කර ඇති නිළ Git server එක (git.php.net) හැක් කර, එහි source code එකේ ඇතැම් තැන් වෙනස් කිරීමට කටයුතු කර ඇති බව වාර්තා වුණා.\n\nPHP Language එකේ author වරයෙකු වන Rasmus Lerdorf ගේ නම සහ Jetbrains ආයතනයේ සේවය කරන software developer කෙනෙකු වන Nikita Popov ගේ නම භාවිතා කරමින් මෙලෙස \"php-src\" repository එකට එකතු කළ commits දෙකක් හරහා, PHP source code එකේ backdoor එකක් නිර්මාණය කිරීමට මෙම හැකර්වරයා කටයුතු කර තිබෙනවා.\n\nඉහත code segment එක හරහා HTTP_USER_AGENTT නමැති HTTP header එකක් භාවිතා කරමින් අදාල server එක වෙත එවන commands වලින් \"zerodium\" යනුවෙන් ආරම්භ වන commands පමණක් execute කරන ලෙස සකස් කර තිබෙනවා.\n\nමේ ආකාරයෙන් වෙනස් කළ source code එක මගින් ක්‍රියාත්මක වන වෙබ් server එකක් වෙත අදාල backdoor එක හරහා commnds ලබාදීම මගින් එම server එකට පිවිසීමට අදාල හැකර්වරයාට හැකියාව ලැබෙනවා.\n\nකොහොම නමුත් මේ වන විට මෙම change එක නැවතත් යථා තත්ත්වයට පත් කිරීමට මොවුන් කටයුතු කර ඇති අතර, තමන්ගේම Git server එකක් භාවිතා කරනු වෙනුවට, PHP source code එක GitHub වෙත ගෙන ඒමට තීරණය කර ඇති අතර, මින් පසුව PHP Source code එකට contribute කිරීම සඳහා, GitHub සේවාවේ ඇති organization feature එක හරහා අවසර ලබාගත යුතු වෙනවා.",
+  "category": "security",
+  "date": "2021-03-31",
+  "extraction_timestamp": "2026-02-20T12:06:23.045257",
+  "headline": "PHP language එකේ නිළ Git server එක hack කර PHP source code එකට Backdoor එකක් ඇතුළු කිරීමට හඳුනා නොගත් හැකර්වරයෙකු කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/phps-git-server-hacked-to-insert-secret-backdoor-to-its-source-code/",
+  "word_count": 254
+}

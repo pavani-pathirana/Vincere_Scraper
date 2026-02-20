@@ -1,0 +1,13 @@
+{
+  "body": "2018 වර්ෂයේදී Microsoft සමාගම විසින්GitHub එක මිලට ගැනීමට කටයුතු කළ බවත්, ඉන් පසුව private repositories නොමිලයේ නිර්මාණය කිරීමේ හැකියාව ලබාදුන් බවත් අපි ඔබව මීට පෙර දැනුවත් කළා මතක ඇති.\n\nඔන්න දැන් මේ GitHub සේවාව සඳහා mobile app එකක් එළිදැක්වීමට මොවුන් කටයුතු කර ඇති අතර මේ වන විටiOSසහAndroidයන platforms භාවිතා කරන්නන් හට මෙය නිකුත් කිරීමට GitHub ආයතනය කටයුතු කර තිබෙනවා.\n\nමේ app එකේ ප්‍රධාන අරමුණ වී තිබෙන්නේ developer වරුන් තමන්ගේ පරිගණකයෙන් බැහැරව සිටින අවස්ථා වලදී පහසුවෙන් තම projects manage කරගැනීමට හැකියාව ලබාදීම වන අතර tasks organize කරගැනීමට, issues සඳහා feedbacks ලබාදීමට, comments සඳහා respond කිරීමට මෙන්ම review සහ pull requests merge කිරීමට ද මේ mobile app එක හරහා හැකියාව ලැබෙනවා.\n\nමේ app එක හරහා අදාල repository එක තුළ ඇති code බැලීමට හැකියාව ලැබෙන නමුත් ඒවා edit කිරීමේ හැකියාව නම් තවමත් ලබා දී නැහැ.",
+  "category": "android",
+  "date": "2020-03-18",
+  "extraction_timestamp": "2026-02-20T12:13:11.667101",
+  "headline": "Android සහ iOS සඳහා GitHub Mobile App එකක් නිකුත් කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/githubs-new-mobile-app-is-now-available-on-ios-and-android/",
+  "word_count": 132
+}

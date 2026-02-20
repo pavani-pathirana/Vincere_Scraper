@@ -1,0 +1,13 @@
+{
+  "body": "මේ වන විට ජංගම දුරකතනයක් මිලදී ගැනීමේදී එහි ඇති camera එක පිළිබදව දක්වන උනන්දුව වැඩි වී තිබෙන අතර බොහෝ දුරකථන වල මිලද ජංගම දුරකතනවල කැමරාවට අනුව වැඩි වී තිබෙනවා.\n\nලොව අංක එකේ ජංගම දුරකතන නිශ්පාදන සමාගමක් වන Samsung සමාගම විසින් megapixel 200 ක ජංගම දුරකතන කැමරා සංවේදකයක් (Mobile Phone Camera Sensor එකක්) හඳුන්වා දී ඇති අතර මෙය යම්තාක් දුරකට ලෝකයේ මෙතෙක් නිශ්පාදනය කළ ඉහළම resolution එකක් සහිත ජංගම දුරකතන කැමරා සංවේදකයද වෙනවා.\n\nISOCELL HP1 සංවේදකයෙහි pixel 0.64μm ඇති අතර ඒවායින් 16ක් එකවර megapixel 12.5 ක සංවේදකයක් වන pixel 2.56μm සමග bin කළ හැකිවෙනවා.\n\nSamsung සමාගමෙහි ISOCELL HP1 සංවේදකයෙහි Pixel Bin කිරීමේ තාක්ෂණය\"ChameleonCell\"ලෙස හඳුන්වනු ලබන අතරමෙමHP1 සංවේදකයෙහි 2 by 2 Pixel Bin කිරීමේ ක්‍රමයමගින්8K Videosලබාගැනීමේ හැකියාවද ලබා දී තිබෙනවා.\n\nසම්මත 8K(7,680 x 4,320) දසුන් megapixel 50 වඩා අඩු වුවද , මෙම සංවේදකය හරහා cropනොකර8K Videos ලබා ගැනීමේ හැකියාව ලැබෙන බව එම Samsung සමාගම විසින් වැඩිදුරටත් පෙන්වාදෙනවා.\n\nISOCELL GN5සංවේදකය සදහා Samsung ආයතනය භාවිතා කරනFDTI (Front Deep Trench Isolation)තාක්ෂණය මගින් සෑම Pixel එකක් තුලම අර්ධ පරිවාරකයක් නිර්මාණය කරන අතර autofocusing විශේෂාංගය සහ ලබාගන්නා images වල ගුණාත්මකභාවය ඉතාමත් ඉහළ වන බවද Samsung ආයතනය පෙන්වා දෙනවා.\n\nපළමුවන සංවේදකයේ සියලුම ප්‍රදේශ ආවරණය වන පරිදි මෙයට අදියර මිලියනයක් හදුනාගත හැකි multi-directional photodiodes මගින් autofocus වීම ක්ශණිකව සිදු වන අතර, එමගින් දීපතිමත් හා අඩු අලෝකයක් තුළ ඉතාමත් පැහැදිලි images ලබාගැනීමේ හැකියාව එහිබෙනවා.",
+  "category": "technology",
+  "date": "2021-09-11",
+  "extraction_timestamp": "2026-02-20T12:03:57.119382",
+  "headline": "Samsung සමාගම Megapixel 200 ක Mobile Camera Sensor එකක් හඳුන්වා දෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/samsung-isocell-hp1-gn5-200-megapixel-camera-sensor-announced/",
+  "word_count": 214
+}

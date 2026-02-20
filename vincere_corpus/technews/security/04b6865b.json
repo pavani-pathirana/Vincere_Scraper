@@ -1,0 +1,13 @@
+{
+  "body": "පරිඝනක ආරක්ෂාව පිළිබඳ වූ පර්යේෂකයෙකු විසින් iPhone එකක් crash කළ හැකි අළුත් ක්‍රමයක් සොයාගෙන ඇති අතර මේ හරහා අදාල devices එක restart වීමක් සිදු වෙන බව පෙන්වා දී ඇත.\n\nSabri Haddoucheනම් වූ පුද්ගලයා විසින් සොයාගෙන ඇති මෙම දුර්වලතාවය හරහා CSS code lines 15ක් පමණක් භාවිතා කර iPhone එකක් හෝ iPad එකක් crash කිරීමට හැකියාව ඇති අතර එම code එක භාවිතා කිරීමෙන් macOS එක මත ධාවනය වන Safari web browser එකද freeze වන බව පෙන්වා දී ඇත.\n\niOS වලදී භාවිතා වනweb rendering engine එකවනWebKitවල ඇති දුර්වලතාවයක් හේතුවෙන් මෙය සිදුවන බව පෙන්වා දෙන ඔහු, Twitter පණිවිඩයක් මගින් මෙය ප්‍රකාශයට පත් කර තිබෙනවා.\n\nHow to force restart any iOS device with just CSS? 💣Source:https://t.co/Ib6dBDUOhnIF YOU WANT TO TRY (DON’T BLAME ME IF YOU CLICK) :https://t.co/4Ql8uDYvY3\n\nNested, එහෙමත් නැතිනම් එකක් තුල එකක් ඇති<div>tags විශාල ප්‍රමාණයකටCSS filterproperty එකක් ලබා දීම මගින් මෙය සිදු වන අතර එය පෙන්වීම සඳහා අදාල device එකේ තිබෙන RAM, Processing power එක ඇතුළු සියළුම resources පාහේ භාවිතා කිරීමට තැත් කිරීම නිසාවෙන් සිදුවනkernel panicඑකක් නිසාවෙන් මේ ආකාරයට එම device එක restart වීම සිදු වන බව ඔහු වැඩි දුරටත් පෙන්වා දී තිබෙනවා.\n\nමේ ගැන තවදුරටත් අදහස් දක්වමින් ඔහු පෙන්වා දී තිබෙන්නේ iOS මතදී HTML render කරනු ලබන ඕනෑම app එකක් මෙම ක්‍රමය මගින් අවධානමට ලක් වන අතර ඒ අතර Facebook, Twitter හෝ වෙනත් ඕනෑම app එකකින් වෙබ් පිටුවක් open කිරීම හෝ email එකක් open කිරීම වැනි සුළු කටයුත්තක් පමණක් වුවත් ප්‍රමාණවත් වන බවයි.\n\nමෙම දුර්වලතාවයට අළුතින්ම නිකුත් කරන ලද iOS 12 beta version එකද ඇතුලත් වන බව වෙනත් පර්යේශකයින් විසින් පෙන්වා දී තිබෙන අතර මෙයින් පහසුවෙන් ගැලවීමට ක්‍රමයක් නැති අතර ඕනෑම වේලාවක අදාල link එකක් මත එක් වරක් tap කිරීමකින් පමණක්ම මෙය සිදුවිය හැකි බව ඔවුන් පෙන්වා දෙනවා.\n\nකොහොම නමුත් ‌මෙම දුර්වලතාවය හරහා දත්ත ‌සොරාගැනීමට හෝ වෙනත් අනතුරුදායක code එකක් execute කිරීමට attack කරන්නාට අවස්ථාවක් නොමැති බැවින් මෙහි අවධානම අඩු බව අදාල පර්යේෂකයන් වැඩිදුරටත් ප්‍රකාශ කරනවා.\n\nඉතින් ඔයත් මේ ගැන උනන්දුයි නම්,මේ linkඑක හරහා ගිහින් අදාල code එක බලන්න පුළුවන්. Code එක බැලීමෙන් crash වීමක් සිදු නොවන නමුත්මේ link එකclick කිරීම මගින් නම් crash වීමත් සිදු වෙනවා. ඒ නිසා iPhone භාවිතා කරන කෙනෙක් නම්, ඒ මත click නොකරන ලෙස මතක් කර සිටිමු.",
+  "category": "security",
+  "date": "2018-09-16",
+  "extraction_timestamp": "2026-02-20T12:17:02.151309",
+  "headline": "CSS හරහා iPhone එක crash කර restart කළ හැකි ක්‍රමයක් සොයා ගැනේ",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/a-new-css-based-web-attack-will-crash-and-restart-your-iphone/",
+  "word_count": 349
+}

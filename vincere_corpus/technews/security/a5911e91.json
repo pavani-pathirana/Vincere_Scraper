@@ -1,0 +1,13 @@
+{
+  "body": "FBI ආයතනයේ Email system එක හැක් කර, ඒ හරහා ව්‍යාජ email යැවීමට හැකර්වරයෙකු කටයුතු කර ඇති බව මේ වන විට වාර්තා වෙනවා.\n\n[email protected]යන Email ලිපිනය හරහා Urgent: Threat actor in systems යන Subject එක සහිතව පහත email එක 100,000කට අධික පිරිසකට යැවීමට කටයුතු කර තිබෙන අතර මෙහි විශේෂත්වය වන්නේ මෙම email එක ලැබෙන පුද්ගලයාට පෙනෙන්නේ එය FBI ආයතනයේ සැබෑ servers වලින් පැමිණෙන, DKIM verification එක පවා සමාන වන original email එකක් ලෙසයි.\n\nThese emails look like this:Sending IP: 153.31.119.142 (https://t.co/En06mMbR88)From:[email protected]Subject: Urgent: Threat actor in systemspic.twitter.com/NuojpnWNLh\n\nAmerican Registry for Internet Numbers (ARIN) යන database ආධාරයෙන් මෙම email addresses ලබාගෙන ඇති අතර, මුලින්ම මෙම ව්‍යාජ emails පිළිබඳව වාර්තා කර ඇත්තේ Spam යවන්නන්ට එරෙහිව සටන් කරන ලාභ නොලබන ආයතනයක් වනThe Spamhausව්‍යාපෘතියටයි.\n\nමෙම email එකේ අන්තර්ගතය අනුව, Security Researcher කෙනෙකු වන Vinny Troia නම් පුද්ගලයෙකු සහ ඔහු සම්බන්ධ යැයි සැලකෙන hacker group එකක් පිළිබඳවත්, ඔහු විසින් සිදු කරනු ලැබූ cyber attack පිළිබඳවත් ව්‍යාජ තොරතුරු ‍එහි ඇතුලත් වෙනවා.\n\nකෙසේ නමුත් Vinny Troia විසින් ඔහුගේ නිළ Twitter ගිණුම හරහා නිවේදනයක් නිකුත් කරමින් ප්‍රකාශ කර සිටින්නේ, මෙම attack එක සිදු කර තිබෙන්නේ Twitter හි@pompompur_inනමින් පෙනී සිටින පුද්ගලයා වන බවත්, attack එක ආරම්භ කළ පසුව නිළ FBI email ලිපිනයක් හරහා \"Hi its pompompurin. Check headers of this email it’s actually coming from FBI server.\" යනුවෙන් තමාට email එකක් එවීමට ඔහු කටයුතු කළ බවත් ය.\n\nමේ පිළිබඳව නිළ නිවේදනයක් නිකුත් කරමින් FBI ආයතනය ප්‍රකාශ කර සිටින්නේ මෙම සිද්ධියට අදාල hardware, එනම් servers offline (Network පද්ධතියෙන් වෙන් කිරීම හෝ shutdown කිරීම) කිරීමට කටයුතු කර ඇති බවයි.\n\nමේ පිළිබඳව වැඩිදුරටත් අදහස් දක්වමින් FBI ආයතනය ප්‍රකාශ කරන්නේ අදාල හැකර්වරයා හට ඔවුන්ගේ අනෙකුත් තොරතුරු පද්ධති වලට access ලබාගැනීමට නොහැකි වී ඇති බවත්, අදාල server එක FBI ආයතනයේ corporate email සේවාවට සම්බන්ධ නොවන, නමුත් notifications යැවීම සඳහා භාවිතා කළ එකක් බවත්, මේ හරහා email ලැබුණු සියළුදෙනා ඒ පිළිබඳව දැනුවත් කිරීමට කටයුතු කරනු ලැබූ බවයි.\n\nඑමෙන්ම මෙම ගැටළුව ඇතිවීමට මූලික වූ software vulnerability එක, එනම් දුර්වලතාවය ද මේ වන විට නිරාකරණය කිරීමට ඔවුන් කටයුතු කර ඇති බව FBI ආයතනය පෙන්වා දෙනවා.",
+  "category": "security",
+  "date": "2021-11-15",
+  "extraction_timestamp": "2026-02-20T12:05:23.291551",
+  "headline": "FBI ආයතනයේ Email Servers Hack කර, Cyber ආරක්ෂාව පිළිබඳ ව්‍යාජ Email යැවීමට හැකර්වරයෙකු කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/the-fbis-email-system-was-hacked-to-send-out-fake-cybersecurity-warnings/",
+  "word_count": 328
+}

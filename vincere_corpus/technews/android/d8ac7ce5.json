@@ -1,0 +1,13 @@
+{
+  "body": "ගොඩක් වෙලාවට අපිAndroid Go version එකවගේ performance අඩු platform සඳහා විශේෂයෙන් නිර්මාණය කරලා තිබෙනGoogle Maps Go,Instagram LiteසහTwitter Liteවගේ apps ගැන දැනටමත් දන්නවා.\n\nඒත් ගොඩ දෙනෙකුට මේ apps මේ තරම් light-weight වෙන්න හේතුව ‍හෝ මේවා වැඩ කරන විදිහ ගැන තාමත් ලොකු අදහසක් නැහැ.\n\n2017 වර්ෂයේ පැවත්Chrome Dev Summit event එකඅතරතුරදීTrusted Web Activities(TWA) යනුවෙන් අලුත් concept එකක් ගැන පැහැදිලි කිරීමට Google සමාගම කටයුතු කළා සමහර විට ඔබට මතක ඇති.\n\nමේ වැඩසටහන හරහා Native Android activity එකක් භාවිතා කරමින් Web App එකක් full screen ආකාරයෙන් පෙන්වීමේ පහසුකම ලැබුණුත්, මේ වන විටත් ඔබ දන්නවා ඇතිApache Cordovaවගේ platform වලත් මේ දේම වෙනවා කියලා.\n\nඉතින් මේ TWA වල තියන වෙනස තමයි, මේක වැඩ කරන්නේ අදාල phone එකේ තිබෙන default web browser එක හරහා වීමයි. ඒ වගේම මේ හරහා website එකට අදාල files offline assets විදිහට (Cordova based apps වල වගේ) තියාගන්නේ නැහැ.\n\nAndroid සඳහා වන Google Chrome browser එකේ 68 වන version එකත් එක්ක මේ TWA පරීක්ෂා කරන්නට ඔවුන් කටයුතු කර තිබුණු අතර දැන් Chrome 72 සංස්කරණයත් සමඟින් මේ හරහා නිර්මාණය කරනු ලබන apps, Google Play Store එකට publish කිරීමේ හැකියාව ලබා දී තිබෙනවා.\n\nTWA, the API, shipped in Chrome 72. We are late getting the materials out to support that.\n\nමේ පිළිබඳව Web App developer කෙනෙකු වනMaximiliano Firtmanවිසින් මෙම අවස්ථාව මුලින්ම දැක තිබෙන අතර මේ ගැන ඔහු විසින් blog post එකක් ද ලියන්නට කටයුතු කර තිබෙනවා.\n\nකොහොම වුණත් තවමත් Google සමාගම විසින් මේ ගැන නිළ ප්‍රකාශයක් නිකුත් කර නැතත්, Google Chrome Development team එකේ ප්‍රධානියා වනPaul Kinlanවිසින් Twitter පණිවිඩයක් හරහා මෙම පහසුකම Chrome 72 සංස්කරණයත් සමඟින් නිකුත් කර ඇති බවත් මේ ආකාරයේ apps නිර්මාණය කිරීමට අවශ්‍යය වන දැනුම සහ resources ලබා දීම වෙනුවෙන් ඔවුන් කටයුතු කරමින් සිටින බව සනාථ කර තිබෙනවා.",
+  "category": "android",
+  "date": "2019-02-03",
+  "extraction_timestamp": "2026-02-20T12:18:33.013324",
+  "headline": "Google Play Store එකට Progressive Web Apps ඇතුලත් කිරීමේ හැකියාව ලබා දීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/now-you-can-finally-publish-pwas-on-google-play-store/",
+  "word_count": 276
+}

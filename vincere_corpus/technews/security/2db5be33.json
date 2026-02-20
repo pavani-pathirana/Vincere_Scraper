@@ -1,0 +1,13 @@
+{
+  "body": "Cybersecurity firm එකක් වනSnyk ආයතනයවිසින් iOS apps නිර්මාණය කිරීමේදී භාවිතා කරනු ලබන software development kit (SDK) එකක් තුළ ad-click වංචා සහ පරිශීලකයන්ගේ පෞද්ගලික තොරතුරු එකතු කරනු ලබන code එකක් ඇති බව මේ වන විට අනාවරණය කරගෙන තිබෙනවා.\n\nමේ iOS SDK එක ජනප්‍රිය iOS apps 1,200කට අධික ප්‍රමාණයක අන්තර්ගත වන බවත්, එම apps දැනටමත් install කරගෙන ඇති පරිශීලකයින් ප්‍රමාණය බිලියනය ඉක්මවනු ලබන බවත් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nචීන සමාගමක් වනMobvistaආයතනයට අයත් Mintegral නම් mobile advertising platform එකක් වන මෙහි අන්තර්ගත code segments මගින් අදාල ජංගම දුරකථන හරහා access කරනු ලබන URL, device identifiers, IP Address, operating system version එක සහ තවත් sensitive data එකතු කර ඔවුන්ගේ server එකක ගබඩා කරගැනීමට කටයුතු කරනු ලබන බව මොවුන් වාර්ථා කරනවා.\n\nමීට අමතරව පරිශීලකයා විසින් ads මත click කරනු ලැබූ බවට ව්‍යාජ තොරතුරු සකස් කොට ඒවා එම servers වලට යැවීම මගින් ඒවායේ ආදායම් වලට ද බළපෑමක් එල්ල කරනු ලබන බව මොවුන් පෙන්වා දෙනවා.\n\nමෙම SDK එකේ iOS සඳහා වන 6.3.5.0 යන සංස්කරණයෙහි තිබී මෙම code එක හඳුනාගැනීමට සමත් වී ඇති අතර පරීක්ෂකයින් පෙන්වා දෙන පරිදි 2019 වර්ෂයේ ජුලි 17 වැනි දින නිකුත් කරන ලද 5.5.1 යන සංස්කරණයේ සිට මෙම අනතුරුදායක code segments අන්තර්ගතව තිබී ඇති බව වාර්ථා වෙනවා.\n\nමෙම SDK එක භාවිතා කරමින් නිර්මාණය කරන ලද සම්පූර්ණ apps ලැයිස්තුව මොනවාද යන්න පිළිබඳව හෙළි කිරීමට මෙම පරීක්ෂකයින් කටයුතු කර නොමැති නමුත්Helix Jump, Talking Tom, PicsArt, Subway Surfers සහ Gardenscapes යන apps මෙම අනතුර සඳහා විවෘතව පැවති බව Forbes වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nමේ පිළිබඳව මීට සතියකට පමණ පෙර Apple සමාගමට දැනුම්දීමට Snyk ආයතනයෙහි මෙම පරීක්ෂකයින් කටයුතු කර ඇති අතර මෙම SDK එකේ Android version එකට මෙයින් බළපෑමක් සිදුවී නොමැති බව ද වැඩිදුරටත් සඳහන් කරනවා.",
+  "category": "security",
+  "date": "2020-08-25",
+  "extraction_timestamp": "2026-02-20T12:07:55.656291",
+  "headline": "ජනප්‍රිය iOS Apps 1,200ක පමණ අන්තර්ගත වන SDK එකක් මගින් බිලියනයකට අධික iOS පරිශීලකයින් පිළිබඳව ඔත්තු බලන බව අනාවරණය වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/popular-ios-sdk-caught-spying-on-billions-of-users-and-committing-ad-fraud/",
+  "word_count": 267
+}

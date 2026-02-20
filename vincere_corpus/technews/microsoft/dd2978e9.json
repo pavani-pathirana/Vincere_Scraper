@@ -1,0 +1,13 @@
+{
+  "body": "ඊයේ දිනයේ ආරම්භ වූ Microsoft Build 2021 event එක අතරතුරදී Windows 10 මත සෘජුවම Linux GUI Apps run කිරීමේ හැකියාව ලබාදීමට කටයුතු කරන ලබන බව Microsoft සමාගම නිවේදනය කර සිටියා.\n\nමේ දක්වා Windows 10 මත Windows Subsystem fro Linux, එහෙමත් නැතිනම් WSL හරහා Linux distro එකක්, command line එක හරහා භාවිතා කිරීමේ හැකියාව ලබාදී තිබුණු අතර, දැන් එයින් තවත් පියවරක් ඔබ්බට ගොස් GUI apps run කිරීමේ හැකියාව ද ලබාදී තිබෙනවා.\n\nමූලිකව මෙය පසුගිය අප්‍රේල් මාසයේදී නිකුත් කළ Windows 10 Preview build එක සමඟින් පරීක්ෂා කිරීමට කටයුතු කළ අතර, ඊයේ දිනයේ ආරම්භ වූ Build event එක අතරතුරදී මෙය සියළුදෙනා හට භාවිතා කළ හැකි ලෙස නිකුත් කිරීමට Microsoft සමාගම කටයුතු කරනු ලැබුවා.\n\nමේ අනුව විශේෂයෙන්ම apps develop කරනු ලබන developer වරුන් හට තමන්ගේ Apps වෙනත් Linux environment එකක් මත test කරගැනීමට මෙන්ම, වෙනත් ඕනෑම Linux distro එකක් සඳහා වන application එකක් Windows 10 ඹත සිටම ධාවනය කිරීමට අවස්ථාව ලැබෙනවා.\n\nපසුගිය වසර ගණනාව පුරාවටම මේ සඳහා වෙනත් පරිගණකයක් හෝ virtual machine එකක් භාවිතා කිරීමට සිදු වූ නමුත් මේ පහසුකම හරහා Windows 10 මෙහෙයුම් පද්ධතිය මතම එහි පරිශීලකයින් රඳවා  තබාගැනීමට Microsoft සමාගම සමත් වන බව අනුමාන කළ හැකි වෙනවා.",
+  "category": "microsoft",
+  "date": "2021-05-26",
+  "extraction_timestamp": "2026-02-20T12:07:46.595849",
+  "headline": "Windows 10 මත Linux GUI Apps සෘජුවම run කිරීමේ හැකියාව ලබාදීමට Microsoft සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/linux-gui-apps-officially-launch-on-windows-10/",
+  "word_count": 185
+}

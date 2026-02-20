@@ -1,0 +1,13 @@
+{
+  "body": "Power Virtual Agent, Power Platform පවුලට අලුතින්ම එක් වූ සාමාජිකයායි. මෙය Coding / Development දැනුමක් නැති කෙනෙක්ට වුවත් පහසුවෙන් Chat Bot එකක් සාදා ගැනීමට පාවිච්චි කල හැකි ආකාරයට Drag-and-Drop Concept එකෙන් සකස් කර ඇත.\n\nමයික්‍රොසොෆ්ට් සමාගම විසින් 2019 නොවැම්බර් මස, Microsoft Flow නැමති ඔවුන්ගේ Automation Tool එක Power Automate ලෙස Re-brand කිරීමට කටයුතු කර ඇති අතර ඒ සමඟින්ම Power Virtual Agent නැමති නවතම Bot Development Platform එකක් හඳුන්වා දීමට කටයුතු කර තිබෙනවා.\n\nමේ අනුව Power Platform පවුලේ දැන් සාමාජියන්,\n\nPower Virtual Agent යනු Power Platform පවුලට අලුතින්ම එක් වූ සාමාජිකයා වන අතර Microsoft සමාගමේBot Frameworkඑක, නැතහොත් Bot-Builder Framework එක මතම ගොඩ නගා ඇති මෙය Coding / Development දැනුමක් නැති කෙනෙක්ට වුවත් පහසුවෙන් Chat Bot එකක් සාදා ගැනීමට පාවිච්චි කල හැකි ආකාරයට Drag-and-Drop Concept එකෙන් සකස් කර ඇත.\n\nMicrosoft Office Word හි ලිපියක් සකස් කරන ආකාරයටම වාගේ ඉතාමත් පහසු ආකාරයෙන් ChatBot එකක් සෑදීම මේ Power Virtual Agent Tool එක හඳුන්වා දීමේ අරමුණයි.\n\nමෙහි Conversation Flows නිර්මාණය කිරීමේ සිට MS Teams, Slack, Facebook Messenger සහ වෙනත් ඕනෑම Bot Supporting Chat Platform එකකට Integrate කිරීමේ හැකියාව ඇත තිබෙන අතර Bot Building වල සම්පූර්ණ Life Cycle එකම ඇතුලත් වේ.\n\nMicrosoft AI Services වල තිබෙනLUISIntent හඳුනාගැනීම, Entity වෙන් කර ගැනීම වැනි දේත් මේ සමඟින්ම අන්තර්ගත කර තිබෙනවා.\n\nමෙහි දැකිය හැකි ඉතා හොඳ ලක්‍ෂණයක් නම්, ඔබේ No-Code එහෙමත් නැතිනම් අවම code ප්‍රමාණයක් භාවිතා කර නිර්මාණය කරගන්නා Bot, ඔබට අවශ්‍ය නම්Azure Resourceඑකකට Convert කරගැනීමේ හැකියාවයි.\n\nMicrosoft සමාගම පෙන්වා දෙන පරිදී Power Automate (පෙර Microsoft Flow) හි ඇති Triggers / Services සියල්ලම පාහේ මෙයට පහසුවෙන් යොදාගත හැක. Analytics අතින්ද මෙය ඉතා ඉහල තත්වයක පවතී.\n\nBot භාවිතා කරන User අවසානයේ කොතැනද නැවතුනේ, වැඩිපුරම ක්‍රියාත්මක වෙන Dialog / පාරිභෝගික අවධානයක් තිබෙන Dialog හඳුනාගැනීම ද ඒ අතර වෙයි.\n\nපසුගිය වසර දෙක තුන තුල ChatBot තිබුනේ උණුසුම් මාතෘකාවක් ලෙස වුවද මේවායේ User Experience ගැන දැඩි කලකිරීමට පත්වුනු අවස්ථා බොහොමයකට අපට මුහුණදිය හැකිව තිබුණේ බොහෝ විට මේවායේ Developer වරුන් Chat Bot සෑදීමේ අති දක්ෂ වුවද ඔවුන් අදාල ව්‍යාපාරය පිළිබඳව විශේෂ දැනුමක් සහිත පුද්ගලයන් නොවීම සහ HR දැනුමෙන් අඩු වීමයි.\n\nමෙවන් No-Code/Low-Code මෙවලමක් භාවිතා කිරීමෙන් බලපොරොත්තු වන තවත් ප්‍රධාන කරුණක් නම් ව්‍යාපාර දැනුම ඇති අයටම (Product Expert ට) Bot එකක් සෑදීමේ හැකියාව ලබාදීමයි.",
+  "category": "ai",
+  "date": "2020-04-29",
+  "extraction_timestamp": "2026-02-20T12:06:08.782117",
+  "headline": "Code නොකර Bot එකක් නිර්මාණය කළ හැකි Power Virtual Agent Platform එක හඳුන්වා දීමට Microsoft සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "ai"
+  ],
+  "url": "https://technews.lk/microsofts-no-code-botbuilder-acnnouncing-of-power-virtual-agent/",
+  "word_count": 349
+}

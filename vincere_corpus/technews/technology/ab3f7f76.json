@@ -1,0 +1,13 @@
+{
+  "body": "Gaming GPU ගැන කියූ සැනින්ම මතකයට නැගෙන්නේ Nvidia හෝ AMD යන වෙළඳනාම වන අතර Intel Graphics පිළිබඳව බොහෝ දෙනා තුල ඇත්තේ ඉතාමත් බළාපොරොත්තු සුන් වූ තත්ත්වයක් බව අමුතුවෙන් කිවයුතු නැහැ.\n\nකොහොම නමුත් Intel සමාගම මේ වන විට ඔවුන්ගේ නවතම Graphic brand එක පිළිබඳව නිවේදනය කිරීමට කටයුතු කර ඇති අතර මෙය සාම්ප්‍රදායික Intel Graphics වලින් ඔබ්බට ගිය, high-performance graphic products වලින් සමන්විත product lineup එකක් වනු ඇති බව ඔවුන් ප්‍රකාශ කරනවා.\n\nIntel Arc™ යන නමින් හඳුන්වනු ලබන මෙම brand එක හරහා hardware මෙන්ම software ද ආවරණය වනු ඇති බවත්, multi-generation GPU පෙළක් ලෙස ඔවුන්ගේ තාක්ෂණයන් වැඩිදියුණු කිරීමට කටයුතු කරනු ලබන බවත් Intel සමාගම ප්‍රකාශ කරනවා.\n\n2022 වර්ෂයේ පළමු කාර්තුව වන විට මෙම වෙළඳ නාමය ය‍ටතේ ඔවුන්ගේ පළමුවැනි GPU එක එළිදැක්වීමට කටයුතු කරනු ලබන බවත්, Alchemist යන codename එකෙන් හඳුන්වන මෙම GPU එක desktop සහ notebook පරිගණක සඳහා multi-platform ලෙස නිකුත් කිරීමට බළාපොරොත්තු වන බවත් ඔවුන් නිවේදනය කරනවා.\n\nමෙලෙස නිකුත් කිරීමට නියමිත GPU එක භාවිතා කරමින් capture කළ gameplay වල teaser එකක් ද නිකුත් කිරීමට Intel සමාගම කටයුතු කර තිබෙනවා.\n\nHere's a sneak peek of pre-production Intel Arc graphics in action.https://t.co/VOMsMN6r2y#IntelArcpic.twitter.com/b9fOsXdRCq\n\nIntel Arc GPU වලට mesh shading, variable-rate shading, video upscaling, සහ real-time ray tracing යන හැකියාවන් ඇතුලත් වන බවත්, විශේෂයෙන්ම Nvidia සමාගමේ Deep Learning Super Sampling (DLSS) technology එකට මෙන්ම AMD සමාගමේ FidelityFX Super Resolution (FSR) තාක්ෂණයට සමාන AI හරහා ක්‍රියාත්මක වන super sampling පහසුකමක් ද ඇතුලත් වනු ඇති බව වාර්තා වෙනවා.\n\nමෙම පහසුකම හරහා image quality එකට හානියක් නොවී, frame rate එක ද අඩු කර නොගෙන games වලින් ලැබෙන video output එක upscale කිරීමට මේ අලුත් GPU වලට හැකියාව ලැබෙනු ඇති බව ඔවන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමේ අනුව ඉදිරියේදී AMD සහ Nvidia වලට තරඟයක් ලබාදීමට Intel සමාගම ද කටයුතු කරනු ඇති අතර, ලබන වසරේ මුල් කාර්තුව වන විට මේ පිළිබඳව වැඩි විස්තර දැනගැනීමට අපට හැකියාව ලැබෙනු ඇත.",
+  "category": "technology",
+  "date": "2021-08-18",
+  "extraction_timestamp": "2026-02-20T12:04:13.925575",
+  "headline": "Intel සමාගම විසින් ඔවුන්ගේ නවතම High-Performance Graphics brand එක වන Intel Arc හඳුන්වාදීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/intel-enters-the-pc-gaming-gpu-battle-with-arc/",
+  "word_count": 297
+}

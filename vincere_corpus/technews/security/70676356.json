@@ -1,0 +1,13 @@
+{
+  "body": "හැකර්වරුන් පිරිසක් විසින් Electronic Arts සමාගමේ servers වලට අනවසරයෙන් ඇතුළු වී,FIFA 21 gameඑකෙහි source code සහ එහි matchmaking server එක සඳහා වන code ඇතුළුව EA servers වල තිබූ 780GB පමණ data ලබාගෙන ඇති බව වාර්තා වෙනවා.\n\nඑසේ ලබාගත් data අතර,Frostbite engineඑකෙහි source code සහ tools ද ඇතුළත් වන අතර, Frostbite engine එක යනු Battlefield වැනි EA ආයතනයේ ජනප්‍රිය titles කිහිපයක්ම බලගන්වන game engine එකයි.\n\nමේ වනවිට එම data dark web එක තුළ අලෙවි කිරීමට හැකවර්වරුන් පිරිස කටයුතු කර ඇති අතර EA ආයතනය විසින් මේ පිළිබඳව සඳහන් කරමින් කියා සිටියේ, මෙය ransomware ප්‍රහාරයක් නොවන බවත්, මෙසේ ලබාගත් දත්ත අතර player data හෝ පරිශීලකයන්ගේ පුද්ගලික තොරතුරු ඇතුළත් නොවන බවත්‍ ය.\n\nඑමෙන්ම,EA ප්‍රකාශකයෙකු මාධ්‍ය වෙත අදහස් දක්වමින් කියා සිටියේ,EA network එකට පහරදීම සම්බන්ධයෙන් ඔවුන් දැනටමත් විමර්ශන ආරම්භ කර ඇති අතර දැනටමත් ඔවුන්ගේ servers වල ආරක්ෂාව වැඩිදියුණු කිරීමට කටයුතු කර ඇති බවත්, මෙම ප්‍රහාරයෙන් EA ආයතනයේ games සඳහා හෝ EA ව්‍යාපාරයට බලපෑමක් සිදුවනු ඇතැයි තමන් අපේක්ෂා නොකරන බවත්‍ ය.\n\nමෑතකාලීනව gaming industry එක ආශ්‍රිතව විශාල සොරකම් කිහිපයක් දැකගැනීමට හැකියාව ලැබී ඇති අතර මීට පෙරද හැකර්වරු විසින් CD Projekt Red ආයතනයේCyberpunk 2077 සහ The Witcher 3 games වල source codeසොරකම් කිරීමට කටයුතු කළ අතර 2020 ජූලි මාසයේදී Nintendo ආයතනයේ Super Mario Kart සහ release කර නොතිබූ Zelda game ඇතුළුබොහෝ SNES සහ Nintendo 64 games සඳහා වන source codeද සොරකම් කිරීමට කටයුතු කර තිබුණා.",
+  "category": "security",
+  "date": "2021-06-11",
+  "extraction_timestamp": "2026-02-20T12:05:57.666479",
+  "headline": "හැකර්වරුන් පිරිසක් විසින් EA ආයතනයේ FIFA 21 game එකෙහි source code එක ඇතුළුව තවත් tools කිහිපයක් සොරකම් කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/hackers-steal-wealth-of-data-from-game-giant-ea/",
+  "word_count": 218
+}

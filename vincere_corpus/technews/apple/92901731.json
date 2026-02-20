@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය ජුනි මස 22 වැනි දින පැවති Apple WWDC event එක අතරතුරදී නිවේදනය කරනු ලැබූ, Apple සමාගමේ macOS එකේ 11 වැනි සංස්කරණ‍ය, එනම් macOS Big Sur සංස්කරණය පිළිබඳව මීට පෙර අපි ඔබව දැනුවත් කිරීමට කටයුතු කළා මතක ඇති.\n\nඑමෙන්ම පසුගියදා පැවති Apple One More Thing event එක අතරතුරදී, ඊයේ දිනයේ, එනම් නොවැම්බර් 12 වැනි දින මෙම මෙහෙයුම් පද්ධතියේ release candidate සංස්කරණය නිකුත් කිරීමට Apple සමාගම කටයුතු කළ අතර මේ වන විට එහි stable සංස්කරණය ද පරිශීලකයින් හට නිකුත් කිරීමට කටයුතු කර තිබෙනවා.\n\nApple සමාගමේනව M1 chip එකටසහාය දක්වන පළමුවැනි macOS සංස්කරණය මෙය වනු ඇති අතර මෙහි ඇති අලුත් වෙනස්කම් බොහෝමයක් iOS එකෙන් උකහාගත් පහසුකම් වන බව ද වාර්තා වෙනවා.\n\nNext stop, Big Sur.Get ready for a streamlined design, customizable Control Center, Memoji, and more. Watch our video on YouTube to learn how to update your Mac:https://t.co/bswzGzM3khpic.twitter.com/NtiqEj9KPu\n\nමෙහි ඇති පහසුකම් වලින් විශේෂ පහසුකමක් වන්නේ ඔබ Apple M1 chip එකක් හරහා බළගැන්වෙන mac පරිගණකයක් භාවිතා කරන්නේ නම්, iOS සහ iPadOS වල ඇති apps සියල්ලම native ලෙස මේ macOS Big Sur මෙහෙයුම් පද්ධතිය මත ධාවනය කළ හැකි වීමයි.\n\nමෙයට හේතුව වන්නේ iPhone සහ iPad සඳහා භාවිතා කරන්නේ ද ARM architecture එක මත පදනම්ව නිර්මාණය කරනු ලැබූ chipset වන අතර, Apple M1 chip එක ද ARM architecture එකට අනුව නිර්මාණය කර තිබීමයි.\n\nApple සමාගම macOS සඳහා වන ඔවුන්ගේ native apps සියල්ලම පාහේ මේ M1 chip එකට ගැලපෙන අයුරින් නිර්මාණය කර ඇති බව වාර්තා කරන අතර, කොහොම නමුත් මෙහිදී සඳහන් කළ යුතු කාරණය වන්නේx86 instruction set එකටගැලපෙන පරිදි නිර්මාණය කර ඇති අනෙකුත් සියළුම මෘදුකාංග මෙහි ධාවනය වන්නේ Rosetta 2 emulation සේවාව හරහා වන බවයි.\n\nA fresh design, and lots of new features for Safari, Messages, Maps, and more.Get ready for macOS Big Sur. See if your Mac is compatible. 👇pic.twitter.com/yNcgLPGHY6\n\nමේ අලුත් macOS සංස්කරණය පහත දැක්වෙන devices සඳහා ලබාදෙනු ලබනවා.\n\nකොහොම නමුත් macOS එකේ පසුගිය සංස්කරණය වනmacOS Catalinaසඳහා සහාය දැක්වූ පහත සඳහන් devices වලට මේ අලුත් macOS Big Sur සංස්කරණය ලබා නොදීමට Apple සමාගම තීරණය කර තිබෙනවා.\n\nIs macOS Big Sur stable enough to upgrade on your Mac?https://t.co/AGIdIUiIt4by@michaelpotuckpic.twitter.com/iItFmZ7KIR\n\nකොහොම නමුත් මෙම සංස්කරණය නිකුත් කළ සැනින් ලොව පුරා පරිශීලකයින් විසින් update කිරීමට කටයුතු කළද, ඒ හරහා විවිධ ආකාරයේ ගැටළු වලට මුහුණදීමට ‍බොහෝ දෙනා හට සිදුව ඇති බව ද වාර්තා වෙනවා.",
+  "category": "apple",
+  "date": "2020-11-13",
+  "extraction_timestamp": "2026-02-20T12:08:45.848783",
+  "headline": "macOS එකේ අලුත්ම සංස්කරණය වන macOS Big Sur සංස්කරණය නිකුත් කිරීමට Apple සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/macos-big-sur-to-be-available-for-download-on-november-12-apple-announces/",
+  "word_count": 364
+}

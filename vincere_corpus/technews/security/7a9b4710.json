@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් ඔවුන්ගේ devices track කරගැනීම සඳහා Find My නමින් සේවාවක් හඳුන්වාදීමට කටයුතු කළ අතර, 2019 වර්ෂයේදී මෙම පහසුකම වැඩිදියුණු කරමින් offline devices පවා track කිරීමේ හැකියාව ලබාදීමට ඔවුන් කටයුතු කරනු ලැබුවා.\n\nමේ අනුව මේ හරහා iPhone, iPad, iPod touch, Apple Watch, Mac, හෝ AirPods වැනි ඕනෑම Apple device එකක්, offline පවතින විටදී පවා, ඒ අවට ඇති අනෙකුත් Apple devices හරහා track කර, එහි location එක සොයාගැනීමේ හැකියාව ලැබෙනවා.\n\nකොහොම නමුත් මෙම පහසුකම ලබාදීම වෙනුවෙන් භාවිතා කළ තාක්ෂණයෙහි වූ ඇතැම් දුර්වලතාවයන් නිසාවෙන්, ගෙවුණු දවස් 7ක පමණ කාලය තුළ වන location data වෙනත් පුද්ගලයෙකු හට සොරකම් කිරීමේ හැකියාව පැවැතී ඇති බව මේ වන විට අනාවරණය කිරීමට Open Wireless Link (OWL) ආයතනයේ ඉන්ජිනේරුවන් පිරිසක් කටයුතු කර තිබෙනවා.\n\nමෙම පහසුකම ක්‍රියාත්මක වීමේදී අදාල device එකට අයත් වන location දත්ත public key එකක් භාවිතා කරමින් encrypt කර, අනෙකුත් devices හරහා Apple servers වෙත යවනු ලබන අතර, ඊට අදාල private key එක Apple සමාගම හෝ වෙනත් කිසිවෙකු ළඟ නොමැති හෙයින් Apple ෂමාගමට හෝ වෙනත් කිසිවෙකු හට එහි ඇති දත්ත පරීක්ෂා කිරීමේ හැකියාවක් ලැබෙන්නේ නැහැ.\n\nකොහොම නමුත් macOS Catalina සංස්කරණයෙහි තිබුණු දුර්වලතාවයක් (CVE-2020-9986) නිසාවෙන් හැකර් කෙනෙකු හට ඉහත සඳහන් කළ public key එකට අදාල decruption keys වෙත පිවිසීමේ හැකියාව ලැබී තිබුණු අතර, ඒ හරහා මෙම දත්ත කියැවී‍මේ හැකියාව අදාල හැකර්වරයාට ලැබෙනවා.\n\nකෙසේ නමුත් macOS එකෙහි පැවති මෙම දුර්වලතාවය macOS 10.15.7 සංස්කරණය හරහා පසුගිය ‍වර්ෂයේ නොවැමිබර් මාසයේදී patch කිරීමට Apple සමාගම කටයුතු කළ අතර, ඉන් පසුව ඔවුන් විසින් හඳුන්වාදුන් AirTag පහසුකම සතුවද මෙවැනිම ආකාරයේ දුර්වලතාවයන් රැසක් තිබුණු බව වාර්තා වෙනවා.\n\nමේ AirTag සඳහා භාවිතා වන Apple Wireless Direct Link (AWDL) නමින් හඳුන්වන Apple සමාගමේ proprietary mesh networking protocol එකෙහි වූ දුර්වලතාවයන් නිසාවෙන්, පරිශීලකයින් track කිරීම, Apple devices crash කිරීම, එම protocol එක හරහා ගමන් කරන දත්ත වෙනස් කිරීම සහMITM attackසිදු කිරීම ඇතුළු නොයකුත් දෑ සිදු කළ හැකි බව Google සමාගමේ Project Zero ව්‍යාපෘතියෙහි සේවය කරන Ian Beer විසින්හෙළි කරනු ලැබුවා.",
+  "category": "security",
+  "date": "2021-03-07",
+  "extraction_timestamp": "2026-02-20T12:06:43.205848",
+  "headline": "Apple සමාගමේ Find My Network එකෙහි තිබුණු දුර්වලතාවයක් නිසා පරිශීලකයින්ගේ Location History එක hack කිරීමේ හැකියාවක් පැවතුණු බව අනාවරණය වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/bug-in-apples-find-my-feature-couldve-exposed-users-location-histories/",
+  "word_count": 304
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Google කියන්නේ මේ වෙනකොට විවිධ සේවාවන් රැසක් ලබාදෙන විශාල සමාගමක් වුවත් තවමත් ඔවුන්ගේ ප්‍රධානතම සේවාව වන්නේ Google Search පහසුකමයි.\n\nඉතින් මේ ලොකේ ලොකුමsearch engine එකභාවිතා කරන්නට අවස්ථාව ලබා දෙනවාට අමතරව, google.com හරහා පොඩි game එකක් play කරන්නත් අවස්ථාව දීලා තියනවා කියලා ඔයා මේ වෙනකන් දැනගෙන ඉන්න නැතිව අැති.\n\nමේ game එක නම් කරලා තියෙන්නේ \"Text Adventure\" කියන නමින් වන අතර, සාමාන්‍යයෙන් අපි game එකක් හොයාගන්න විදිහට මේ game එක හොයාගන්න නම් ලැබෙන්නේ නැහැ. ඒ කියන්නේ මේ game එක google වෙබ් අඩවියේ හංගලා තමයි තියෙන්නේ.\n\nමුලින්ම මේ game එක play කරන්න අදහසක් තියනවා නම්, desktop browser එකකින් තමයි උත්සාහ කරන්න වෙන්නේ. ඒ වගේම අනෙකුත් web browser වල මෙය හොඳින් වැඩ කලත්, Google Chrome තියනවා නම් අනිවාර්ය්‍යයෙන්ම මේ game එක කිසිම අවුලක් නැතිව play කරන්න ඔයාට පුළුවන්.\n\nඉතින් ඔයා කැමති web browser එකකින් google.com එකට ගිහින් \"Text Adventure\" කියලා ඒකේ search කරන්න.\n\nමේ search එකේ results page එක ලැබුණු විට, අදාල web browser එකේ developer tools වලට යන්නට ඔයාට සිදු වෙනවා.F12 key එක press කරලා, එහෙමත් නැතිනම් Ctrl + Shift + I කියන keys එකට press කරලා developer tools වලට ඇතුළු වෙන්න පුළුවන්.\n\nඔයා හරි විදිහට කලින් කියපු දේවල් කලා නම්, ඉහතින් පෙනෙන ආකාරයේ screen එකක් ඔයාට ලැබෙන්න ඇති. ඉතින් මේ game එක play කරන්න අවශ්‍යද යනුවෙන් මෙහි අසා ඇති පැනයට yes යනුවෙන් පිළිතුර type කර enter key එක press කිරීමෙන් මේ අමුතු game එක පටන් ගන්නට ඔබට අවස්ථාව ලැබෙනවා.\n\nමේ සඳහා අවශ්‍යය වන උපදෙස් මාලාවක් ඒ අනුව ඔබට දැකගන්නට ලැබෙන අතර, ඒ අනුව ඔබට ලැබෙන character එක “north,” “south,” “east,”  හෝ “west” ලෙස type කර enter කිරීමෙන් puzzle එක හරහා ගෙන යෑමට අවස්ථාව ලැබෙනවා. එමෙන්ම \"grab\" හෝ \"use\" යනුවෙන් type කර enter කිරීමෙන් ඒ සමඟ interact කිරීමට අවස්ථාව ලැබෙනවා.\n\nමෙය ටිකක් සංකීර්ණ විදිහට පෙණුනත්, try කරලා බලන්න, ඒක ටිකක් අමුතු ආකාරයේ අත්දැකීමක් වේවි.",
+  "category": "google",
+  "date": "2018-10-01",
+  "extraction_timestamp": "2026-02-20T12:22:32.205498",
+  "headline": "Google එකේ සැඟවුණු Text Adventure Game එක play කරන විදිහ දැනගනිමු",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/how-to-play-google-s-secret-text-adventure-game/",
+  "word_count": 292
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Twitter එකෙන් මේ වෙනකොට announcement එකක් කරලා තියනවා විශාල user data ප්‍රමාණයක් එයාලාගේ internal log එකක තිබිලා හමු වුණා කියලා. මේකට හේතු වුණු bug එක මේ වෙනකොටත් එයාලා fix කරලා ඉවර බවත්, මේ user data එලියට ගිය බවට කිසිම සාක්ෂියක් තාමත් නැති බවත් එයාලා වැඩිදුරටත් කියනවා. ඒ කොහොම වුණත්,ඔයාගේ password එක දැන්ම වෙනස් කරගන්නකියලත් මේ එක්කම එයාලා කියනවා.\n\nWe recently found a bug that stored passwords unmasked in an internal log. We fixed the bug and have no indication of a breach or misuse by anyone. As a precaution, consider changing your password on all services where you’ve used this password.https://t.co/RyEDvQOTaZ\n\nමේ user details වල password එක තිබිලා තියෙන්නේ plain text එහෙමත් නැත්තම් ඔයා සාමාන්‍යයෙන් type කරන විදිහටමයි. සාමාන්‍යයෙන් passwords එකක් ඕනම තැනකදී ආරක්ෂාව වෙනුවෙන් encrypt කරලයි තියාගන්නේ. ඒ කියන්නේ ඔයාගේ password එක වෙනුවට, ඒකට අදාල වෙන විදිහට වෙනත් අකුරු සහ ඉලක්කම් එකතු කරගෙන කරන සංකීර්ණ password එකක් නිර්මාණය කරන එක. එතකොට ඒවා දැනුම ඇති කෙනෙකුට වුණත් decrypt කරලා ඔයාගේ original password එක හොයාගන්න අමාරුයි. මේ විදිහට encrypt කරන අතරතුර ඇති වුණු දෝෂයක් නිසා තමයි මේ data ටික වෙනම log එකක save වෙලා තිබිලලා තියෙන්නේ.\n\nමේ data ටික මාස ගානක් තිස්සේ මේ විදිහට එකතු වෙලා, අනාරක්ෂිතව තිබිලා තියනවා. නමුත් Twitter එකෙන් කියලා නෑ කොච්චර user accounts ප්‍රමාණයක් මේ විදිහට තිබුණද කියලා.\n\nමම කලිනුත් කිවුවා වගේ, Twitter එකෙන් කියලා තියනවා හැමෝටම තමන්ගේ password එක වෙනස් කරගන්න කියලා. ඒ වගේම two-factor-authentication එහෙමත් නැත්තම්, ඔයාගේ password එකට අමතරව mobile phone එක වගේ දෙයක් බාවිතා කරගෙන online authenticate කරන්න පුළුවන් ආකාරයේ යෙදවුමක් බාවිතා කරන්න කියලත් එයාලා වැඩිදුරටත් කියලා තියනවා.\n\nකොහොමද Two-factor-authentication enable කරන්නේ",
+  "category": "security",
+  "date": "2018-05-05",
+  "extraction_timestamp": "2026-02-20T12:20:35.772396",
+  "headline": "Twitter එකේ bug එකක් - ඔයාගේ password එකත් දැන්ම වෙනස් කරගන්න",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/twitter-bug-password-change/",
+  "word_count": 259
+}

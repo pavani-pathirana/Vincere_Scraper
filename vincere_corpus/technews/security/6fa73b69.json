@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය සැප්තැම්බර් 5 වැනි දින Twitter ආයතනයේ ප්‍රධාන විධායක නිළධාරියා වනJack Dorsey ගේ Twitter ගිණුමhack වීම හේතුවෙන් SMS හරහා Tweet පණිවිඩ පළ කිරීම සඳහා ලබා දී තිබුණු පහසුකම තාවකාලිකව නවතා දැමීමට Twitter ආයතනය කටයුතු කර තිබෙනවා.\n\nWe’re temporarily turning off the ability to Tweet via SMS, or text message, to protect people’s accounts.\n\nChuckling Squad නමින් හැඳින්වෙන හැකරුවරුන් පිරිසක් විසින් මෙම ගිණුම hack කිරීමට කටයුතු කර ඇති අතර Twitter CEO ගේ ජංගම දුරකථන අංකය ලෙස පෙනෙනෙ ආකාරයට SMS පණිවිඩ එවීම හරහා ඔහුගේ ගිණුම භාවිතා කරමින් විවිධ ආකාරයේ ආවේගශීලී Tweets පළ කිරීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nTwitter CEO Jack Dorsey's Twitter Account Got Compromised!Twitter says the phone number associated with the account was compromised due to a security oversight by the mobile provider, allowing unauthorized person to compose and send tweets via text message from the phone numberpic.twitter.com/TmL2LufZyV\n\nTwitter හඳුන්වාදුන් මුල් කාලයේදී අන්තර්ජාල සබඳතාවය සෑම අවස්ථාවකම නොතිබූ බොහෝ දෙනා මෙන්ම විශේෂයෙන්ම ඇතැම් රටවල් වල රජයන් විසින් අන්තර්ජාලය අවහිර කළ අවස්ථා වලදී 😐 ද මේ පහසුකම වැඩි වශයෙන් භාවිතා කරන්නට කටයුතු කළ නමුත් මේ වන විට මෙය භාවිතා කරනු ලබන්නේ ඉතාමත් අවහ වශයෙනුයි.\n\nකොහොම නමුත් මෙම තාවකාලික අත්හිටුවීමෙන් අනතුරුව ප්‍රදේශ කිහිපයකට පමණක් නැවතත් එම පහසුකම ලබාදීමටත්, ලොව අනෙකුත් ප්‍රදේශ වලට තවදුරටත් මෙම පහසුකම අවහිර කර තැබීමටත් Twitter ආයතනය තීරණය කර තිබෙනවා.\n\nWe’ve now turned this feature back on for a few locations that depend on SMS to Tweet. It remains turned off for the rest of the world.\n\nඑමෙන්ම මෙම පහසුකම නැවත enable කරනු ලබන නිශ්චිත දිනයක් පිළිබඳව ද කිසිඳු විස්තරයක් නිවේදනය කිරීමට Twitter ආයතනය කටයුතු කර නොමැති බව ද වාර්ථා වෙනවා.",
+  "category": "security",
+  "date": "2019-09-15",
+  "extraction_timestamp": "2026-02-20T12:10:48.210702",
+  "headline": "Twitter හි ප්‍රධානියාගේ ගිණුම Hack වීමත් සමඟින් SMS හරහා Tweet පළ කිරීමේ පහසුකම තාවකාලිකව අත්හිටුවයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/twitter-disables-tweeting-via-sms-after-ceo-gets-hacked/",
+  "word_count": 260
+}

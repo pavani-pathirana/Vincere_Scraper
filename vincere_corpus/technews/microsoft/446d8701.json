@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් iOS සඳහාAnimoji, එහෙමත් නැතිනම් Animated emoji හඳුන්වාදීමත් සමඟින් බොහෝ සමාගම් විසින් තමන්ගේම Animoji නිර්මාණය කිරීමට පෙළඹීමක් දකින්නට ලැබුණා.\n\nඔන්න දැන්, Microsoft සමාගම විසින් ඔවුන්ගේ Swiftkey keyboard එකටPuppets නමින් හඳුන්වන, Apple Animoji වලට සමාන පහසුකමක් ඇතුලත් කරන්නට කටයුතු කර තිබෙන බව වාර්ථා වෙනවා.\n\nමේ අනුව අලුත්මSwiftKey Beta සංස්කරණයභාවිතා කරන්නන් හට තමන්ගේ සොලවන ආකාරය සහ වෙනත් facial expressions වලට අනුව හැසිරෙන virtual character එකක් නිර්මාණය කරගැනීමේ හැකියාව ලැබෙනවා.\n\nමේ වන විට beta සංස්කරණයට මෙවැනි Puppets 5ක් ඇතුලත් කර ඇති අතර මේ සඳහා කිසිඳු අමතර hardware requirement එකක් නොමැති බවත්, Android N සංස්කරණය හෝ ඊට පසු නිකුත් වූ ඕනෑම Android සංස්කරණයක් සහිත ඕනෑම Android devices වල ‍මෙම පහසුකම භාවිතා කළ හැකි බවත් Microsoft සමාගම වැඩිදුරටත් ප්‍රකාශ කරනවා.\n\nඅනෙකුත් Animoji පහසුකම් වල මෙන් depth sensor එකක් හෝ වෙනත් face tracking sensors භාවිතා කිරීම වෙනුවට, camera එක පමණක් භාවිතා කරමින් අදාල කාර්යය සිදු කිරීමේ හැකියාව ලබා දෙනMicrosoft Computer Vision තාක්ෂණයහරහා මෙම පහසුකම ක්‍රියාත්මක වන බව වාර්ථා වෙනවා.",
+  "category": "microsoft",
+  "date": "2019-07-05",
+  "extraction_timestamp": "2026-02-20T12:10:50.638699",
+  "headline": "Apple සමාගමේ Animoji වලට සමාන Puppets නම් වූ පහසුකමක් Microsoft සමාගම විසින් හඳුන්වා දෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/swiftkey-adds-new-animated-puppets-in-latest-android-beta/",
+  "word_count": 155
+}

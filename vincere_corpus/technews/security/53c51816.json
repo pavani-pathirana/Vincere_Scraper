@@ -1,0 +1,13 @@
+{
+  "body": "WhatsApp සඳහා Fingerprint authentication ක්‍රමය එකතු කිරීමට WhatsApp ආයතනය සූදානම් වන බව පසුගිය ජනවාරි මාසයේදී අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nඑමෙන්ම iOS පරිශීලකයන් හට පසුගිය පෙබරවාරි මාසය වන විට FaceID සහ TouchID භාවිතා කරමින් WhatsApp lock කිරීමේ හැකියාව ලබාදීමට ද මොවුන් කටයුතු කරනු ලැබූ නමුත් මේ වන තුරු Android පරිශීලකයන් හට එම පහසුකම නිකුත් කිරීමට කටයුතු කර තිබුණේ නැහැ.\n\nමුලින්ම මෙම පහසුකම WhatsApp beta පරිශීලකයන් හට පමණක් සීමා කර තිබුණු නමුත් මේ වන විට පරීක්ෂා කිරීම් සියල්ල නිම කර සාමාන්‍යය WhatsApp පරිශීලකයන් හට මේ පහසුකම ලබාදීමට WhatsApp ආයතනය කටයුතු කර ඇති අතරSettings > Account > Privacy > Fingerprint lockහරහා ගොස් මෙය activate කරගත හැකි වෙනවා.\n\nමේ fingerprint lock පහසුකම සක්‍රීය කළ විට ස්ව්‍යංක්‍රීයව lock කිරීමේ හැකියාව ආකාර තුනක් යටතේ තෝරාගත හැකි අතර Immediately යන්න තෝරාගතහොත් WhatsApp වලින් ඉවත් වූ විගසම lock වීම සිදු වන අතර after 1 minute හෝ after 30 minutes යන options තෝරාගතහොත් WhatsApp වලින් ඉවත් වී පිළිවෙලින් මිනිත්තුවකින් හෝ මිනිත්තු 30ක් ගත වූ විට lock වීම සිදු වෙනවා.\n\nඉන් පසුව WhatsApp වෙත පිවිසෙන සෑම අවස්ථාවකදීම ඒ සඳහා fingerprint පහසුකම භාවිතා කිරීමට සිදු වෙනවා.",
+  "category": "security",
+  "date": "2019-11-01",
+  "extraction_timestamp": "2026-02-20T12:10:13.954516",
+  "headline": "WhatsApp සඳහා Fingerprint authentication ක්‍රමය Android සඳහා ලබාදීමට WhatsApp ආයතනය කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/whatsapp-for-android-now-supports-fingerprint-unlock/",
+  "word_count": 177
+}

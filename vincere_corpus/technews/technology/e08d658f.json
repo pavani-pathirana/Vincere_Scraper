@@ -1,0 +1,13 @@
+{
+  "body": "මේ වන විට ලොව ඇති වේගවත්ම supercomputer එකට වසර සෙප්ටිලියන 10ක කාලයකදීත් විසඳිය නොහැකි ගණිත ගැටළුවක් Willow chip එකට මිනිත්තු 5කින් විසඳිය හැකි බව Google සමාගම ප්‍රකාශ කරයි.\n\nGoogle සමාගම විසින් 2019 වර්ෂයේදී එළිදැක්වීමට කටයුතු කළ Sycamore quantum processor එක මගින්, සාමාන්‍යය supercomputer එකකට විසඳීමට වසර 10,000ක් ගතවන ගැටළුවක් මිනිත්තු 3ක කාලයකින් විසඳිය හැකි බව ඔවුන් ප්‍රකාශ කරනු ලැබුවා.\n\n2019 වර්ෂයේ මේ පිළිබඳව වන ලිපිය\n\nපසුගිය සඳුදා, එනම් 2024 දෙසැම්බර් 9 වැනි දින Google සමාගම විසින් ඔවුන්ගේ නවතම quantum computing chip එක, Willow හඳුන්වාදීමට කටයුතු කරනු ලැබූ අතර, මේ එළිදැක්වීම quantum computing වල ඉතා වැදගත් සන්ධිස්තානයක් සනිටුහන් කරනවා.\n\nQuantum computing ක්ෂේත්‍රයේ පසුගිය වසර 30 ඇතුලත පැවති ගැටළු වලින් විශාලතම ගැටළුවක් වන්නේ මෙම processor වලින් සිදු කරන computations දෝෂ සහගත වීමේ යම් සම්භාවීතාවයක් තිබීමයි. මෙම එළිදැක්වීම වැදගත් වන්නේ Google සමාගම විසින් මේ errors, Realtime - එහෙමත් නැතිනම් ඒවා සිදු වන අවස්ථාවේදීම හඳුනාගෙන නිවැරදි කිරීමට හැකියාවෙන් යුතු chip එකක් නිර්මාණය කිරීම නිසාවෙනුයි.\n\nGoogle සමාගමට අමතරව Microsoft, Amazon සහ IBM වැනි සමාගම් විසින් ද මේ Quantum computing systems වැඩිදියුණු කරමින් පවතින අතර, චීනය ද මීට නොදෙවෙනිව ඔවුන්ගේම quantum computers නිර්මාණය කරමින් සිටිනවා.\n\nපසුගිය දෙසැම්බර් 6 වැනි දින qubits 504කින් සමන්විත Xiaohong quantum computing chip එක, Tianyan-504 superconducting quantum computer එක එළිදැක්වීමට කටයුතු කළ බව නිවේදනය කර තිබුණා. China Telecom Quantum Group එක විසින් නිර්මාණය කර ඇති මේ computer එක \"Tianyan\" quantum computing cloud platform එක සමඟින් අන්තර්ගත කිරීම හරහා ලොව පුරා පරිශීලකයින් හට එය භාවිතා කිරීමේ හැකියාව ලබාදෙන බව මොවුන් වැඩිදුරටත් සඳහන් කර තිබෙනවා.",
+  "category": "technology",
+  "date": "2024-12-11",
+  "extraction_timestamp": "2026-02-20T12:00:19.971951",
+  "headline": "Google සමාගම විසින් ඔවුන්ගේ නවතම Quantum computing chip එක, Willow හඳුන්වාදීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/meet-willow-googles-state-of-the-art-quantum-chip/",
+  "word_count": 241
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගමේ Defender ‍antivirus එක Windows මෙහෙයුම් පද්ධතියෙන් ඔබ්බට ගෙන ගොස් Android සහ iOS වලට හඳුන්වාදීමට සූදානම් වන බව මේ වන විට වාර්ථා වෙනවා.\n\nපසුගිය දින වල Windows Defender Advanced Threat Protection නමින් තිබුණු මේ antivirus එක, Microsoft Defender Advanced Threat Protection ලෙස වෙනස් කිරීමට ද ඔවුන් කටයුතු කරනු ලැබුවා.\n\nකොහොම වුණත් මේ Defender mobile app එක desktop සංස්කරණයට වඩා වෙනස් වනු ඇති ඇති අතර ඊට හේතුව වන්නේ iOS platform එක මත apps මගින් malware සඳහා scan කිරීමේ හැකියාව ලබා නොදීම නිසාවෙනුයි.\n\nමේ Defender mobile app එකෙහි ප්‍රධානතම function එකක් ලෙස බොහෝ දෙනෙකුගේ අත්වැරදීම් නිසාවෙන්phishing attack වලටහසු වී usernames සහ passwords පිටස්තර පුද්ගලයන් අතට යෑම වලක්වාලීමයි.\n\n‍කොහොම නමුත් මේ අලුත් mobile app එක Microsoft සමාගමේ enterprise security platform එක භාවිතා කරන්නන් හට පමණක් වනු ඇති බව දැනගන්නට ලැබෙන අතර මීට අමතරව Linux සඳහා ද මේ Defender Advanced Threat Protection මෘදුකාංගයෙහි preview සංස්කරණයක් නිකුත් කිරීමට කටයුතු කර තිබෙනවා.",
+  "category": "microsoft",
+  "date": "2020-02-24",
+  "extraction_timestamp": "2026-02-20T12:10:11.992489",
+  "headline": "Defender antivirus මෘදුකාංගය Android සහ iOS වලට හඳුන්වාදීමට Microsoft සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-is-bringing-its-antivirus-software-to-ios-and-android/",
+  "word_count": 147
+}

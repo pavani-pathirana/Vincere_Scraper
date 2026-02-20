@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය සිකුරාදා සහ සෙනසුරාදා දිනයන් වල බොහෝ ‍iOS භාවිතා කරන Facebook පරිශීලකයින් ස්ව්‍යංක්‍රීයව Facebook app එකෙන් logout වී තිබෙන බව දැකගත හැකි වූ අතර බොහෝ දෙනා හට ඉන් පසුව නැවත login වීමට ද හැකියාවක් ලැබී තිබුණේ නැහැ.\n\nනැවත login වීමට උත්සාහ කරන අතරතුරදී two-factor authentication code එක ලබා නොදීමටත්, ඒ වෙනුවට error message එකක් පෙන්වීමටත් කටයුතු කළ අතර, password එක reset කිරීම සඳහා ද ඉඩක් ලැබුණේ නැහැ.\n\nWe’re looking into reports of people being logged out and having to login again to access their Facebook accounts. We’re working to resolve this issue as quickly as possible. Thank you for your patience.\n\nමෙම තත්ත්වය හටගැනීමට හේතුව Facebook configuration change එකක් බවත්, එය ජනවාරි 23 වැනි දින උදෑසන විට නැවත යථා තත්ත්වයට පත් කිරීමට කටයුතු කරනු ලැබූ බවත් මේ වන විට Facebook සමාගම නිවේදනය කර තිබෙනවා.\n\nSo Facebook, heard it was a \"configuration change\".👏👏👏 to the engineers who fixed the issue and patiently tried to explain the cause to us to no avail.https://t.co/AUARhCZ7W2\n\nමේ සමඟින් බොහෝ Facebook පරිශීලකයින් තම Facebook ගිණුම disable වී ඇතැයි බිය වී තිබුණු අතර Downdetector සහ Reddit වෙබ් අඩවි හරහා ලොව පුරා පරිශීලකයින් රැසක් මේ පිළිබඳව වාර්තා කර තිබුණා.\n\nකොහොම නමුත් මෙම ගැටළුව මේ වන විට නිරාකරණය කර ඇති අතර, මේ වන විට සාමාන්‍යය පරිදි නැවත login වීමට හැකියාව ලැබී තිබෙනවා. එමෙන්ම මේ මගින් වෙනත් කිසිඳු බළපෑමක් ඔබගේ Facebook ගිණුමට සිදු වන්නේ නැහැ.",
+  "category": "social-media",
+  "date": "2021-01-24",
+  "extraction_timestamp": "2026-02-20T12:09:31.960169",
+  "headline": "ඔබේ Facebook ගිණුමත් ස්ව්‍යංක්‍රීයවම logout වූවා ද? එය configuration change එකක් නිසා සිදු වූ බව Facebook සමාගම ප්‍රකාශ කරයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/facebook-says-configuration-change-caused-some-users-to-be-logged-out-unexpectedly/",
+  "word_count": 225
+}

@@ -1,0 +1,13 @@
+{
+  "body": "මීට පෙර කිහිප වතාවකම අපි Starlink Internet Service එක සහ එහි අලුත් developments ගැන ලිපි ගණනාවකින් ඔබව දැනුවත් කළා මතක ඇති.\n\nමේ අතර Twitter පරිශීලකයෙකු වන Anton Kanerva විසින් කරන ලද tweet එකකට පිළිතුරු දෙමින් Elon Musk විසින් සනාථ කර ඇති අන්දමට, නිවසේ සිට මෙන්ම වේගයෙන් ගමන් කරන වාහනයක සිට වුවද Starlink Internet Service එක access කළ හැකි බව වාර්තා වෙනවා.\n\nAnton Kanerva ප්‍රශ්න කර ඇත්තේ නිවසේ දී ස්ථාවරව Starlink satellite dish එකක් පිහිටුවා ඇති විට ක්‍රියාකරන්නක් මෙන් දුම්රියක් වැනි high speed moving objects වල සවිකලහොත් එය ක්‍රියාත්මක වනු ඇත්ද යන්නයි.\n\nYes. Everything is slow to a phased array antenna.\n\nමේ අනුව පෙනී යන කාරණාව වන්නේ පෘථිවියේ සිට 550km පමණ දුරකින් කක්ෂගත කර ඇති මෙම Satellites වලට සාපේක්ෂව ගත් කළ සාමාන්‍යය වේගයෙන් ගමන් කරන දුම්රියක් වැනි දෙයකට වුවත් නිවැරදිව සම්බන්ධතාවය ලබාදිය හැකි බව වාර්තා වෙනවා.\n\nපරිශීලකයා සිටින ස්ථානය කුමක් වුවද starlink satellite dish එක බාධක රහිතව ස්ථාන ගත කර නිවැරදි power supply එකක් ලබාදීම හරහා මෙම අන්තර්ජාල සම්බන්ධතාවය ලබාගත හැකි බව ඔහු වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමෙම තාක්ෂණය නිසා අතිශය දුෂ්කර ප්‍රදේශයන්හි සිටින ජනතාවට අධිවේගී අන්තර්ජාල සම්බන්ධතා ලබා ගැනීමට හැකිවනු ඇති අතර, මේ වන විට වාර්තාවලට අනුවStarlinkසේවාව මගින් 30ms පමණ වූ latency එකක් සහිතව 100 Mbps internet connection එකක් ලබාගැනීමේ හැකියාව පවතිනවා. (මෙම වේගය ලංකාවේ FTTH (fiber to home සම්බන්ධතාවක වේගයට සමාන වේ.)\n\nඑමෙන්ම උතුරු ඇමෙරිකාවට සහ දකුණු කැනඩාව ආශ්‍රිත ප්‍රදේශ වලට නුදුරේදීම මෙහි public beta සංස්කරණය ලබාදීමට නියමිත වන බව ද වාර්තා වෙනවා.",
+  "category": "technology",
+  "date": "2020-10-20",
+  "extraction_timestamp": "2026-02-20T12:08:27.486114",
+  "headline": "අධික වේගයෙන් ගමන් කරන වාහනයක සිට වුවත් Starlink Internet සම්බන්ධතාවය පවත්වාගත හැකි බව Elon Musk ප්‍රකාශ කරයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/spacexs-starlink-internet-service-will-work-in-high-speed-moving-vehicles/",
+  "word_count": 233
+}

@@ -1,0 +1,13 @@
+{
+  "body": "ඔබ Google Home වැනි Google Smart Device එකක් භාවිතා කරනවා නම් ජංගම දුරකථනයේ Google Assistant ක්‍රියාත්මක කිරීමට \"OK Google\" කියූ පසු ඔබ අවට ඇති ඔබගේ Google Smart devices trigger වන අවස්ථාවන්ට මුහුණ දී ඇති.\n\nඇතැම් අවස්ථා වලදී කිහිප සැරයක් \"Hey Google\" hotword එක හඬනගා පැවසූවත් Google Assistant ඔබව ගණන් නොගෙන මිතුරන් අතර ඔබව ලැජ්ජාවට පත් කර ඇති.\n\nමෙන්න මේ ගැටළුව සදහා විසදුමක් ලෙස Google ආයතනය මගින් තමන්ගේ Google Assistant Devices සදහා voice detection sensitivity එක customize කිරීමට පහසුකමක් ලබා දෙන බව පවසා ඇත.\n\nමෙම පහසුකම තවමත් පුළුල්ව ලබාදී නොමැති අතර XDA-Developers වෙබ් අඩවියයේ editor වරයෙකු වන Mishaal Rahman තම twitter ගිණුම ඔස්සේ එම feature එකෙහි screenshots කිහිපයක් share කිරීමට කටයුතු කර තිබුණා.\n\nFinally, the Google Home app is about to add \"Hey Google\" sensitivity options for each Google Assistant device.https://t.co/a7R2pxLCLIpic.twitter.com/LJ6GpAj7CY\n\nමේ setting එක ඉදිරියේදී ලබාදෙනු ලබන බව පසුගිය වසරේ සැප්තැම්බර් මාසයේදී Google සමාගම විසින්නිළ වශයෙන් තහවුරු කළ අතරඉදිරි සති කිහිපය ඇතුලතදී මෙය ලොව පුරා Google Home පරිශීලකයන් හට ක්‍රමයෙන් release කිරීමට ඔවුන් කටයුතු කරනු ලබන බව The Verge ආයතනයට ප්‍රකාශයක් නිකුත් කර තිබෙනවා.",
+  "category": "google",
+  "date": "2020-04-23",
+  "extraction_timestamp": "2026-02-20T12:13:49.633901",
+  "headline": "Google Assistant devices වල \"Hey Google\" listening sensitivity එක adjust කිරීමේ හැකියාව ලබාදීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-home-will-finally-let-you-adjust-ok-google-listening-sensitivity/",
+  "word_count": 173
+}

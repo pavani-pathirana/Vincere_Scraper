@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය අප්‍රෙල් මස 20 වැනි දින පැවැත්වූSpring Loaded event එකඅතරතුරදී Apple සමාගම විසින් ඔවුන්ගේ අලුත්ම tracking device එක වන AirTag එක එළිදැක්වීමට කටයුතු කරනු ලැබුවා.\n\nකොහොම නමුත් මෙය නිකුත් කර සති කිහිපයක් ගතවීමටත් මත්තෙන් එය hack කළ හැකි ක්‍රමයක් ‍සොයාගැනීමට ජර්මානු security researcher කෙනෙකු වන Thomas Roth සමත් වී තිබෙනවා.\n\nYesss!!! After hours of trying (and bricking 2 AirTags) I managed to break into the microcontroller of the AirTag! 🥳🥳🥳/cc@colinoflynn@LennertWopic.twitter.com/zGALc2S2Ph\n\nමේ අනුව මේ AirTag වල ඇති microcontroller එක hack කර, ඒ හරහා AirTag එක lost mode එකට යොමු කළ විට ඒ හරහා share වන NFC URL එක වන FindMyDevice web address එක වෙනුවට, ඔහුගේ පෞද්ගලික වෙබ් අඩවියේ URL එක ඇතුලත් කිරීමට මොහු කටයුතු කර තිබුණා.\n\nමේ microcontroller එක හරහා AirTag එකේ processing unit එක, memory එක සහ අනෙකුත් උපාංග පාලනය කරනු ලබන බැවින් හැකර්වරයාට අවශ්‍යය ආකාරයට එය පාලනය කිරීමේ හැකියාව මේ හරහා ලැබෙනවා.\n\nBuilt a quick demo: AirTag with modified NFC URL 😎(Cables only used for power)pic.twitter.com/DrMIK49Tu0\n\nකොහොම නමුත් මෙය සිදු කළ ආකාරය විස්තර සහිතව හෙළි කිරීමට මොහු කටයුතු කර නොමැති නමුත්, phishing attack වැනි ක්‍රියාවලීන් වලට මෙය ඉතාමත් හොඳින් භාවිතා කළ හැකි වනු ඇති බව MacRumors වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nකෙසේ වුවත් මෙම දුර්වලතාවය software update එකක් හරහා ඉක්මණින්ම නිවැරදි කිරීමට Apple සමාගම කටයුතු කරනු ඇති අතර, බොහෝ විට මෙලෙස modify කළ firmware ඇති devices Find My network එක වෙත සම්බන්ධ වීම වලක්වාලනු ඇති අතර, firmware එක ද lock down කිරීමට කටයුතු කරනු ඇති බව අනුමාන කෙරෙනවා.",
+  "category": "security",
+  "date": "2021-05-11",
+  "extraction_timestamp": "2026-02-20T12:06:03.278116",
+  "headline": "පළමුවැනි වතාවට Apple AirTag එකක් hack කිරීමට security researcher කෙනෙකු සමත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/airtag-hacked-for-the-first-time-by-security-researcher/",
+  "word_count": 238
+}

@@ -1,0 +1,13 @@
+{
+  "body": "COVID-19 තත්ත්වයත් සමඟ බොහෝදෙනා සමාජ දුරස්ථභාවය තබා ගනිමින් තම වැඩකටයුතු සිදුකර ගැනීමට වැඩි අවධානයක් යොමුකිරීමත් සමඟ video conferences සේවාවන් ද සිය සේවාවන් වල ගුණාත්මකභාවය වැඩි කිරීමට කටයුතු කරනු ලැබුවා.\n\nඒ සඳහා Google meet සේවාවද බොහෝ පහසුකම් ප්‍රමාණයක් සිය පරිශීලකයන් වෙත ලබාදීමට කටයුතු කල අතර ඒ පිළිබඳව අප ඔබව මින් පෙර ලිපි කිහිපයකින්ම දැනුවත් කිරීමට කටයුතු කරනු ලැබුවා.\n\nපසුගිය වසරේදී Google සමාගම විසින් web එක තුළ blank documents නිර්මාණය කිරීම සඳහා '.new' links (docs.new,sheets.newසහslide.newවැනි shortcuts) හඳුන්වාදීමට කටයුතු කල අතර දැන් ඔබගේ browser එකෙහිmeet.newලෙස type කිරීම මගින් ස්වයංක්‍රීයව නව Google Meet session එකක් ආරම්භ කර ගැනීමට හැකියාව ලබාදීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nමෙම පහසුකම කුඩා එකතු කිරීමක් ලෙස පෙනුනත් Google meet නිතරම භාවිතා කරන ඕනෑම කෙනෙකුට මෙය විශාල වශයෙන් ප්‍රයෝජනවත් වනු ඇත.\n\nමීට අමතරව Google docs හි shortcuts මෙන්ම පරිශීලකයින් හට multiple accounts වලින් භාවිතා කිරීම වෙනුවෙන් නම් කිරීම සඳහා අංක එකතු කළ හැකි අතර ඔබට ඔබේ පුද්ගලික ගිණුම සඳහා “meet.new/1” ලෙස bookmark එකක් ද ඔබගේ Office email එක සඳහා “meet.new/2” ලෙස bookmark එකක් ද ලෙස නිර්මාණය කළ හැකිය.\n\nමේ අංක කිරීමේ පහසුකම ක්‍රියාත්මක වන්නේ ඔබ Gmail සේවාවට sign in වී ඇති පිළිවෙලට වන අතර මුලින්ම sign in වූ ගිණුම 1 ලෙසත්, ඊළඟ ගිනුම 2 ලෙසත් පිළිවෙලින් ඊළඟට sign in වන ගිණුම් වලට ද අදාල වන numbers assign වෙනවා.\n\nGoogle සමාගම ඔවුන්ගේ G Suite tools සඳහා 2018 දී සිය .new shortcut එක නැවත හඳුන්වාදීමට කටයුතු කල අතර Spotify (playlist.new) ඇතුළු third party සමාගම් වෙතද මෙම පද්ධතිය භාවිතා කිරීමේ හැකියාව ලබාදීමට කටයුතු කරන බව මොවුන් පසුගිය වසරේ නිවේදනය කරනු ලැබුවා.",
+  "category": "google",
+  "date": "2020-06-21",
+  "extraction_timestamp": "2026-02-20T12:11:57.679507",
+  "headline": "Google Meet හරහා සිදු කරන නව video conferences ඉක්මනින් ආරම්භ කිරීම සඳහා 'meet.new’ නමින් shortcut එකක් හඳුන්වා දෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-meet-now-has-a-meet-new-shortcut-for-quickly-starting-new-video-conferences/",
+  "word_count": 248
+}

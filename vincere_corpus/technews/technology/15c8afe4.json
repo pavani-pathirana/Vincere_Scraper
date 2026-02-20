@@ -1,0 +1,13 @@
+{
+  "body": "Hisilicon යනු Huawei සමාගමට අනුබද්ධ chip නිෂ්පාදන සමාගමක් වන අතර Huawei උපාංග සදහා බොහෝ විට භාවිතා කරනු ලබන Kirin chipset නිෂ්පාදනය කරනු ලබන්නේ මෙමHisilicon සමාගමහරහා යි.\n\nඔවුන් විසින් මේ වන විට නිෂ්පාදනය කිරීමට සූදානම් වන Kirin 1020 5mm chipset එකෙහි පිරිවැය බොහෝ දුරට Apple A14 Bionic chipset එකේ නිෂ්පාදන පිරිවැය ඉක්මවා යනු ඇති බව Weibo Tipster කෙනෙකු විසින් හෙළිදරව් කර තිබෙනවා.\n\nApple සමාගමේ A14 chipset එකට වඩා මෙහි නිෂ්පාදන පිරිවැය ඉහළ ගියද කාර්යක්ෂමතාව අතින් එය Apple A14 chipset එක ඉක්මවා යනු ඇතිද යන්න පිළිබඳව තවමත් තහවුරු කළ හැකි තොරතුරක් වාර්ථා නොවන අතර Qualcomm සමාගම විසින් නිකුත් කිරීමට නියමිතSnapdragon 875 5nm chipsetඑකෙහිද මිල ඉහළ යාමක් පිළිබඳව පසුගිය කාලයේ කතාබහට ලක් වුණා ඔබට මතක ඇති.\n\nApple සමාගම විසින් සෑම විටම GPU Performance සඳහා වැඩි සැළකිල්ලක් දක්වන බැවින් Apple උපාංග සෑම විටම ඒ හා සමාන Android උපාංග වලට වඩා 50% කටත් වඩා වැඩි Graphic Performance එකක් ලබාදීමට සමත් වෙනු ලබනවා.\n\nKirin 1020 5nm chipset එක සඳහාARM A78 architecture එකභාවිතා කිරීමට නියමිත අතර Apple A13 Bionic chipset එකෙහි performance එක ඉක්මවා යනු ඇති බව අනුමාන කලද එය A14 chipset එක තරම් ප්‍රායෝගිකව performance එකක් ලබා නොදෙනු ඇති බව බොහෝ විශ්ලේෂකයන් මත පල කරනු ලබනවා.\n\nකෙසේ වුවත්, Huawei සමාගමෙහි මෙම නවතම Kirin 1020 5nm chipset වල පිරිවැය ඉහළ යාමත් අනාගතයේදී ඒ සමග නිකුත්වන Huawei ජංගම දුරකථන, විශේෂයෙන්ම Huawei Mate 40 ජංගම දුරකථන වල මිල ඉහළ යාමට ඉඩ තිබෙන බවද මේ වනවිට වාර්තා වෙනවා.\n\nමේ වනවිට ලොව ප්‍රමුඛ පෙළේ chipset නිශ්පාදකයින් වන Qualcomm/TSMC වැනි සමාගම් 5nm chipset නිශ්පාදනය ආරම්භ කර ඇති අතර Samsung සමාගමද 5nm chipset නිශ්පාදනය ආරම්භ කිරීමෙන් ඔබ්බට ගොස් 4nm chipset සඳහා පරීක්ෂණ සහ අත්හදාබැලීම් කටයුතු ද ආරම්භ කර ඇති බව පසුගිය දිනෙක වාර්තා වුණා.",
+  "category": "technology",
+  "date": "2020-08-08",
+  "extraction_timestamp": "2026-02-20T12:11:04.240433",
+  "headline": "Huawei Hisilicon Kirin 1020 chipset එකෙහි නිශ්පාදන පිරිවැය Apple A14 Bionic chipset එකෙහි නිෂ්පාදන පිරිවැය ඉක්මවා යනු ඇති බව වාර්තා වෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/huaweis-hisilicon-1020-5nm-chipset-might-be-a-bigger-chip-than-the-apple-a14-bionic/",
+  "word_count": 271
+}

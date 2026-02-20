@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින් Android Gingerbread සංස්කරණය 2010 දෙසැම්බර් මාසයේදී නිකුත් කල අතර ඒ සඳහා ලබාදුන් සහාය මීට වසර ගණනාවකට පෙර අවසන් වුවද, දැනට අවුරුදු 10 කටත් වඩා පැරණි මෙම Android සංස්කරණය ධාවනය වන devices තවමත් භාවිතයේ පවතිනවා.\n\nමේ වනවිට වාර්තා වන ආකාරයට, Android 2.3.7 Gingerbread සහ ඊට පහළ Android සංස්කරණයන් ධාවනය වන උපාංග භාවිතා කරන පරිශීලකයින්හට සැප්තැම්බර් 27 වෙනිදා සිට එම devices භාවිතයෙන් Google accounts වලට sign-in වීමේ හැකියාව අහිමිවෙනවා.\n\nGoogle සමාගම විසින් මේ වනවිටත් email එකක් මගින් අදාළ Android versions භාවිතා කරන පරිශීලකයන් හට මේ බව දැනුම් දී ඇති අතරඑම email එකෙහි සඳහන් වන ආකාරයට,සැප්තැම්බර් 27 වෙනිදා සිට අදාළ Android සංස්කරණයන් ධාවනය වන devices වල පහත දැක්වෙන ආකාරයේ errors දැකගැනීමට හැකියාව ලැබෙනු ඇත.• Sign in to your account.• Remove your account from your device and re-add it.• Create an account on the device• Perform a factory reset of your device and try to sign in.• Change your password either on the device or on a different device, which then signs you out everywhere else, and when you try to sign in again.\n\nGoogle සමාගම වැඩිදුරටත් පෙන්වා දෙන්නේ, පරිශීලකයින්ගේ ගිණුම් වල ආරක්‍ෂාව වැඩි කිරීමට ඔවුන් මෙම පියවර ගත් බව වන අතර එහි ප්‍රතිඵලයක් වශයෙන්, පහත දැක්වෙන Android සංස්කරණයන් භාවිතාකරන පරිශීලකයින් හට සැප්තැම්බර් 27 දා සිට Gmail, YouTube, Google Maps ඇතුළු අනෙකුත් Google apps වෙත ප්‍රවේශ වීමේ හැකියාව අහිමිවෙනවා.\n\nමේ සඳහා ඇති එකම විසඳුම ලෙස දැක්වෙන්නේ, අදාළ devices Android 3.0 හෝ ඊට ඉහළ සංස්කරණයකට update කිරීම බව Google සමාගම වැඩිදුරටත් පෙන්වා දෙන අතර එසේ නොමැති නම්, දුරකථනයේ web browser එක හරහා ඇතැම් Google services භාවිතා කිරීමට අදාළ Android සංස්කරණ භාවිතා කරන පරිශීලකයන්හට හැකියාව තිබෙනවා.",
+  "category": "google",
+  "date": "2021-08-01",
+  "extraction_timestamp": "2026-02-20T12:06:12.297127",
+  "headline": "Android Gingerbread සහ ඊට පෙර Android සංස්කරණ ධාවනය වන devices මගින් Google account එකකට sign-in වීමේ හැකියාව අහිමිවෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-account-sign-in-will-not-work-on-android-gingerbread-and-lower-from-september-27/",
+  "word_count": 263
+}

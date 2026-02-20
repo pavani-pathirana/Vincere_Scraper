@@ -1,0 +1,13 @@
+{
+  "body": "Internet නිතරම භාවිතා කරන හැමෝටම පොඩි පොඩි අත්දැකීම් තියෙනවා මේtwo-factor authentication(2FA) පිලිබඳව. ඔබ ඕනෑම අවස්තාවක online account ඒකට login විමේදි 2FA option ඒක active කරලා නම් අනිවාර්යෙන් code එකක් එනවා ඔයාගේ phone එකට. ඒ code එක අදාල website එකට ඇතුළු කරලා verify කිරීම තමා මේ two-factor authentication කියලා හැදින්වෙන්නේ.\n\nඅළුත්ම update එකක් මගින් Android Messages (3.2.038+) කියන app එකට Notification bar එකේ ඉඳන්ම two-factor authentication code එක copy කිරිමේ හැකියාව ලබා දිලා තිබෙනවා.  ඒ කියන්නේ මේ Android Messages app එකෙන් අපිට එන message එක verification message එකක් ද කියලා අඳුරගන්නවා.\n\nඅැත්තටම මේ option ඒක අපට බාවිතා කරන්න පුලුවන් phone ඒකෙන් account ඒකට log වෙද්දි පමණයි. මොකද ඉතින් phone එකෙන් copy කරන එක වෙන device එකකට paste කරගන්න තාමත් native android වල feature එකක් නැති නිසා laptop එකක් හෝ desktop එකක් මගින් login වීමේදී නම් මෙය ඒතරම් ප්‍රයෝජනවත් වෙන්නේ නෑ.\n\nඔයාලට මේක try කරලා බලන්න ඕන නම්, Play store එකට ගිහින් Android Messages app එක update කරගන්න. එහෙමත් නැත්තම් පහළ තියන link එකෙන් apk එක download කරගන්නත් පුළුවන්.",
+  "category": "mobile",
+  "date": "2018-05-16",
+  "extraction_timestamp": "2026-02-20T12:24:07.759626",
+  "headline": "2FA codes Notification bar ඒකේදිම Copy කිරිමේ හැකියාව දැන් Android messages වල",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/copy-2fa-codes-notification-bar-android-messages/",
+  "word_count": 167
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Mozillaකියන්නේ කියපු ගමන් අපේ හිතට එන්නේ Mozilla Firefox web browser එක වුණත්, මේ Mozilla ආයතනයට අපි හිතනවාට වැඩියෙන් දිග ඉතිහාසයක් තියනවා.\n\n90 දශකයේ මැද භාගය වන විට Internet Explorer වගේ web browser වලට අභියෝගයක් එල්ල කරන්නට සමත් හැකියාව තිබූ web browser එකක් තමයිNetscapeකියන්නේ. නමුත් කාලය ගතවීමත් එක්ක, 1998 වර්ෂයේදී Netscape ආයතනයේ සේවය කල පිරිසක් විසින් මෙම Mozila ආයතනය පිහිටුවීමට කටයුතු කලා.\n\nMozilla Firefox web browser එක2002 වර්ෂයේදී නිකුත් කරන ලද අතර ඔවුන්ගේFirefox Focusකියන web browser එක හඳුන්වා දී තවමත් වසර තුනක පමණ කාලයක් ගතවී තිබෙනවා. මේ Firefox Focus කියන්නේ භාවිතා කරන්නාගේ පෞද්ගලිකත්වය ගැන විශේෂ අවධානයක් යොමු කරමින් නිර්මාණය කළ open-source මෘදුකාංගයක් වන අතර මෙය මුලින්ම iOS සඳහා නිකුත් කරන ලදී.\n\nඑමෙන්ම මීළඟට මෙය Android වලටත් නිකුත් කරන ලද නමුත්, එහිදී වෙබ් පිටු පෙන්වීම සඳහා භාවිතා වූයේChrome Webviewඑකයි. නමුත් මේ අලුත් සංස්කරණයත් සමඟ Mozilla විසින්ම නිර්මාණය කරනු ලැබූGeckoViewඑකට මාරු කිරීමක් සිදු කර තිබෙනවා.\n\nකොහොම නමුත් මේ වෙනස්කිරීම හරහා වෙබ් පිටු load වීමේ වේගයට කිසිඳු වෙනසක් සිදු නොවන නමුත්, මේ Firefox Focus web browser එකේ මූලික පරමාර්ථය වන භාවිතා කරන්නාගේ පෞද්ගලිකත්වය ආරක්ෂා කිරීමට මේGecko Engineඑක හරහා මහත් පිටුවහලක් ලැබෙන බව ඔවුන් පෙන්වා දෙනවා.\n\nමීට අමතරව search suggestions යන පහසුකමත් මේ අලුත් update එකත් සමඟින් ලැබෙන අතර මෙහි පෙනුම Android Pie වල පෙනුමට ගැලපෙන ලෙස වෙනස් කිරීමටද ඔවුන් කටයුතු කර තිබෙනවා.",
+  "category": "security",
+  "date": "2018-10-04",
+  "extraction_timestamp": "2026-02-20T12:16:49.299397",
+  "headline": "Android ජංගම දුරකථන සදහා එන Firefox Focus වෙබ් බ්‍රව්සරයට නව පෙනුමක් එකතු‍ වේ",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/firefox-focus-for-android-gets-new-design-now-uses-geckoview-engine/",
+  "word_count": 208
+}

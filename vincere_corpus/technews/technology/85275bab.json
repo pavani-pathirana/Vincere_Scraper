@@ -1,0 +1,13 @@
+{
+  "body": "Huawei හි මීළඟ flagship දුරකථනය මාදිලිය වන Huawei Mate 40 series එක මෙම වසර අග දී නිකුත් වනු ඇති බව තාක්ෂණික තොරතුරු හෙළි කරන බොහෝ දෙනෙකු මත පළ කරනවා.\n\nHuawei සමාගම සිය උපාංග වෙත Hisilicon Kirin නමැති තමන්ගේම chipset භාවිතා කරන අතර ඒවා නිශ්පාදනය කරවා ගන්නේ ලොව දැවැන්ත chipset නිශ්පාදකයෙකු වනTSMC ආයතනයහරහායි.\n\nනමුත් TSMC සමාගම හා Huawei අතර ඇතිව ඇති නව ව්‍යාපාර පසුබිම පිළිබඳව අප ඔබව දැනුවත් කලා ඔබට මතක ඇති.\n\nඑහිදී අප සඳහන් කලේ ඇමරිකානු නීති රීති හමුවේ එළැඹෙන සැප්තැම්බර් මාසයෙන් පසුව TSMC සමාගමෙන් chipset ලබා ගැනීමට Huawei සමාගමට නොහැකි වීමේ පුවත වන අතර මේ හේතුව නිසාවෙන් Huawei Mate 40 ජංගම දුරකථනයට කුමන ආකාරයේ chipset එකක් ඇතුලත් වනු ඇද්ද යන්න පිළිබඳව මේ වන විට බොහෝ දෙනාගේ අවධානය යොමුව තිබෙනවා.\n\nකොහොම නමුත් තාක්ෂණික තොරතුරු Tweet කරන ජනප්‍රිය Tipster කෙනෙකු වනRODENT950විසින් Tweet සටහනක් තබමින් කියා සිටින්නේ Huawei Mate 40 ජංගම දුරකථනයේ5nm process එකයටතේ නිෂ්පාදිත Kirin 1000 chipset එක ඇතුළත් වනු ඇති බව වන අතර මූලිකව මෙය Kirin 1020 chipset එකකින් සමන්විත වනු ඇති බව විශ්වාස කෙරුණා.\n\nMate 40 series use 5nm K1000 soc manufactured by TSMC.Samsung also started to build 5nm production lines.\n\nඑමෙන්ම මේ chipset එක ද, TSMC සමාගම විසින් නිශ්පාදන කරනු ලබන්නක් වන අතර මෙම 5nm Kirin 1000 Chipset එක Cortex-A78 architecture එකට අනුව නිෂ්පාදනය වනු ඇති බව අනුමාන කෙරුණ ද, මේ පිළිබඳව තවමත් වැඩි තොරතුරක් වාර්ථා වන්නේ නැහැ.\n\nමේ වන විට වෙළඳපොල තුළ ඇති ඉහළම මිල පරාසයේ දුරකථන වන iPhone 11 Pro Max, Galaxy S20 Ultra හා Huawei P40 Pro යන මාදිලි වල පමණක් නොව Galaxy Fold හා Mate X වැනි Folding උපාංග වල පවා අන්තර්ගත වන්නේ 7nm හා 7nm+ process යටතේ නිෂ්පාදනය කෙරුණු chipset වන අතර යම් හෙයකින් Huawei සමාගම 5nm chipset එකක් Mate 40 ජංගම දුරකථනය වෙත එකතු කිරීමට කටයුතු කළහොත් එය ලොව පළමු 5nm chipset එක සහිත ජංගම දුරකථනය ලෙස ඉතිහාසගත වනු ඇති.\n\nඑමෙන්ම TSMC දැනටම Huawei වෙතින් එන අලුත් chipset orders භාර ගැනීම නවත්වා ඇති අතර Huawei සමාගමට විකල්ප සමාගම වෙත යොමු වීමට සිදු වී තිබෙනවා.\n\nබොහෝ දෙනා අනුමාන කරන්නේ Huawei සමාගම දැවැන්ත කොරියානු සමාගමක් වන Samsung සමාගමෙන් සිය chipset අවශ්‍යතාවය සපුරාගනු ඇති බව වන අතර Samsung සමාගම ද 5nm chipset මහා පරිමාණයෙන් නිශ්පාදනය කිරීම 2020 වර්ෂයේ දෙවැනි කාර්තුවේ සිට ආරම්භ කිරීමට බලාපොරොත්තුවෙන් සිටිනවා.",
+  "category": "technology",
+  "date": "2020-05-30",
+  "extraction_timestamp": "2026-02-20T12:13:48.809759",
+  "headline": "Huawei Mate 40 series එක සඳහා Kirin 1020 වෙනුවට 5nm process එක යටතේ නිෂ්පාදිත Kirin 1000 SoC එක ඇතුළත් වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/huawei-mate-40-pro-could-feature-5nm-kirin-1000-soc-manufactured-by-tsmc/",
+  "word_count": 360
+}

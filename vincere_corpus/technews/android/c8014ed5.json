@@ -1,0 +1,13 @@
+{
+  "body": "VLC Media Player යනු නොමිලේ ලබා දෙන media player එකක් වන අතර එහි 3.3.0 beta සංස්කරණය අලුත් වෙනස්කම් කිහිපයක් සමඟින් දැන් Android devices සදහා නිකුත් කර ඇති බව වාර්ථා වෙනවා.\n\nඑහි UI එක redesign කිරීමක් සිදු කර ඇති අතර bottom navigation bar එකකින් ද සමන්විත වන බව XDA-Developers වෙබ් අඩවිය පෙන්වා දෙන අතරම, VideoLAN හි සභාපති සහ VLC හි lead developers කෙනෙකු වන Jean-Baptiste Kempf විසින් මෙම නිකුත් කිරිම සම්බන්ද විස්තර Reddit වෙබ් අඩවියේ පළ කර තිබෙනවා.\n\nTwitter මගින් VideoLAN engineer කෙනෙකු වනNicolas Pomepuyවිසින් VLC 3.3.0 beta සංස්කරණයෙහි ඇතුලත් වන bottom navigation bar එක හරහා එක් screen එකක සිට තවත් screen එකකට මාරු විමට අවශ්‍ය taps ගණන අඩු කිරීමේ හැකියාව ලබාදෙන බව පෙන්වා දෙනවා.\n\nමීට අමතරව මෙහි තිබුණු fully colored tool bar එක අයින් කර ඒ සඳහා අලුත් design එකක් ලබා දිමද සිදු කර ඇති අතර automatically සැදෙන Video groups වලට අමතරව පරිශීලකයාගේ කැමැත්ත අනුව custom groups සැදිමට හැකියාව ලබා දි තිබේ\n\nඑමෙන්ම dark theme එක ද තවත් වැඩිදියුණු කිරීමට කටයුතු කර ඇති බව XDA-Developers වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nඔබට අවශ්‍ය නම් Google Play Store එක හරහාVLC beta program එකසඳහා එකතු විය හැකි අතර ඒ හරහා Play Store එක හරහා VLC 3.3.0 beta version එක download කර ගැනිමටද හැකියාව පවති.",
+  "category": "android",
+  "date": "2020-05-13",
+  "extraction_timestamp": "2026-02-20T12:12:15.676408",
+  "headline": "අලුත් VLC beta සංස්කරණය මගින් bottom navigation bar එකක් සහ නව UI එකක් Android වලට ලබා දෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/vlc-3-3-0-beta-for-android-adds-a-new-ui-with-a-bottom-navigation-bar/",
+  "word_count": 200
+}

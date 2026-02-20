@@ -1,0 +1,13 @@
+{
+  "body": "Twitter සමාගම ඔවුන්ගේ platform එක වඩාත් සංවාදශීලී කිරීමේ අරමුණින් එයට අළුත් පහසුකම් කිහිපයක් එකතු කිරීම වෙනුවෙන් මේ වන විට පරීක්ෂණ කිහිපයක් කරමින් පවතිනවා.\n\nමේ අළුත් පහසුකම් පිළිබඳව Screenshot දෙකක් සමඟින් Twitter පණිවුඩයක් තැබීමටSara Haiderවිසින් කටයුතු කර ඇති අතර මැයි Twitter සමාගමේ product management අංශයේ ප්‍රධානියා වෙනවා.\n\nඅපි Tweet එකකට පිළිතුරු ලබා දුන් විට අදාල පිළිතුරු වලට ලැබුනු ප්‍රතිචාර ඉතාමත් පැහැදිලිව දර්ශනය වන පරිදි reply threading යන පහසුකම ඔස්සේ ඉදිරිපත් කරනු ලබනවා.\n\nhey Twitter. we've been playing with some rough features to make it feel more conversational here. presence and reply threading. still early and iterating on these ideas. thoughts?pic.twitter.com/3U3NvpHWPy\n\nFacebook හා Reddit වල දැනටමත් භාවිතා වෙන ආකාරයට මේ පහසුකම ඉදිරිපත් කර ඇති අතර nested replies, එහෙමත් නැතිනම් උප පිළිතුරු වෙනත් වර්ණයකින් පෙන්වීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nඑමෙන්ම මීළඟ image එකේ දැකගතහැකි පරිදි දෙවන පහසුකම වන්නේ අදාල replies යෙදූ Twitter account එක එම අවස්ථාවේදී online සිටීද යන්නට indicator එකක් වන අතර මේ පහසුකම සඳහා නම් සෘණාත්මක ප්‍රතිචාර කිහිපයක් ලැබී තිබෙන බවයි වාර්ථා වන්නේ. මේ හරහා අදාල account එක online එනතුරු බලා සිට එය ඉලක්ක කර විවිධ ක්‍රියාකාරකම් කිරීමට වෙනත් පාර්ශවයන්ට ඉඩ ලැබෙන බව ඔවුන් වැඩි දුරටත් පෙන්වා දෙනවා.\n\ndefinitely. would want you to have full control over showing it.\n\nකෙසේ නමුත් Twitter සමාගම පෙන්වා දෙන පරිදි භාවිතා කරන්නාට අවශ්‍යය නම් මේ පහසුකම disable කිරීමට හැකියාව ලැබෙනවා. ඉතින් ඒ හරහා මේ විචාරකයින් පෙන්වා දෙන පරිදි යොමු විය හැකි අවධානම අඩු වී යනවා.\n\nඑමෙන්ම තවමත් මෙම පහසුකම් පරීක්ෂණ මට්ටමේ තිබෙන බැවින් ඉතාමත් සුළු පිරිසකට පමණක් මෙය දැනට භාවිතා කළ හැකි අතර, Twitter භාවිතා කරනු ලබන සියල්ලන්ටම මෙය නිකුත් කිරීමට පෙර තවත් පිරිසකට මෙය නිකුත් කර එහි ප්‍රතිචාර විමසීමට Twitter සමාගම කටයුතු කරනු ලබන බව ඔවුන් වැඩි දුරටත් ප්‍රකාශ කරනවා.",
+  "category": "social-media",
+  "date": "2018-09-06",
+  "extraction_timestamp": "2026-02-20T12:22:50.016006",
+  "headline": "Twitter එකට අළුතින් එකතු වීමට නියමිත threaded replies සහ status indicators",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/twitter-is-testing-threaded-replies-and-status-indicators/",
+  "word_count": 276
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Google Chrome මත වචනයක් මත long-press කිරීමෙන් select text, copy, share, web search වැනි option ද, single-tap කිරීමකින් quick search එකක් ද සිදු කිරීමේ හැකියාව ද Chrome mobile පරිශීලකයින් හට මේ වන විටත් ලබාදී ඇති options අතර වන බව ඔබ දැක ඇති.\n\nකොහොම නමුත් මේ වන විට මේ පහසුකම තවදුරටත් දියුණු කරමින් තනි tap කිරීමක් හරහා වචන වල අර්ථයන් පෙන්වීමේ පහසුකමක් ද Android පරිශීලකයින් හට ලබාදීමට කටයුතු කර ඇති බව දැකගත හැකි වෙනවා.\n\nඉහත පින්තුර වල පෙනෙන පරිදි Chrome වලදී “touch to search” feature එක ඉතා කෙටි විස්තරයක් සහිතව bottom bar එකක් පෙන්වන අතර එමඟින් results එක pull up කර විට බැලීමට හැකියාව ලැබෙනවා.\n\nමේ අනුව web page එකක වචනයක් මත single-tap කරන විට දැන් වචනය highlight වි bottom bar එකෙහි dictionary definition එකක් පෙන්වනු ලැ‍බෙන අතර එය pull up කළ විට Google Knowledge Graph results ඇතුලු සියලුම results පෙන්වනු ලබනවා.\n\nමෙම feature එක දැනට Android වලට ලබාදී ඇති stable Chrome app එකේ (v83.0.4103.106) ක්‍රියාත්මක වන අතර අවශ්‍යනම් පරිශීලකයින් හටchrome://flags/#contextual-search-definitionsහරහා ගොස් මෙය සක්‍රීය කරගැනීමේ හැකියාව පවතිනවා.",
+  "category": "android",
+  "date": "2020-06-28",
+  "extraction_timestamp": "2026-02-20T12:11:04.446442",
+  "headline": "එක් tap කිරීමක් හරහා වචන වල තේරුම පෙන්වන පහසුකමක් Google Chrome වෙත එකතු කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-chrome-for-android-can-now-define-words-with-a-single-tap/",
+  "word_count": 166
+}

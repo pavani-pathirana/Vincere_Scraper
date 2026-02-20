@@ -1,0 +1,13 @@
+{
+  "body": "අන්තර්ජාලයේ ඇති වෙබ් අඩවි වලින් 40%ක පමණ බහුතර ප්‍රමාණයක් WordPress භාවිතා කරමින් නිර්මාණය කළ ඒවා බව අමුතුවෙන් කිවයුතු නැහැ.\n\nඑමෙන්ම WordPress මත වෙබ් අඩවි නිර්මාණය කිරීමේදී බහුතරයක් දෙනා නිතර භාවිතා කරන plugins ද්විත්වයක් ලෙසElementorසහWP Super Cacheplugins පෙන්වාදිය හැකි අතර, මේ වන විට මෙම plugin ද්විත්වයෙහි ඇති දුර්වලතාවයක් සොයාගැනීමට Wordfence ආයතනයේ පරීක්ෂකයින් පිරිසක් සමත් වී තිබෙනවා.\n\nමෙම දුර්වලතාවය භාවිතා කරමින් අදාල වෙබ් අඩවියෙහි admin access ලබාගැනීමට පවා හැකියාව ඇති බව The Hacker News වෙබ් අඩවිය පෙන්වාදෙන අතර, ඔබ මෙම plugins වලින් එකක් හෝ භාවිතා කරන්නේ නම් හැකි ඉක්මණින් එහි අලුත්ම සංස්කරණය වෙත update කරගන්නා ලෙස ඔවුන් උපදෙස් ලබාදී තිබෙනවා.\n\nElementor plugin එකේ 3.1.4 වැනි සංස්කරණයෙහි සහ WP Super Cache plugin එකේ 1.7.2 සංස්කරණයෙහිදී මෙම දුර්වලතාවය fix කර ඇති අතර, මෙහි ප්‍රධානතම දුර්වලතාවය වන්නේ cross-site scripting (XSS) යන attacks සිදු කිරීමේ හැකියාව ලැබීමයි.\n\nබොහෝ විට WordPress වෙබ් අඩවියකදී සාමාන්‍යය user කෙනෙකු විසින් ලියන ලිපි admin හෝ editor කෙනෙකු විසින් review කරනු ලබන අතර, එලෙස review කිරීම සඳහා අදාල ලිපි open කිරීමේදී, ඇඩ්මින්වරයාගේ session එක භාවිතා කරමින් තවත් admin user කෙනෙකු ස්ව්‍යංක්‍රීයවම නිර්මාණය වන ලෙස XSS attack එකක් සිදු කිරීමේ හැකියාව මේ හරහා ලැබී තිබෙනවා.",
+  "category": "security",
+  "date": "2021-03-18",
+  "extraction_timestamp": "2026-02-20T12:06:35.204096",
+  "headline": "Elementor සහ WP Super Cache plugin ද්විත්වයේ ඇති දුර්වලතාවයක් නිසාවෙන් WordPress වෙබ් අඩවි මිලියන 7ක් පමණ අවධානමට ලක් වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/flaws-in-two-popular-wordpress-plugins-affect-over-7-million-websites/",
+  "word_count": 182
+}

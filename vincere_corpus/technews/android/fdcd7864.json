@@ -1,0 +1,13 @@
+{
+  "body": "Android platform එක මත updates ලබා දෙන ප්‍රධාන ක්‍රම දෙකක් තිබෙන අතර එක ක්‍රමයක් වන්නේ Google Play Store එක හරහා ජංගම දුරකථනයේ Install කර ඇති Apps වලට updates ලබා දීමයි.\n\nඅනෙක් ක්‍රමය වන්නේ Android System updates සඳහා වෙනමම නිර්මාණය කර ඇති System Updates app එක හරහා, Android මෙහෙයුම් පද්ධතියේ OTA updates ලබා දීමයි.\n\nමේ අතරින් Android System updates කියන්නේ ජංගම දුරකථන නිෂ්පාදකයන් විසින් ඉතාමත් කළාතුරකින් ලබාදෙනු ලබන updates වර්ගයක් වන අතර විශේෂයෙන්ම මාස් පතා නිකුත් කරන Security patches පවා, නිසි ආකාරයෙන් ලබා දීමට මොවුන් උනන්දුවක් දක්වන්නේ නැහැ.\n\nමේ ගැටළුවට පිළිතුරක් ලබා දීම වෙනුවෙන් Google Play Store හරහා මේ System updates ලබා දීමේ හැකියාව අත්හදා බලන්නට Google සමාගම මේ වන විට කටයුතු කර තිබෙන අතර, Android Q වල අවසන් update එක මෙසේ Google Play Store එක හරහා නිකුත් කිරීමට කටයුතු කර තිබෙනවා.\n\nමේ පහසුකම භාවිතා කිරීමේදී ක්‍රමවත්ව හා ඉක්මණින් System updates ලබා දීමට ජංගම දුරකථන නිෂ්පාදකයන් හට අවස්ථාව ලැබෙන බවත්, Updates ලබා දීම සඳහා වෙනත් ක්‍රමයක් නිර්මාණය කිරීමට ගත වන කාලය ඉතුරු කරගත හැකි බවත් වාර්ථා වෙනවා.\n\nමේ පිළිබඳව වැඩි විස්තර මීළඟ මැයි 7 වැනි දින පැවැත්වීමට නියමිත Google I/O Event එක අතරතුරදී නිවේදනය කරනු ඇති බව විශ්වාස කෙරෙනවා.",
+  "category": "android",
+  "date": "2019-04-16",
+  "extraction_timestamp": "2026-02-20T12:17:48.075951",
+  "headline": "ප්‍රථම වතාවට Android System Update එකක් Google Play Store එක හරහා නිකුත් කිරීමට කටයුුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-releases-the-first-android-system-update-on-google-play-store/",
+  "word_count": 188
+}

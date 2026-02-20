@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගම විසින් නිශ්පාදිත ඔවුන්ගේ Custom Linux OS එකක් වනAzure Sphere OS එකෙහිආරක්ෂක පද්ධතිය බිඳිය හැකි ඕනෑම කෙනෙකු හට ඩොලර් ලක්ෂයක මුදලක් ලබා දෙන බව ඔවුන් ප්‍රකාශ කර සිටිනවා.\n\nපසු ගිය වසරේදී නිශ්පාදිත මෙම මෙහෙයුම් පද්ධතිය, Microsoft හි IOT Platform එක Run වීම සඳහා විශේෂිත වූ චිප් සමඟින් ක්‍රියාත්මක වන ලෙස සකස් කර තිබෙන අතර මෙහි මූලික අරමුණ වන්නේ මෙම Platform එකට අදාල Services සහ Apps වෙනම sandbox එකක් තුල run කිරීමේ හැකියාව ලබාගැනීමයි.\n\nදැන් මයික්‍රොසොෆ්ට් සමාගමට අවශ්‍ය වී ඇත්තේ හැකර්වරුන් ලවා මෙම මෙහෙයුම් පද්ධතියේ ආරක්ෂාව පරීක්ෂා කිරීම වන අතර එම කටයුත්ත සඳහා මෙහෙයුම් පද්ධතියේ sandbox එක හෝPluton උප ආරක්ෂක පද්ධතියහැක් කල හැකි අයෙකු හට ඩොලර් ලක්ෂයක් ලබා දෙන බව Microsoft සමාගම පවසයි.\n\nමෙම Bug Bounty වැඩසටහන ජූනි පළමුවැනි දින ආරම්භ වී අගෝස්තු 31 වන දින දක්වා මාස තුනක කාලයක්පැවැත්වෙන අතර Azure Sphere Security Research Challenge වැඩසටහන් කාලය තුළ විශේෂිත අවස්ථා සඳහා ඩොලර් 100,000 ක් දක්වා ත්‍යාග පිරිනමන බවමයික්‍රොසොෆ්ට් ආරක්ෂක වැඩසටහන් කළමනාකරු වන Sylvie Liuප්‍රකාශ කර සිටිනවා.\n\nමයික්‍රොසොෆ්ට් සමාගම විශේෂයෙන් සොයන්නනේ මෙම Linux OS එකේ ආරක්ෂාව බිදීමට හැකි ආරක්ෂක පර්‍යේෂකයන් කණ්ඩායමක් වන අතර Physical Attacks මෙම වැඩසටහනට සුදුසුකම් ලබන්නේ නැහැ.\n\nමේ සඳහා උනන්දුවක් දක්වන්නේ නම්, මෙයටඅයදුම් කිරීමසඳහා මයික්‍රොසොෆ්ට් වෙබ් අඩවිය භාවිතා කල හැකි අතර මැයි 15 දිනට පෙර අයදුම්පත් ඉදිරිපත් කල යුතු වෙයි.\n\nමයික්‍රොසොෆ්ට් විසින් ප්‍රධාන අවස්ථා වර්ග දෙකක් හඳුන්වා දී ඇත.\n\nMicrosoft Security Response Center මගින් මෙම වැඩසටහන පවත්වන අතරAzure Security Labවැඩසටහන් පිටුවෙන් අවශ්‍ය මූලාශ්‍ර ලබගත හැක.\n\nAzure Sphere Security Research Challenge එකටAvira,Baidu International Technology,Bitdefender,Bugcrowd,Cisco Systems Inc (Talos),ESET,FireEye,F-Secure Corporation,HackerOne,K7 Computing,McAfee,Palo Alto NetworksandZscaler, යන සමාගම් Microsoft සමඟ සම්බන්ධ වී කටයුතු කරනු ලබන අතර මෙමගින් IOT Security පිලිබඳ හොඳ දැනුමකින් යුතු සියළු දෙනා එකම ස්ථානයකදී දැකගත හැකි වනු ඇති.",
+  "category": "security",
+  "date": "2020-05-08",
+  "extraction_timestamp": "2026-02-20T12:09:21.320166",
+  "headline": "Microsoft සමාගමේ Linux OS එක හැක් කරන්නෙකු හට ඩොලර් $100,000 ක මුදලක් ලබාදීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/microsoft-offers-100-000-dollars-to-hack-its-custom-linux-os/",
+  "word_count": 268
+}

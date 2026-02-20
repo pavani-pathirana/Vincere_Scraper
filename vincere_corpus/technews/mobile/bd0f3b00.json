@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින් පසුගියදා ඔවුන්ගේ Pixel series එකෙහි නවතම ජංගම දුරකථනය වනGoogle Pixel 5a device එකඑළිදැක්වීමට කටයුතු කළ අතර එය අගෝස්තු මස 26 වනදා සිට වෙළඳපොලට නිකුත් වීමට නියමිතව තිබෙනවා.\n\nමෙම device එක Qualcomm Snapdragon 765G SoC එකකිනුත්, 6GB RAM එකකින් සහ 128GB internal storage එකකින් සමන්විත වන අතර 765G SoC එකකින් සමන්විත වුවද Pixel 5a device එක මගින් 4K videos record කිරීමේදී දුරකතනය අධික ලෙස රත්වන බව ඇතැම් පරිශීලකයන් විසින් පෙන්වාදෙනවා.\n\nඔවුන් සඳහන් කරන්නේ, 60 fps rate එකකින් 4K video එකක් විනාඩි කිහිපයක් record කිරීමේදී දුරකතනය අධිකව රත් වී දුරකතනයේ උෂ්ණත්වය සාමාන්‍ය තත්වයට පැමිණෙන තුරු camera එක close කරන ලෙස message එකක් දිස්වන බවයි.\n\nYup. Tested it myself on my Pixel 5a, 70 degrees inside in the A/C and on 4K @ 60 FPS it just takes a matter of minutes to overheat. This is terrible…pic.twitter.com/Pde8GcL6KU\n\nමෙම ගැටලුවට දැකගැනීමට හැකියාව ඇති එකම Google smartphone එක Pixel 5a device එක නොවන අතරAndroid Police වෙබ් අඩවිය වාර්තා කරන ආකාරයටPixel 5 device එකේද එම ගැටලුවම ඇති බව ඇතැම් Reddit පරිශීලකයින් විසින් පෙන්වා දෙනවා.\n\nSoftware patch එකක් මගින් මෙම ගැටලුව නිරාකරණය කිරීමට තමන්ට හැකියාව තිබේද නැද්ද යන්න පිළිබඳව Google සමාගම විසින් තවමත් ප්‍රතිචාර දක්වා නොමැති අතර ඇතැම් පරිශීලකයන් හට මෙවැනි ගැටලුවක් ඔවුන්ගේ Pixel 5a device වල දැකගැනීමට හැකියාවක් නොමැති බවද වැඩිදුරටත් සඳහන් වෙනවා.\n\nJust hit 16 minutes. Phone is a little warm, but not *hot*.https://t.co/dARjE7XaeUpic.twitter.com/NBBFdLXD3W\n\nAndroid Police වෙබ් අඩවියවිසින් වැඩිදුරටත් සපයා ඇති දත්තවලට අනුව, 4K 60fps වලින් video එකක් record කිරීමේදී Pixel 5a ජංගම දුරකතනය විනාඩි 5 තත්පර 5 ක් වැනි කාලයකින් heat warning එකක් පෙන්වා ඇති අතර, Pixel 5 ජංගම දුරකතනය විනාඩි 1 තත්පර 31 ක් වැනි කාලයකින් heat warning එකක් පෙන්වා තිබෙනවා.\n\n4K 30fps සඳහා පමණක් support කරන Pixel 4 ජංගම දුරකතනයෙන් විනාඩි 40ක් පමණ record කළද, කිසිදු ගැටලුවක් දැකගැනීමට හැකියාවක් නොමැති වී තිබෙනවා.",
+  "category": "mobile",
+  "date": "2021-08-22",
+  "extraction_timestamp": "2026-02-20T12:05:13.340900",
+  "headline": "4K Videos record කිරීමේදී Google Pixel 5a දුරකතනය අධික ලෙස රත්වීමේ ගැටලුවකට මුහුණ දෙන බව වාර්තා වෙයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/google-pixel-5a-faces-overheating-issue-while-recording-4k-videos/",
+  "word_count": 293
+}

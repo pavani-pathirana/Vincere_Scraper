@@ -1,0 +1,13 @@
+{
+  "body": "Google ආයතනය විසින් සිය Messages app එක සදහා iMessage හි වැනි emoji reactions එකතු කිරීමට කටයුතු කරමින් සිටින බව මෙම වසර මුලදී XDA-Developers වෙබ් අඩවිය ප්‍රකාශ කර සිටියා.\n\nමේ වන විට එම විශේෂාංගය Google Messages app එකෙහි RCS chats මගින් test කිරීමට Google ආයතනය කටයුතු ආරම්භ කර තිබෙන බවReddit හි පරිශීලකයන් කිහිපදෙනකුසහ Android Police වෙබ් අඩවිය වාර්ථා කර සිටිනවා.\n\nMessage එක මත long press කරගෙන සිටීම මගින් emoji reaction එකක් යෙදීමට පරිශීලකයන්ට හැකියාව ඇති අතර දැනට emoji reactions හතක් පමණ තෝරාගැනීමට හැකිය.\n\nGoogle සමාගම විසින් සිය messages app එකෙහි නව beta සංස්කරණයක් එළිදක්වා ඇතත්, නවතම beta version එක ස්ථාපනය කිරීමෙන් ඔබට message reactions පහසුකම භාවිතා කළ නොහැකි අතර මෙය තෝරාත් පිරිසකට පමණක් ලබාදීමට කටයුතු කර ඇති බව පෙනෙන්නට තිබෙනවා.\n\nඑමෙන්ම මේ පහසුකම ක්‍රියාත්මක වන්නේ RCS messages පමණක් සඳහා වන බවත්, සාමාන්‍යය SMS පහසුකම හරහා පමණක් ක්‍රියාත්මක වන messages වලට මෙම පහසුකම ලබාදී නොමැති බවත් The Verge වෙබ් අඩවිය පෙන්වා දෙනවා.",
+  "category": "google",
+  "date": "2020-05-14",
+  "extraction_timestamp": "2026-02-20T12:13:21.366099",
+  "headline": "iMessages ආකාරයේ emoji reaction පහසුකමක් RCS Messages සඳහා අත්හදාබැලීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-tests-imessage-like-emoji-reactions-for-rcs-messages/",
+  "word_count": 150
+}

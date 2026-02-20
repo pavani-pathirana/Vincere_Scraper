@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මැයි 19 වන දින පැවැත්වුනු Microsoft Build 2020 සමුළුවේදී Machine Learning සඳහා විශේෂ අවධානයක් යොමු වූ අතර වඩාත් නිරවද්‍ය AI Systems සෑදීම සඳහා, Azure තුල පවතින tools හා open-source toolkits ගැන මෙන්ම තවත් විශේෂාංග සහ tools රැසක් ගැන ද අවධානය යොමු කරනු ලැබුවා.\n\nවිශේෂයෙන්ම privacy ගැන වැඩි අවධානයක් යොමු කරමින් නිර්මාණය කරනු ලබන AI models, විවිධ ආකාරයේ පුද්ගල කණ්ඩායම් අතර නිවැරදිව ක්‍රියාත්මක කිරීමට අදාල tools හඳුන්වාදුන් අතර, මේ හරහා ව්‍යාපාරයන් වලට, ඔවුන් සතු දත්ත තමන්ගේ පරිශීලකයින්ගේ privacy එකට බාධාවක් සිදු නොවන අයුරින් උපරිම ලෙස භාවිතා කිරීමේ හැකියාව ලබාදෙනු ලබනවා.\n\nAI model සෑදීම පිළිබඳව ඉගෙනගැනීමට බොහෝ developerවරුන් යොමු වන නිසාවෙන්, එම කටයුත්ත පහසුවෙන් සිදු කරගැනීම සඳහාinterpretMLහාFairlearn toolkitයන open-source toolkits දෙක Microsoft සමාගම විසින් හඳුන්වා දී ඇති අතර මේවා ඉදිරි මාසය තුල Azure Machine Learning වෙතටද පැමිණෙන බව ඔවුන් පෙන්වා දෙනවා.\n\nMachine Learning ආකෘතියක fairness එක යනු ඒවායේ නිගමන වල ඇති ඉතා කුඩා වෙනස්කම් වල පවා ඇති නිවරද්‍යතාවයයි. එනම් පහත ආකාරයේ Husky යන සුනඛ වර්ගය සහ වෘකයන් වෙන් කොට හඳුනාගැනීමකට ලියන ලද Machine Learning ආකෘතියකදී සිදුවන වැරදි ඉතා අවම කරගැනීම වැනි ඒවායි. මෙවැනි කටයුතු සඳහා Fairlearn Toolkit එක භාවිතා වෙයි.\n\nව්‍යාපාර සතු පුද්ගලික තොරතුරු ආරක්ෂාව එලෙසම තබාගෙන එම දත්ත වලින් වැඩිපුර තොරතුරු නිරූපණය කිරීම සඳහා Microsoft සමාගම විසින් open-source tool එකක් වන WhiteNoise වැඩසටහන හඳුන්වා දීමට කටයුතු කරනු ලැබුවා.\n\nප්‍රමාණාත්මක සමාජ විද්‍යාව සඳහා වන Harvard විශ්ව විද්‍යාලය (Harvard Institute for Quantitative Social Science) සමඟ Microsoft සමාගමට තිබුනු හවුල්කාරිත්වයේ ප්‍රතිඵලයක් ලෙස මෙම WhiteNoise Toolkit එක නිර්මාණය කරනු ලැබූ බව Microsoft සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "microsoft",
+  "date": "2020-05-21",
+  "extraction_timestamp": "2026-02-20T12:09:34.480169",
+  "headline": "Microsoft සමාගම විසින් Machine Learning ආකෘති තැනීමට වඩා හොඳ තත්ත්වයේ Tools හඳුන්වාදීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-launches-new-tools-for-building-fairer-machine-learning-models/",
+  "word_count": 242
+}

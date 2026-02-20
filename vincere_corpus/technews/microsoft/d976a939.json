@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගම විසින් ඔවුන්ගේ Edge web browser එක Chromium open source project එක පාදක කරගෙන අලුතින් නිර්මාණය කිරීමට කටයුතු කරමින් සිටින බව මීට පෙර කිහිප අවස්ථාවකදීම අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nමේ වන තුරු පරීක්ෂණ මට්ටමේ පැවති මේ web browser එක අද දින, එනම් ජනවාරි 15 වැනි දින සිට Windows 10 වල 1803 යන build එක සහ ඊට පසුව නිකුත් වන සංස්කණ සහිත Windows 10 Home සහ Pro යන සංස්කරණ භාවිතා කරන්නන් හට නිකුත් කිරීමට පියවර ගෙන තිබෙනවා.\n\nWindows update එකක් ලෙස මෙම update එක ක්‍රමයෙන් සෑම Windows 10 පරිගණකයකම ස්ථාපනය වනු ඇති අතර මෙයින් ඉවත් වීමට හැකියාව ලැබෙන්නේ Business users ලා හට පමණක් වන බව ද ඔවුන් පෙන්වා දෙනවා.\n\nමේ අලුත් web browser එක Chromium මත පදනම් වී ඇති නිසාවෙන් මේ වන විටත් Chrome සඳහා නිර්මාණය කර තිබෙන extensions බොහෝමයක් මෙහි ද භාවිතා කිරීමේ හැකියාව ලැබෙන අතර මේ වන විට ප්‍රධාන web browser අතරින් Chrome, Opera, Edge සහ Vivaldi වැනි web browsers මේ Chromium ව්‍යාපෘතිය පාදක කරගෙන තම web browsers නිර්මාණය කිරීමට කටයුතු කර තිබෙනවා.\n\nමේ වන විට Web browser අතරින් වැඩිම ජනප්‍රියත්වයට පත්ව තිබෙන්නේ Google Chrome web browser එක වන අතර දැනට පවතින Edge සංස්කරණය භාවිතා කරනු ලබන්නේ 2.13% ක පමණ පිරිසක් විසිනුයි.",
+  "category": "microsoft",
+  "date": "2020-01-15",
+  "extraction_timestamp": "2026-02-20T12:10:20.974685",
+  "headline": "Chromium මත පදනම් වුණු Microsoft Edge Browser එක අද දින සිට Windows 10 පරිශීලකයන් හට නිකුත් කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-is-rolling-out-its-chromium-based-edge-browser-today/",
+  "word_count": 196
+}

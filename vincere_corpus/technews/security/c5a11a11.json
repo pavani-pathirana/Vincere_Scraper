@@ -1,0 +1,13 @@
+{
+  "body": "ඔබ මේ වන විටත් ඔබේ පරිගණකයේMozilla Firefox Web Browser එකභාවිතා කරනවා නම්, එය වහාම අලුත්ම සංස්කරණයට update කරගන්නා ලෙස Mozilla ආයතනය විසින් දන්වා සිටිනවා.\n\nඔබගේ Firefox සංස්කරණය Firefox 67.03 හෝFirefox ESR60.7.1 නොවන්නේ නම්, මෙම සංස්කරණ වලට update කරගැනීම හරහා හැකර්වරුන් හට ඔබේ පරිගණකයට සම්බන්ධ විය හැකි අවධානම්කාරී දුර්වලතාවයක් මගහරවාගැනීමට හැකි වන බව ඔවුන් පෙන්වා දෙනවා.\n\nFirefox වලදී JavaScript වලArray.pop method එකhandle කරන ආකාරයේ ගැටළුවක් නිසාවෙන් වෙබ් අඩවියක් load කරවීම හරහා ඔබගේ පරිගණකයට විවිධ අනතුරුදායක code inject කිරීමට හැකර්වරුන් හට අවස්ථාව ලැබෙන බවත්, මේ දුර්වලතාවය භාවිතා කරමින් මේ වන විටත් සිදු වන attack පිළිබඳව වාර්ථා වී ඇති බවත් Mozilla ආයතනය වැඩිදුරටත් දන්වා සිටිනවා.\n\nඉහත link භාවිතා කර ඔබගේ මෙහෙයුම් පද්ධතියට අදාල අලුත්ම Firefox version එක install කරගැනීම හෝ, Firefox වල ඇති hamburger menu එක මත click කර, Help -> About Firefox හරහා ගොස් update කරගැනීම සිදු කිරීමේ හැකියාව තිබෙනවා.",
+  "category": "security",
+  "date": "2019-06-19",
+  "extraction_timestamp": "2026-02-20T12:11:26.077959",
+  "headline": "Firefox පරිශීලකයන් වහාම අලුත්ම සංස්කරණයට update කළ යුතු බව Mozilla ආයතනය දන්වයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/you-should-update-firefox-right-now-to-fix-a-critical-bug/",
+  "word_count": 138
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Android 11 stable සංස්කරණය ළඟදීම නිකුත් කිරීමට Google සමාගම සූදානම් වී ඇති බව ද,Google Assistant සඳහා floating Chat Head bubble එකක් හඳුන්වාදීමට Google සමාගම සුදානම් වන බවද මීට පෙර අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nAndroid පරිශිලකයින් හට floating chat head bubbles පහසුකම ලබාදීමට Telegram ආයතනය විසින් කටයුතු කරන බව පෙනී යන අතර Telegram app එකේ beta 6.3.0 සංස්කරණය සඳහ‍ා දැනටමත් මෙම පහසුකම ලබාදීමට ඔවුන් කටයුතු කර ඇත.\n\nTelegram මඟින් ඔබ යම් මිතුරෙකු හෝ පවුලේ සාමාජිකයෙකු සමඟ නිතර chat කරන්නේ නම් මෙම විශේෂාංගය ඔබට බෙහෙවින් උපකාරි වෙනවා.\n\nඔබ දැනටමත් Telegram හී beta version 6.3.0 භාවිතා කරන්නේ නම්, ඔබට දැනටමත් chat head bubbles භාවිතා කිරීමට හැකියාව ලැබී ඇති අතර chat head bubbles සක්‍රීය කිරීමට නම් Telegram වල Settings වලට ගොස් app version එක මත long-press කිරීම මඟින් debug menu එක‍ට පිවිසිමට හැකි අතර එහිදී “enable chat bubbles” යනුවෙන් option එකක් ඔබට දිස් වෙනු ඇත.\n\nඔබ දැනටමත් Android 10 භාවිතා කරන්නේ නම් Developer Options වෙත ගොස් “Bubbles” option එක enable කළ යුතු අතර අවාසනාවකට මෙන් Android 10 ධාවනය වන සෑම උපාංගයකම Telegram bubbles වැඩ නොකරන බව වාර්ථා වෙනවා.\n\nXDA-Developers වෙබ් අඩවිය පෙන්නවා දෙන පරිදී ඔවුන් පරික්ෂා කළ ASUS ROG Phone 3 දුරකථනයේ සහ Pixel 4 දුරකථනයේද මෙම chat head bubbles crash වි ඇති අතර Pixel Experience custom ROM එක භාවිතා කර ඇති Redmi Note 5 Pro එක සඳහා මෙම chat head bubbles නිසියාකාරව ක්‍රියාත්මක වන බව වාර්ථා වෙනවා.\n\nAndroid 11 සඳහා Telegram හි chat head bubbles කිසිසේත් ක්‍රියා නොකරනු ලබන අතර Telegram මඟින් පැමිණෙන notifications “conversation” එකක් ලෙස හඳුනාගෙන නොමැති විම මෙයට හේතුව බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "android",
+  "date": "2020-08-03",
+  "extraction_timestamp": "2026-02-20T12:10:07.801250",
+  "headline": "Telegram භාවිතා කරන Android පරිශීලකයින් සඳහා floating chat head bubbles පහසුකම ලබාදීමට සුදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/telegram-tests-floating-chat-head-bubbles-for-messages/",
+  "word_count": 256
+}

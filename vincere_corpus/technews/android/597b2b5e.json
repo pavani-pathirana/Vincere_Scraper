@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය පෙබරවාරි මාසයේදී Android 11 සංස්කරණයේ පළමු developer preview එක නිකුත් කිරීමට Google සමාගම කටයුතු කළ බව අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nඔන්න දැන්, මේ Android 11 සංස්කර‍ණයේ දෙවැනි developer preview සංස්කරණයත් නිකුත් කිරීමට Google සමාගම මේ වන විට කටයුතු කර තිබෙනවා.\n\nමීට පෙර ලිපියේදී ද පැහැදිළි කළ ආකාරයට මේ release එක සාමාන්‍යය පරිශීලකයන් ඉලක්ක කර නිකුත් කරන ලද්දක් නොවන අතර developer වරුන් සහ ඉදිරියේදී භාවිතාවට පැමිණෙන තාක්ෂණයන් සඳහා Android මෙහෙයුම් පද්ධතිය සූදානම් කරවීම ඉලක්ක කරගෙන නිකුත් කරන ලද්දකි.\n\n5G state API එක හරහා දැනට භාවිතා කරනු ලබන 5G method එක පිළිබඳව දැනගැනීමේ හැකියාවත්, AndroidX API එක හරහා foldable devices වල යම් අවස්ථාවකදී නැවී ඇති ප්‍රමාණය දැනගැනීමේ හැකියාවත්, Call screen පහසුකමේ වැඩිදියුණු කිරීම් ද ඇතුළුව API වල වැඩිදියුණු කිරීම් කිහිපයක් මෙයට අන්තර්ගත වන අතර ඉදිරියේදී නිකුත් කරනු ලබන apps මේ පහසුකම් භාවිතා කරමින් වඩාත් user friendly ආකාරයට නිර්මාණය කිරීමට developer වරුන් හට මේ හරහා අවස්ථාව ලැබෙනවා.\n\nSynchronized IME transitions, එහෙමත් නැතිනම් soft keyboard එක app එකේ තිබෙන content අනුව ගලපමින් scroll කිරීමේ හැකියාව එකතු කිරීමට ද කටයුතු කර තිබෙනවා.\n\nමීට අමතරව display එකේ refresh rate එක apps හරහා ඊට අදාල ආකාරයට හැසිරවීමේ හැකියාව හෙවත් Variable refresh rate පහසුකමත්, Resume on reboot, එහෙමත් නැතිනම් device එක reboot කිරීමෙන් අනතුරුව apps automatically run වන ලෙස සැකසීමේ හැකියාවත් ලැබෙන අතර Android Emulator එක හරහා fron camera එක සහ back camera එක යන options ද්විත්වයම භාවිතා කිරීමේ හැකියාවත් අන්තර්ගත වෙනවා.\n\nඑමෙන්ම බොහෝ developer වරුන් හට අවශ්‍යය වූ පහසුකමක් වන “Wireless debugging” පහසුකම ද මේ අලුත් Developer preview 2 සංස්කරණය සමඟින් ලබාදී ඇති අතර Wireless Debugging සිදු කිරීම සඳහා මීට පෙර මෙන් විවිධ උපක්‍රම භාවිතා නොකර ඉතාමත් පහසුවෙන් එම කටයුත්ත සිදු කරගැනීමට මේ හරහා අවස්ථාව ලැබෙනවා.\n\nමේ Developer preview එකෙන් පසුව අප්‍රේල් මාසයේදී තවත් developer preview එකක් නිකුත් වනු ඇති අතර ඉන් පසුව beta සංස්කරණ නිකුත් කිරීමටත්, මේ වසරේ තෙවැනි කාර්තුවේදී final release එක සිදු කිරීමටත් Google සමාගම බළාපොරොත්තුවෙන් සිටිනවා.",
+  "category": "android",
+  "date": "2020-03-19",
+  "extraction_timestamp": "2026-02-20T12:13:09.735105",
+  "headline": "Android 11 වල දෙවන Developer Preview එක නිකුත් කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/android-11-developer-preview-2-is-out/",
+  "word_count": 306
+}

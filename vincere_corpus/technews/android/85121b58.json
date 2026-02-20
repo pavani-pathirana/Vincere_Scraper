@@ -1,0 +1,13 @@
+{
+  "body": "2019 මැයි මාසයේදී Huawei සමාගමට අමෙරිකානු ඇමරිකානු සමාගම් සමඟ ගනුදෙනු කිරීමට තිබූ හැකියාව අහිමි කරවීමට එවක ඇමරිකානු රජය තීරණය කිරීමත් සමග මේ වන විට Huawei සමාගම විසින් Android OS එක අතහැර ඒ වෙනුවට තමන්ගේම Harmony OS නම් අලුත් Mobile OS එකකින් සිය උපාංග බලගන්වන වන බව ඔබ දැනටමත් දන්නවා ඇති.\n\nSamsung සමාගමට මෙවැනි තහනමක් පැනවී නැතත්, Samaung සමාගමත් තවත් වසර කිහිපයක් ඇතුළත Android Operating System එකෙන් ඉවත්ව, අලුත් OS එකකින් සිය mobile devices පණගන්වන්නට සූදානමින් සිටින බව ඔබ දන්නවාද?\n\nඔව්, දැනට තිබෙන තොරතුරුවලට අනුව මෙය හුදෙක්ම කට කතාවක් නොවන අතර, Samsung සමාගම විසින් Android OS එක අතහැර දැමීමට විශාල ඉඩක් පවතින බවයි විශ්ලේෂකයින් පෙන්වා දෙන්නේ.\n\nදැනට වසර කිහිපයක් තිස්සේ Google හි පරීක්ෂණාගාරයන් තුළ\"Fuchsia\" නම් නවතම OS එකක්නිර්මාණය වෙමින් තිබෙන අතර එය, Android මෙන් Linux kernel එක මත නිර්මාණය නොවී, Fuchsia OS වෙත බලය ලබා දෙන මූලික platform එක බවටZirconපත් වෙනු ඇති.\n\nSmartphones, tablets, computers ආදී විශාල පරාසයක උපාංග වල භාවිතා කිරීම සඳහා ගූගල් සමාගම විසින් 2016 සිට මෙම Fuchsia OS එක වැඩි දියුණු කරමින් සිටින අතර ඔවුන් විසින් මෙය අත්හදා බැලීම සඳහා Google Nest Hub හි දැනටමත් භාවිතා කර තිබෙනවා.\n\nමෙම Fuchsia OS එක Android මෙන්ම Open source ලෙස නිර්මාණය කෙරෙනවා.\n\nපැරණි දුරකථන වලට Update ලබාදීමට ඇති බාධා, Android වල ඇති Home page එක නිසා වේගයෙන් App අතර මාරු වීමට ඇති නොහැකියාව ආදී Android OS එකේ ආවේණික දුර්වලතා වලට පිළිතුරු සෙවීමද මෙම නවතම OS එකේ අරමුණ වූ අතර, Android වල ඇති memory management වලට භාවිතා වන garbage collection ආකාරයේ ක්‍රමවේදයන්ට මෙම අලුත්ම OS එකෙන් පිළිතුරක් ලැබෙනු ඇතැයිද සිතන්නට පුළුවන්.\n\nSamsung සමාගම Android OS සමඟ භාවිතා කරන One UI Android Skin එකම මෙම Fuchsia OS හි භාවිතා වෙනවාද නැතිනම්, වෙනත් එකක්ද යන්න තවම පැහැදිලි නැති අතර Google හෝ Samsung සමාගම් විසින් තවමත් මේ පිළිබඳව සිය නිල ස්ථාවරයන් ප්‍රකාශයට පත් කර නැහැ.\n\nනමුත් මෙම කටකතාව සම්පූර්ණයෙන් ම අසත්‍යයක් බවට එමගින් ගම්‍යමාන නොවන අතර, බොහෝ මූලාශ්‍ර වාර්තා කරන්නේ Samsung සමාගම Android අතහැර දැමීමට නිසැක සූදානමක් තිබෙන බවයි.\n\nGoogle හා Samsung විසින් දැනටමත් wearable device සඳහ Samsung Tizen OS එක හා Google Wear OS එක merge කර Smart watch සඳහා නිකුත් කර තිබෙනවා.",
+  "category": "android",
+  "date": "2021-12-28",
+  "extraction_timestamp": "2026-02-20T12:06:25.125271",
+  "headline": "Samsung සමාගමත් නුදුරු අනාගතයේදීම Android OS එක අතහැර දමාවිද? මේ ඒ ගැන විමසා බැලීමක්",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/techroom/is-samsung-looking-to-replace-android-with-fuchsia-os/",
+  "word_count": 339
+}

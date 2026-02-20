@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය දෙසැම්බර් මාසයේලොව පුරා printers 50,000ක පමණ ප්‍රමාණයක් hack කර PewDiePie YouTube Channel එක subscribe කරන ලෙස පණිවිඩයක් print කිරීමටhacker කෙනෙකු කටයුතු කළ බව අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nඔන්න දැන් නැවතත් ලොව පුරා Chromecast devices 3,000 කට අධික ප්‍රමාණයක් hack කරමින් මේPewDiePie YouTube Channel එකsubscribe කරන ලෙස පණිවිඩයක් පෙන්වීමට හැකර්වරුන් දෙදෙනෙකු කටයුතු කර තිබෙන අතර, මෙහි එක් සාමාජිකයෙක් අර කලින් hacking campaign එක ගෙන ගිය TheHackerGiraffe නමින් පෙනී සිටි පුද්ගලයා වන අතර අනෙක් පුද්ගයා පෙනී සිට තිබෙන්නේ j3ws3r යන අන්වර්ථ නාමයෙනුයි.\n\nTheHackerGiraffe විසින්BleepingComputer වෙබ් අඩවියටප්‍රකාශයක් කරමින් පවසා තිබෙන්නේ මෙලෙස attack කළ හැකි devices 123,000 ක් පමණ ඇතත් ඒවායින් මේ hack එක සඳහා භාවිතා කළ හැකි devices 100,000ක් පමණක් බවයි.\n\nමෙහිදී මෙම Chromecast devices සහ Google Home වැනි devices සම්බන්ධ කර තිබෙන, අන්තර්ජාලයට සම්බන්ධව තිබෙන router වල වූ පහසුකමක්/දුර්වලතාවයක් භාවිතා කර තිබෙන අතර මේ හරහා video එකක් ද play කිරීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nමේ hack එක පිළිබඳව තොරතුරු සජීවීව ප්‍රදර්ශනය කිරීමටcasthack.thehackergiraffe.comවෙබ් අඩවිය භාවිතා කර තිබුණුත් මේ වන විට එයට පිවිසීමට නොහැකි ලෙස වසා දමා තිබෙන බවක් දැකගන්න පුළුවන්.\n\nමේ hack එක සඳහා 8008 සහ 8443 යනTCP portsභාවිතා කර devices 2,000 ක පමණ ප්‍රමාණයක් hack කරද්දී එය හදිසියේම නැවතී ගිය බවත්, ඉන් පසුව Google සමාගම විසින් භාවිතා කරනු ලබන 8009 යන TCP port එක හරහා මෙය නැවතත් සිදු කරගෙන යන බවත් ඔහු වැඩිදුරටත් ප්‍රකාශ කර තිබෙනවා.\n\nඔයත් මේ විදිහේ Chromecast device එකක් භාවිතා කරනවා නම්, මේ hack එකට අහු වුණත් නැතත් ඔයාගේ router එක බාහිරින් එන attack වලින් පරිස්සම් කරගන්න එක බොහොම හොඳ දෙයක්.\n\nමේකට කරන්න තියෙන්නේ ඔයාගේ Router එකේUPnP (Universal Plug and Play) කියන පහසුකමdisable කරන එකයි.\n\nනමුත් මතක තියාගන්න ඕන දෙයක් තමයි, මේ පහසුකම disable කලාම ඔයාගේ network එකේ තියෙන printers, gaming consoles වගේ internet එකට connect වෙලා භාවිතා කරන උපාංග හරි විදිහට වැඩ කරන්නේ නැති වෙන්න පුළුවන්.\n\nකොහ‍ොම වුණත් මේ පහසුකම disable කරන ක්‍රමය router එකින් එකට වෙනස්. ඉතින් හරියටම මෙන්න මෙහෙමයි කරන්නේ කියලා අනුපිළිවෙලක් යටතේ උපදෙස් දෙන්න බැරි වුණත්, ඔයාගේ router එකේ Admin panel එකට log වෙලා සැළකිල්ලෙන් බැලුවොත් ඔයාට මේක හොයාගන්න පුළුවන් වේවි.",
+  "category": "security",
+  "date": "2019-01-03",
+  "extraction_timestamp": "2026-02-20T12:13:45.637757",
+  "headline": "PewDiePie YouTube Channel එක promote කිරීමට ලොව පුරා Chromecasts ගණනාවක් hack කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/hackers-are-taking-over-chromecasts-to-promote-pewdiepies-channel/",
+  "word_count": 329
+}

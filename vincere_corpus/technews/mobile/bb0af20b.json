@@ -1,0 +1,13 @@
+{
+  "body": "Battery power එක ඉතුරු කරගැනීම වෙනුවෙන් Apple සමාගම විසින් iPhone වල CPU throttling සිදු කළ නිසාවෙන්, ඒ වෙනුවෙන් ඩොළර් මිලියන ගණනක වන්දියක් ගෙවීමට සිදු වුණා මතක ඇති.\n\nඔන්න දැන් OnePlus සමාගම විසින් OnePlus 9 සහ OnePlus 9 Pro යන ජංගම දුරකථන වලත් මීට තරමක් දුරට සමාන ආකාරයේ සිදුවීමක් වාර්තා වෙන අතර, මෙහිදී battery power එක ආරක්ෂා කරගැනීම සඳහා ජනප්‍රිය apps හිතාමතාම slow කිරීමට කටයුතු කර තිබෙනවා.\n\nමේ අනුව Chrome, Twitter වැනි අදාල apps වලට OnePlus 9 සහ 9 Plus ජංගම දුරකථන වල අන්තර්ගත CPU එකේ ඇති performance cores වලට access ලබාදීම අවහිර කරනු ලබන බව වාර්තා වෙනවා.\n\nමෙලෙස අවහිර කරනු ලබන apps අතරට Google apps, Microsoft Office apps, Social media apps සහ Web browsers ඇතුලත් වන බව ද මේ පිළිබඳව මූලික අනාවරණය සිදු කළ Anandtech වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nIt's disappointing to see OnePlus handsets making performance decisions based on application identifiers rather than application behavior. We view this as a form of benchmark manipulation. We've delisted the OnePlus 9 and OnePlus 9 Pro from our Android Benchmark chart.https://t.co/G40wmWeg7o\n\nමේ අතර මෙම තත්ත්වය benchmark manipulation කිරීමක් ලෙස හඳුන්වමින් GeekBench වෙබ් අඩවියෙහි ranking වලින් OnePlus 9 සහ OnePlus 9 Plus යන ජංගම දුරකථන ඉවත් කිරීමට ද ඔවුන් කටයුතු කර තිබෙනවා.\n\nමේ පිළිබඳව OnePlus සමාගම විසින් නිළ වශයෙන් ප්‍රකාශයක් සිදු කර ඇති අතර, ඒ අනුව තම පරිශීලකයින්ගේ අදහස් වලට අනුව, user experience එක වැඩිදියුණු කිරීම වෙනුවෙන් OnePlus සමාගමේ R&D team එක විසින් පසුගිය මාස කිහිපය තුළ මෙම ක්‍රියාවලිය සිදු කළ බවත්, තම සමාගමේ මූලික අරමුණ තම පාරිභෝගිකයින් හට වඩාත් හොඳ තත්ත්වයේ අත්දැකීමක් ලබාදීම බවත් ප්‍රකාශ කරනවා.",
+  "category": "mobile",
+  "date": "2021-07-08",
+  "extraction_timestamp": "2026-02-20T12:05:24.211550",
+  "headline": "Battery ආයුකාලය වැඩි කරගැනීම වෙනුවෙන් ජනප්‍රිය app වල performance සීමා කළ බව OnePlus සමාගම පිළිගනියි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/oneplus-admits-to-throttling-popular-apps-to-save-battery-life/",
+  "word_count": 254
+}

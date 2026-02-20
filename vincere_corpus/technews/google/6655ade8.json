@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය කාළසීමාව ඇතුලත Windows 10 වලට හා macOS වලට අලුතින් dark mode එක එකතු කිරීමට කටයුතු කළ බව ඔබ දකින්නට ඇති.\n\nඔන්න දැන් ලොව ජනප්‍රියතම web browser එක වන Google Chrome Browser එකට මේ dark mode එක හඳුන්වා දීමට Google සමාගම සූදානම් වන බව දැනගන්නට ලැබෙනවා.\n\nමේ වන විටත්Google Chrome සඳහා dark themes තිබුණත්ඒ හරහා සම්පූර්ණ browser එකම ආවරණය කළ නොහැකි වූ නමුත් මේ අලුත් dark mode එක හරහා ඒ සියල්ලක්ම ආවරණය වෙනවා.\n\nඒ වගේම මේ අලුත් පහසුකම දැනටමත්Chrome Canary සංස්කරණයහරහා අත්හදාබැලීමේ හැකියාව තිබෙන නමුත් මෙය තවමත් ඉතාමත් මූලික අදියරක පවතින බව දැකගන්නට ලැබෙනවා. එමෙන්ම මෙය නිළ වශයෙන් නිකුත් කිරීමට කටයුතු කරන දිනයක් පිළිබඳව ද Google සමාගම විසින් තොරතුරක් ප්‍රකාශ කර නැහැ.\n\nඉතින් ඔයත් කැමති නම් තවමත් නිර්මාණය කරමින් යන මේ අලුත් Chrome Dark mode පහසුකම අත්විඳින්න, Chrome Canary version එක download කරගෙන, පොඩි trick එකක් අනුගමනය කරලා මේක enable කරගන්න පුළුවන්.\n\nමේ Chrome Canary කියන්නේ එදිනෙදා භාවිතයට ඒ තරම් හොඳ පහසුකමක් නොවන අතර එය දිනපතා Chrome වලට එකතු කරන අලුත්ම පහසුකම් (හා bugs) ඇතුලත් කොට නිර්මාණය කිරීමට කටයුතු කරනු ලබන Web Browser එකක්.\n\nඔයා Chrome Canary version එක download කර install කරගැනීමෙන් පසුව, start menu එකට එන ‍shortcut එක මත right click කර, More > Open File Location කියන option එක click කරන්න.\n\nඑතකොට ඔයාට Chrome Canary එකේ shortcut එක දැකගන්න ලැබෙන අතර ඒ මත right click කර Properties option එක තෝරගන්න. ඉන් පසුව එහි තිබෙන Target කියන field එකේ අවසානයට-force-dark-modeයනුවෙන් එකතු කරලා OK කරන්න.\n\nඊට පස්සේ ඔයා ඒ shortcut link එක හරහා open කරන හැම වාරයකදිම මේ Chrome dark mode එක භාවිතා කරන්න ඔයාට හැකියාව ලැබෙනවා. ඒ වගේම අර අපි කලින් එකතු කරපු-force-dark-modeකියන කොටස අදාල තැනින් ඉවත් කලොත්, ඔයාට ආයෙත් සාමාන්‍යය විදිහට භාවිතා කරන්නත් පුළුවන්.\n\nආයෙත් වරක් මතක් කරන්න ඕන මේ Chrome Canary කියන්නේ අපි භාවිතා කරන සාමාන්‍යය Chrome browser එක වගේ bugs නැති හොඳම web browser එක නෙවෙයි. මේක beta වලටත් කලින් අවස්ථාවක තියෙන browser එකක් නිසා විවිධ විදිහේ bugs ඔයාලට දකින්නට ලැබීමේ හැකියාවක් තිබෙනවා.",
+  "category": "google",
+  "date": "2019-01-05",
+  "extraction_timestamp": "2026-02-20T12:21:19.960352",
+  "headline": "Windows 10 වලදී Google Chrome වලට Dark Mode එකක් හඳුන්වා දීමට Google සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-confirms-dark-mode-for-chrome-browser-on-windows-10/",
+  "word_count": 318
+}

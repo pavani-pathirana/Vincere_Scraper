@@ -1,0 +1,13 @@
+{
+  "body": "ඔයාලට මතක ඇතිපසුගිය Google I/O event එක අතරතුර තාක්ෂණික ලෝකයම පුදුම කරවමින් Google සමාගම ඔවුන්ගේ Duplex තාක්ෂණය එළිදක්වන්නට කටයුතු කළා.\n\nඔන්න දැන්, මේGoogle Duplex පහසුකමGoogle Pixel ජංගම දුරකථන භාවිතා කරනු ලබන සීමිත පිරිසකට ලබාදීමට Google සමාගම කටයුතු කර තිබෙන බව දැනගන්නට ලැබෙනවා. මේ Google Duplex තාක්ෂණය ගැන අමතක අය පහළ video එක බළන්න.\n\nමේ තාක්ෂණය සඳහා Google සමාගම විසින් නිශ්පාදනය කරනු ලැබූWaveNet කියන audio processing neural network එකේසහාය ලබාගෙන ඇති අතර Google Assistant හට සෘජුවම මෙය සම්බන්ධ කිරීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nතවමත් මේ Google Duplex පහසුකම හරහා reservation කළ හැකි වන්නේ ඇමෙරිකාවේ New York, Atlanta, Phoenix, සහ San Francisco කියන නගර වල පිහිටි restaurants වල පමණක් වන අතර මේ හරහා භාවිතා කළ හැකි වන්නේ ද English language එක පමණයි.\n\nGoogle Assistant විසින් Pixel ජංගම දුරකථන පරිශීලකයා වෙතින් අවශ්‍යය තොරතුරු ලබා ගන්නා ආකාරය ඉහත video එක මගින් පෙන්නුම් කෙරෙන අතර පහත video එක හරහා එය අදාල restaurant එකට ලැබෙන ආකාරය පෙන්නුම් කරනු ලබනවා.\n\nවාර්ථා වන තොරතුරු අනුව තවමත් මේ පහසුකම ලබා දී තිබෙන්නේ Pixel 3 සහ Pixel 3 XL ජංගම දුරකථන භාවිතා කරන්නන් සීමිත පිරිසකට පමණක් වන අතර ඉදිරියේදී ක්‍රමයෙන් මෙම සේවාව ලබා දෙන ප්‍රදේශ මෙන්ම devices ප්‍රමාණයද වැඩි කිරීමට Google සමාගම කටයුතු කරනු ඇත.",
+  "category": "ai",
+  "date": "2018-11-23",
+  "extraction_timestamp": "2026-02-20T12:07:02.001665",
+  "headline": "ඇතැම් Pixel හිමිකරුවන් හට Google Duplex පහසුකම ලබා දීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "ai"
+  ],
+  "url": "https://technews.lk/google-duplex-is-rolling-out-for-some-google-pixel-owners/",
+  "word_count": 195
+}

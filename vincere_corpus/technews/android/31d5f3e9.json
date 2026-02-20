@@ -1,0 +1,13 @@
+{
+  "body": "AndroidPකියන්නේ Android මෙහෙයුම් පද්ධතියේ නවවන ප්‍රධාන සංස්කරණයයි. Google එකෙන් මේකේ පළවෙනි preview එක මුලින්ම ප්‍රකාශයට පත් කලේ 2018 මාර්තු 7 වෙනිදා. ඒ වගේම 2018 මැයි 8 වෙනිදා, ඒ කියන්නේ ඊයේ මේකේ දෙවෙනි preview එකත් release කළා.\n\nපහත දැක්වෙන උපාංග සඳහා ගූගල් ආයතනය විසින් Android P beta preview එක දීලා තියනවා:\n\nඒ වගේම මේකේ මීටත් වඩා ගොඩක් වැදගත් වෙනස්කම් කිහිපයක්ම ඇතුලත් වෙනවා. අපි බළමු මොනවද ඒ අළුත් features කියලා.\n\nAndroid P නිර්මාණය කර ඇත්තේ ඉදිරි පැය කිහිපය තුලදී ඔබ කුමන යෙදුම් භාවිතා කරනවාද යන්න මතය. ඇප්ස් සඳහා CPU ඇප් එක ඇප් එකේ 30% ප්‍රති ජනනය, අනුවර්තනකාරී බැටරි ප්රතිඵලය නිෂ්පාදනය කරයි, ඩේව් බර්ක්ට අනුව, ඇන්ඩ්රොයිඩ් සඳහා වන ගූගල් VP of Engineering. ගැඹුරු ඉගෙනුම් ඇල්ගොරිතම සවි කිරීමට Deep Mind සමඟ ගූගල් සමාගම හවුල් වූ බව ඔහු පවසන අතර එය Android බැටරි ආයු කාලයෙහි විශාල බලපෑමක් ඇති කරයි.\n\nApp Action එකක් කියන්නේ හරියට shortcut එකක් වගේ දෙයක්. මේකෙන් user ට පුළුවන් app එක ඇතුලේ තියන action එකකට app එක open කරන්නේ නැතිව ඉක්මණින් access කරන්න.\n\nSlices කියන්නේ Android P වල search bar එක හරහා access කරන්න පුළුවන් අර කළින් Actions වල කිවුවා වගේම, shortcuts වගේ දෙයක්. නමුත් system එ‍කෙන් දෙන generalized user interface එකක් වෙනුවට මේකේ භාවිතා වෙන්නේ අදාල app එකේ තියන user interface එකමයි.\n\nඔයා එදිනෙදා කටයුතු කරගන්න system එක ඇතුලේ navigate කරන විදිහ වෙනස් කරනවා කියන්නේ ටිකක් ලොකු දෙයක්. Google ලා මේකේ ලොකු වෙනසක් කරලා නැහැ. නමුත් පොඩි පොඩි වෙනස්කම් ගොඩාක් කරලා තියනවා යන එන හැම තැනකම කරන actions ලේසි වෙන විදිහට.\n\nAndroid use කරන කවුරුත් දන්නවා adaptive brightness කියන function එක කවදාවත් හොඳට වැඩ කලේ නෑ කියලා. නමුත් ඒ අභියෝගය ජයගන්න Android P වලදී ඔන්න ක්‍රමයක් Google ලා introduce කරලා තියනවා. ඔයා ඉන්න පරිසරය අනුව screen එකේ brightness එක වෙනස් කරන්න machine learning භාවිතා කරන්න පුළුවන් power efficient ක්‍රමයක් Android P එක්ක එනවා.\n\nහිතන්න දැන් ඔයා නිදාගන්න යන්න වෙලාව කියලා, මේ Wind down mode එකෙන් ඔයාගේ phone එකේ screen එක automatically ම gray color එකට මාරු වෙනවා. ඒකෙන් ඔයාට ඉඟියක් ලැබෙනවා, දැන් වැඩ කරන වෙලාව පහු වෙලා, ගිහින් නිදාන්න කියලා. ගොඩක් අය මේ screen color එක manually change කරනවා. නමුත් ඒක automatically ම වෙන එක ගොඩක් හොඳ දෙයක්.",
+  "category": "android",
+  "date": "2018-05-09",
+  "extraction_timestamp": "2026-02-20T12:22:26.305659",
+  "headline": "Andorid පවුලේ අළුත්ම සාමාජිකයා - ANDROID P",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/andorid-android-p/",
+  "word_count": 347
+}

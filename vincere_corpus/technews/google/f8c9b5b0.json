@@ -1,0 +1,13 @@
+{
+  "body": "2018 වර්ෂයේදී Google Maps භාවිතා කරනු ලබන iOS සහ Android පරිශීලකයින් සඳහා media playback controls ලබාදීමට Google සමාගම කටයුතු කල අතර මේ සතියේ ලබාදුන් update එක මඟින් YouTube Music සඳහා ද සහාය දැක්වීම ආරම්‌භ කර ඇති බව වාර්ථා වෙනවා.\n\nඔබ Google Maps navigation පහසුකම භාවිතා කරන විට Google maps app එක full screen ලෙස දර්ශනනය වන අතර මේ වන විටත් යම්කිසි music එකකට සවන් දෙමින් සිටින්නේ නම්, එය මින් පෙර පෙන්නුම් කලේ Google maps voice mute button එකට පහලිනුයි.\n\nනමුත්මෙම නව update එක හරහා මාර්ගය බලාගෙන ගමන් කරන විට ඔබට පහසුවෙන්ම අදාල music app එක හරහා ගීත මාරු කිරීමට හැකියාව ලැබෙන අතර ඔබ මේ අවස්ථාවේදී play කර ඇති ගීතයේ title එක සහ artist කවුරුන්දැයි ඉහලින් පෙන්වන අතර play / pause, forwards / backwards buttons ද මෙහි අන්තර්ගත‍ වෙනවා.\n\n“Browse” button එක කිරිම මගින් ඔබ මැත අවසානයට සවන් දුන් ගීත වලට නැවතත් සවන් දීමේ හැකියාව ඇති අතර කලින්Apple Music, Play Music සහ Spotifyවැනි Apps සදහා Google Maps මේ පහසුකම ලබා දී තිබුණා.\n\nSettings > Navigation settings හරහා ගොස් “Show media playback controls” යන option එක enable කර ඇත්නම් YouTube Music සේවාව ඔබට “Default media app” එක බවට තේරීමේ හැකියාව ඇති අතර Google Maps Android App එකේ Version 10.43.2 එකෙහි මෙම පහසුකම ලබා ගැනීමට හැකියාව ඇති බවත් නමුත් iOS පරිශීලකයින් සඳහා මෙම පහසුකම ලබාදී නොමැති බවත් සඳහන් වෙනවා.",
+  "category": "google",
+  "date": "2020-06-14",
+  "extraction_timestamp": "2026-02-20T12:12:15.319407",
+  "headline": "Google Maps භාවිතා කරන අතරතුර YouTube Music සඳහා සවන්දීමේ පහසුකම Android පරිශීලකයින් හට ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-maps-for-android-now-supports-youtube-music-when-navigating/",
+  "word_count": 216
+}

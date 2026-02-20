@@ -1,0 +1,13 @@
+{
+  "body": "Pwn2Ownකියන්නේ 2007 වර්ෂයේ පටන් මේ දක්වා වාර්ශිකව පවත්වනු ලබන hacking contest එකක්. මේ contest එකට ලොව නන් දෙසින් හැකර්වරුන් සහභාගී වන අතර, විවිධ මෘදුකාංග මෙන්ම විවිධ devices hack කිරීම වෙනුවෙන් මෙහිදී ත්‍යාග ප්‍රධානය කරනු ලබනවා.\n\nඉතින් මෙවර පැවති Pwn2Own contest එක අතරතුරදී Tesla මෝටර් ‍රථයක් hack කිරීම වෙනුවෙන් එම හැකර්වරයා හට ඇමෙරිකානු ඩොලර් 375,000ක් මෙන්ම ඔහු විසින් hack කරන ලද Tesla Model 3 මෝටර් රථය ප්‍රධානය කරන්නට Tesla ආයතනය කටයුතු කළ බවත් මේ වන විට ඔබ දන්නවා ඇති.\n\nThat's a wrap! Congrats to@fluoroacetateon winning Master of Pwn. There total was $375,000 (plus a vehicle) for the week. Superb work from this great duo.pic.twitter.com/Q7Fd7vuEoJ\n\nමේ Tesla මෝටර් රථය hack කිරීමට අමතරව කාගේත් අවධානයට යොමු වුණු තවත් මෘදුකාංග දෙකක් වූයේ Mozilla Firefox සහ Microsoft Edge යන මෘදුකාංග ද්විත්වයයි.\n\nAmat Cama සහ Richard Zhu යන පුද්ගලයන් විසින් Mozilla Firefox web browser එකේ ඇති දුර්වලතාවයක් භාවිතා කරමින්, වෙබ් අඩවියක් දර්ශනය කිරීම හරහා අදාල පරිගණකයේ සම්පූර්ණ ක්‍රියාකාරීත්වය තමන් යටතට නතු කරගැනීමට සමත් වූ අතර, මේ වෙනුවෙන් ඇමරිකානු ඩොලර් 50,000ක මුදලක් ත්‍යාග වශයෙන් පිරිනැමීමට කටයුතු කර තිබෙනවා.\n\nමීට අමතරව Niklas Baumstark නැමැත්තා විසින් මේ ආකාරයේම තවත් දුරවලතාවයක් පෙන්වාදීමට කටයුතු කරනු ලැබූ අතර, ඒ හරහා Firefox භාවිතා කරමින් සිටින user account එකට අදාල සියළුම access ලබා ගැනීමට ඔහු සමත් වී තිබෙනවා. අදාල user, administrator කෙනෙකු නම්, පෙර කී ආකාරයේ සියළුම බළතල ඔහුට ද හිමි වෙනවා.\n\nමෙම දුර්වලතාවය වෙනුවෙන් ඇමෙරිකානු ඩොලර් 40,000ක මුදල් ත්‍යාගයක් පිරිනැමීමට ද මොවුන් කටයුතු කර තිබෙන බව වාර්ථා වෙනවා.\n\nVMWare workstationclient එකක් භාවිතා කරමින් ඉතාමත් සූක්ෂම ක්‍රමයක් උපයෝගී කරගෙන Microsoft Edge browser එකෙහි පවතින දුර්වලතාවයක් පෙන්වා දුන් අතර ඒ වෙනුවෙන් ඇමරිකානු ඩොලර් 130,000ක මුදල් ත්‍යාගයක් හිමි කරගන්නට එම හැකර්වරුන් සමත් වුණා.\n\nමීට අමතරව Arthur Gerkis නැමැති හැකර්වරයෙකු විසින් ද Microsoft Edge browser එකෙහි වූ තවත් exploit එකක් පෙන්වා දීමෙන් ඇමරිකානු ඩොලර් 50,000ක මුදල් ත්‍යාගයකට හිමිකම් කියනු ලැබුවා.\n\nමෙහිදී හඳුනාගනු ලැබූ සියළුම දුර්වලතාවයන් fix කිරීම සඳහා මීළඟට නිකුත් කිරීමට නියමිත updates හරහා patches ලබාදීමට නියමිත බව Microsoft සහා Mozilla ආයතනය වැඩිදුරටත් දන්වා සිටිනවා.",
+  "category": "security",
+  "date": "2019-03-24",
+  "extraction_timestamp": "2026-02-20T12:12:40.649512",
+  "headline": "Tesla මෝටර් රථයක්, Mozilla Firefox සහ Microsoft Edge යන Web Browsers Pwn2Own අතරතුරදී Hack කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/mozilla-firefox-and-microsoft-edge-hacked-at-pwn2own/",
+  "word_count": 318
+}

@@ -1,0 +1,13 @@
+{
+  "body": "මීට වසර දෙකකට පමණ පෙර Google Tasks සේවාව සරල UI එකක් සහිතව app එකක් ලෙස දියත් කළ අතර එය ඉතා සෙමින් නව විශේෂාංග හදුන්වා දෙමින් ඉදිරියට ගෙන ඒමට කටයුතු කරනු ලැබුවා.\n\nමේ දක්වා තනි app එකක් ලෙස තිබුණු මේ Google Tasks සේවාව පසුගිය ඔක්තෝම්බර් මාසයේදී පමණ Google Calendar සේවාව සමඟින් අන්තර්ගත කරනු ලබන බව ප්‍රකාශ කළ අතර මේ වන විට එය ඇතැම් පරිශීලකයින් හට නිකුත් කිරීමට Google සමාගම කටයුතු කරමින් සිටින බව වාර්ථා වෙනවා.\n\nGoogle Calendar වල “+” මත tap කරන විට “Tasks” සඳහා ද option එකක් එකතු කර ඇති අතර ඒ හරහා මෙම Google Tasks සහ Google Calendar අතර integration එක සිදු කර තිබෙනවා.\n\nමේ හරහා Calendar app එක තුළින්ම task එකක් create කරගැනී‍මේ හැකියාව ලැබුණු අතර දැනට පවතින Goal එකක් හෝ Reminder එකක් ආකාරයටම එය ක්‍රියාත්මක වෙනවා.\n\nGoogle Calendar එකෙහි Tasks interface එක event එකක් නිර්මාණය කිරීමට සමාන වන අතර ඔබට task එක සඳහා මාතෘකාවක් ලබා දීම, විස්තර එකතු කිරීම, වේලාවක් හා දිනයක් තෝරා ගැනීම මෙන්ම එය task list එකක් යටතේ තැබීම හෝ එය remind කළ යුතුද නැද්ද යන්න ද තීරණය කිරීමේ හැකියාව ලැබෙනවා.\n\nඔබගේ device එකෙහි මේ task app එක ස්ථාපනය කර නොමැති වුවද මෙය ක්‍රියාත්මක වන අතර Task එකක් ඇතුළත් කළ පසු, සාමාන්‍ය Calendar settings තුළම ඔබට නව “Tasks notifications” ලෙස කොටසක් දිස්වනු ඇත.\n\nමෙම integration එක තවමත් නිළ වශයෙන් ප්‍රකාශයට පත් කර නොමැති නමුත් ඇතැම් පරිශීලකයින් සඳහා මේ වන විටත් server-side update එකක් ලෙස ලබාදී ඇති හෙයින්, stable release එකක් ලෙස ළඟදීම නිකුත් වෙනු ඇතැයි අනුමාන කල හැක.",
+  "category": "google",
+  "date": "2020-06-14",
+  "extraction_timestamp": "2026-02-20T12:12:21.504003",
+  "headline": "Google Calendar සහ Google Tasks සේවාවන් ඒකාබද්ධ කිරීම සඳහා Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-calendar-enables-google-tasks-integration/",
+  "word_count": 243
+}

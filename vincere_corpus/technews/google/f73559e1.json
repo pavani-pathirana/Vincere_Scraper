@@ -1,0 +1,13 @@
+{
+  "body": "පසුගියදා Google සමාගම විසින් ඔවුන්ගේGoogle Play Music සේවාව shutdown කිරීමට කටයුතු කළ අතරඑතෙක් Google Play Music සේවාව භාවිතා කළ පරිශීලකයන් හට Youtube Music වෙත මාරු වීමට හැකියාවද ලබා දී තිබුණා.\n\nමේ වනවිට, Android සඳහා වන Google Play Music app එකෙහි අවසාන update එක ලොවපුරා පරිශීලකයන් හට ලැබෙමින් පවතින අතර එමගින් ඔබගේ දුරකතනයේ app drawer එකෙන් Google Play Music app එක hide කිරීමට හැකියාව ලබාදෙයි.\n\nමෙම update එක පැමිණෙන්නේ Google Takeout භාවිතයෙන් Google Play Music පරිශීලකයන් හට ඔවුන්ගේ music library එක download කිරීමේ option එක ඉවත් කිරීමෙන් සති කිහිපයකට පසුව වන අතර මෙම අවසාන Google Play Music update එක (v. 8.29.9112-1.W) දැනටමත් Play Store එක හරහා පරිශීලකයින් වෙත ලබාදීමට Google සමාගම කටයුතු කරමින් සිටිනවා.\n\nඑම update එක install කරගැනීමෙන් පසුව “Google Play Music is no longer available” යන message එක screen එක මත දිස්වුවද, එම message එකට යටින් නව “Free up space” එකක් දැකගැනීමට හැකි අතර මෙම section එකේ ඇති options මගින් ඔබට Google Play Music app එක hide කිරීමට, local data delete කිරීමට සහ app info open කිරීමට හැකියාව ලබාදී තිබෙනවා.\n\nමෙහි ඇති hide option එක මගින් ඔබගේ දුරකතනයේ Home screen එකේ සහ app drawer එකෙන් Google Play Music app එක hide කිරීමට හැකියාව තිබෙන අතර, එහිදී ඔබට එය open කිරීමේ හැකියාවද නොමැති වෙනවා.\n\nDelete all local data option එක මගින් ඔබගේ device එකේ save කල දත්ත ඉවත් කරන අතර Open app info option එක මගින් ඔබව “App info” page එක වෙත ගෙන එනවා.\n\nනව Google Play Music update එකත් සමඟ මෙම app එක pre-install කර ඇති devices සඳහා ප්‍රධාන අවධානය යොමු කරන අතර, එවැනි උපාංගවල, Google Play Music app එක system app එකක් ලෙස ස්ථාපනය කර ඇති බැවින් එය disable කළ හැක්කේ “App info” page එකෙන් පමණි.\n\nමෙම update එක මගින් YouTube Music pre-installed ලෙස පැමිණෙන devices සඳහා කිසිදු වෙනසක් නොකරන අතර, එයට හේතුව, ඔබ Play Store වෙතින් බාගත කළ වෙනත් ඕනෑම යෙදුමක් download කල ආකාරයටම uninstall කිරීමේ හැකියාව පැවතීම නිසාවෙනි.",
+  "category": "google",
+  "date": "2021-04-09",
+  "extraction_timestamp": "2026-02-20T12:06:58.110464",
+  "headline": "Google Play Music සඳහා ලබා දෙන අවසාන update එකත් සමඟ ඔබගේ දුරකතනයේ app එක hide කිරීමට හැකියාව ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-play-musics-final-update-lets-you-hide-the-app-on-your-phone/",
+  "word_count": 312
+}

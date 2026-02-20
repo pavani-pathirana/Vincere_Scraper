@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගම විසින් සිය Defender antivirus මෘදුකාංගය Android සහ iOS වලට හඳුන්වාදීමට සූදානම් වන බව අප මින් පෙර ලිපියකින් ඔබව දැනුවත් කිරීමට කටයුතු කරනු ලැබුවා.\n\nඔන්න දැන් Microsoft සමාගම විසින් ඔවුන්ගේDefender ATP (Advanced Threat Protection) එකෙහි public preview එකIntune Company Portal appඑක හරහා Android වලට නිකුත් කිරීමට කටයුතු කර තිබෙනවා.\n\nනමුත් සාමාන්‍ය Android පරිශීලකයෙකු සඳහා antivirus app එකක අවශ්‍යතාවයක් ඇත්දැයි යන්න තරමක් ප්‍රශ්නාර්ථයක් වුවත් අමතර ආරක්ෂාවක් අවශ්‍ය පරිශීලකයන් හට මෙවැනි Android antivirus apps ප්‍රයෝජනවත් වනු ඇත.\n\nමෙම antivirus app එකෙහි ප්‍රධාන හැකියාවන් දෙස අවධානය යොමු කිරීමේදී මේ හරහා වෙබ් අඩවි සහ app වලින් ඇති විය හැකි phishing සහ අනාරක්ෂිත network සම්බන්ධතා වලින් device එක ආරක්ෂා කිරීමට කටයුතු කරනු ලබන අතර Google සමාගමේ built-in malware protection සේවාව වන Google Play Protect සේවාවේ හැකියාවන් වලින් ඔබ්බට ගොස් malware හඳුනාගැනීම සඳහා ඔවුන්ගේම ක්‍රමයක් භාවිතා කරනු ලබන බව Microsoft සමාගම පෙන්වා දෙනවා.\n\nමේ අනුව SMS, email සහ WhatsApp වැනි අනෙකුත් apps හරහා එවනු ලබන pishing links ආදිය අවහිර කිරීමට මේ අලුත් Defender එකට හැකියාව ඇති අතර ඇතැම් apps වලින් නිර්මාණය කරනු ලබන අනාරක්ෂිත connections සියල්ලම block කිරීම සඳහා Defender SmartScreen තාක්ෂණය භාවිතා කරනු ලබන බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nMicrosoft සමාගම විසින් ඉදිරියේදී මේ සඳහා තවත් පහසුකම් එකතු කිරීමට සූදානමින් සිටින අතර iOS සඳහා ද මේ Defender ATP සේවාව මෙම වසර අගදී නිකුත් කිරීමට  ඔවුන් සැලසුම් කරමින් සිටියි.\n\nමේ වන විට Android devices වල Defender ATP සඳහා අවශ්‍ය requirements සහ installation instructionsමේ link එකහරහා ලබාගැනීමේ හැකියාව තිබෙනවා.",
+  "category": "security",
+  "date": "2020-06-25",
+  "extraction_timestamp": "2026-02-20T12:08:50.443159",
+  "headline": "Microsoft සමාගමේ නව Defender antivirus මෘදුකාංගයෙහි preview සංස්කරණයක් Android සඳහා නිකුත් කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/microsofts-new-android-antivirus-app-is-now-available-in-preview/",
+  "word_count": 233
+}

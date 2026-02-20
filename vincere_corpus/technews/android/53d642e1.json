@@ -1,0 +1,13 @@
+{
+  "body": "Android වලදී Google Chrome වලට dark mode එක ලැබුණු බව මෙන්ම, ඒ දින වල එය enable කරගන්නා ආකාරය පිළිබඳවත් අපි ඔබව මීට පෙර දැනුවත් කළා මතක ඇති.\n\nකොහොම නමුත් Android 10 නිකුත් කිරිමටත් පෙර සිට Google සමාගම විසින් සිය apps සහ services සදහා Dark Mode යෙදිම කෙරෙහි විශේෂ අවධානයක් යොමු කරන ලද අතර දැන් Android මත Google Chrome භාවිතා කරන්නන් හට Search results page සදහා ද dark mode එකක් ලබාදීමට Google සමාගම සූදානම් වෙමින් සිටින බව වාර්ථා වෙනවා.\n\nGoogle Chrome වල Android App එක සතුව දැනටමත් ඇති dark mode එකේ දැන් වසරකට වැඩි කාලයක් තිස්සේ UI එකේ සෑම කොටසක්ම පාහේ dark mode එකට සරිලන ලෙස සකස් කිරීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nකොහොම නමුත් Chrome dark mode භාවිතා කරන විටදී යම්කිසි දෙයක් search කළ විට ලැබෙන search page එක තවමත් සුදු වර්ණයෙන් පෙන්වන අතර අඳුරු වටපිටාවකදී මෙය ඉතාමත් කරදරකාරී බව ඔබ දැනටමත් දන්නවා ඇති.\n\nඊයේ දිනයේ Chromium repository එකටඅලුත් code segment එකක්ඇතුලත් කර ඇති අතර මේ හරහා Show the dark SRP for Chrome Android නම් වූ flag එකක් Chrome වලට අන්තර්ගත කෙරෙනවා.\n\nමේ flag එක enable කර ඇත්තේ නම් සහ Chrome browser එක දැනටමත් night mode එකේ ඇත්නම්, search results page එකේ night mode එක enable වීම සිදු වෙනවා.\n\nමේ අනුව නුදුරු අනාගතයේ දී Google Chrome වල search results page සදහා dark theme එකක් ලැබෙනු ඇති අතර බොහෝ දුරට Android හි Google Search app එක විසින් යොදා ඇති dark theme එකට සමාන වෙන ලෙස Google Chrome හි Android App එකේ dark theme නිර්මාණය වනු ඇති.\n\n‍කොහොම නමුත් මේ පිළිබඳව Google සමාගම විසින් තවමත් කිසිඳු නිළ නිවේදනයක් නිකුත් කර හෝ, මෙම වෙනස්කම සිදු කිරීමට අදාල වෙනත් code එකක් ඇතුලත් කිරීමට හෝ කටයුතු කර නොමැති වුවත්, ඉදිරියේදී මේ පිළිබඳව වැඩි විස්තර දැනගැනීමට අපට හැකියාව ලැබෙනු ඇත.",
+  "category": "android",
+  "date": "2020-05-08",
+  "extraction_timestamp": "2026-02-20T12:12:23.920483",
+  "headline": "Android මත Chrome භාවිතා කරන්නන් හට Google Search results සඳහා dark mode එක ලබාදීමට Google සමාගම කටයුතු කරන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/chrome-for-android-may-bring-dark-mode-to-google-search-results/",
+  "word_count": 284
+}

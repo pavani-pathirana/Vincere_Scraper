@@ -1,0 +1,13 @@
+{
+  "body": "Google Chrome, Mozilla Firefox, Microsoft Edge ඇතුළු ලොව ප්‍රසිද්ධ Web Browsers කිහිපයක් ඉලක්ක කරගනිමින් මේ වන විට පැතිරී යන Malware වර්ගයට අයත් virus එකක් පිළිබඳව Microsoft සමාගම විසින් අනතුරු ඇඟවීමට කටයුතු කර තිබෙනවා.\n\nMicrosoft සමාගමේ, Microsoft 365 Defender Research Team එක විසින් හඳුනාගෙන ඇති මෙම virus එක \"Adrozek\" යන නමින් නම් කර ඇති අතර, එකිනෙකට වෙනස් domain names 159ක් පමණ භාවිතා කර URL 17,300ක් පමණ හරහා malware sample 15,300ක් පමණ භාවිතා කරමින් මෙය පැතර යන ආකාරයට නිර්මාණය කර ඇති බව වාර්තා වෙනවා.\n\nNew blog post: Attackers have been actively distributing Adrozek, an evolved browser modifier, at scale. At its peak, the threat was observed on >30K devices every day. The malware injects ads into search results pages and affects multiple browsers.https://t.co/s62oAYI3oc\n\nමෙම virus එක මගින් සිදු කරන්නේ Windows මත ධාවනය වන Microsoft Edge, Google Chrome, Yandex Browser, සහ Mozilla Firefox යන web browsers හරහා search කිරීමේදී එහි අන්තර්ගත වන සාමාන්‍යය Ads වෙනුවට virus එක විසින් ඇතුලත් කරනු ලබන ads පෙන්වනු ලැබීමයි.\n\nමීට අමතරව අනෙකුත් web browsers අබිභවා යමින් Firefox Browser එකේ save කර ඇති usernames, emails, passwords වැනි user credentials ද එකතු කර, ඒවා attacker ගේ servers වලට upload කරගනු ලබන බව ද අනාවරණය වී තිබෙනවා.\n\nඑමෙන්ම මෙම virus එක පසුගිය මැයි මාසයේ පමණ සිට දැකගැනීමේ හැකියාව ලැබුණු බවත්, පසුගිය අගෝස්තු මාසය වන විට උපරිමය දිනකට devices 30,000කට අධික ප්‍රමාණයකට මෙය පැතිර ගොස් ඇති බවත් Microsoft සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමෙම virus එකේ ග්‍රහණයට දැනටමත් ඔබ හසුවී තිබෙන්නේ නම්, web browser එක re-install, එහෙමත් නැතිනම් uninstall කර නැවත install කිරීමට කටයුතු කරන ලෙස Microsoft සමාගම වැඩිදුරටත් නිවේදනය කර තිබෙනවා.\n\nමෙවැනි අනතුරුදායක වැඩසටහන් විවිධ නවීන ක්‍රම භාවිතා කරමින් පැතිර යන අතර බොහෝ විට cybersecurity සමාගම් වලින් ඒ පිළිබඳව දැනුවත් වන විට හෝ ඊට අදාල anti-virus මෘදුකාංග හෝ software patches ලැබෙන විටත් ඔබ එහි ගොදුරක් වී තිබීමට බොහෝ විට ඉඩ ඇති අතර, මෙයින් ගැලවී සිටීමට ඇති හොඳම විසඳුම වන්නේ virus එකක් හෝ මෙවැනි අනතුරුදායක වැඩසටහන් පැතිර යන ආකාරය පිළිබඳව අවබෝධය ලබාගැනීමයි.\n\nවිශේෂයෙන්ම මෘදුකාංග download කිරීමේදී සහ install කිරීමේදී untrusted sources, එහෙමත් නැතිනම් නිළ වෙබ් අඩවිය හෝ විශ්වාසදායී තැනකින් පමණක් ලබාගැනීමට සැළකිලිමත් වීම මේ අතරින් ප්‍රධාන තැනක් ගන්නවා.",
+  "category": "security",
+  "date": "2020-12-11",
+  "extraction_timestamp": "2026-02-20T12:06:57.825457",
+  "headline": "Chrome, Firefox, Edge, Yandex Browsers යන Web Browsers හරහා පැතිරෙන Malware එකක් පිළිබඳව Microsoft සමාගම විසින් අනතුරු අඟවයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/adrozek-malware-hijacking-chrome-firefox-edge-yandex-browsers/",
+  "word_count": 345
+}

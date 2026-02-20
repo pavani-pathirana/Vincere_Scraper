@@ -1,0 +1,13 @@
+{
+  "body": "මේ බලවත් 70 billion parameters අඩංගු නව AI මොඩලය ඔබට නොමිලේම download කරගන්න වගේම වාණිජ පරමාර්ථයන්ට භාවිත කරන්නත් පුළුවන්.\n\nMeta සමාගම විසින් එහි Llama නවතම model එක මීට ටික වෙලාවකට පෙර නිල වශයෙන් නිවේදනය කළා. මෙය නම් වෙන්නේ Llama 3.3 ලෙසයි මේ මොඩලය වෙත 70 billion parameters අඩංගු වෙනවා.\n\nMeta සමාගමේ CEO වන Mark Zuckerberg විසින්FacebookසහInstagramවෙත video එක් කරමින් තමයි නිවේදනය කලේ.\n\nA post shared by Mark Zuckerberg (@zuck)\n\nඒවගේමMeta VP of generative AI, Ahmad Al-DahleX වෙත post එකක්පල කරමින් සඳහන් කලේ Text-onlyLlama 3.3 70B, Meta හි විශාලතම Llama මොඩලය වනLlama 3.1 405Bතරම්ම කාර්ය සාධනය හා ක්‍රියාකාරිත්වය ඊට වඩා අඩු වියදමකින් හා processing බලයකින් ලබාදීමට හැකි මොඩලයක් බවයි.\n\nAl-Dahle විසින් මේ X post එකේ පල කල ක්‍රියාකාරිත්වයන් සසඳා ඇති ප්‍රස්ථාරය අනුව මේ නව Llama 3.3 Google Gemini 1.5 Pro, OpenAI GPT-4o සහ Amazon අලුතින් නිකුත් කරන ලද Nova Pro අභිබවා යන මට්ටමේ හැකියාවන් සහිතයි.\n\nIntroducing Llama 3.3 – a new 70B model that delivers the performance of our 405B model but is easier & more cost-efficient to run. By leveraging the latest advancements in post-training techniques including online preference optimization, this model improves core performance at…pic.twitter.com/6oQ7b3Yuzc\n\nLlama 3.3 70B මොඩලය, ජනප්‍රියAI dev platform එකක් වන Hugging Faceවෙතින් සහනිල Llama වෙබ් අඩවියතුලින් නිල වශයෙන් නොමිලේම download කරගන්න හැකියාව තියෙනවා.\n\nAI ක්ෂේත්‍රය අතික්‍රමණය කරන්න Meta වෙතින් ආරම්භ කරන අලුත්ම සැලසුමේ කොටසක් විදිහට තමයි මේ “open” models සංකල්පය ඔවුන් භාවිත කරන්නේ. මේ හරහා ඔවුන් AI models Open-source කිරීම තමයි අරමුණු කෙරෙන්නේ.\n\nනොමිලේ download කරගන්න සහ වාණිජ අරමුණු වෙනුවෙන් භාවිත කරන්න මේ හරහා ඔබට හැකි වුනත් එහි සීමාවන් තිබෙන බව නම් කියන්නම ඕනේ.Meta සමාගමේ යම් යම් නියමයන්ඇතැම් සංවර්ධකයින්ට (developer) Llama මොඩල භාවිතා කළ හැකි ආකාරය තරමකට සීමා කෙරෙනවා.\n\nඋදාහරණයක් විදිහටමිලියන 700කට වැඩි මාසික පරිශීලකයින්සිටින platform එකක මේ මොඩල භාවිත කරන්න විශේෂ බලපත්‍රයක් ඉල්ලා සිටිය යුතු වෙනවා.\n\nහැබැයි ඉතින් බොහෝ දෙනෙකුට මේ Meta සමාගමේ සම්පුර්ණ “open” නොවන පිළිවෙත ගැටළුවක් නොවෙන බව නම් හොඳටම පැහැදිලියි. Meta සමාගමට අනුව මේ වෙද්දී Llama, download ප්‍රමාණය මිලියන 650 පසු කර අවසන්.\n\nඒවගේම Mark Zuckerberg ට අනුව Llama මොඩලයන් සතුව මාසික පරිශීලකයන් මිලියන 600ක් පමණ සිටින අතර මේ වසරේ most-used AI assistant වෙන්නත් හැකි වෙන්නේ ඔවුන්ගේMeta AIඑකටයි.",
+  "category": "ai",
+  "date": "2024-12-07",
+  "extraction_timestamp": "2026-02-20T12:04:52.253904",
+  "headline": "Meta විසින් නව, වඩාත් කාර්යක්ෂම Llama මොඩලයක් එළිදක්වයි",
+  "source": "technews",
+  "tags": [
+    "ai"
+  ],
+  "url": "https://technews.lk/meta-unveils-new-llama-model/",
+  "word_count": 347
+}

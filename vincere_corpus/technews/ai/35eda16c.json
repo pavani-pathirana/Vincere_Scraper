@@ -1,0 +1,13 @@
+{
+  "body": "Messaging apps හරහා අදහස් ප්‍රකාශ කිරීමේදී මේ වන විට Emojies, GIFs මෙන්ම stickers වලට හිමි වන්නේ අති විශාල තැනක් බව අමුතුවෙන් කිවයුතු නැහැ.\n\nGoogle සමාගමේ Keyboard app එක වන Gboard සතුව දැනටමත් “Emoji Kitchen” නම් පහසුකම මගින් විවිධ ආකාරයේ Emoji භාවිතා කරමින් stickers සාදා ගැනීම සදහා හැකියාවක්ද ලබා දී ඇති අතර මේ වනවිට Google සමාගම විසින් ඔවුන්ගේ Messages සහ Gboard apps සඳහා stickers පහසුවෙන් සොයාගැනීමට ද විශේෂාංග කිහිපයක් ලබාදීම පිළිබඳව පරීක්ෂණ සහ අත්හදාබැලීම් සිදු කරමින් සිටින බව වාර්ථා වෙනවා.\n\nGoogle Messages දෙසට අවධානය යොමුකරන විට sticker suggestions ලබාදීම සදහා testing කටයුතු මේ වනවිට කරමින් පවතින අතර මෙම පහසුකම මගින් compose box එක තුළ sticker suggestions දිස්වන අතර පහසුවෙන් අදාල stickers භාවිතා කිරීමට හැකියාව ලැබෙනු ඇත.\n\nමෙම පහසුකම Messages app එකේ settings වල “Suggestion in chat” නම් toggle එකක් හරහා සක්‍රීය කිරීමේ හැකියාව ලැබෙන අතර මෙම පහසුකම මේ වන විට සාමාන්‍යය පරිශීලකයින් හට නිකුත් කිරීමට ඉතාමත් ආසන්න තත්ත්වයක පවතින බවXDA-Developers වෙබ් අඩවියපෙන්වා දෙනවා.\n\nමීට අමතරව Gboard app එක තුළ වෙනස් ආකාරයකින් sticker suggestions පෙන්නුම් කරන අතර (දැනටමත් පවතින) තනි තනිව stickers suggest කිරීම වෙනුවට sticker packs suggest කිරීම පිළිබඳව ඔවුන්ගේ අවධානය යොමුව තිබෙනවා.\n\nඔබ Gboard හි sticker section එකට ගිය විට sticker ලැයිස්තුවට ඉදිරියෙන් කහ පැහැති තරුවක් වැනි icon එකක් සහිත sticker pack එකක් ඔබට පෙන්වනු ඇති අතර එම suggestion එක මත tap කල පසු අදාල sticker pack එකට යනවා.\n\nඑම suggestion එක hide කිරීමට ඔබට “Pass\" යන්න tap කල හැකි අතර එසේ නැතහොත් එය ඔබේ collection එකට add කරගැනීමට “Add” යන option එක භාවිතා කළ හැක.\n\nකොහොම නමුත් තවමත් මේ පහසුකම ලබාදී තිබෙන්නේ තෝරාගත් පරිශීලකයින් පිරිසකට පමණක් වන අතර, මෙය server-side test එකක් බව XDA- Developer වෙබ් අඩවිය පෙන්වා දෙනවා.",
+  "category": "ai",
+  "date": "2020-06-04",
+  "extraction_timestamp": "2026-02-20T12:05:49.710495",
+  "headline": "Gboard සහ Google Messages වලට Sticker suggestions පහසුකම ලබාදීමට Google සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "ai"
+  ],
+  "url": "https://technews.lk/sticker-suggestions-in-google-messages-are-almost-ready-to-go/",
+  "word_count": 270
+}

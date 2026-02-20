@@ -1,0 +1,13 @@
+{
+  "body": "Intel කියන්නේ ලෝකයේ processor නිශ්පාදනය කරන සමාගම් වලින් ප්‍රධානියා වන අතර මේ වන විට desktop හා server පරිඝනක භාවිතා කරන බහුතරයක් දෙනාගේ පරිඝනකයේ ප්‍රධානතම වැඩ කොටස සිදු කරනු ලබන්නේ Intel processor එකක් විසිනුයි.\n\nඔවුන්ගේ Intel core i3, i5, i7 වගේ ගොඩක් performance අතින් ඉහළින් තිබෙන processors දැන් අවුරුදු ගාණක සිට පාරිභෝගිකයන් අතර ඉතාමත් ජනප්‍රියව පවතිනවා.\n\nIntel සමාගම විසින් ඔවුන්ගේ processor පවුලට අලුතෙන්ම processor මාලාවක් එකතු කරන්නට කටයුතු කර ඇති අතර ඒ තමයි අලුත්ම 9th generation processor මාලාව. i9 processor මාලාවේ එන අලුත්Core i9-9900K processorඑක මේ වන විට Intel සමාගම විසින් නිකුත් කිරීමට කටයුතු කර තිබෙන හොඳම gaming processor එක වශයෙන් හැඳින්වීමට ඔවුන් කටයුතු කරනවා.\n\nමේ processor එක cores 8කින්, 3.6 GHz වේගයකින් (clock speed) හා 5.0 GHz උපරිම වේගයක් දක්වා boost කළ හැකි ලෙස සකස් කර තිබෙනවා.\n\nමේ අලුත් i9 processor එකත් සමඟින්ම ඔවුන්ගේ පසුගිය processor මාලාවන් වන වන i5 හා i7 හි අලුත් generation එක, එනම් cores 8 කින් සමන්විත 3.6-4.9 GHz වේගයක් සහිතi7-9700Kහා cores 6කින් සමන්විත3.7-4.6 GHz වේගයක් සහිතi5-9600K processorදෙක හදුන්වා දීමට Intel  සමාගම කටයුතු කළා.\n\nමේ processor වල මිල ගණන් පහත පරිදි වන නමුත් මේවායේ මිළ ගණන් නම් ඔවුන් සාමාන්‍යයෙන් නියම කරන මිලට වඩා ටිකක් වැඩි බව තමයි බොහෝ දෙනාගේ මතය වන්නේ.\n\nමේ කොහොම උනත් Intel සමාගම ඔවුන්ගේ high end පාරිභෝගිකයන් ද අමතක නොකරමින් ඔවුන්ගේ අලුත්Core X- Series processorමාලාවකුත් මේ සමඟින් නිකුත් කරන්නට කටයුතු කළා.\n\nCore i7 X-Series, Core i9 X-Series හා Core i9 Extreme processors ඒ අතරට එකතු වන අතර, මෙහි හොඳම processor එක බලගැන්වෙන්නේ cores 18ක් සහ threads 36ක් උපයෝගී කරගෙනයි.\n\nමේ release event එක අතරතුර එළිදැක්වුණු තවත් එක් විශේෂ ම නිශ්පාදනයක් වූයේ ඔවුන්ගේ Intel Xeon W-3175X processor එකයි. Base clock speed එක 3.1GHz වන මෙය 4.3 දක්වා boost කළ හැකි වන අතර cores 28 කින් සමන්විත වෙනවා.\n\nකොහොම නමුත් එහි මිළ ගණන් නම් තවමත් දැනගන්නට නොලැබෙන අතර එය ඉතාමත් ඉහළ මිලක් වේවි යැයි බොහෝ දෙනා දැනටමත් මත පල කරනවා.",
+  "category": "technology",
+  "date": "2018-10-11",
+  "extraction_timestamp": "2026-02-20T12:22:18.828173",
+  "headline": "Intel සමාගම විසින් ඔවුන්ගේ හොඳම gaming processor එක වන 9th gen processor එක එළිදක්වයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/intel-9th-gen-core-chips-2018-desktop-processors-8-core-i9-9900k/",
+  "word_count": 305
+}

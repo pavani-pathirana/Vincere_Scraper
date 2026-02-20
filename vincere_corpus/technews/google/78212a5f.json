@@ -1,0 +1,13 @@
+{
+  "body": "Google Photos කියන්නේ Google සමාගමේ හොඳම සේවාවන් අතරින් එකක් වන අතර මේ වන විට ලොව පුරා ඉතාමත් ජනප්‍රිය සේවාවක් බවට පත් වෙලා තියනවා.\n\nමේ සේවාවේ ගුණාත්මක බව සහ සපයනු ලබන පහසුකම් ප්‍රමාණය නිසාවෙන් ඉතාමත් ඉක්මණින් ජනප්‍රියත්වයට පත් වූ මෙය කාලයත් එක්ක වැඩිදියුණු වුණු අතර ඔන්න දැන් Google සමාගම විසින් මේ Google Photos සේවාව software developers ලා හට තමන්ගේ මෘදුකාංග නිර්මාණය කිරීම සඳහා භාවිතා කළ හැකි API එකක් ආකාරයෙන් ඉදිරිපත් කිරීමට කටයුතු කර තිබෙනවා.\n\nමේGoogle Photos Library APIඑක භාවිතා කරමින් නිර්මාණය කරනු ලබන apps හරහා භාවිතා කරන්නන්ට Google Photos සේවාවට Photos upload කිරීමට මෙන්ම Google Photos සේවාවේ ඇති powerful search පහසුකම භාවිතා කිරීමේ හැකියාවද ලබා දෙන්න හැකියාව තිබෙනවා.\n\nමේ Library API එක හරහා පහත සඳහන් core functions software developers ලා හට ලබා දෙනු ලබනවා.\n\nමේ වන විට මෙම API එක ඕනෑම කෙනෙකුට භාවිතා කිරීමට හැකි ලෙස එළිදක්වා තිබෙන අතර, ඔවුන්ගේ පැරණි සේවාව වනPicasa Web Albums APIඑක භාවිතා කරමින් නිර්මාණය කරනු ලැබූ මෘදුකාංග මේඅළුත් API එකට මාරු කිරීම සඳහා උපදෙස් මාලාවක්ද නිකුත් කර තිබෙනවා.",
+  "category": "google",
+  "date": "2018-09-12",
+  "extraction_timestamp": "2026-02-20T12:22:55.827642",
+  "headline": "Google Photos API එකක් නිකුත් කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-photos-library-api-now-available/",
+  "word_count": 162
+}

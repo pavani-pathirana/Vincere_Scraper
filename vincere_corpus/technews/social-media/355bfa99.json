@@ -1,0 +1,13 @@
+{
+  "body": "2013 වර්ෂයේදී එළිදැක්වුණු Telegram සේවාව පසුගිය අගෝස්තු 14 වැනි දින ඔවුන්ගේ 7 වැනි සංවත්සරය සැමරීමට කටයුතු කළ අතර, මේ වන විට මිලියන 400 කට අධික පරිශීලකයින් ප්‍රමාණයක් සහ ලොව වැඩියෙන්ම download කරනු ලැබූ apps 10 අතරට පැමිණීමට සමත් වී තිබෙනවා.\n\nමෙම සංවත්සරයට සමගාමීව Telegram video call පහසුකම පිළිබඳව නිළ වශයෙන් නිවේදනයක් කිරීමට Telegram ආයතනය කටයුතු කර ඇති අතර ඒ අනුව, Android සහ iOS පරිශීලකයින් හට Telegram 7.0 version එක සමඟින් end-to-end encrypted video calling පහසුකමෙහි alpha සංස්කරණයක් ලබාදීමට මොවුන් කටයුතු කර තිබෙනවා.\n\nමෙහිදී alpha ලෙස හැඳින්වෙන්නේ Telegram app එකේ version එක නොව, මෙම video call පහසුකම පමණක් වන බව Telegram ආයතනය විසින් පෙන්වා දෙන ලද අතර, මෙම පහසුකම තවමත් නොනවත්වා වැඩිදියුණු කරමින් පැවතීම මෙලෙස නම් කිරීමට හේතුව වශයෙන් ඔවුන් පෙන්වා දෙනවා.\n\nThey're built in to version 7.0, now available on the App Store and Google Play. It's described as being in alpha, as we are continuing to add improvements and work toward implementing group video calls.\n\ndefault ලෙසම enable කර ඇති මෙම video call පහසුකම අදාල පරිශීලකයාගේ profile එක හරහා භාවිතා කළ හැකි අතර, picture-in-picture mode එක සඳහා ද සහාය දක්වනු ලබන බැවින් video call එකක් ලබාගන්නා අතරතුරදී multi-tasking සඳහා ද හැකියාව ලැබෙනවා.\n\nඑමෙන්ම මීළඟ මාස කිහිපය ඇතුලත group video calls පහසුකම ද ලබාදීමට මොවුන් සූදානමින් සිටින බවත් Telegram ආයතනය වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමීට අමතරව මෙම සංවත්සරයට සමගාමීව නිකුත් කළ update එක හරහා නිතර භාවිතා වන emoji ගණනාවක් සඳහා අලුත්animated emojis හඳුන්වාදීමට ද Telegram ආයතනය කටයුතු කර තිබෙනවා.",
+  "category": "social-media",
+  "date": "2020-08-15",
+  "extraction_timestamp": "2026-02-20T12:11:47.149506",
+  "headline": "Telegram සේවාවේ 7 වැනි සංවත්සරය වෙනුවෙන් Video call පහසුකම ලබාදීමට Telegram ආයතනය කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/telegram-finally-adds-video-call-support-to-all-its-apps/",
+  "word_count": 238
+}

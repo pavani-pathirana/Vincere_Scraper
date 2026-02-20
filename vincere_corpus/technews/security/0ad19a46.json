@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය සති කිහිපය Google සමාගමට එතරම් හොඳ කාලයක් නොවුණු බව මේ වන විට අපි හැමෝම වගේ දන්න කාරණයක්. ඔන්න දැන් Gmail වලත් security risk එකක් පිළිබඳව ඇමෙරිකානු Homeland Security (DHS) ආයතනය විසින් සොයාගෙන තිබෙනවා.\n\nඔයාලාට මතක ඇති  Gmail වලre-designඑක ගැන මම කලින් ලිපියකින් සඳහන් කළා. මේ අළුත් design එකට ඇතුලත් වුණුConfidential modeකියන පහසුකම හරහා බාවිතා කරන්නන්ව ඉතාමත් පහසුවෙන්phishing attackවලට යොමු කිරීමට අවස්ථාව තිබෙන බව තමයි මොවුන් සොයාගෙන තිබෙන්නේ.\n\nGmail හරහා Confidential Email එකක් යවන විට ලබන්නා හට එම email එක බැලීම සඳහා link එකක් භාවිතා කරනු ලබනවා. අදාල mail එක forward කිරීම, copy කිරීම, download කිරීම හෝ print කිරීම වැනි පහසුකම් වෙන වෙනම පාළනය කිරීම උදෙසා මෙහිදී මෙම link එක භාවිතා කරනවා.\n\nඑමෙන්ම මේ හරහා එම email එක සඳහා expiry date එකක් ලබා දීමට හෝ email එක යැවීමෙන් පසුව එය මකා දැමීමට මෙන්ම, එය බැලීම සඳහා two-step authentication වැනි ආරක්ෂිත උපක්‍රමයන් භාවිතා කිරීමටද අවස්ථාව ලැබෙනවා.\n\nමේ link එක භාවිතා කර hacker වරුන්ට මෙම සේවාව භාවිතා කරනන්ගේ පෞද්ගලික තොරතුරු ලබා ගැනීමට අවස්ථාව ඇති බව මෙම DHS ආයතනය වැඩි දුරටත් පෙන්වා දෙන අතර මේ පිළිබඳව Google සමාගම දැනුවත් කරන්නත් ඔවුන් කටයුතු කර තිබෙනවා.\n\nමෙම Confidential mode එක හරහා email යැවීම හා ලැබිය හැකි වන්නේ Confidential Emails යන පහසුකම activate කළ පිරිසට පමණක් වන අතර Outlook හෝ Apple Mail වැනි 3rd party email clients භාවිතා කරන පිරිස ද මේ හරහා අවධානමට ලක් වෙන බව ඔවුන් පෙන්වා දෙනවා.\n\nමේ දුර්වලතාවය මගහරවා ගැනීමට හෝ confidential mode එක හරහා ලැබෙන mail වලින් phishing mails වෙන්කොට හඳුනා ගැනීමට ක්‍රමයක් තවමත් ඔවුන් ප්‍රකාශ කර නැති අතර මේ පිළිබඳව Google සමාගමෙන් ද තවමත් නිළ ප්‍රකාශයක් සිදු කර නැහැ.",
+  "category": "security",
+  "date": "2018-07-23",
+  "extraction_timestamp": "2026-02-20T12:18:22.954237",
+  "headline": "Gmail වල අළුත් Confidential mode එක භාවිතා කරන්නේ බලාගෙනයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/gmails-confidential-mode-could-expose-users-to-phishing-dhs-report/",
+  "word_count": 259
+}

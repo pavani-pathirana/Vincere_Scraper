@@ -1,0 +1,13 @@
+{
+  "body": "2011 වර්ෂයේදීAndroid ICSසමඟින් හඳුන්වා දුන් NFC පදනම් කරගත් Android Beam පහසුකමAndroid Qවල සිට ඉවත් කරනු ලබන බව මේ වසරේ මුුල Google සමාගම විසින් ප්‍රකාශ කරනු ලැබූ බව ඔබට මතක ඇති.\n\nකොහොම නමුත් මේ වන විට Google සමාගම විසින්Android Beam පහසුකමටවඩා ඉතාමත් හොඳ තත්ත්වයේ අලුත් File sharing පහසුකමක් ලබා දීමට කටයුතු සූදානම් කරමින් පවතින බව දැනගන්නට ලැබෙනවා.\n\nFast Share යන නමින් හැඳින්වෙන මේ පහසුකම Apple සමාගම විසින් හඳුන්වා දුන්AirDrop පහසුකමටසමාන සේවාවක් වන අතර Internet භාවිතා නොකරමින් අවට ඇති වෙනත් device එකකට ඔබේ ජංගම දුරකථනයේ ඇති files transfer කිරීමට මේ හරහා ඔබට අවස්ථාව ලැබෙනවා.\n\nGoogle Play Servicesවල ඇතිNearby devicesකියන පහසුකම හරහා ක්‍රියාත්මක වන මේ සේවාව, වෙනත් device එකක් සමඟ මූලික සම්බන්ධතාවය ඇති කරගන්නේ Bluetooth හරහා වන අතර file transfer කිරීමේ ක්‍රියාවලිය සඳහාWiFi-Directසම්බන්ධතාවයක් සකසා ගනු ලබනවා.\n\nමේ පහසුකම enable කළ විට සාමාන්‍යය sharing menu එක Bluetooth option එක තිබෙන්නාක් මෙන් Fast Share යනුවෙන් අලුත් option එකක් එකතු වනු ඇති අතර ඒ හරහා ඉදිරියට යෑමෙන් අවට ඇති වෙනත්Android,iOS,WearOSහෝChromeOSdevice එකකට අදාල file එක share කරගැනීමේ හැකියාව ලැබෙනවා.\n\nකොහොම වුණත් මේ පහසුකම තවමත් පරීක්ෂණ මට්ටමේ තිබෙන අතර කුමන Android සංස්කරණයක් දක්වා සහාය ලබාදෙනු ඇත් ද යන්න පිළිබඳව හෝ Android පරිශීලකයන් හට නිකුත් කිරීමට නියමිත දිනයක් ගැන හෝ වාර්ථා වන්නේ නැහැ.\n\nකොහොම නමුත් මේ සඳහා Bluetooth සහ WiFi Direct පහසුකම හැරෙන්නටNFCහෝ වෙනත් hardware පදනම් කරගත් අවශ්‍යයතාවයක් නොමැති නිසාවෙන් මෙන්ම, Google Play Services හරහා මෙය ලබාදීමට කටයුතු කරනු ලබන බැවින්, දැනට භාවිතාවේ ඇති බොහෝ Android ජංගම දුරකථන සඳහා මෙම පහසුකම ලබා දීමේ හැකියාව Google සමාගමට ලැබෙනවා.",
+  "category": "android",
+  "date": "2019-06-30",
+  "extraction_timestamp": "2026-02-20T12:17:12.212800",
+  "headline": "Apple AirDrop පහසුකමට අභියෝග කරන්නට Google වෙතින් Fast Share නම් වූ අලුත් පහසුකමක් හඳුන්වා දෙන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-working-on-fast-share-android-beam-replacement-and-airdrop-competitor/",
+  "word_count": 238
+}

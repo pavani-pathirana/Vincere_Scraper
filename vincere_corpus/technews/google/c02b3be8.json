@@ -1,0 +1,13 @@
+{
+  "body": "Google Chromeකියන්නේ ලොව ජනප්‍රියතම web browser එක බව අපි හැමෝම දන්නවා. මේ වෙනකොටweb browser market share එකෙන්70%කට ආසන්න කොටසක් මේ Chrome browser එකට හිමි වෙනවා.\n\nකොයි තරම් ජනප්‍රිය වුණත්, Chrome කියන්නේ resource hungry, එහෙමත් නැතිනම්, device එකේ තිබෙන memory එක, processing power එක හා battery power එක වැඩියෙන් භාවිතා කරන මෘදුකාංගයක් බව අමුතුවෙන් කියන්න ඕන නැහැ.\n\nමේ පිළිබඳව වසර ගණනාවක් තිස්සේ Google සමාගමට Chrome පරිශීලකයන් විසින් පැමිණිලි කලත්, ඒ ගැන වැඩි අවධානයක් යොමු කිරීමට ඔවුන් මේ දක්වා කටයුතු කලේ නැහැ.\n\nනමුත් ඔන්න දැන් මේ Google Chrome browser එකේ slow ගතිය, එහෙමත් නැතිනම් resource hungry ගතිය අඩු කරන්නට අලුතින් mode එකක් හඳුන්වා දීමට යන බව දැනගන්නට ලැබෙනවා.\n\nChromium Gerrit එක, එහෙමත් නැතිනම් Chromium ව්‍යාපෘතියේ team collaboration tool එක වෙත අලුතින් සිදු කරන ලද commit එකක අන්තර්ගත වන තොරතුරු අනුව මෙය “Never Slow Mode” යන නමින් හඳුන්වනවා.\n\nමෙම පහසුකම හරහා execute වීම සඳහා වැඩි වේලාවක් ලබා ගන්නා scripts මෙන්ම images, fonts ආදිය සඳහා ද සීමාවක් ලකුණු කර තිබෙනවා. උදාහරණයක් ලෙස මේ පහසුකම enable කිරීමෙන් පසුව යම්කිසි වෙබ් අඩවියක 1MB වලට වඩා ප්‍රමාණයෙන් විශාල image එකක් තිබුණහොත් එය load වීම නවතා දමනු ලබනවා.\n\nතවමත් මේ පහසුකම development stage එකේ තිබෙන අතර, ඉහත සඳහන් කර ඇති සීමාවන් මේ පහසුකම සියලුදෙනා හටම ලබා දෙන විට, එනම් stable release එකක් සිදු කරන කාලය වන විට වෙනස්විය හැකි බව දැනගන්නට ලැබෙනවා.\n\nමීට අමතරව ටික දිනකට ප්‍රථමව disable “Best Effort Tasks” නම් වූ තවත් පහසුකමක් ගැන වාර්ථා වූ අතර මේ හරහා Chrome වල සිදුවන background tasks, ඒ කියන්නේ hard disk එකට file save කරන එක, cache clean කරන එක, update කරන එක වගේ දේවල් website එක හෝ browser එක close කළ පසුව සිදු කිරීමේ ක්‍රමවේදයක් ගැනත් මේ වන විට වාර්ථා වෙනවා.\n\nඒ ආකාරයෙන් සිදු කිරීමට නියමිත background tasks පමා කිරීම හරහා අන්තර්ජාලය භාවිතා කරන අතරතුරදී අඩු memory එකක් මෙන්ම CPU power එකක් මගින් වැඩ කටයුතු කිරීමට පරිශීලකයාට අවස්ථාව ලැබෙන බව ඔවුන් ප්‍රකාශ කරනවා.\n\nකොහොම නමුත් තවමත් මේ පහසුකම් සාමාන්‍යය පරිශීලකයන් හට ලබා දීමට නියමිත දිනයක් පිළිබඳව නම් තවමත් වාර්ථා වෙන්නේ නැහැ. නමුත්Chrome CanaryහෝBeta සංස්කරණයක්භාවිතා කරනවා නම් මේ පහසුකම් ඉක්මණින්ම භාවිතා කරගැනීමේ හැකියාව ලබා ගැනීමට පුළුවන්.",
+  "category": "google",
+  "date": "2019-02-08",
+  "extraction_timestamp": "2026-02-20T12:21:02.702062",
+  "headline": "Google Chrome වල Speed එක වැඩි කිරීම සඳහා  Never Slow Mode නමින් අලුත් mode එකක් එන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-chrome-may-get-a-never-slow-mode-for-a-fast-browsing-experience/",
+  "word_count": 337
+}

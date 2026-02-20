@@ -1,0 +1,13 @@
+{
+  "body": "Instagram app එක අනපේක්ෂිත ලෙස camera එකට ප්‍රවේශ වන බව iOS 14 beta සංස්කරණය භාවිතා කරන ඇතැම් පරිශීලකයින් හට දැකගැනීමට හැකි වී තිබෙන අතර ඇතැමුන් පෙන්වා දෙන්නේ මේ Instagram app එක හරහා camera එක භාවිතා නොකරන අවස්ථාවලදී පවා device එකෙහි කොළ පැහැති “camera on” indicator  දර්ශනය වන බවයි.\n\nCasually browsing Instagram when suddenly the new iOS 14 camera/microphone indicator comes on. Then control panel ratted out the app behind it. This is going to change things.#iOS14pic.twitter.com/EnTIRsqq3R\n\nInstagram හි ප්‍රකාශකයෙකුThe Verge වෙබ් අඩවිය වෙත ප්‍රකාශ කර සිටියේමෙම තත්වය ඇති වී ඇත්තේ එම app එකේ bug එකක් නිසා වන බවත්, එය නිවැරදි කිරීමට දැනටමත් කටයුතු කරමින් සිටින බවත් ය.\n\nInstagram ආයතනය තම පරිශීලකයින්ගේ camera එක access කරනු ලබන්නේ පරිශීලකයාගේ අවසරය මත පමණක්ම වන බවත් ඔහු වැඩිදුරටත් ප්‍රකාශ කර සිටිනවා.\n\nApp එකක් හෝ widget එකක් clipboard එක, camera එක හෝ microphone එක access කරන විට iOS 14 පරිශීලකයින් හට ඒ පිළිබඳව දැනුම්දීමක් සිදු කරනු ලබන අතර, මෙම සිදුවීමට පෙර iOS 14 වල developer preview සහ public beta නිකුත් කිරීමෙන් පසුවLinkedIn,RedditසහTikTokවැනි ජනප්‍රිය apps විශාල ප්‍රමාණයක් රහසිගතව පරිශීලකයින්ගේ clipboard data වලට ප්‍රවේශ වන බව අනාවරණය වූවා.\n\nපසුගිය වසරේදී, Instagram ආයතනයේ මව් සමාගම වන Facebook සමාගම ද පරිශීලකයින්ගේ අනුදැනුමකින් තොරව app එක භාවිතා කරන සෑම අවස්ථාවකම camera එකට ප්‍රවේශ වන බව අනාවරණය විය.",
+  "category": "security",
+  "date": "2020-07-27",
+  "extraction_timestamp": "2026-02-20T12:08:16.943832",
+  "headline": "Instagram වල bug එකක් නිසා ඡායාරූප ලබා නොගන්නා විට පවා iOS 14 උපාංගවල 'camera on’ indicator එක පෙන්වයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/an-instagram-bug-showed-a-camera-on-indicator-for-ios-14-devices-even-when-users-werent-taking-photos/",
+  "word_count": 207
+}

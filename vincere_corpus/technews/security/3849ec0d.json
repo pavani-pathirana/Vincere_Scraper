@@ -1,0 +1,13 @@
+{
+  "body": "බොහෝ Android පරිශීලකයින් තමන්ට අවශ්‍යය apps download කරගැනීම සඳහා Google Play Store එක භාවිතා කලත්, ඊට අමතරවAmazon App store,Huawei App Galleryවැනි තවත් බොහෝමයක් app stores තිබෙනවා.\n\nඒ අතරින්Aptoideයනු ඒ ආකාරයේම alternative third-party apps store එකක් ලෙස හදුන්වාදිය හැකි අතර  මෙම Aptoide store එක මේ වනවිට විශාල security breach එකකට ලක්වී ඇති බව වාර්ථා වෙනවා.\n\nZDNetවෙබ් අඩවි මගින් සදහන් කරන ආකාරයට හැකර්වරුන් පිරිසක් විසින් Aptoide පරිශීලකයන් මිලියන 20කට අධික පිරිසකගේ තොරතුරු hacker forum එකක් තුළ කාන්දු වී ඇති අතර Aptoide හි ලියාපදිංචි වූ හෝ 2016 ජූලි 21 සිට 2018 ජනවාරි 28 දක්වා කාලය තුළ එය භාවිතා කළ පුද්ගලයින් මෙම සිද්ධියට මුහුණ පා ඇත.\n\nකාන්දු වූ දත්ත වල අදාල පරිශීලකයන්ගේ email address එක, hashed password එක, real name එක, registration date එක, IP address එක, devices පිළිබඳව තොරතුරු සහ උපන්දිනය වැනි තොරතුරු ඇතුළත් වේ.\n\nමෙම සිද්ධියට ප්‍රතිචාර දක්වමින්Aptoide ආයතනය ප්‍රකාශයක් නිකුත් කරමින්කියා සිටියේ ඔවුන් මෙම සිද්ධිය පිළිබඳව පරීක්ෂණ අරඹා ඇති බවත්, Aptoide භාවිතා කිරීමට එහි ගිණුමක් අත්‍යාවශ්‍ය නොවන බැවින් මෙම සිද්ධිය පරිශීලකයන්ගෙන් 97%කට බලපා නොමැති බවත් ය.\n\nමේ අතරින් මිලියන 32ක පිරිසක් Facebok හෝ Google ගිණුම් මගින් register වී ඇති පිරිසගේ Password එක ඔවුන් store කර නොගන්නා බැවින්, එම පරිශීලකයන්ගේ hashed password එක random characters වලින් පමණක් සමන්විත බව ඔවුන් පෙන්වා දෙනවා.\n\nකොහොම නමුත් අදාල මිලියන 20 අතුරින් මිලියන 8.8ක් පමණ email address එකක් භාවිතා කරමින් මෙයට සම්බන්ධ වී ඇති අතර එම පිරිසගේ password එකSHA-1 encryption algorithm එකභාවිතා කරමින් encrypt කර තිබෙනවා.\n\nමේ SHA-1 encryption එක break කිරීමට හැකියාව තිබෙන නමුත්, මේ අතරින් එක් password එකක් decrypt කරගැනීමට පවා විශාල කාලයක් අවශ්‍යය වන අතර මේ data breach එක හරහා (plaintext) මුරපද කාන්දුවීමක් සිදුවී නොමැති නමුත් ඔබගේ සංවේදී දත්ත කාන්දු වී ඇති බැවින් මුරපද අනුමාන කර ගැනීමට එමගින් පහසුවන බැවින් ඔබගේ මුරපද ඉක්මනින් වෙනස් කරගන්නා ලෙස ඔවුන් ඉල්ලා සිටිනවා.\n\nපරිශීලක තොරතුරු ආරක්ෂිත යැයි හැඟෙන තුරු තාවකාලිකව register වීමේ හැකියාව, login වීමේ හැකියාව, reviews සහ comments අක්‍රිය කරන බවත්, නැවත මේවා ක්‍රියාත්මක කරනු ලබන විට සියළුම passwords reset කරනු ලබන බවත් Aptoide සමාගම විසින් තහවුරු කර ඇත.",
+  "category": "security",
+  "date": "2020-04-22",
+  "extraction_timestamp": "2026-02-20T12:09:37.891167",
+  "headline": "ජනප්‍රිය Android App Store එකක් වන Aptoide හි data breach වීමක් නිසා පරිශීලකයින් මිලියන 20ක තොරතුරු අන්තර්ජාලයට එකතු වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/popular-android-app-store-aptoide-suffers-major-data-breach/",
+  "word_count": 323
+}

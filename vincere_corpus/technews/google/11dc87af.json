@@ -1,0 +1,13 @@
+{
+  "body": "Google Play Music වල ඇති ගීත YouTube Music වලට සෘජුවම transfer කිරීමේ හැකියාව ලබාදීම පිළිබඳව අප ඔබව මීට පෙර ලිපියකින් දැනුවත් කිරීමට කටයුතු කරනු ලැබුවා.\n\nGoogle Play Music මඟින් YouTube Music වෙත ඔ‍බේ library, recommendations, playlists, likes සහ dislikes වැනි ‍බොහෙ‍ා්‍ දේ transfer කිරීම සඳහා හැකියාව පසුගිය මා‍සයේදී ලබා දුන් අතර මෙමගින් clicks කිහිපයකින් Google Play Music හි ඇති ඔබේ දත්ත YouTube Music පහසුවෙන්ම transfer කිරීමට හැකියාව ලැබුණා.\n\nකොහොම නමුත් මේ tool එක භාවිතා කරමින් Google Play Music හි ඇති දත්ත YouTube Music වලට transfer කළ ඇතැම් පරිශීලකයින් හට මේ වන විට desktop සහ mobile device වලින් YouTube භාවිතා කරන විටදී YouTube side panel එක නොපෙන්වන ගැටළුවක් වාර්ථා වෙනවා.\n\nප්‍රධාන YouTube app එකේ සහ website එකේ side panel එක පිළිබඳව ගැටළු මතු වූපළමු අවස්ථාව මෙය නොවනඅතර කලින් අවස්ථා වලදී browser එකේ cache සහ cookies clear කිරීමෙන් හෝ app එක uninstall කිරීමෙන් පසු නැවත install ‍කිරීමෙන් එම ගැටළුව විසදෙන බවට YouTube සමාගම විසින් ප්‍රකාශ කර තිබෙනවා.\n\nClearing my cache and cookies worked. Thank you.\n\nකොහොම නමුත් Google Play Music data transfer tool එක භාවිතා කිරීමෙන් පසුව මේ වන විට එම දෝශය නැවත පැමිණ ඇති බව බොහෝමයක් පරිශීලකයින් පෙන්වා දෙනවා.\n\nමෙම ගැටළුවට මුහුණ දුන් ඇතැම් පරිශීලකයින් පවසන්නේ YouTube account එකෙන් logout වී නැවත log වූ විට තාවකාලිකව එම ගැටළුව විසදෙන බව වන නමුත් තවමත් YouTube ආයතනය විසින් මේ සඳහා නිළ ප්‍රතිචාරයක් දැක්වීමට කටයුතු කර නැහැ.\n\nමේ ගැටළුව වෙනුවෙන් comment කරනු ලැබූවෙක් වනJoe Voisinවිසින් පෙන්වා දෙන ආකාරයට YouTube Music වෙත upload කළ සියලුම media ඉවත් කිරීමෙන් සහ \"Bands\" සඳහා subscriptions ඉවත් කිරීමෙන් YouTube sidebar එක නැවතත් ලබාගැනීමට හැකියාව ලැබෙන නමුත් එය තරමක් කරදරකාරී solution එකක් වෙනවා.",
+  "category": "google",
+  "date": "2020-06-28",
+  "extraction_timestamp": "2026-02-20T12:11:40.709170",
+  "headline": "YouTube Music Transfer tool එක භාවිතා කළ ඇතැම් පරිශීලකයින් හට YouTube Sidebar එක අහිමි වී ගොස් ඇති බව වාර්ථා වෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/youtube-music-migration-from-google-play-music-is-breaking-the-youtube-sidebar-for-some/",
+  "word_count": 263
+}

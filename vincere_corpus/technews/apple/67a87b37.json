@@ -1,0 +1,13 @@
+{
+  "body": "FaceID, එහෙම් නැත්තම් Apple ලාගේ sophisticated 3D-sensing face recognition system එක කියන්නේ iPhone X එකේ ආපු අපි හැමෝවම පුදුම කරවපු feature එක. iPhone X එකේ වැඩියෙන්ම කතාබහට ලක් වුණු feature එක කියලා කිවුවත් වරදක් නැහැ.නමුත් මේ වෙනකොට මේ FaceID එකේ ප්‍රශ්ණ වගයක් එන බවට තොරතුරු ලැබිලා තියනවා.\n\nකොහොම වුණත් Apple සමාගම විසින් එයාලගේ stores වලට සහ authorized service providers ලාට මේ iPhone X එකේ faulty devices repair කිරීම සහ replace කිරීම පිළිබඳව උපදෙස් ලබා දීලා තියනවා.\n\nFaceID එක වැඩ කරන්නේ iPhone X එකේ ඉස්සරහා උඩින් පිහිටලා තියන notch එකේ තියන TrueDepth camera system එකෙන්. මේ repair process එක ගැන දැනගත්තම ඔයාලට ටිකක් පුදුම හිතේවි, මොකද එයාලා උපදෙස් දීලා තියන විදිහට FaceID එකේ ප්‍රශ්ණය විසඳන්න නම් rear camera එක තමයි fix කරන්න තියෙන්නේ. පහලින් සඳහන් කරලා තියෙන්නේ මේ ප්‍රශ්ණය විසඳන්න ඕන ආකාරය ගැන Apple එකෙන් repair centers වලට නිකුත් කරපු Instructions වල copy එකක්.\n\nIn order to provide the best customer experience, if a customer reports that their iPhone X is having Face ID issues, you may be able to resolve the issue with a rear camera repair. Run AST 2 on the customer’s device to check the camera. If the diagnostics find issue with the camera, perform the repair to see if the issue is resolved. If the issue is not resolved, perform a whole unit replacement instead of a same-unit display repair.\n\nRear camera එක සහ front camera එක අතර තියන සම්භන්ධය අපිට තාමත් හරියටම හිතාගන්න අමාරුයි. නමුත් පසුපස තියන dual-lens camera එකෙන් FaceID functionality එකට බාධා වෙන බවක් තමයි පේන්න තියෙන්නේ. කොහොම වුණත් ඒක repair කරන්න බැරි වුණොත්, අළුත්ම device එකක් replace කරන්න කියලත් එයාලා විශේෂයෙන්ම සඳහන් කරලා තියනවා.\n\nතාමත් මේ ප්‍රශ්ණය වැඩිය පැතිරිලා ගිහින් තියන බවක් පේන්න නැහැ. නමුත් ඔයාගේ iPhone X එකෙත් FaceID වල මොකක්හරි අවුලක් තියනවා වගේ දැනෙනවා නම්, දැන්මම  authorized service provider කෙනෙක් ලඟට හරි Apple Store එකකට හරි අරන් ගිහින් එක හදාගන්න පුළුවන්.",
+  "category": "apple",
+  "date": "2018-05-08",
+  "extraction_timestamp": "2026-02-20T12:21:32.706332",
+  "headline": "iPhone X වල FaceID එකේ බරපතල ප්‍රශ්ණයක් ඇති බව Apple සමාගම සනාථ කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-iphone-x-face-id-issue/",
+  "word_count": 310
+}

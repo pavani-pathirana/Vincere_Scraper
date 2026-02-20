@@ -1,0 +1,13 @@
+{
+  "body": "Google ආයතනය විසින් ඉදිරියේදී හදුන්වා දීමට නියමිත Android TV dongle එකෙහි videos කිහිපයක් පසුගියදා අන්තර්ජාලයට එක්විය.\n\nඑයින් පසුව මේ වනවිට කාන්දු වී ඇති firmware images කිහිපයක් හරහා වැඩිදුර විස්තර අනාවරණය කර ගැනීමටXDA-Developers වෙබ් අඩවියසමත් වී ඇති අතර එම leaks වලට අනුව \"Sabrina\" නමින් හැදින්වෙන මෙම Android TV dongle එක බලගැන්වෙන්නේ Amlogic chipset එකකින් බව ද හෙළිවී ඇත.\n\nXDA-Developers වෙබ් අඩවිය මගින් අනාවරණය කරගත් තොරතුරු වලට අනුව මෙම Android TV dongle එකෙහි පහත specs දැක ගැනීමට හැකියාව ලැබෙනු ඇත.\n\nමෙම chipset එක Xiaomi ආයතනයේMi TV Stickඑකෙහි ඇති ක්‍රමයට සමාන වන අතර මෙයVerizon Stream TVඇතුළු set-top boxes සහ Android TV උපාංග කිහිපයකට ද සමාන වෙනවා.\n\nමෙයට 4Kp75 10-bit H.265 දක්වා decode කිරීමේ හැකියාව ඇති අතර video output එක 4Kp60 දක්වා ද, HDMI 2.1, HDR10 පහසුකම මගින් HDR video playback කිරීමේ හැකියාව, HLG, සහ Dolby Vision, මෙන්ම තවත් බොහෝ පහසුකම් සඳහා සහය දක්වනු ඇතැයි අනුමාන කෙරෙනවා.\n\nකෙටියෙන් සඳහන් කලහොත්,Shield TVඑකක් තරම් බලයක් නොතිබුණද, streaming කටයුතු ඉතා හොඳින් හැසිරවීමට මෙයට හැකියාව ලැබෙනු ඇති බවට අනුමාන කෙරේ.\n\nමෙම Android TV dongle එකේ remote controller එකෙහි YouTube button එකක් සහ Netflix button එකක් ද ඇතුළත් වන බවට ඉඟි දක්නට ලැබුණත් මෙතෙක් අන්තර්ජාලයට එකතු වූ images වල එවැන්නක් දැකගැනීමට නොහැකි අතර මෙහි remote controller එක bluetooth හරහා ක්‍රියා කරනු ඇතැයි බලාපොරොත්තු විය හැකිය.\n\nමෙම Android TV dongle එකGoogle Stadiaසඳහා ද සහාය දක්වනු ඇතැයි බොහෝදෙනා විශ්වාස කරනු ලබන අතර HDMI2.1 Auto Low Latency Mode standard එක නිසා Stadia වැනි cloud game streaming service සමඟ හොඳින් සම්බන්ධ වීමට මෙයට හැකියාව පවතිනවා.\n\nමෙම සියලු තොරතුරු නිළ නොවන තොරතුරු බැවින් මෙම තොරතුරු මත පූර්ණ විශ්වාසය තබා ගැනීමට හැකියාව නොමැති බව මතක තබාගත යුතු වෙනවා.",
+  "category": "android",
+  "date": "2020-06-13",
+  "extraction_timestamp": "2026-02-20T12:11:16.178555",
+  "headline": "Google සමාගම විසින් ඉදිරියේදී එළිදැක්වීමට නියමිත Android TV dongle එකෙහි specs අන්තර්ජාලයට එක්වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/googles-upcoming-android-tv-dongle-specs-leak/",
+  "word_count": 263
+}

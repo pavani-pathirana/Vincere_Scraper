@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය ජනවාරි මාසයේදී Skype එක මුල් වරට ඔවුන්ගේ chat messagesend-to-end encrypt කිරීමපිළිබඳව පරීක්ෂණයන් සිදු කරමින් පවතින බවට නිවේදනයක් නිකුත් කළා මතක ඇති.\n\nඔන්න දැන් මේ පහසුකම iOS, Android, Linux, Mac සහ Windows Desktop කියන හැම platform එකකදීම ඕනෑම කෙනෙකුට භාවිතා කරන්න පුළුවන් විදිහට නිකුත් කරන්නට Microsoft සමාගම කටයුතු කරලා තියනවා.\n\nනමුත් අපි සාමාන්‍යයෙන් WhatsApp හෝ Viber වැනි apps වලදී භාවිතා කරනවා වගේ මේ Skype එකේ යන එන හැම message එකක්ම encrypted නැහැ. අපිට මේ පහසුකම භාවිතා කරන්න ඕන නම්, අදාල user ගේ profile එකට ගිහින් “New Private Conversation” කියන option එක හරහා මේ විදිහට encrypted messages, calls ලබා ගන්න හැකියාව තිබෙනවා.\n\nඒ වගේම මේ පහසුකම භාවිතා කරන්න පුළුවන් වෙන්නේ එක වරකට එක device එකක එක conversation එකක්  සඳහා පමණයි. ඒ වගේම මේ Private conversation එකක දී එවන messages, files හෝ ඕනෑම දෙයක් වෙනත් devices වලට sync වෙන්නෙත් නැහැ.\n\nකොහොම වුණත්, මේ end-to-end encrypted messages යවන්නා සහ ලබන්නා හැරුණු විට අතරමැදියෙකුට කියවීමට ඉතාමත් අපහසු බැවින් මෙය ඉතාමත් ආරක්ෂිත ක්‍රමයක් බවට ලොව පුරා එක සේ පිළිගන්නවා. නමුත් එදිනෙදා ජීවිතයේදී අපි කරනු ලබන සෑම conversation එකක් ම encrypt කිරීමට තරම් වැදගත්කමක් හිමි වන්නේ බොහෝ කළාතුරකින් බව අපි ප්‍රායෝගිකව අත්දකින කාරණාවක් වෙනවා.",
+  "category": "security",
+  "date": "2018-08-21",
+  "extraction_timestamp": "2026-02-20T12:17:46.659069",
+  "headline": "Skype වලටත් end-to-end encryption එකතු වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/skype-now-offers-end-to-end-encrypted-conversations/",
+  "word_count": 188
+}

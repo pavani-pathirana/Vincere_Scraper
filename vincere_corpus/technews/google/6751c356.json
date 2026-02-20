@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගමේMessages app එකඔස්සේ යවන text messages, send වෙන time එක schedule කලහැකි ක්‍රමයක් අත්හදා බැලීම සඳහා Google සමාගම කටයුතු කරමින් සිටින බව දැනගන්නට ලැබෙනවා.\n\nයම්කිසි text message එකක් type කර එය එම මොහොතේ යැවීමට අවශ්‍ය නැතිනම්, එය send විය යුතු time එක සකස් කර තැබීමට මේ අලුත් පහසුකම හරහා හැකියාව ලැබෙනවා.\n\nමෙහිදී message sending icon එක long press කිරීම මඟින් ඔබට මෙම option එකට පිවිසීමට හැකියාව ලැබෙන අතර එහිදී ඔබට නිශ්චිත වේලාවන් තුනක් options ලෙස ලැබෙනු ඇති අතර හතර වන option එක මඟින් ඔබ කැමති වෙලාවක් ලබාදීම ද කලහැකි වෙනවා.\n\nඑමෙන්ම ඔබ schedule කල message එක Messages app එකේ chat list එක තුළ පෙන්වන අතර ඔබට වෙලාව යලි වෙනස් කිරීමට අවශ්‍ය නම් හෝ එය එම මොහොතේම යැවීමට අවශ්‍ය නම් හෝ, නැතිනම් එය delete කිරීමට අවශ්‍ය නම්, අදාළ message එක tap කිරීමෙන් එම කටයුත්ත සිදුකල හැකි වෙනවා.\n\nFinally Google Messages added \"Schedule message\" 📅🕛 feature.Put some text in draft, tap and hold send button \"schedule message\" option will popup. Previously used to get and option to add subject for mms now it moved to 3 dot menu@9to5Google@SkylledDev@AndroidPolicepic.twitter.com/iMNoSt3hLu\n\nමීට පෙර Messages app එක තුළ මෙම sending icon එක long press කිරීම මඟින් ඔබට subject එකක් සමඟ MMS යැවීමට හැකියාව ලබාදුන් අතර, දැන් ඔබට ඔබේ chat box එකේ ඉහළින් පෙන්වා ඇති තිත් තුනක icon එක click කිරීමෙන් එම MMS යැවිමේ option එක වෙත පිවිසිය හැකි වෙනවා.\n\nතවමත් මෙම අලුත් feature එක සංවර්ධනය කරමින් පවතින අතර මේ දක්වා කිසිදු Pixel උපාංගයකට හෝ Beta version එකක් හෝ නිකුත් කර නැති අතර,ඉදිරියේදී update එකක් ලෙස සියලුම Google Messages පරිශීලකයන්ට ලබාදීමට Google සමාගම කටයුතු කරනු ඇති.",
+  "category": "google",
+  "date": "2020-11-05",
+  "extraction_timestamp": "2026-02-20T12:08:50.892973",
+  "headline": "Messages app එක ඔස්සේ යවන text messages schedule කළ හැකි ක්‍රමයක් අත්හදාබැලීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-testing-sms-scheduling-on-messages-app/",
+  "word_count": 260
+}

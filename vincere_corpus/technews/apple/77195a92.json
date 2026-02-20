@@ -1,0 +1,13 @@
+{
+  "body": "අපි text messages, photos, browsing history, etc වගේ ගොඩක් දේවල් අපේ Phone Storage එකේ තියන් ඉන්නවා. නමුත් යම් වෙලාවක් එනවා මේ Phone storage එක full වෙලා ම‍ොනවා හරි ටිකක් මේකෙන් delete කරලා ඉඩ හදාගන්න වෙලාවක්. ඉතින් අද අපි කතා කරන්න යන්නේ iPhone එකක් භාවිතා කරනවා නම් මොනවද මේකට කරන්න පුළුවන් කියන කාරණය ගැනයි.\n\nඅපිට මේක පටන් ගන්න නම් අපි මුලින්ම දැනගන්න ඕන මේ storage එක භාවිතා කරලා තියෙන්නේ මොනවටද කියලා. ඒකට ක්‍රම දෙකක් තියනවා.\n\niPhone එකේ Settings > General > Storage & iCloud Usage ට ගිය විට Availble Space ඒක බලන්න පුලුවන්. ඒ වගේම එතන තියෙන \"Manage Storage\" එක tap කිරීම මගින් Storage ඒක Apps වලට බෙදිලා ගිය අාකරය බලා ගැනිමට පුලුවන්.\n\nඔයාගේ iPhone ඒක PC ඒකට සම්බන්ධ කරලා iTunes Open කරන්න. ඒකේ Phone Icon ඒක click කරලා Apps වලට වගේම TV Shows, Music, Movies, Photos හා තවත් Categories වලට වෙන වෙනම වෙන් වුනු Storage එක බලාගන්න පුලුවන්.\n\nමෙහි Others යනුවෙන් දක්වන්නේ settings, calendar events, notes, browser cache, emails, attachments වගේ media වලට අදාල නොවන දේවල්. ඒ වගේම අපි පහලින් කියලා තියන හැම දේමත් delete කරලා මේ Others කියන කොටසේ storage එක ලොකු ප්‍රමාණයක් අරගෙන තියනවා නම් බොහෝදුරට ඒ මොනවාහරි apps crash වීමකින් නිසා වෙන්න පුළුවන්. එහෙම වුණොත් ඔයාට ඔයාගේ iPhone එක restore කරන එක ගැන හිතලා බලන්න සිද්ධවෙනවා.\n\nඒ වගේම ඔයා iTunes වල අළුත්ම version එක අරගෙන, ඔයාගේ iPhone එක backup කරලා ඉවර වෙලා summery කියන section එකේ තියන Restore iPhone කියන එක මත click කිරීමෙන් ඔයාට පහසුවෙන්ම iPhone එක restore කරගන්නත් පුළුවන්.\n\nපහත් දැක්වෙන ඒවායින් ඔබට අත්‍යවශ්‍යය දේවල් හැර ඉතිරි සියළු දේ delete කරන්න.\n\nStorage Full එක වෙනවාට විසදුම් කිපයක්.\n\nවැඩි වශයෙන්ම storage එක භාවිතා කරන්නේ photos වලට බැවින් Google Photos වගේ app එකක් භාවිතා කිරීමෙන් ඔබගේ photos සහ videos cloud එකේ free backup කර phone එකේ storage එකෙන් මකා දැමිය හැක.\n\nඒ වගේම Music sync කරන විට, මුළු music library එකම sync නොකර, අවශ්‍යය playlist පමණක් select කර sync කිරීම මගින් ද storage එක නිකරුනේ fill වී යාම අඩුකරගත හැක",
+  "category": "apple",
+  "date": "2018-05-30",
+  "extraction_timestamp": "2026-02-20T12:21:28.941316",
+  "headline": "iPhone එකේ space මදි නම් කරන්න ඕන දේවල් ගැන දැනගනිමු",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/manage-iphone-space/",
+  "word_count": 323
+}

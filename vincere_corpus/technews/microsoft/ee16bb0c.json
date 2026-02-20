@@ -1,0 +1,13 @@
+{
+  "body": "මීට මාස කිහිපයකට පෙරUSB Drive එකක් ගැලවීමට පෙර eject කිරීම පිටුපස ඇති තාක්ෂණික හේතුව ගැනඅපේ TechRoom එක හරහා ඔබව දැනුවත් කළා මතක ඇති.\n\nකොහොම නමුත්Windows 10 මෙහෙයුම් පද්ධතියේ 1809 වැනි build එකෙන්පසු නිකුත් කළ සියළුම සංස්කරණ වලදී මේ Safely remove කිරීම පිළිබඳව කරදර වීම තවදුරටත් අනවශ්‍යය වන බව Microsoft සමාගම පෙන්වා දීමට කටයුතු කර තිබෙනවා.\n\nඉහත සඳහන් කළ සංස්කරණයේ සිට මේ USB Disk වල default settings එක ලෙස Better performance වෙනුවට, Quick removal කියන option එක යොදා ඇති අතර, මේ නිසාවෙන් file copy වීමක් හෝ එවැනි කටයුත්තක් අතරතුර හැරෙන්නට වෙනත් අවස්ථා වලදී USB Disk එකක් ගැලවීමට ප්‍රථමව safely remove කිරීමෙන් අදාල file වලට හානියක් නොවන බව Microsoft සමාගම සඳහන් කරනවා.\n\nකොහොම වුණත් මේ Windows 10 මෙහෙයුම් පද්ධතියේ 1809 වැන් build එකෙන් පසුව නිකුත් කළ සංස්කරණ වලත් Safely remove hardware සහ Eject media යන options ඉවත් කිරීමට කටයුතු කර නොමැති අතර, අදාල disk සමඟින් කටයුතු කරමින් පවතින විට මෙම options තවමත් වැදගත් වෙනවා.",
+  "category": "microsoft",
+  "date": "2019-04-09",
+  "extraction_timestamp": "2026-02-20T12:11:15.303820",
+  "headline": "USB Flash Drive තවදුරටත් Safely remove කළ යුතු නොවන බව Microsoft සමාගම ප්‍රකාශ කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-confirms-you-really-really-dont-need-to-safely-remove-usb-flash-drives-anymore/",
+  "word_count": 152
+}

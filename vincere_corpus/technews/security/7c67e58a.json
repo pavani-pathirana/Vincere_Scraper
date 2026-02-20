@@ -1,0 +1,13 @@
+{
+  "body": "වසර ගණනාවක් තිස්සේ Facebook ගිණුමේ ආරක්ෂාව වෙනුවෙන්,two-factor authenticationසඳහා ලබා දෙන ජංගම දුරකථන අංකය අතිශයින්ම ආරක්ෂාව සඳහා පමණක් භාවිතා කරනු ලබන බව එය ඇතුලත් කරන අවස්ථාවේදී Facebook සමාගම ප්‍රකාශ කරනු ලබනවා.\n\nමේ Phone number එක තමන්ගේ profile එකේ පෙන්වීම අවහිර කිරීමට option එකක් ලබා දී තිබෙන නමුත් මේ ජංගම දුරකථන අංකය භාවිතා කරමින් අදාල පුද්ගලයා සොයා ගැනීමට අවස්ථාව ලබා දීමට Facebook සමාගම කටයුතු කර ඇති අතර, මෙය සම්පූර්ණයෙන්ම නැවැත්වීම සඳහා කිසිඳු විකල්ප ක්‍රමයක් ලබා දීමට ද මොවුන් කටයුතු කර නැහැ.\n\nFor years Facebook claimed the adding a phone number for 2FA was only for security. Now it can be searched and there's no way to disable that.pic.twitter.com/zpYhuwADMS\n\nමේ පහසුකම සඳහා වන option එක default තත්ත්වයේ තිබියදී everyone ලෙස සකසා තිබෙන අතර, friends of friends, හෝ friends යනුවෙන් පරිශීලකයාගේ කැමැත්ත අනුව සකස් කර ගැනීමට අවස්ථාව තිබුණත්, Only me වැනි option එකක් ලබා දී නොමැති බව දකින්නට ලැබෙනවා.\n\nයම්කිසි අවස්ථාවකදී ඔබගේ ජංගම දුරකථන අංකය contact එකක් ලෙස save කර එය Facebook ගිණුම සමඟ sync කළ අවස්ථාවකදී ඔබගේ විස්තර අදාල පුද්ගලයා හට දැකගැනීමට මේ අනුව අවස්ථාව ලැබෙනවා.\n\nමීට අමතරව වෙළඳදැන්වීම track කිරීම සඳහා unique ID එකක් ලෙස මේ ජංගම දුරකථන අංකය භාවිතා කිරීමට මොවුන් කටයුතු කරන අතර මෙය අලුතින් වෙනස් කරනු ලැබූ දෙයක් නොවන බව Facebook සමාගම විසින් TechCrunch වෙබ් අඩවියට ප්‍රකාශ කර තිබෙනවා.\n\nතම Facebook ගිණුමේ ආරක්ෂාව එසේම තිබියදී තමන්ගේ ජංගම දුරකථන අංකය ප්‍රවේසම් කරගැනීමට නම්, අදාල ජංගම දුරකථන අංකය Facebook ගිණුමෙන් ඉවත් කර ඒ වෙනුවටGoogle Authenticatorවැනි app එකක් හරහාtwo-factor authentication පහසුකමභාවිතා කිරීම මගින් සිදු කරගත හැකි වෙනවා.",
+  "category": "security",
+  "date": "2019-03-05",
+  "extraction_timestamp": "2026-02-20T12:12:52.932278",
+  "headline": "Facebook 2FA සඳහා ලබා දෙන ජංගම දුරකථන අංකය සිතන තරම් පෞද්ගලික නොවන බව අනාවරණය වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/facebook-wont-keep-your-two-factor-phone-number-truly-private/",
+  "word_count": 245
+}

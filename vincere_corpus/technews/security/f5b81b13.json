@@ -1,0 +1,13 @@
+{
+  "body": "Samsung Find My Mobile app එක සඳහා ලබාදීමට කටයුතු කර ඇති නවතම update එක (version 7.2.05.44) මගින් Offline finding නමින් නව පහසුකමක් එක් කර ඇති බව XDA-Developers වෙබ් අඩවිය වාර්තා කරනු ලබනවා.\n\nමෙම නව පහසුකම මගින් ඔබගේ Galaxy ජංගම දුරකථනය (සහ watches හෝ earbuds) අන්තර්ජාලයට සම්බන්ධ කර නොතිබුණත්, අවට ඇති devices හරහා ඒවා සොයා ගැනීමේ හැකියාව ලබා දී තිබෙනවා.\n\nSamsung සමාගම පවසන්නේ මෙය ක්‍රියාත්මක වන්නේ මෙම පහසුකම සක්‍රීය කර ඇති අසල තිබෙන අනෙකුත් Galaxy devices මගින් \"scan\" කිරීමෙන් වන බවත්, එමඟින් සෑම දුරකථනයක්ම අස්ථානගත වූ අවස්ථාවකදී එය ඇති ස්ථානය පිළිබඳ තොරතුරු ලබාදීමට අවට ඇති අනෙකුත් devices ඉඩ සළසනු ලබනවා.\n\nMax Weinbach විසින් සිය Twitter ගිණුමේපල කර ඇති ඉහත screenshots වල පෙනන ආකාරයට ඔබගේ Samsung Galaxy උපාංගයට නවතම Find My Mobile update එක ලැබුණු විගස එම නව විශේෂාංගය පිළිබඳව notification එකක් පෙන්වනු ඇත.\n\nLooks like Samsung just added offline finding to Samsung's Find My Mobile.Let's you track your phone even if it doesn't have WiFi or cellular by using other Galaxy users.pic.twitter.com/psLl1rcb4X\n\nඑම notification එක මත tap කිරීමෙන් අදාළ settings page එක විවෘත වන අතර එහිදී ඔබට එහි ඉහළ දකුණු කෙළවරේ ඇති toggle එක මත tap කිරීමෙන් මෙම විශේෂාංගය සක්‍රීය කර ගැනීමට හැකියාව තිබෙනවා.\n\nඔබගේ offline location එම settings page එක හරහාම encrypt කිරීමටද හැකියාව හිමි වෙන අතර, මෙම විශේෂාංගය සක්‍රීය කිරීමෙන් පසු, ඔබගේ නැතිවූ ජංගම දුරකථනය අන්තර්ජාලයට සම්බන්ධ නොවූවත් ඔබට එය සොයාගත හැකි වෙනවා.\n\nමෙම පහසුකම තවමත් ලබා ගැනීමට හැකියාව තිබෙන්නේඑක්සත් ජනපදයේ සහ දකුණු කොරියාවේ පරිශීලකයන් සඳහාපමණක් බව XDA-Developers වෙබ් අඩවිය විසින් වැඩිදුරටත් සඳහන් කරනු ලබනවා.",
+  "category": "security",
+  "date": "2020-08-26",
+  "extraction_timestamp": "2026-02-20T12:07:49.933841",
+  "headline": "Samsung Find My Mobile app එක හරහා දැන් Galaxy devices offline තිබියදී පවා සොයාගත හැකි පහසුකමක් ලබාදීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/samsung-find-my-mobile-can-now-locate-your-lost-phone-even-if-its-offline/",
+  "word_count": 246
+}

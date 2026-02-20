@@ -1,0 +1,13 @@
+{
+  "body": "Android සඳහා වන අලුත්ම Firefox Browser එකෙහි preview සංස්කරණයක් ඊයේ දිනයේදී නිකුත් කිරීමට Mozilla ආයතනය කටයුතු කර තිබෙනවා.\n\nමේ අලුත් Firefox browser එකමීට පෙර තිබුණු සංස්කරණයට වඩා දෙගුණයක පමණ ප්‍රමාණයකින් වේගවත් වන බවත්, අලුත් පෙනුමක් එකතු කිරීමට කටයුතු කර ඇති බවත්, Firefox tracking protection වැනි තවත් පහසුකම් ගණනාවකිනුත් සමන්විත වන බව ඔවුන් පෙන්වා දෙනවා.\n\nමේ වන විට Android සඳහා තිබෙන Web Browser සියල්ලක්ම පාහේ Google Chrome වල තිබෙනWebKitrendering engine එක පදනම් කරගත්Blinkengine එක භාවිතා කරන නමුත්, Firefox web browser එක සඳහා භාවිතා කෙරෙන්නේGeckoView යන rendering engineඑකයි.\n\nබොහෝ කාලයක සිට Firefox browser එක Android මතදී Chrome වලට වඩා කිසියම් slow බවක් දකින්නට ලැබුණු බව ඔබ අත්දැකීමෙන් දන්නවා ඇති. මෙයට හේතුව වූයේ ‍පෙර සඳහන් කළ GeckoView engine එක WebKit තරම් optimize වී නොමැතිව තිබීමයි.\n\nවසර කිහිපයකට පෙරFirefox Quantumසමඟින් Firefox වල භාවිතා වන core technologies වෙනස් කර එය වැඩිදියුණු කිරීමට කටයුතු කල ආකාරයට මේ වන විට ඔවුන්ගේ GeckoView engine එක ද වැඩිදියුණු කිරීමට Mozilla ආයතනය කටයුතු කරමින් පවතිනවා.\n\nමේ අලුත් Firefox preview සංස්කරණය සමඟින් වැඩිදියුණු කළ GeckoView engine එක අන්තර්ගත කර ඇති අතර මේ හරහා Firefox Browser එකේ Speed එක දෙගුණයකින් වැඩි වන බව ඔවන් පෙන්වා දෙනවා.\n\nඅනෙකුත් සෑම Browser එකක්ම පාහේ WebKit engine එක භාවිතා කිරීම හේතු කොටගෙන Google සමාගමේ තීරණ වලට යටත් වුවත්, Firefox වලදී තමන්ට අවශ්‍යය ලෙස තම ‍පරිශීලකයන්ගේ පෞද්ගලිකත්වය ආරක්ෂා කරගෙන තමන්ට අවශ්‍යය පරිදි තම Web Browser එක ගොඩනැගීමට මේ හරහා අවස්ථාව ලැබෙනවා.",
+  "category": "android",
+  "date": "2019-06-28",
+  "extraction_timestamp": "2026-02-20T12:17:15.193383",
+  "headline": "අලුත්ම Firefox Browser එක පරීක්ෂා කිරීමේ හැකියාව ලබා දීමට Mozilla ආයතනය කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/mozilla-previews-a-redesigned-and-faster-firefox-for-android/",
+  "word_count": 224
+}

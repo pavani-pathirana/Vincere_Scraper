@@ -1,0 +1,13 @@
+{
+  "body": "Fluent Design language එක දියුණු වෙමින් පැවතුනත් එය අපි බලාපොරොත්තු වුනාට වඩා ගොඩක් මන්දගාමී ස්වරූපයකින් තමයි දියුණු වුනේ. නමුත් Windows 10 Spring Creators Update එක, මෙහෙයුම් පද්ධතියේ ප්‍රධාන අංශවල design එකට සම්බන්ධව සැලකිය යුතු දියුණුවක් ඇති කල බවට නම් සැකයක් නැහැ.\n\nමුලින්ම Fluent Design එක ප්‍රකාශයට පත් කලේ 2017 දී වන අතර acrylic effect වැනි සමහර කොටස්, එම වසරේම දියත් කරන ලද Fall Creators Update එකට එකතු කල නමුත්, Spring Creators Update එක වන විට අවසාන වශයෙන් එය සම්පූණයෙන්ම අළුත් පියවරක් ඉදිරියට තබන්නට සමත්  වුනා.\n\nමුලින්ම වගේම ප්‍රධාන වශයෙන්ම Fluent Design එකේ අාභාශයෙන් windows shell එකේ ලොකු වෙනසක් වුණා මතක අැති. එ් වගේම දැන් Reveal effects එක සහ acrylic effects එක start menu එක වැනි තවත් නිතර බාවිතා වන අංග කිහිපයකම අපිට දකින්න පුළුවන්. ඔයා මේ වෙනකොටත් Spring Creators Update එක භාවිතා කරන කෙනෙක් නම්, මේ වෙනස ඔයා දැනටමත් app list එකේ සහ tiles වල දැකලා අැති.\n\nමෙම reveal effect එක වගේම acrylic transparency blur effect එකත් Action Center සහ People Hub එකේ UI redesign වලදී කැපී පෙනෙන වෙනසක් දක්වනවා. ඒ වගේම taskbar එකත් acrylic ගතියක් පෙන්වනවා වගේම, ලඟදීම reveal effect එකත් එකතු වෙයි කියලා හිතන්න පුළුවන්.\n\nSettings app එක කියන්නේ Fluent Design එකෙන් පෝෂණය ලබපු Windows 10 වල තියන ප්‍රධානම අංගයක්. Spring Creators Update එකත් එක්ක ආපු reveal සහ acrylic effect එක නිසා එයට තවත් නවීන පෙනුමක් ලැබුණා.\n\nඒ වගේම Microsoft Edge, Cortana වගේම touch keyboard එකත් මේ ආභාශය ලබාගත්තා.\n\nකොහොම වුනත්, Fluent Design එක කියන්නේ තවමත් දියුණු වෙමින් පවතින දෙයක්. ඒ වගේම මම කලිනුත් සඳහන් කළා වගේ මේක ගොඩක් හෙමින් තමයි සිද්ද වෙන්නේ. Microsoft එකේ modern UI එකට තවත් තල්ලුවක් වශයෙන් Acrylic සහ reveal effect එක නම් දැන් Windows 10 core apps වලින් ඔබ්බට ගිහින් තව දුරටත් operating system එක පුරාවටම තියන menu වල අපිට දකින්න පුළුවන්.\n\nWindows 10 Mobile Operating system එකෙත් Fluent Design එක ප්‍රධාන අංගයක් වෙලා තිබුණා කලින්. නමුත් ස්වාභාවයෙන් ම අපේ priority එක design එකට වඩා ඒකේ තියන පහසුකම් පැත්තට ගලාගෙන යන බව අමුතුවෙන් කියන්න ඕන නැහැනේ.\n\n2018 අග භාගයේ දි release වෙන්න නියමිත Redstone 5 update එකෙත් අපිට මෙහි වැඩි දියුණු කල දේවල් ටිකක් අපිට බලාපොරොත්තු වෙන්න පුළුවන්. විශේෂයෙන්ම Fluent Design එක කියන්නේ acrylic සහ reveal effects විතරක්ම නොවන නිසා.",
+  "category": "microsoft",
+  "date": "2018-04-17",
+  "extraction_timestamp": "2026-02-20T12:14:05.445566",
+  "headline": "Windows 10 Spring Creators Update: Fluent Design එක දියුණු වන අාකාරය",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/windows-10-spring-creators-update-fluent-design/",
+  "word_count": 357
+}

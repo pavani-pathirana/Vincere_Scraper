@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින් මෑතකදීGoogle Home,Google Docs, Google Sheets සහ Google Slidesඇතුළු apps කිහිපයක් සඳහාම dark mode ලබාදීමට කටයුතු කරනු ලැබුවා.\n\nඔන්න දැන්, Google Maps සඳහාත්, universal dark mode option එකක් හඳුන්වාදීමට Google සමාගම සූදානම් වන බව මේ වන විට වාර්ථා වෙනවා.\n\nGoogle සමාගම විසින් 2018 වර්ෂයේදී Google Maps සඳහා dark mode එකක් හඳුන්වාදීමට කටයුතු කළ කල නමුත් එහි menus සහ settings සඳහා dark mode එක සක්‍රිය කිරීමේ option එකක් ඇතුළත් වුණේ නැහැ.\n\nGoogle සමාගම විසින් මෙසේ universal dark mode toggle එකක් app එකට ඇතුලත් කිරීමට කටයුතු කරමින් සිටින බව ප්‍රකාශ කරන ලද්දේ Android app developer කෙනෙකු සහ reverse engineer කෙනෙකු වන Alessandro Paluzzi (@alex193a) විසින් වන අතර ඔහු විසින් මේ පිළිබඳව සිය Twitter ගිණුමහි Tweet එකක් පළ කිරීමට කටයුතු කර තිබුණා.\n\n#Googleis finally working on the dark mode for Google Maps 👀pic.twitter.com/DhbLeaiY9G\n\nඑම Tweet එකෙහි share කර ඇති screenshots වල තිබෙන ආකාරයට, Google Maps හි නව dark theme option එක app settings වල appearance section එකෙහි දැකගැනීමට හැකියාව තිබෙනවා.\n\nOptions මත tap කිරීමෙන් options තුනක් සහිත pop-up window එකක් දැක ගැනීමට හැකියාව ලැබෙන අතර එහි Light theme, Dark theme සහ Default device theme ලෙස options ත්‍රිත්වයක් දැකගත හැකි වෙනවා.\n\nDark theme option එක select කර සහ save button එක tap කිරීමෙන් app එකෙහි සියලුම සුදු පැහැති UI elements තද අළු පැහැයට හැරෙන අතර default ලෙස පවතින device theme option එක හරහා දැනට භාවිතයේ පවතින system-wide theme එකට අදාලව ස්වයංක්‍රීයව theme එක select කරගැනීමටද හැකියාව තිබෙනවා.\n\nමේ වන විට නව Dark theme setting එක පරිශීලකයන් වෙත හඳුන්වා දෙන්නේ app එකෙහි කුමන version එකක් හරහාද යන්න තවමත් පැහැදිලි නැති අතර Google සමාගම විසින් මේ පිළිබඳව කිසිඳු නිළ තහවුරු කිරීමක් ද සිදු කිරීමට කටයුතු කර නැහැ.\n\nකොහොම නමුත් app එකෙහි 10.5.0 version එක හරහා මෙම විශේෂාංගය manually enable කිරීමට Paluzzi සමත් වූ නමුත් මෙම පහසුකම මේ මොහොතේ අනෙකුත් පරිශීලකයින් හට ලබා ගත නොහැකි බව ද ප්‍රකාශ කර තිබෙනවා.\n\nමෙම විශේෂාංගය සාමාන්‍යය පරිශීලකයින් වෙත ලබාදීමට කටයුතු කරන විට ඒ පිළිබඳව ද ඉදිරියේදී ඔබව දැනුවත් කිරීමටද අපි බලාපොරොත්තු වෙනවා.",
+  "category": "android",
+  "date": "2020-09-19",
+  "extraction_timestamp": "2026-02-20T12:08:48.172778",
+  "headline": "Google Maps app එක සඳහා universal dark mode පහසුකමක් ලබාදීම‍ට Google සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-maps-is-preparing-to-add-a-dark-mode-for-menus-and-settings/",
+  "word_count": 324
+}

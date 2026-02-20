@@ -1,0 +1,13 @@
+{
+  "body": "මීළඟට නිකුත්වීමට නියමිත iPhone 11 ජංගම දුරකථනයේ3D Touch පහසුකමඅන්තර්ගත නොවන බවට පසුගිය දින වල අන්තර්ජාලය පුරාවට කටකතා පැතිරී යනු දකින්නට ලැබුණා.\n\niPhone ජංගම දුරකථන වල display එකේ pressure-sensitive, එහෙමත් නැතිනම් අපි touch screen එක මතට යොදන පීඩනය/තෙරපුම මැනගැනීමේ හැකියාව භාවිතා කරමින් Apple සමාගම විසින් iPhone වලට හඳුන්වාදීමට කටයුතු කළ 3D Touch පහසුකම හරහා, iOS එක පුරාවට Quick actions සිදු කිරීමේ හැකියාව ලබා දීමට කටයුතු කළ අතර, මේ පහසුකම iPhone භාවිතා කරන්නන්ගේ මහත් ප්‍රසාදයට ලක් වූ බව අමුතුවෙන් කිවයුතු නැහැ.\n\nකොහොම නමුත්පසුගියදා එළිදැක්වූ iOS 13 සංස්කරණයසමඟින් මේ 3D Touch පහසුකම ඉවත් කිරීමට Apple සමාගම තීරණය කර තිබෙන බව දැකගතහැකි වන අතර ඒ වෙනුවටAndroid වල තිබෙන long-press gesture එකටසමාන වන අයුරින් touch screen එක මත long-press කිරීම මගින් අදාල Quick actions menu එක භාවිතා කිරීමේ හැකියාව ලබාදීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nවිශේෂයෙන්ම iPhone 6s වලට පෙර පැමිණි ජංගම දුරකථන සහ iPhone SE, XR වැනි ජංගම දුරකථන වල මේ pressure sensitive touch screen එකක් අන්තර්ගත නොවුනු අතර app develop කරන්නන් හට 3D Touch පහසුකම හරහා ලබා දුන් actions මේ ජංගම දුරකථන භාවිතා කරන්නන් හට ලබා දීමට භාවිතා කළ Haptic Touch gesture එකට, එනම් long press කළ විට vibration එකක් සමඟින් අදාල action එක සිදු කරනු ලබන ක්‍රමයට සමාන ලෙස මෙය නිර්මාණය කර තිබෙනවා.\n\nමේ සමඟින් iPhone වල touch screen එකේ අන්තර්ගත කර තිබුණු pressure sensor එක කිසිඳු භාවිතාවකින් තොර අංගයක් බවට පත් වන නමුත් සෑම device එකක් හරහා ම එකම ආකාරයේ අත්දැකීමක් ලබාදීමට මේ හරහා හැකියාව ලැබෙනවා.\n\nඑමෙන්ම අලුත් gesture එක භාවිතා කිරීමේදී touch screen එක මතට පෙර පරිදි වැඩි පීඩනයක් යොමු කිරීමට ද අවශ්‍යය නොවන අතර අලුතින් නිකුත් වීමට නියමිත iPhone සහ iPad වලට මේ ආකාරයේpressure sensitive touch screen එකක්අන්තර්ගත නොවනු ඇති බව ද විශ්වාස කෙරෙනවා.",
+  "category": "apple",
+  "date": "2019-06-08",
+  "extraction_timestamp": "2026-02-20T12:14:15.584567",
+  "headline": "iPhone වලින් 3D Touch පහසුකම ඉවත් කර long-press gesture එක හඳුන්වාදීමට Apple සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-is-finally-removing-3d-touch-feature-and-introducing-long-press-gesture/",
+  "word_count": 274
+}

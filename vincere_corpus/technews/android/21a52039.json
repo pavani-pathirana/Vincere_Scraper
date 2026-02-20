@@ -1,0 +1,13 @@
+{
+  "body": "මේ Android-x86 කියන්නේ mobile (ARM based) processors සඳහා නිර්මාණය කරලා තිබෙන Andorid මෙහෙයුම් පද්ධතිය සාමාන්‍යය AMD එහෙමත් නැතිනම් Intel x86 processors ඇති devices වල ධාවනය කළ හැකි ලෙස port කිරීම, එහෙමත් නැතිනම් වෙනස් කිරීම සිදු කරන ව්‍යාපෘතියක්.\n\nඉතින් මේ Android මෙහෙයුම් පද්ධතිය තමන්ගේ පරිගණකයට install කරගන්න Android වලට කැමති  බොහෝ දෙනෙක් මේ වෙනකොට උත්සාහ කරන කෙනෙකුට ඒ සඳහා දැනට තිබෙන ක්‍රම වලින් හොඳම විදිහක් තමයි මේ Android-x86 Project එක යටතේ නිකුත් වන Android මෙහෙයුම් පද්ධතියක් බාවිතා කිරීම.\n\nමේ ව්‍යාපෘතිය යටතේ Android Oreo (8.1) මෙහෙයුම් පද්ධතිය පසුගිය ජුනි 18 වෙනිදා නිකුත් කරනු ලැබුවා. ඉතින් 32bit වගේම 64bit processors තිබෙන බොහෝමයක් devices වල මේ operating system එක දැන් run කරන්න පුළුවන්.\n\nමීට කලින් ඔයා මේ Android-x86 image එකක් භාවිතා කිරීමට උත්සාහ කරද්දී බොහෝ වෙලාවට graphic drivers හෝ ඔයාගේ graphic card එක මේකට support නොකරන ආකාරයේ ප්‍රශ්ණ වලට මුහුණ දෙන්න සිදු වෙලා ඇති. නමුත් මේ version එකේදීMesaකියන open-source graphic library එක භාවිතා කරමින් Intel, AMD Radeo සහ Nvidia GPU වලට සහයෝගය දැක්වීමට හැකි ලෙස සකස් කිරීමට ඔවුන් උත්සාහ කරලා තියනවා. ඔයා මේක virtual machine එකක භාවිතා කරනවා වුවත්, මේ හරහා graphic වලට hardware acceleration සහය ලබාගන්නත් ඔයාට පුළුවන්.\n\nඒ වගේම hardware acceleration ලබාගැනීමට නොහැකි විදිහේ GPU එකක් නම්, ඒ වෙනුවටSwiftShaderකියන library එක හරහා software rendering භාවිතා කිරීමටත් මේ version එක සකසලා තිබෙනවා. ඒ කියන්නේ ඔයාගේ GPU එක මේකට සහාය දක්වන්නේ නැතිනම්, ඒ වෙනුවට ඔයාගේ CPU එක භාවිතා කරමින් අදාල graphic processing කරගන්න මේ library එකට පුළුවන්.\n\nමීට අමතරව ඔයා භාවිතා කරන PC එකේ BIOS settings සකසලා තිබෙන්නේ UEFI විදිහට නම්, ඒක නැවතත් Legacy විදිහට මාරු කිරීමට දැන් අවශ්‍යය වෙන්නේ නැහැ. මේ අනුව අළුත් version එකට Secure Boot support එකත් එකතු කරන්නට මොවුන් කටයුතු කරලා තිබෙනවා.\n\nඒ වගේම මේ අළුත් version එකට multi-touch, audio, Wi-Fi, Bluetooth, sensors, camera සහ Ethernet devices වල සහයත් එකතු කරලා තියනවා. ඒවාට අදාල components ඔයාගේ PC එකේ තිබෙනවා නම්, දැන් මේ operating system එක හරහා එ් devices වලින් වැඩක් ගන්න පුළුවන්. මීට අමතරව ARM processors වලට පමණක් විශේෂයෙන් ලියන ලද apps ඔයාගේ PC එකේ run කිරීමේ පහසුකමත් මේකට ඇතුලත් වෙනවා.\n\nමීට අමතරව Taskbar කියන නමින් හැඳින්වෙන අළුත් launcher එකකුත් මේ අළුත් Android-x86 8.1 එකට ඇතුලත් කිරීමට මොවුන් කටයුතු කර තිබෙනවා.\n\nDownloadAndroid-x86 Android Oreo (8.1)| Source:Android-x86",
+  "category": "android",
+  "date": "2018-06-20",
+  "extraction_timestamp": "2026-02-20T12:21:58.883977",
+  "headline": "Android-x86 Project එක යටතේ Android Oreo (8.1) නිකුත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/android-x86-project-now-lets-you-install-android-8-1-oreo-on-your-pc/",
+  "word_count": 356
+}

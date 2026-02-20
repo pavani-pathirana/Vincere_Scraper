@@ -1,0 +1,13 @@
+{
+  "body": "Android වල හැම custom ROM development එකක්ම වගේ පටන් ගන්නේ මොකක් හරිම custom recovery එකක් එක්ක. ඒ අතරින් ගොඩක්ම ජනප්‍රිය custom recovery එකක් තමයි TWRP එහෙමත් නැත්තම් Team Win Recovery Project කියලා කියන්නේ.\n\nඅපිට Android වලට custom ROM එකක් flash කරන්න ඕනි නම් අනිවාර්යෙන්ම custom recovery එකක් අත්‍යාවශය වෙනවා. මොකද සාමාන්‍යයෙන් stock recovery එකෙන් software එකක් Install කරද්දී එක official එකක්ද signature verification කරලා check කරලා බලනවා. Signature එක fail නම්, install කරන්න දෙන්නේ නෑ. අපි custom recovery එකක් use කරනවා නම් ඒ option එක disable කරලා තියෙන්නේ එ්ක නිසා අපිට ඕනිම ZIP file එකක් install කරගැනීමේ හැකියාව තියෙනවා.\n\nHonor View 10 සහ Huawei P20/P20 Pro Device වල TWRP වගේ custom recovery එකක් use කරලාත් data partition එක decrypt කරන්න බැරි උනා. ඒ කියන්නේ encryption එක remove කරන්න සහ Magisk install කරන්න නම්, කලින් ඔබට සම්පූර්ණ data partition එකම format කරන්න වෙනවා.\n\nනමුත් XDA Senior Member කෙනෙක් වෙන Pretoriano80 ට ස්තුති වන්ත වෙන්න Honor View 10 සහ Huawei P20/P20 Pro device users ලට data encryption කරන්න වගේම recovery එකේ ඉඳන්ම data modify කරන්නත් දැන් අවස්ථාව උදා වෙලා තියනවා.",
+  "category": "mobile",
+  "date": "2018-04-28",
+  "extraction_timestamp": "2026-02-20T12:24:19.727623",
+  "headline": "TWRP Custom Recovery සහ Huawei P20/P20 Pro/Honor View 10",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/twrp-custom-recovery-huawei-p20-p20-pro-honor-view-10/",
+  "word_count": 178
+}

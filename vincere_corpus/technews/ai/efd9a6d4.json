@@ -1,0 +1,13 @@
+{
+  "body": "Photo එකකින් අනවශ්‍යය කොටස් ඉවත් කිරීමේදී ඒ අවට තිබෙන කොටස් analyze කර, ඊට අනුකූලව හිස් ප්‍රදේශය නැවත generate කිරීමේ පහසුකම, එහෙමත් නැතිනම් content-aware fill පහසුකම Photoshop වලට ලබා දී මේ වන විට බොහෝ කාලයක් ගත වී තිබෙනවා.\n\nඊයේ දිනයේ නිකුත් කළAdobe After Effects Spring Update එකසමඟින් මේ පහසුකම video සඳහා ද ලබා දීමට Adobe සමාගම කටයුතු කර තිබෙන අතර මේ හරහා video එකකින් අනවශ්‍යය කොටස් ඉවත් කිරීමේදී frame-by-frame ඒවා ඉවත් කිරීම තවදුරටත් අවශ්‍යය වන්නේ නැහැ.\n\nමේ සඳහාAdobe Senseiව්‍යාපෘතියේ machine learning platform එක භාවිතා කරනු ලබන අතර, ඒ මගින් frame-by-frame අදාල images වෙනස් කිරීම ස්ව්‍යංක්‍රීයවම සිදු කිරීමට After Effects මෘදුකාංගයට හැකියාව ලැබෙනවා.\n\nබොහෝ වෙලාවට කිසියම් effect එකක් නිර්මාණය කිරීම සඳහා wire/cable වැනි දෑ භාවිතා කරනවා නම්, post production කටයුතු වලදී ඒවා ඉවත් කිරීම සඳහා මෙය ඉතාමත් ප්‍රයෝජනවත් පහසුකමක් වන බව අමුතුවෙන් සඳහන් කළ යුතු නැත.",
+  "category": "ai",
+  "date": "2019-04-04",
+  "extraction_timestamp": "2026-02-20T12:06:33.273093",
+  "headline": "Photoshop වල තිබුණු content-aware fill පහසුකම After Effects වලටත් ලබා දීමට Adobe සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "ai"
+  ],
+  "url": "https://technews.lk/adobe-after-effects-gets-content-aware-fill-to-let-you-remove-unwanted-objects-from-videos/",
+  "word_count": 134
+}

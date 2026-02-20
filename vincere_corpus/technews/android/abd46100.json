@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය වසරේ සැප්තැම්බර් මාසයේදී Discord ආයතනය විසින් Android සඳහා වන Discord app එක සඳහාscreen sharing විශේෂාංගය ලබාදීමට සැලසුම් කර ඇති බව වාර්තා වූ අතරඑම අවස්ථාවේ දී, Discord හි desktop client එකෙහි Canary release එකක් හරහා මෙම විශේෂාංගය ඉස්මතු කරන නව strings කිහිපයක්ද දැකගැනීමට හැකියාව ලැබුණා.\n\nකෙසේ වෙතත්, එම කාලයේදී මෙම විශේෂාංගය සංවර්ධනය වෙමින් පැවති අතර, එහි UI එක පිළිබඳව හෝ එය නිකුත් කරන කාලවකවානුවක් පිළිබඳව තොරතුරක් දැනගැනීමට හැකියාවක් ලැබුණේ නැහැ.\n\nනමුත් දැන්, මෙම විශේෂාංගය Android සඳහා වන Discord app එකෙහි 48.2 version එක හෝ ඊට ඉහළ version එකක් භාවිතා කරන beta පරිශීලකයන් සඳහා ලබාගැනීමට හැකියාව තිබෙන අතර ඔබත් Discord beta පරිශීලකයෙක් නම් ඉහත දැක්වෙන video එකෙහි ආකාරයට, Discord voice calling interface එකෙහි පහළ ඇති toolbar එකෙහි තිබෙන නව icon එක මත tap කර ලැබෙන confirmation dialog එකෙහි ඇති “Start Now” button එක tap කිරීම මගින් මෙම විශේෂාංගය භාවිතා කළ හැකි වෙනවා.\n\nඑමෙන්ම, මෙම screen sharing UI එකෙහි මැද “Stop sharing” යනුවෙන් විශාල button එකක් සහ පහළින් swipe up menu එකක් දැකගැනීමට හැකියාව තිබෙන අතර එම swipe up menu එකෙහි video සහ voice calls අතර මාරුවීමට button එකක්, screen sharing පහසුකම stop කිරීමට තවත් button එකක්, microphone එක mute/unmute කිරීම සඳහා button එකක් සහ call end button එකක් ඇතුලත් වෙනවා.\n\nමෙම button හතරට යටින් screen sharing විශේෂාංගය සඳහා audio output වෙනස් කිරීමේ option එකක්ද දැකගැනීමට හැකියාව ඇති බවට වාර්තා වෙනවා.\n\nDiscord ආයතනය විසින් මෙම විශේෂාංගය සියලුම පරිශීලකයන් වෙත ලබාදීම සඳහා කාලවකවානුවක් පිළිබඳව අනාවරණය කර නොතිබුණද, මෙම විශේෂාංගය දැනටමත් beta පරිශීලකයන් සඳහා ලබාදී ඇති හෙයින්, stable version එක භාවිතා කරන පරිශීලකයන් සඳහාත් මෙම විශේෂාංගය ඉක්මනින් ලබාගැනීමට හැකියාව ලැබෙනු ඇත.",
+  "category": "android",
+  "date": "2020-11-12",
+  "extraction_timestamp": "2026-02-20T12:07:49.722845",
+  "headline": "Android සඳහා වන Discord beta channel එක සඳහා screen sharing පහසුකම පරීක්ෂා කිරීමට Discord ආයතනය කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/discord-on-android-begins-testing-screen-sharing-in-latest-beta/",
+  "word_count": 257
+}

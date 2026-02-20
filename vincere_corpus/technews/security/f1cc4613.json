@@ -1,0 +1,13 @@
+{
+  "body": "ඔයාගේ Chrome browser එකත් slow වෙලා වගේ දැනෙනවාද? ගොඩක් වෙලාවට ඒmalwareවලින් ඔයාගේ web browser එක අවුල් වෙලා ගිහින් නිසා වෙන්න පුළුවන්. නමුත් Google Chrome එකේ මේ malware හොයාගෙන ඒවා ඉවත් කරන්න පුළුවන් විදිහේ \"Cleanup\" කියලා malware scanner එකක් තියනවා කියලා ඔයා දැනගෙන හිටියාද?\n\nප්‍රසිද්ධ ආරක්ෂක මෘදුකාංග නිෂ්පාදනය කරන ආයතනයක් වනESETආයතනයේ නිෂ්පාදිත detection engine එකක් Google Chrome එක්ක එකතු කරලා තමයි මේ පහසුකම ලබා දෙන්නේ.\n\nමේ utility එක වරින් වර background process එකක් ආකාරයෙන් වැඩ කරන විදිහට තමයි සකස් කරලා තියෙන්නේ. නමුත් පහළ කියලා තියන විදිහට ඔයාට ඕන නම් පුළුවන් මේක manually run කරන්න. මේක කරන්න ක්‍රම දෙකක් තියනවා.\n\nඉතින් ඔයාගේ browser එක ගොඩක් slow වෙලා වගේ දැනෙනවා නම් මේක run කරලා බලන්න. නමුත් මතකයේ තියාගන්න ඕන දෙයක් තමයි, මේක මේ ඔයාගේ පරිගණකයේ තියෙන හැම malware එකක්ම හොයන්නේ නැහැ. මේකෙන් scan කරන්නේ Chrome එකට සම්භන්ධතාවයක් තියන දේවල් විතරයි.\n\nකොහොම වුණත් මේ වෙනකොට අපි වැඩිපුරම භාවිතා කරන, ඒ වගේම අපේ පෞද්ගලික data ගොඩකට access තියන  tool එකක් වෙන web browser එකට මේ වගේ ආරක්ෂිත උපක්‍රමයක් තියන එක ගොඩක් වටින දෙයක් වෙනවා.",
+  "category": "security",
+  "date": "2018-05-24",
+  "extraction_timestamp": "2026-02-20T12:19:33.515349",
+  "headline": "Google Chrome එක slow ද? Chrome වල තියන  Malware Scanner එකෙන් වැඩක් ගමු",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/google-chrome-cleanup-chrome-malware-scanner/",
+  "word_count": 169
+}

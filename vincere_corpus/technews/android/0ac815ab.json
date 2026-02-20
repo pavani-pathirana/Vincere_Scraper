@@ -1,0 +1,13 @@
+{
+  "body": "Google message යනු Android දුරකථන සදහා ඇති ප්‍රධානතම SMS application එක වන අතර මෙම app සඳහා කෙටි කාලයක් තුළ විශේෂාංග රාශියක් එක් කිරීමට Google ආයතනය කටයුතු කරනු ලැබුවා.\n\nඔන්න දැන් මේ Google Messages යෙදුම සඳහා Gmail සහ අනෙකුත් Google apps වල ඇති ආකාරයෙන් ිearch bar එකක් ලබා දීමට beta testing සිදුකරමින් පවතින බව වාර්ථා වෙනවා.\n\nමෙම නව අංගය server-side test එකක් ලෙස Google Messages අලුත්ම beta version එක භාවිතා කරන ඇතැම් පරිශීලකයින් හට ලබාදී ඇති නමුත් එම සංස්කරණය භාවිතා කරනු ලබන සියළුම දෙනා හට මෙම පහසුකම දැකගත නොහැකි වෙනවා.\n\nGoogle Messages වල දැනට පවතින stable version එකේ දකුණු පස plain search icon සහිත button එකක් ඇති නමුත් නව beta version එක මගින් සමස්ත titlebar එකම search button එකක් ලෙස ක්‍රියාත්මක වෙනවා.\n\nමෙම නව design එක මීට දින කිහිපයකට පෙර Google Playstore හරහා නිකුත් කළ Messages v6.2 beta සංස්කරණය හරහා ඇතැම් පුද්ගලයන් හට පමණක් දැකගැනීමට හැකියාව ලැබී ඇති අතර මෙය තවමත් beta testing එකක් පමණක් බැවින් ඉදිරියේදී මෙම පහසුකම stable release එකක් හරහා සියළුම පරිශීලකයින් හට නිකුත් කිරීමට Google සමාගම කටයුතු කරනු ඇත.",
+  "category": "android",
+  "date": "2020-06-06",
+  "extraction_timestamp": "2026-02-20T12:11:40.088554",
+  "headline": "Google Messages සදහා top search bar එකක් හදුන්වා දීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-messages-starts-rolling-out-top-search-bar-in-beta/",
+  "word_count": 172
+}

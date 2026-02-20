@@ -1,0 +1,13 @@
+{
+  "body": "Google Docs වෙත එක්වෙන නවතම AI පහසුකම \"Help me create\"\n\nGoogle සමාගමේ document වැඩ කරගන්න උදව්වෙන Google Docs වෙත ඔවුන්ගේGemini AIඑක සම්බන්ධ කරන්න සමාගම කටයුතු කරලා තියෙනවා. Google Docs'support page, එකට අනුව මේ experimental feature එක \"Help me create\" විදිහට තමයි නම් වෙලා තියෙන්නේ.\n\nඔබේ ඕනෑම Google Workspace file එකක ඉඳලා ‘@’ සහ file name එක type කිරීමෙන් Formatted doc files අවශ්‍ය tone එකෙන් ඔබේ අවශ්‍යතාවය අනුව නිර්මාණය කරගන්න පුළුවන්කම මේ හරහා ලැබෙනවා.\n\nමේ විදිහට @ filename ලෙස type කිරීමෙන් ඔබට ඔබේ Google Workspace file එකක් වෙනත් එකකට link කරන්න වගේ දේවලුත් කරගන්න හැකියාව තියෙනවා.\n\nමේ පහසුකම යටතේ ඔබට Proposals, Project trackers, Brainstorm documents, Blog posts, Press releases, Campaign briefs, Menus for dinner parties, Family newsletters, සහ Vacation itineraries වගේ බොහෝ දේවල් AI සහය සමගින් නිර්මාණය කරගන්න පුළුවන් වෙනවා.\n\nGoogle සමගම recommend කරනවා ඔබ මේ පහසුකම භාවිත කරද්දී සාමාන්‍ය AI එකකට විධාන ලබා දෙන ලෙසම prompt භාවිත කරන්න පුළුවන් නිසා ඔබට ඉලක්ක කරගන්න අවශ්‍ය “audience, purpose, සහ goals” නිවැරදිව සඳහන් කරන එක ඔබට අවශ්‍ය Document එක ඉක්මනින් නිර්මාණය කරගන්න පහසුවක් වේවි කියලා.\n\nදැනටGemini for Google Workspace AlphaසහWorkspace Labs programsවෙත විතරයි මේ පහසුකම available වෙන්නේ. අනෙක් පරිශීලකයන් සඳහා තරමක් හෙමින් මෙවැනි AI පහසුකම් ලැබේවි කියලා තමයි විදෙස් තාක්ෂණික පුවත් වාර්තා කරන වෙබ් අඩවි සඳහන් කරන්නේ.",
+  "category": "ai",
+  "date": "2024-12-09",
+  "extraction_timestamp": "2026-02-20T12:04:42.781909",
+  "headline": "Google Docs වෙත Gemini AI එක සම්බන්ධ කරන්න Google කටයුතු කරයි.",
+  "source": "technews",
+  "tags": [
+    "ai"
+  ],
+  "url": "https://technews.lk/google-docs-help-me-create-gemini-ai/",
+  "word_count": 204
+}

@@ -1,0 +1,13 @@
+{
+  "body": "ඔන්න ආයෙත් පාරක් Microsoft එක ලෑස්ති වෙනවා එයාලගේ Windows 10 මෙහෙයුම් පද්ධතියේ Redstone 4 එක release කරන්න. මේ වෙනකොටත් RTM build එකක් Windows insider program එකේ ඉන්න අයට දීලත් ඉවරයි.\n\nWindows 10 (build 17134) මේ වෙනකොට Fast, Slow, Release Preview කියන channels තුනේම usersලා ට download කරගන්න පුළුවන්. ඒ කියන්නේ Microsoft එක දැන් stable release එකක් නිකුත් කරන්න ඔන්න මෙන්න කියලා තමයි ඉන්නේ.\n\nමේ අන්තිම testing process එක තුලදිත් මොනවත් major bugs හමු වුණේ නැත්තම්, ඊලඟ අඟහරුවාදා වෙනකොට පළමුවෙනි කණ්ඩායමට මෙම update  release එක ලැබෙනවා කියලා තමයි Microsoft එකෙන් දැනුම් දීලා තියෙන්නේ.\n\nකලින් වතාවකුත් මේ release එක කරන්න ගිහින්, BSOD (මරණයේ නිල් තිරය, එහෙමත් නැත්තම් Blue screen of death) bug එකක් නිසාවෙන් එය කල් දැම්මා මතක ඇති. ඒ release එක නම් කරලා තිබුණේ 17133 යන ලේබලයෙන්. නමුත් මේ අවස්ථාවේදී ආයතනය තීරණය කරලා තියනවා පරණ Update එකට cumulative update එකක් විදිහට release නොකර, අළුත්ම build එකක් විදිහට, ඒ කියන්නේ 17134 යන ලේබලය යටතේ මෙම release එක ඉදිරිපත් කරන්න.",
+  "category": "microsoft",
+  "date": "2018-04-24",
+  "extraction_timestamp": "2026-02-20T12:13:51.591822",
+  "headline": "Windows 10 Redstone 4 එක ඔන්න ආයෙමත් launch කරන්න සූදානම්",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/windows-10-redstone-4/",
+  "word_count": 157
+}

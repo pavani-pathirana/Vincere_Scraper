@@ -1,0 +1,13 @@
+{
+  "body": "Redis, එහෙමත් නැතිනම්RemoteDictionaryServer හි මුල් අකුරු වලින් සෑදුනු දත්ත ගබඩා කරන තාක්ෂණයක් වන මෙය in-memory දත්ත ගබඩාවක් මත key-value ආකාරයෙන් දත්ත ගබඩා කරන data structure server එකකි.\n\nඅප වෙනදා භාවිතා කරන සාම්ප්‍රදායික සම්බන්ධතා දත්ත ගබඩා (Relational Databases) සමඟ ක්‍රියාත්මක කිරීමේදී ඇතිවන දුෂ්කර හෝ දුර්වල ලෙස ක්‍රියා කරන ගැටලු විසඳීමට Redis සමත් වන්නේ Redis වල ඇති සුවිශේෂී ක්‍රියාකාරිත්වය(Performance), සරල බව(Simplicity) සහ data structures කුඩා ලෙස හැසිරවීම(Atomic Manipulation) යන අංග වලිනි.\n\nopen-sourceRedisproject එක මත build වුණුAzure Cache for Redisදැන් වසර කිහිපයක සිටමMicrosoftවිසින් ලබා දී ඇති අතර අද දින එහි සේවා තවත් පුළුල් කරමින් Redis Enterprise එනම් Redis Lab හි වාණිජමය සේවාව මේ සඳහා එක් වෙයි.\n\nමෙහිදීRedis Labsමගින් මෘදුකාංග සහය ලබාදෙන අතර  මූලික සහය Microsoft විසින් ලබාදීමෙන් මෙම Partnership එක ආරම්භ වෙයි.\n\nMicrosoft Developers Tools අංශයේ ආයතනික උපසභාපති වනJulia Liusonප්‍රකාශ කරන්නේ Redis Labs වැනි open-source ආයතන සමඟ හවුල් වී ඔවුන්ගේ සාමන්‍ය පැකේජ, පාරිභෝගිකයන්ට වැදගත් පරිදී වෙනස් කර ලබාදීමට Microsoft සමාගමට අවශ්‍ය බවයි.\n\nපසුගිය වසරේදී Google සමාගම Redis Lab සමග Partner වුණ අතර ඒ අයුරින්ම Microsoft සමාගමත් ඒ මාර්ගයේම යන බව මේ වන විට දැකගත හැකි වෙනවා.\n\nLiuson පවසන ආකාරයට මේ සමග Azure Cache for Redis සේවාවට අලුතෙන් Single Bill Tier එකක් සහ Azure Management එක ලබාදෙන අතර මෙමගින් SSD Flash Storage Deploy කිරීමේ Option එකද එක්වේ.\n\nAzure Native integration එක මගින් developers වරුන් හට පහසුවෙන් Redis Enterprise පහසුකම තමන්ගේ ව්‍යාපෘති සඳහා ඇතුලත් කරගත හැකි වෙනවා.\n\nRedis වලින් බලගැන්වෙන Search Engine එකක් වන RediSearch ද RedisBloom හා RedistTimeSeries යන data types ද්විත්වයත්, Microsoft අංග සඳහා සහය දක්වන බව වාර්ථා වෙනවා.\n\nLiuson වැඩිදුරටත් පෙන්වා දෙන්නේ, Azure Cache for Redis සේවාවත් බොහෝ සෙයින් භාවිතයට ගෙන ඇති බවත්, ඔවුන්ගේ open-source Managed service එකක් වන Redis හි වේගවත් ක්‍රියාකාරීත්වය මගින් පාරිභෝගිකයන් විසින් පහත අංග විශේෂයෙන් භාවිත කර ඇති බවත් ය.\n\nඑමෙන්ම Redis Labහි  Redis Enterprise තාක්‍ෂණය ඇතුළත් කිරීම මඟින් developer වරුන් හට Redis භාවිතා කළ හැකි පරාසයන් පුළුල් වන අතරම මෙහෙයුම් වේගය සහ ආරක්ෂාව වැඩි වන බව ද ඔහු පෙන්වා දෙනවා.",
+  "category": "microsoft",
+  "date": "2020-05-13",
+  "extraction_timestamp": "2026-02-20T12:09:41.582436",
+  "headline": "Azure Cache for Redis පහසුකම වැඩි දියුණු කිරීම සඳහා Microsoft සමාගම Redis Labs සමඟින් එකතු වෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-partners-with-redis-labs-to-improve-its-azure-cache-for-redis/",
+  "word_count": 313
+}

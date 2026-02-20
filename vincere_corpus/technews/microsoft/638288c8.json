@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගමේ අලුත් Edge Browser එක පිළිබඳව පසුගිය වසරක පමණ කාලය තුළ අපි ඔබව වාර ගණනාවකදී දැනුවත් කිරීමට කටයුතු කළ අතර, මේ වන විට ලොව පුරා බොහෝ දෙනෙකුගේ ප්‍රියතම Web Browser එක වීමට ද එයට හැකියාව ලැබී ඇති බව ඔබ දැනටමත් දන්නවා ඇති.\n\nමේ වන විට Microsoft සමාගම විසින් ඔවුන්ගේ පැරණි Microsoft Edge browser එක සඳහා ලබාදී ඇති support period එක අවසන් වීමට ආසන්න වන අතර, මෙම වසරේ මාර්තු 9 වැනි දින ඒ සඳහා සහාය ලබාදීම නතර කෙරෙනු ලැබෙනවා.\n\nඑමෙන්ම මීළඟ අප්‍රේල් 13 වැනි දින Chomium ව්‍යාපෘතිය පාදක කරගෙන නිර්මාණය කළ මේ අලුත් Edge browser එක cumulative monthly security patch එකක් හරහා Windows 10 ස්ථාපනය කර ඇති පරිගණක සියල්ලටම නිකුත් කරනු ඇති අතර, ඒ සමඟින් පැරණි Edge browser එක සම්පූර්ණයෙන්ම Windows 10 පරිගණක වලින් ඉවත් කර දැමීමට කටයුතු කෙරෙනවා.\n\nමේ සමඟින් Microsoft සමාගම විසින් 2019 වර්ෂයේදී එළිදැක්වීමට කටයුතු කළ ඔවුන්ගේ EdgeHTML rendering engine එක Windows Apps වලට පමණක් සීමා වන අතර, Edge Browser එක සඳහා ප්‍රධාන වශයෙන්ම Google සමාගමේBlink rendering engine එකභාවිතා කරනු ඇත.\n\nමේ වන විටත් ඔබගේ Windows 10 පරිගණකයේ Chromium පාදක කරගත් අලුත් Edge browser එක install කර ඇත්නම්, පෙර කී update එක හරහා පැරණි Edge browser එක් ඉවත් කිරීම පමණක් සිදු කරනු ඇති බව ද Microsoft සමාගම ප්‍රකාශ කර සිටිනවා.",
+  "category": "microsoft",
+  "date": "2021-02-07",
+  "extraction_timestamp": "2026-02-20T12:07:53.371394",
+  "headline": "අප්‍රේල් 13 වැනි දින පැරණි Edge Browser එක Windows 10 පරිගණක වලින් uninstall කිරීමට Microsoft සමාගම තීරණය කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-will-uninstall-its-old-edge-browser-from-windows-pcs-on-april-13th/",
+  "word_count": 203
+}

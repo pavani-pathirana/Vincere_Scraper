@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය සති කිහිපය තුලදී සිදු වූ සිදුවීම් කිහිපයක් මුල් කරගෙන ප්‍රසිද්ධ virus guard ද්විත්වයක් වනAvastසහAVGවලට අදාල Chrome Extensions තහනම් කිරීමට මේ වන විට Google සමාගම කටයුතු කර තිබෙන බව වාර්ථා වෙනවා.\n\nAdblock Plus extension එකෙහිනිර්මාතෘ වනWladimir Palantවිසින් සිදු කරනු ලැබූ හෙළිදරව්වකට අනුව ඉහත සඳහන් කළ extension ද්විත්වය හරහාම අදාල පරිශීලකයන්ගේ browsing habits, එහෙමත් නැතිනම් අන්තර්ජාලය භාවිතා කරන ආකාරය පිළිබඳව වන තොරතුරු එකතු කරනු ලබන බව වාර්ථා වී තිබෙනවා.\n\nමේ තොරතුරු අතරට ඔබ web browser එක open කළ වාර ගණන, යම්කිසි වෙබ් අඩවියක ගත කළ කාලය, යම්කිසි tab එකක ඔබ click කළ වාර ගණන වැනි තොරතුරු අන්තර්ගත වන බවත් මෙම තොරතුරු අදාල browsing session එක ප්‍රතිනිර්මාණය කිරීම සඳහා භාවිතා කරනු ලබන බවත් ඔහු පෙන්වා දෙනවා.\n\nඑමෙන්ම මෙලෙස පරිශීලක දත්ත එකතු කිරීම Google සහ Mozilla නීති වලට පටහැනි වන බවත් ඔහු වැඩිදුරටත් පෙන්වා දී ඇති අතර මේ අනුව යමින් Opera, Mozilla සහ මේ වන විට Google සමාගම ද මේ extensions තහනම් කිරීමට කටයුතු කර තිබෙනවා.\n\nකොහොම වුණත් දැනටමත් මේ extension එක install කරගෙන සිටින්නන්ගේ දත්ත සුපුරුදු පරිදි සටහන් කරගැනීමට එම සමාගම් වලට තවමත් හැකියාව ඇති අතර, අදාල දුර්වලතා මගහරවාගෙන update එකක් නිකුත් කළ සැනින් නැවතත් එම extensions, Chrome Web Store එක හරහා download කරගැනීමේ හැකියාව ලැබෙනු ඇති.",
+  "category": "security",
+  "date": "2019-12-18",
+  "extraction_timestamp": "2026-02-20T12:10:06.890254",
+  "headline": "පරිශීලක දත්ත එකතු කිරීම නිසාවෙන් Chrome Web Store එකෙන් Avast සහ AVG Extensions ඉවත් කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/google-bans-avast-extensions-for-google-chrome-due-to-user-data-collection/",
+  "word_count": 195
+}

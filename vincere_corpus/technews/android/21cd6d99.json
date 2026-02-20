@@ -1,0 +1,13 @@
+{
+  "body": "WhatsApp සමාගම විසින් මෑතකදීGoogle Play Beta Program එක හරහානව update එකක් ලබාදීමට කටයුතු කර ඇති අතර එමගින් WhatsApp ඔස්සේ ඉදිරියේදී ලබාදීමට නියමිත නව විශේෂාංග කිහිපයක් අනාවරණය කරගැනීමටWABetaInfo වෙබ් අඩවියසමත් වී තිබෙනවා.\n\nWABetaInfo වෙබ් අඩවිය විසින් පෙන්වාදෙන ආකාරයට, WhatsApp සමාගම නව WhatsApp 2.20.203.3 version එකත් සමග නව විශේෂාංග කිහිපයක් හඳුන්වාදීමට කටයුතු කරමින් සිටින අතර එම නව විශේෂාංග අතරට Biometric Lock සහ Join Missed Call යන විශේෂාංගයන්ද ඇතුළත් වෙනවා.\n\nJoin Missed Call විශේෂාංගය මගින් ඔබගේ contacts වල සිටින අයෙකු ඔබව group call එකකට සම්බන්ධ කරගතහොත් සහ ඔබට ඒ මොහොතේ එම call එකට සම්බන්ධ වීමට නොහැකි නම්, ඊළඟ වතාවේ ඔබ WhatsApp app එක විවෘත කරන විට, එම call එක අවසන් නොමැති නම් ඔබට එම call එකට සම්බන්ධ වීමට හැකියාව ලැබෙනවා.\n\nමෙලෙස එකතු වන තවත් නව විශේෂාංගයක් වන්නේ Biometric Lock පහසුකම වන අතර මෙය WhatsApp හි fingerprint lock පහසුකම සඳහා නව වැඩිදියුණු කිරීමක් ලෙස ලබාදෙනු ඇතැයි අපේක්ෂා කරනවා.\n\nමෙම පහසුකම හරහා ඔබගේ Android උපාංගයේ fingerprint sensor එකක් නොමැති වුවද, එහි face recognition system එකක් තිබේ නම්, ඔබට fingerprint lock විශේෂාංගය වෙනුවට face recognition හරහා ඔබගේ WhatsApp chats ආරක්ෂා කරගැනීමට හැකියාව තිබෙනවා.\n\nකෙසේවෙතත්, මෙම විශේෂාංග තවමත් සංවර්ධනය වෙමින් පවතින බැවින්, මේවා WhatsApp beta පරිශීලකයන් සඳහා හෝ stable release එකක් ලෙස ලබා ගත හැකි කාලවකවානුවක් පිළිබඳව තොරතුරු තවමත් දැනගැනීමට හැකියාවක් ලැබෙන්නේ නැහැ.",
+  "category": "android",
+  "date": "2020-10-24",
+  "extraction_timestamp": "2026-02-20T12:08:02.090119",
+  "headline": "Android භාවිතා කරන WhatsApp පරිශීලකයන් සඳහා Biometric Lock සහ Join Missed Call ඇතුළු නව පහසුකම් කිහිපයක් ලබාදීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/biometric-lock-join-missed-call-feature-spotted-on-latest-whatsapp-beta-for-android/",
+  "word_count": 206
+}

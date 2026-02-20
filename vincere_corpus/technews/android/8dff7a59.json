@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය පැය කිහිපය තුළ Android apps බොහොමයක් හදිසියේම crash වීමට පටන් ගෙන ඇති අතර, පරිශීලකයින් ඒවා open කිරීමට උත්සාහ කරන විට “keep closing” යනුවෙන් warning message එකක් පෙන්වනු ලැබූ බව ලොව පුරා Android පරිශීලකයින් විසින් වාර්තා කරනු ලැබුවා.\n\nTwitter සහReddit forums තුළද මෙම apps crash වීම පිළිබඳව වාර්තා කරන අතර DownDetector වෙබ් අඩවියටද Gmail සහ Amazon සඳහා වන outage reports වල විශාල වැඩිවීමක් පෙන්නුම් කරනවා.\n\nකෙසේවෙතත්, මෙහිදී Desktop Gmail Web interface එකට සහ Google Workspace services වලට බලපෑමක් නැති බවද වාර්තා වෙන අතර මෙම ගැටළුව පැන නැගුනේ Android WebView එක වෙත පැමිණි update එකකින් බව Google සමාගම විසින් පිළිගෙන තිබෙනවා.\n\nAndroid System WebView යනු app සංවර්ධකයින්ට ඔවුන්ගේ apps තුළ web pages පෙන්වීමට ඉඩ දෙන system component එකක් වන අතර එය සෑම Android device එකකම පාහේ pre-installed ලෙස පැමිණෙන අතර එය නවතම ආරක්ෂණ වැඩි දියුණු කිරීම් සහ නිවැරදි කිරීම් සමඟ නිරන්තරයෙන් Play Store හරහා update වෙනවා.\n\nමෙලෙස ලබාදුන් දෝෂ සහිත update එකක් හේතුවෙන් WebView component හි යම් ගැටළුකාරී තත්වයක් ඇති අතර,මෙම ගැටළුව මේ වන විට නිරාකරණය කිරීමට Google සමාගම කටයුතු කර තිබෙන බවඔවුන් වාර්තා කර සිටිනවා.\n\nඔබත් මෙම ගැටලුවෙන් පීඩාවට පත් වී ඇත්නම්, Play Store වෙත ගොස්Android WebViewඑකට ලබාදී ඇති අලුත්ම update එක install කිරීම මගින් මෙම ගැටළුව විසඳාගැනීමට හැකියාව තිබෙනවා.",
+  "category": "android",
+  "date": "2021-03-23",
+  "extraction_timestamp": "2026-02-20T12:06:46.464151",
+  "headline": "Android System WebView එක නිසා බොහෝමයක් Android Apps crash වුණු ගැටලුව නිරාකරණය කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/android-apps-like-gmail-are-crashing-and-webview-is-to-blame/",
+  "word_count": 200
+}

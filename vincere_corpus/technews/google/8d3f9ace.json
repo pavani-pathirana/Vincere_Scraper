@@ -1,0 +1,13 @@
+{
+  "body": "Google Tasks වසර ගණනාවක් තිස්සේ Gmail හි කොටසක් ලෙස පැවතුන අතර 2018 වසරේදී එහි mobile app එකක් නිකුත් කිරීමට Google සමාගම කටයුතු කරනු ලැබුවා. එතැන් සිට, අඛණ්ඩව Google Tasks සඳහා නව විශේෂාංග ගෙන එමින් එය වැඩි දියුණු කිරීමට Google සමාගම කටයුතු කල අතර ඒ අතරින් ඇතැම් integration පිළිබඳව අප ඔබව දැනුවත් කිරීමටද කටයුතු කරනු ලැබුවා.\n\nMultiple task lists සැකසීම සඳහා Google Tasks දැනටමත් සහාය දක්වන නමුත්, mobile app එක හරහා දැනට එම task list අතර මාරු වීමට අවම වශයෙන් taps දෙකක්වත් අවශ්‍ය වෙනවා.\n\nකෙසේ වෙතත්, පහසුවෙන් task list අතර මාරු වීම සඳහා Google Task app එකට tab bar එකක් එක් කිරීමට Google සමාගම කටයුතු කරමින් සිටින අතර ඒ හරහා ඔබට අවශ්‍ය tab එක මත tap කිරීම හෝ swipe කිරීම මගින් පහසුවෙන්ම task list අතර මාරු වීමට ඔබට හැකියාව තිබෙනවා.\n\nමෙම redesign එක මේ වනවිටත්, Google Task පරිශීලකයන් හට ලබාදීම ආරම්භ කර ඇති අතර, එය ඉදිරි දින කිහිපය තුළදී සියලුම iOS සහ Android භාවිතා කරන Google Workspace, G-Suite Basic සහ Business පරිශීලකයන් වෙත ලබාගැනීමට හැකියාව ඇතැයි වාර්තා වෙනවා.",
+  "category": "google",
+  "date": "2021-08-15",
+  "extraction_timestamp": "2026-02-20T12:06:03.232120",
+  "headline": "Google Tasks වල list අතර පහසුවෙන් මාරු වීමට හැකි ලෙස redesign කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-tasks-now-organizes-your-lists-into-tabs/",
+  "word_count": 167
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් අලුතින් හඳුන්වාදෙන iCloud + subscription එක භාවිතා කරන්නන් හට ලබාදෙන VPN සේවාව, එනම් iCloud Private Relay සේවාවේ දුර්වලතාවයක් පිළිබඳව මේ වන විට වාර්තා වෙනවා.\n\nමෙම iCloud Private Relay සේවාව හඳුන්වාදීමේ මූලික අරමුණ ලෙස Apple සමාගම පෙන්වා දුන්නේ අන්තර්ජාලය තුලදී පරිශීලකයාගේ අනන්‍යතාවය ආරක්ෂා කරගනිමින් කටයුතු කිරීමේ හැකියාව ලබාදීම වුවත්, මෙම සේවාව භාවිතා කිරීමේදී අදාල පරිශීලකයාගේ සැබෑ IP Address එක ඉතාමත් පහසුවෙන් ලබාගත හැකි බව security researcher වරුන් පෙන්වා දෙනවා.\n\niCloud Private Relay සේවාවTor networkඑකේ සරළ implementation එකක් ලෙස පෙන්වාදිය හැකි අතර, මෙම පහසුකම ලබාදීම සඳහා පරිශීලකයාගේ internet traffic එක proxy දෙකක් හරහා යැවීමට කටයුතු කරනවා.\n\nකොහොම නමුත් web browsers සහ mobile app සඳහා realtime communication හැකියාව ලබාදෙන API එකක් වන WebRTC, එහෙමත් නැතිනම් Web Real-Time Communication API එක හරහා මෙම iCloud Private Relay සේවාව භාවිතා කරන පරිශීලකයින්ගේ සැබෑ IP Address එක ඉතාමත් පහසුවෙන් ලබාගත හැකි බව FingerprintJS ආයතනයේ පරීක්ෂකයෙකු වන Sergey Mostsevenko පෙන්වා දෙනවා.\n\nමේ අනුව සරළ web app එකක් පමණක් භාවිතා කරමින් iCloud Private Relay එක භාවිතා කර පරිශීලකයින්ගේ සැබෑ IP Address එක අනාවරණය කරගැනීමට හැකියාව ඇති බව පෙන්වාදෙන මොවුන් මේ පිළිබඳව මේ වන විටත් Apple සමාගම දැනුවත් කිරීමටත් කටයුතු කර තිබෙනවා.\n\nApple සමාගම විසින් මේ වන විටත් macOS Monterey සංස්කරණයේ අලුත්ම beta සංස්කරණය සඳහා මෙම ගැටළුවට patch එකක් නිකුත් කිරීමට කටයුතු කර ති‍බුණත්, මේ දක්වා iOS 15 සංස්කරණය සඳහා patch එකක් නිකුත් කිරීමට කටයුතු කර නැහැ.\n\niCloud Private Relay එක VPN සේවාවක් සඳහා alternative එකක් නොවන බවත්, තම IP Address එක අනාවරණය වීම පිළිබඳව සැලකිළිමත් වන්නේ නම්, Web Browser එකේ Javascript disable කර, සැබෑ VPN සේවාවක් හෝ Tor network එක භාවිතා කළ යුතු බවත් The Hacker News වෙබ් අඩවිය පෙන්වා දෙනවා.",
+  "category": "security",
+  "date": "2021-09-25",
+  "extraction_timestamp": "2026-02-20T12:05:30.099547",
+  "headline": "Apple සමාගමේ iCloud Private Relay සේවාව භාවිතයේදී පරිශීලකයාගේ සැබෑ IP Address එක අන්තර්ජාලයට නිරාවරණය වන බව හඳුනාගැනෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/apples-new-icloud-private-relay-service-leaks-users-real-ip-addresses/",
+  "word_count": 265
+}

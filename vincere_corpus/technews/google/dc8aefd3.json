@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින් Google meet වෙත වැඩි අවධානයක් ලබා දී ඇති නිසා Google Duo සේවාව තරමක් නොසලකා හැර ඇති බවක් දැකගැනීමට හැකි වූ අතර Google සමාගම විසින් Google Duo වෙනුවට Google Meet සේවාව ආදේශ කරනු ඇතැයි කටකතාද පසුගිය කාලයේදී දැකගැනීමට හැකිවුණා.\n\nනමුත් Google සමාගම විසින් මේ වනවිට, නව විශේෂාංගම ලබාදෙමින් Google Duo සේවාව වැඩි දියුණු කිරීමට කටයුතු කරමින් ඇති අතර මේ වනවිට Duo app එක සඳහා සරල UI එකක් හඳුන්වාදීමටද කටයුතු කර තිබෙනවා.\n\nRedesign කරන ලද නව homescreen UI එක මඟින් homescreen එකෙහි “New Call” button එකක් හඳුන්වා දී ඇති අතර එමඟින් පරිශීලකයින් හට නව ඇමතුමක් ලබාගැනීමට, group එකක් create කිරීමට, groups සහ contacts lists බැලීමට මෙන්ම Google Home devices වලට ඇමතීමටද හැකියාව හිමි වෙනවා.\n\nමෙම වෙනස්කමේ කොටසක් ලෙස, ඇතැම් විශේෂාංග නැවත ස්ථානගත කර ඇති අතර උදාහරණයක් ලෙස, create new groups option එක “New Call” button එක යටතට ගෙන ගොස් තිබෙනවා - මීට පෙර ඒ සඳහා homescreen එකෙහි විශේෂිත button එකක් දැකගැනීමට හැකියාව ලැබුණා.\n\nඑමෙන්ම, පවතින groups සහ contacts ආදිය දැන් search bar එකෙන් සහ New Call button එක හරහා සොයාගැනීමට හැකියාව තිබෙන අතර සමස්තයක් ලෙස ගත් කල, නව UI එක මඟින් සියලුම අත්‍යාවශ්‍ය features එක් ස්ථානයකින් access කිරීමේ හැකියාව ලබා දී තිබෙනවා.\n\nමෙම නව UI එක දැනටමත් ඇතැම් පරිශීලකයන් හට ලැබී ඇති අතර Google සමාගම පවසන්නේ නව UI එක ඉදිරි සති කිහිපය තුළදී සියලුම Google Duo පරිශීලකයන් හට ලබා දෙන බවයි.",
+  "category": "google",
+  "date": "2021-07-24",
+  "extraction_timestamp": "2026-02-20T12:06:16.697117",
+  "headline": "Google Duo සඳහා වඩාත් සරල homescreen UI එකක් හඳුන්වාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-duo-is-rolling-out-a-simpler-homescreen-ui/",
+  "word_count": 222
+}

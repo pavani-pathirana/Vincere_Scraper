@@ -1,0 +1,13 @@
+{
+  "body": "ජනප්‍රිය Firefox web browser එක පිටුපස සිටින Mozilla Foundation එක විසින් පසුගිය වසරේ සිටම තමන්ගේම paid VPN සේවාවක් හදුන්වාදීම සඳහා වැඩකටයුතු කරමින් සිටිනු ලැබුවා.\n\nFirefox Private Network ලෙස හැදින්වූ එම සේවාව පසුගිය වසරේ සිය beta සංස්කරණය දියත් කරන ලද්දේ Firefox web browser එකෙහි desktop version එක සඳහා browser extension ලෙස වන අතර එය මේ වසරේ පෙබරවාරි මාසයේදී Android app එකක් ලෙස දියත් කරන ලදී.\n\nදැන් මෙම සේවාව Mozilla VPN ලෙස නැවත නම් කිරීමට Mozilla ආයතනය සැලසුම් කර ඇති අතර ඉදිරි සති කිහිපය තුළ Android, iOS, Windows, ChromeOS, macOS සහ Linux යන platforms සඳහා system-wide VPN සේවාවක් ලෙස මෙය දියත් කිරීමට නියමිත බව වැඩිදුරටත් ප්‍රකාශ කර සිටිනවා.\n\nMozilla blog එකට අනුවමේ Mozilla VPN එකේ system-wide සංස්කරණය Windows, Android සහ iOS ඇතුළු උපාංග පහක් දක්වා මසකට $4.99 යන මිළ යටතේ භාවිතා කිරීමට අවස්ථාව ඇති අතර මෙහි Browser extension එක සඳහා මසකට $2.99 ක් නියම කර තිබෙනවා.\n\nFirefox Private Network ලෙස වර්තමානයේ පවතින මෙම සේවාව Mullvad VPN නම් වූ සේවාව විසින් බලගැන්වෙන අතර ඔවුන් හට රටවල් 30 කට වැඩි ගණනක servers ඇති බවත්, එය OpenVPN වැනි සාම්ප්‍රදායික ප්‍රමිතීන්ට සාපේක්ෂව වැඩි privacy එකක් සහ වඩා හොඳ තත්ත්වයේ performance එකක් ලබා දෙනWireGuardප්‍රමිතිය මත ක්‍රියාත්මක වන බව XDA-Developers වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nකොහොම නමුත් Opera වැනි වෙනත් web browser නිර්මාණකරුවන් මෙන් Mozilla VPN සේවාව නොමිලේ ලබා නොදෙන අතර paid service එකක් මඟින් පරිශීලකයින්ගේ දත්ත වලින් ලාභ නොලබමින් සේවාව දිගටම ලබා දීමට ඉඩ ලැබෙන බව Mozilla ආයතනය පෙන්වා දෙනවා.\n\nඔබටත් මෙහි beta tester කෙනෙකු වීමට හෝ ඔබේ region එකට මෙම සේවාව ලබා ගැනීමට අවශ්‍ය නම්මෙම පිටුවටලියාපදිංචි වීමෙන් waitlist එකට සම්බන්ධ විය හැකිය.",
+  "category": "technology",
+  "date": "2020-06-21",
+  "extraction_timestamp": "2026-02-20T12:12:35.227764",
+  "headline": "Firefox Private Network එක Mozilla VPN ලෙස rebrand කර system-wide VPN සේවාවක් ලෙස නිකුත් කිරීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/mozilla-to-launch-vpn-product-in-the-next-few-weeks/",
+  "word_count": 255
+}

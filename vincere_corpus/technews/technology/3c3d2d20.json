@@ -1,0 +1,13 @@
+{
+  "body": "ලොව පුරා 5G සේවා දිනෙන් දින වේගයෙන් ව්‍යාප්ත වෙමින් පවතින අතර ජංගම දුරකථන දුරකථන නිෂ්පාදකයින් ද 5G තාක්ෂණය සහිත උපාංග වෙළඳපොළට හඳුන්වා ටිකෙන් ටික වැඩි කරමින් සිටිනවා.\n\nමේ නිසා 5G Chip සඳහා ඇති ඉල්ලුම ද දිනෙන් දින වැඩි වෙමින් පවතින අතර ප්‍රසිද්ධ semiconductor chip නිෂ්පාදකයෙකු වන MediaTek සමාගම පවසන්නේ මෙම වසරේ ඔවුන්ගේ 5G Chip ඉල්ලුම මිලියන 80 ඉක්මවනු ඇති බවත්, එය ගෝලීය 5G Chip වෙළඳපොල තුළ 40% ක හිමිකාරත්වයක් වනු ඇති බවත් ය.\n\nMediaTek සමාගම සතුව දැනට Dimensity 1000, 800, 820 යන 5G chip series ඇති අතර MediaTek මෙන්ම Qualcomm සමාගම ද මෑතකදී Mid-range දුරකථන සඳහාද සහය දක්වන 5G chipset දෙකක් (700 සහ 600 series) නිකුත් කරන්නට කටයුතු කලා.\n\nMediaTek Dimensity 1000 යනු දැනට MediaTek සමාගමේ ඇති හොඳම 5G chipset එක වන අතර එය SA සහ NSA dual-mode 5G networks, 5G+5G dual-card dual standby තාක්ෂණයට හා 5G dual-carrier aggregation තාක්ෂණයද සහය දක්වනවා.\n\nඑමෙන්ම එය 144Hz Refresh Rate සහිත උපාංග වලටද සහය දැක්වීම මෙන්ම තවත් විශේෂතා රැසක් මෙම chipset එකේ අන්තර්ගත වන අතර Xiaomi සමාගම සිය අනාගත Flagship උපාංග සඳහා මෙම 5G chipset එක භාවිතා කරන්නට සූදානමින් සිටින බවක් ද වාර්ථ‍ා වෙනවා.\n\nDimensity 800 chipset එක ද මීට ආසන්න හැකියාවන්ගෙන් යුක්ත 5G chipset එකක් වන අතර මෙම Dimensity 1000 හා Dimensity 800 යන chipset දෙකම independent AI processor (APU) 3.0 සමඟ four-core කේන්ද්‍රීය architecture එකකින් සමන්විත වනවා.\n\nඑයට තත්පරයට ට්‍රිලියන 2.4 ක තරම් විශාල ප්‍රමාණයක ගණනය කිරීමක් සිදු කල හැකියාව ඇති බව ද වාර්ථා වෙනවා.",
+  "category": "technology",
+  "date": "2020-06-20",
+  "extraction_timestamp": "2026-02-20T12:12:49.806654",
+  "headline": "මෙම වසර අවසාන වීමට ප්‍රථමව 5G chips මිලියන 80ක් අලෙවි කිරීමට MediaTek සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/mediatek-to-ship-over-80-million-5g-chips-this-year/",
+  "word_count": 234
+}

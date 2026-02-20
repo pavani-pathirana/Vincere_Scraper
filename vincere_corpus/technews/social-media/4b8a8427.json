@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය ජුනි මාසයේදී iOS පරිශීලකයන් සඳහා audio tweets විශේෂාංගය නිකුත් කිරීමෙන් පසුව, Twitter සමාගම විසින් දැන් direct messages හරහා voice messages send කිරීමට හැකියාව ලබාදෙන නව විශේෂාංගයක් අත්හදා බැලීමට කටයුතු කරමින් සිටිනවා.\n\nTwitter හි direct messages සඳහා product manager ලෙස කටයුතු කරනු ලබන Alex Ackerman-Greenberg විසින් ප්‍රකාශ කරන ආකාරයට, Twitter සමාගම ඉක්මනින්ම voice DMs පරීක්‍ෂා කිරීමට සූදානම් වනු ඇති අතර, voice DMs විශේෂාංගය පරීක්ෂා කිරීම සඳහා තෝරාගන්නා පළමු රට බ්‍රසීලය වනු ඇත.\n\nVoice message එකක් තත්පර 20 ක කාලසීමාවක් දක්වා record කිරීමට හැකියාව ඇති අතර ලැබුණු messages control කිරීම සඳහා සරල play/pause button එකක් ද ලබා දී තිබෙනවා.\n\nTwitter නිෂ්පාදන කණ්ඩායම පවසන්නේ Twitter conversations වඩාත් ස්වාභාවික කිරීමට මේ සඳහා “in-line recording experience එකක්” නිර්මාණය කර ඇති බව වන අතර මෙම voice DMs විශේෂාංගය යම් පුද්ගලයෙකු විසින් අනිසි ලෙස භාවිතා කරන්නේ නම් ඒ පිළිබඳව වාර්තා කිරීමට “report message” option එකක් ද මෙයට අන්තර්ගත වෙනවා.\n\nTwitter සමාගම විසින් මේ වසරේදී audio tweets හඳුන්වාදීම පිළිබඳව දැඩි විවේචනයට ලක්වූ අතර, බොහෝ දුරට එයට හේතුව වූයේtweet සඳහා accessibility options නොමැති වීමයි.\n\nකෙසේ වෙතත්, මෙම විශේෂාංගය මහජනයාට හඳුන්වාදීමට පෙර accessibility team එකෙහි සහාය ඇතිව audio tweets පහසුකම පිළිබඳව නැවත සිතා බලන බව ද සමාගම වැඩිදුරටත් පවසනවා.\n\nTwitter සඳහා මෙම විශේෂාංගය නැවුම් අත්දැකීමක් වුවද, Messenger සහ Instagram වැනි platforms වල දැනටමත් DMs සඳහා audio recording විශේෂාංගයක් අන්තර්ගත වෙනවා.",
+  "category": "social-media",
+  "date": "2020-09-25",
+  "extraction_timestamp": "2026-02-20T12:11:03.835737",
+  "headline": "Twitter mobile apps වෙත ලබාදීමට නියමිත Voice DM පහසුකම පරීක්ෂා කිරීම ආරම්භ කරයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/twitter-to-start-testing-voice-dms/",
+  "word_count": 211
+}

@@ -1,0 +1,13 @@
+{
+  "body": "පසුගියදා Apple සමාගම විසින් ඔවුන්ගේ iOS 14 සංස්කරණයේ stable version එකක් iPhone 6s සහ එයින් පසුව නිකුත් කළ සියළුම iPhone සඳහා නිකුත් කිරීමට කටයුතු කළ අතර, එහි ඇතුලත් වූ පහසුකම් අතරින් picture-in-picture mode එක ප්‍රධාන තැනක් හිමිකරගනු ලැබුවා.\n\nමේ picture-in-picture mode එක යනු වෙනත් කටයුත්තක් සිදු කරමින් සිටින අවස්ථාවකදී කුඩා window එකක් හරහා video එකක් නැරඹිය හැකි පහසුකමක් වන අතර ඒ පිළිබඳව අපි විස්තර වශයෙන්මෙම ලිපියෙහිසාකච්ඡා කර තිබෙනවා.\n\nකොහොම නමුත් මේ වන විට Safari web browser එක භාවිතා කරමින් YouTube වෙබ් අඩවිය හරහා video නැරඹීමේදී මේ PIP පහසුකම අවහිර කිරීමට Google සමාගම කටයුතු කර ඇති බව වාර්ථා වෙනවා.\n\niOS 14’s picture-in-picture mode doesn’t work with YouTube in Safari. 🤔pic.twitter.com/JwGLAmwhwb\n\nමීට හේතුව වන්නේ මේ PIP mode එකYouTube Premium සේවාවහරහා ලබාදෙනු ලබන පහසුකමක් වීම වන අතර දැනටමත් ඔබට YouTube Premium subscription එකක් ඇත්නම්, කිසිඳු බාධාවකින් තොරව එම පහසුකම භාවිතා කිරීමට ඔබට අවස්ථාව ලැබෙනවා.\n\nමීට අමතරව ප්‍රධාන YouTube වෙබ් අඩවිය හැර වෙනත් වෙබ් අඩවියක embed කර ඇති YouTube videos ද කිසිඳු බාධාවකින් තොරව මෙම PIP mode එක හරහා නැරඹීමේ හැකියාව තිබෙන බව MacRumors වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nඑමෙන්ම ඔබ free user කෙනෙකු හෝ YouTube Premium පරිශීලකයෙකු වුවත්, iPad එකක් භාවිතා කරන්නේ නම් එහි පවතින Safari browser එක හරහා ද මෙම පහසුකම කිසිඳු බාධාවකින් තොරව භාවිතා කළ හැකි බව වාර්ථා වෙනවා.\n\nකෙසේ නමුත් මේ පිළිබඳව Google සමාගම විසින් කිසිඳු ආකාරයක නිළ නිවේදනයක් හරහා තහවුරු කිරීමක් සිදු කර නොමැති අතර, මෙය හිතාමතා සිදු කරන ලද්දක් ද, එසේ නැතිනම් කිසියම් වූ දෝශයක් නිසා සිදු වුවක් ද යන්න පිළිබඳව තවමත් ගැටළුවක් පවතිනවා.",
+  "category": "google",
+  "date": "2020-09-20",
+  "extraction_timestamp": "2026-02-20T12:09:54.896742",
+  "headline": "iOS 14 වල picture-in-picture mode එක YouTube වෙබ් අඩවියේදී භාවිතා කිරීමේ හැකියාව අවහිර කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/youtubes-website-now-blocks-ios-14s-picture-in-picture-mode-unless-you-pay-for-premium/",
+  "word_count": 245
+}

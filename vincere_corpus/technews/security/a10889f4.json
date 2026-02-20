@@ -1,0 +1,13 @@
+{
+  "body": "අප දැනට භාවිතා කරනු ලබන online account වලට log විමට password භාවිතා කිරීම කරදරකාරී මෙන්ම phishing attacks වැනි දේ හේතුවෙන් අද වන විට ආරක්ෂිතභාවය අඩු ක්‍රමවේදයක්ද බවට පත්ව තිබෙනවා.\n\nමේ සඳහා භාවිතා කළ හැකි එක විකල්පයක් වනුයේ ඔබව හඳුනා ගැනිම සඳහා ඔබ සතුව ඇතිhardware key එකක්(USB මගින් සම්බන්ධ වන උපකරණයක්) භාවිතා කිරීම වන නමුත් මෙයද web login සඳහා වඩා ප්‍රායෝගික ක්‍රමයක් නොවන බව ඔබටම වැටහෙනවා ඇති.\n\nමේ සඳහා වඩා ප්‍රායෝගික ක්‍රමයක් ලෙස hardware keys වෙනුවට ඔබගේ biometrics භාවිතා කිරීමට තාක්ෂණික ආයතන පෙළඹී තිබෙන අතර මෙම පහසුකම ප්‍රායෝගිකව යොදාගනිමින් Google සමාගම 2019 වසරේ Android සඳහා වූ chrome browser එක මඟින්Google සේවාවන් සඳහා login වීමට fingerprint එක භාවිතා කිරීමේ හැකියාව ලබාදීමට කටයුතු කරනු ලැබුවා.\n\nApple සමාගම මෙම පහසුකම login වීම සඳහා ලබා නොදුන් නමුත් මේ දක්වා login අවස්ථාවලදී username එක සහ password එක autofill කිරීමටTouch IDසහFace IDඑක භාවිතා කිරීමේ හැකියාව ලබා දී තිබුණා.\n\nකොහොම නමුත් මෙවර ඉන් ඔබ්බට යමින්, නවතමiOS 14සහmacOS Big Surයන OS සංස්කරණ ද්විත්වය සමඟ හඳුන්වාදෙන Safari 14 web browser මඟින් මෙම තාක්ෂණය සඳහා සහාය දක්වන ඕනෑම website එකකට login වීම සඳහා, Password වෙනුවට සෘජුවම Touch ID සහ Face ID පහසුකම භාවිතා කිරීමේ හැකියාව මෙම වසර අග භාගයේදී ලබාදීමට සූදානම් බව Apple සමාගම පවසනවා.\n\nමේ වන විටත් Safari හි beta release notes එකේ මෙම feature එක පිළිබඳව තහවුරු කිරීමක් කර ඇති අතර developer වරුන් වෙනුවෙන් වුණුWWDC event එකේ video එකකමෙම feature එක ක්‍රියා කරන ආකාරය Apple සමාගම විසින් සවිස්තරාත්මකව දක්වා ති‍බෙනවා.\n\nකෙසේ වෙතත් මෙම පහසුකම ලබා දීම සඳහා අදාල website එකට එහි developer වරුන් විසින් මෙයට ගැලපෙන ලෙස සකස් කළ යුතු වන අතර ඒ සඳහා මෙම Safari web browser එකෙහි සහාය දැක්වීම විශාල පිටුවහලක් සහ පෙළඹවීමක් ඇති කරනු ඇතැයි Apple සමාගම බළාපොරොත්තු වෙනවා.",
+  "category": "security",
+  "date": "2020-06-27",
+  "extraction_timestamp": "2026-02-20T12:08:39.081251",
+  "headline": "මෙම වසර අගදී Safari හරහා Password නොමැතිව වෙබ් අඩවි වලට login වීම සඳහා FaceID සහ TouchID භාවිතා කිරීමේ හැකියාව ලබාදීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/safari-to-support-password-less-logins-via-face-id-and-touch-id/",
+  "word_count": 273
+}

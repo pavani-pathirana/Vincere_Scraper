@@ -1,0 +1,13 @@
+{
+  "body": "Gmail එක අළුතින් re-design කිරීමත් එක්ක නොයෙක් ආකාරයේ පහසුකම් Gmail එකට එකතු වුණු බව මේ වෙනකොට හැමෝම වගේ දන්නවා.\n\nමේ අලුතින් එකතු වුණු පහසුකම් අතර side panel එකට හිමි වෙන්නේ විශේෂ තැනක්. ඔයා Google Keep, Tasks වගේ අනෙකුත් සේවාවන් භාවිතා කරන කෙනෙක් නම් මෙහි වටිනාකම කියලා නිම කරන්න බැහැ.\n\nඔන්න දැන් මේ side panel එක G-suite එකට අයිති Docs, Sheets, Slides, සහ Drawings ඇතුළු අනෙකුත් apps වලටත් එකතු කරන්න Google සමාගම කටයුතු කරලා තියනවා.\n\nමේ අනුව දැන් ඔයා Google Doc එකක් edit කර කර ඉන්න ගමන්ම, තමන්ගේ notes ටික බලන්න අළුත් tab එකකින් Google Keep open කරන්න ඕන වෙන්නේ නැහැ. ඒ වගේම Calendar එකේ appointment එකක් දාන්න වෙනම tab එකක Google Calendar open කරන්න ඕන වෙන්නෙත් නැහැ.\n\nකොහොම වුණත් සමහර භාවිතා කරන්නන් මේ අලුත් පහසුකමට ඒ තරම් කැමැත්තක් දක්වන්නේ නැහැ. එවැනි අවස්ථාවට මේ side panel එක minimize කරන්න පුළුවන් විදිහට නිර්මාණය කරන්නත් Google සමාගම කටයුතු කරලා තිබෙන අතර මීළඟ සති දෙක ඇතුලත සියළුම G-suite භාවිතා කරන්නන්ට මේ පහසුකම් ලබා දෙන්නට Google සමාගම බළාපොරොත්තු ‌ වෙනවා.",
+  "category": "google",
+  "date": "2018-08-25",
+  "extraction_timestamp": "2026-02-20T12:23:10.507436",
+  "headline": "අළුත් Gmail එකට එකතු වුණු side panel එක අනෙකුත් G-Suite apps වලටත් එකතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-is-bringing-the-redesigned-gmails-side-panel-to-other-g-suite-apps/",
+  "word_count": 165
+}

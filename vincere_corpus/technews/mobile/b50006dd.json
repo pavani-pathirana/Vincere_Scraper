@@ -1,0 +1,13 @@
+{
+  "body": "OnePlus 8 Pro ජංගම දුරකථන වල default camera app එකෙහි filter එකක් මඟින් සිහින් ප්ලාස්ටික් සහ රෙදි හරහා දැකගැනීමට හැකියාව ලැබුණු බව මින් පෙර ලිපියකින් අපි ඔබව දැනුවත් කලා මතක ඇති.\n\nමෙය මහජනයාගේ අවධානයට ලක්වීමත් සමඟ OnePlus සමාගම විසින් chinese සහ global යන variants දෙකෙහිම devices වලින් updates හරහා Photochrom mode එක අක්‍රීය කිරීමට කටයුතු කරනු ලැබූ අතර, අවසානයේ දීOxygenOS 10.5.10 update එක සමඟcolor filter එකෙහි ගැටළු නිරාකරණය කිරීමට ද කටයුතු කරනු ලැබුවා.\n\nකොහොම නමුත් කිසියම් හේතුවක් නිසා මෙය ඔබට භාවිතා කිරීමට අවශ්‍ය නම් තවමත් එය ADB command එකක් හරහා ප්‍රවේශ විය හැකි බවXDA Member කෙනෙකු විසින් XDA-Developers forum එක හරහාපෙන්වා දී තිබෙනවා.\n\nඔබ OnePus 8 Pro භාවිතා කරන්නෙකු නම් සහ disable කරන ලද camera mode එක භාවිතා කිරීමට අවශ්‍ය නම් පහත දැක්වෙන ADB commands ක්‍රියාත්මක කිරීමෙන් ඔබට එයට තවමත් ප්‍රවේශ විය හැකි බව ඔහු විසින් වැඩිදුරටත් සඳහන් කරනු ලබනවා.\n\nමෙම commands මඟින් Factory Mode app එක launch කරනු ලබන අතර ඉන් පසුව පහළ දකුණු කෙළවරේ ඇති camera switcher icon එක මගින් ඔබට දුරකථනයේ ඇති සියලුම camera අතර මාරු වීමට හැකියාව ලැබෙනවා.\n\nColor filter camera එක මෙහි number 4 ලෙස නම් කර ඇති බවත් ඔවුන් පෙන්වා දෙන අතර මෙම ක්‍රමය අනුගමනය කිරීම සඳහා ඔබගේ ජංගම දුරකථනය root කර තිබීම අවශ්‍යය නොවන බවත් ඔවුන් පෙන්වා දෙනවා.\n\nමෙය Factory Mode app එකෙහි කොටසක් බැවින් color filter camera එකට ප්‍රවේශ වීමේ මෙම ක්‍රමය OnePlus සමාගම විසින් අක්‍රීය කරනු ඇතැයි සිතීමට තරමක් අපහසු වන බව XDA-Developers වෙබ් අඩවිය අනුමාන කරනවා.",
+  "category": "mobile",
+  "date": "2020-07-19",
+  "extraction_timestamp": "2026-02-20T12:11:12.498230",
+  "headline": "OnePlus 8 Pro ජංගම දුරකථනයෙන් ඉවත් කෙරුණු ප්ලාස්ටික් සහ රෙදි හරහා දැකගැනීමේ හැකියාව ADB හරහා නැවත ලබාගත හැකි බව අනාවරණය වෙයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/the-color-filter-camera-of-oneplus-8-pro-can-be-accessed-via-an-adb-command/",
+  "word_count": 236
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Slack යනු teams අතර වැඩ කිරීම සඳහා ‍ලොව බොහෝ දෙනා භාවිතා කරනු ලබන best tools වලින් එකක් වන අතර මේ වන විට Android මගින් Slack භාවිතා කරන පරිශීලකයින් හ‍ට වඩාත් හොද experience එකක් ලබා දීම සඳහා අලුත් පහසුකම් කිහිපයක් beta සංස්කරණයක් හරහා පරීක්ෂා කරමින් පවතින බව වාර්ථා වෙනවා.\n\nපසුගිය වසර කිහිපය පුරාවට Slack සේවාවේAndroid appඑක සාම්ප්‍රදායික interface එකක් වූ නමුත් මේ වන විට නිකුත් කර ඇති Android Beta එක මඟින් ඔවුන් මේ UI එකෙහි විශාල වෙනස්කමක් සිදු කිරීමට කටයුතු කර තිබෙනවා.\n\nමේ අලුත් user interface එකට අමතරව ඇති පහසුකම් වලින් Bottom navigation bar එකක් හඳුන්වාදීමටත්, ඒ options අතර මාරු වීමට swipe gesture navigation එකක් හඳුන්වාදීමත් කැපී පෙනෙන අංගයන් වෙනවා.\n\nමේ වන විටත් මේ beta සංස්කරණය ඉතාමත් හොඳින් ක්‍රියාත්මක වන බව පරිශීලකයින් විසින් වාර්ථා කරන නමුත් මෙය stable සංස්කරණයක් ලෙස නිකුත් කරනු ලබන දිනයක් පිළිබඳව තවමත් වාර්ථා වන්නේ නැහැ.",
+  "category": "android",
+  "date": "2020-05-07",
+  "extraction_timestamp": "2026-02-20T12:12:29.647485",
+  "headline": "Slack Android Beta හරහා අලුත් UI එකක් සහ gesture navigation වැනි අංග අත්හදාබැලීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/slack-is-testing-a-cleaner-ui-with-swipe-gesture-navigation-in-the-latest-android-beta/",
+  "word_count": 138
+}

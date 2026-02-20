@@ -1,0 +1,13 @@
+{
+  "body": "මීට වසරකට පමණ පෙර Microsoft සමාගම විසින් Windows 10 මෙහෙයුම් පද්ධතියටWindows 10 Timeline පහසුකමඑකතු කරන්නට කටයුතු කළා මතක ඇති.\n\nමේ පහසුකම හරහා Windows, iOS සහ Android මතදී භාවිතා කරන Websites මේ Timeline එක හරහා පෙන්වීමට කටයුතු කලත්, මෙය භාවිතා කළ හැකි වූවේ අදාල platform එකට තිබෙනMicrosoft Edge Browser එකත්සමඟින් පමණක් වීම නිසා, මෙය එතරම් ජනප්‍රියත්වයට පත් වූයේ නැහැ.\n\nකොහොම නමුත් ඔන්න දැන්, Microsoft සමාගම විසින් Google Chrome Browser එක Windows Timeline එකට sync කිරීමේ පහසුකම ලබා දෙනWeb Activitiesනමින් හඳුන්වන අලුත් Chrome Extension එකක් හඳුන්වා දීමට කටයුතු කර තිබෙනවා.\n\nමේ අනුව ඔබ Chrome භාවිතා කරන ඕනෑම device එකකින් browser history එක ඔබගේ සෑම Windows 10 device එකකම Timeline එකත් සමඟ sync වෙනවා.\n\nබොහෝ වෙලාවට Browsing history එක කියන්නේ වෙන කෙනෙකු අතට පත් වෙන්නට හොඳ නැති දෙයක් නිසාවෙන් අපි බොහෝ දෙනෙක් ඒ ගැන වද වෙනවා. Microsoft සමාගම ප්‍රකාශ කරන ආකාරයට මේ extension එක හරහා අදාල දත්ත ඔවුන්ගේ servers වල ගබඩා කර නොගන්නා අතර, මේ වෙනුවෙන් Chrome වල තිබෙන පහසුකමක් ම භාවිතා කරමින් මෙම පහසුකම ක්‍රියා කරනවා.\n\nකොහොම වුණත්, තවමත් මේ ආකාරයේ extension එකක්Mozilla Firefoxවලට නිර්මාණය කර නොමැති අතර, ඔබ කැමති නම් Google Chrome සඳහාChrome Store එක හරහා මෙම extension එක download කරගත හැකි වෙනවා.",
+  "category": "microsoft",
+  "date": "2019-02-20",
+  "extraction_timestamp": "2026-02-20T12:11:38.938555",
+  "headline": "Windows 10 Timeline එකත් සමඟින් Chrome Browsing History එක Sync කරන Microsoft Web Activities",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-releases-web-activities-chrome-extension-to-sync-browsing-history-with-native-timeline/",
+  "word_count": 192
+}

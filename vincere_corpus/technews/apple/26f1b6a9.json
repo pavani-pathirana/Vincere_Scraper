@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් මෑතකදී උපාංග කිහිපයක් සඳහා iOS 15 හි පළමු developer beta update එක ලබාදීමට කටයුතු කළ අතර ඒ සමඟ නව විශේෂාංග සහ වෙනස්කම් රාශියක් ලබාදීමට ඔවුන් කටයුතු කර තිබුණා.\n\nඒ අතර, visual upgrades කිහිපයක් මෙන්ම, සැලකිය යුතු මට්ටමේ FaceTime improvements, iMessage සඳහා නව sharing options, redesign කරන ලද notifications ඇතුළුව තවත් බොහෝ දේ ඇතුළත් වූ අතර Apple සමාගම ඔවුන්ගේ WWDC 2021 keynote එක අතරතුර මෙම නව විශේෂාංග බොහොමයක් පිළිබඳව සාකච්ඡා කිරීමටද කටයුතු කරනු ලැබුවා.\n\nකෙසේ නමුත්, Apple සමාගම විසින් මෙම අවස්ථාව තුළ ඇතැම් විශේෂාංග පිළිබඳව ඉස්මතු කර නොමැති අතර iOS 15 සමඟ පැමිණෙන සියලුම නව විශේෂාංගයන් ඉස්මතු කරමින් Apple සමාගම විසින් පළ කර ඇති blog සටහනෙහි දැක්වෙන්නේ iOS 15 තුළ built-in authenticator එකක් ඇති බවත්, එමඟින් iPhone පරිශීලකයින්ට Google Authenticator සහ Authy වැනි තෙවන පාර්ශවීය විකල්පයන් ඉවත් කිරීමට ඉඩ ලබා දෙන බවත්ය.\n\nමෙම විශේෂාංගය iOS Settings app එකෙහි Passwords section එකෙහි දැකගැනීමට හැකිවන අතර එහි දැක්වෙන set up verification code යන option එකට ගොස් Setup key එක ඇතුළත් කිරීම මගින් හෝ QR code එක scan කිරීම මගින් two-factor authentication set up කරගැනීමට හැකියාව තිබෙනවා.\n\nVerification codes set up කරගත් පසුව, ඔබ වෙබ් අඩවියට හෝ app එකට sign in වූ විට ඔබගේ iPhone verification codes autofill කිරීමටද මෙම විශේෂාංගයට හැකියාව තිබෙනවා.",
+  "category": "apple",
+  "date": "2021-06-10",
+  "extraction_timestamp": "2026-02-20T12:07:31.174294",
+  "headline": "iOS 15 සමඟ Built-In Authenticator එකක් ලබාදීමට Apple සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/ios-15-will-let-you-ditch-google-authenticator-or-authy/",
+  "word_count": 202
+}

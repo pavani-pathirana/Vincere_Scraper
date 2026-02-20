@@ -1,0 +1,13 @@
+{
+  "body": "ඔයා Android smartphone එකක් භාවිතා කරනවා නම්Android Beam පහසුකමගැන මීට කලින් අහලා එහෙමත් නැතිනම් භාවිතා කරලා ඇති.\n\nNFCහරහා payment සිදු කිරීම ලංකාවේ අපිට නම් තරමක් අමුතු දෙයක් වුණත් NFC හරහා මේ Android Beam පහසුකම භාවිතා කරමින් කුඩා files transfer කරගැනීමට බොහෝ වෙලාවට අපි උත්සාහ කරලා තියනවා.\n\nAndroid 4.1වල සිට මේ පහසුකම Android මෙහෙයුම් පද්ධතියට එකතු කර තිබුණු මේ Android Beam පහසුකම නවතා දැමීමට Google සමාගම මේ වන විට තීරණක කර තිබෙන බව දැනගන්නට ලැබෙනවා.\n\nමේ තාක්ෂණය හරහා සාමාන්‍යය file transfer කිරීමක් සඳහා ප්‍රමාණවත් speed එකක් ලබාගත නොහැකි නමුත් මේ හරහා අදාල file එක transfer කිරීමට අවශ්‍යය devices වල file transfer කළ හැකි මාධ්‍යය (Bluetooth හෝWiFi Direct) සඳහා මුලපිරීමේ කටයුතු සිදු කර දෙනු ලබනවා.\n\nකොහොම වුණත් මේ තාක්ෂණය එතරම් ජනප්‍රිය වූ බවක් නම් පෙනෙන්නට නොතිබුණු අතර file transfer කිරීමට මේ වන විට ඉතාමත් පහසු ආකාරයේ apps ඕනෑ තරම් තිබෙනවා.\n\nකොහොම වුණත් මේ Android Beam පහසුකම Android මෙහෙයුම් පද්ධතියෙන් සම්පූර්ණයෙන්ම ඉවත් කිරීමට Google සමාගම කටයුතු නොකරන අතර android.sofware.nfc.beam නමින් platform feature එකක් ලෙස නිකුත් කිරීමට ඔවුන් කටයුතු කරනවා.\n\nඒ අනුව මේ Android Beam පහසුකම default ලෙසම enable වී නොතිබෙන අතර ජංගම දුරකථන නිෂ්පාදකයන්ගේ රුචි/අරුචිකම් අනුව එය enable හෝ disable කිරීමට අවස්ථාව ලැබෙනවා.",
+  "category": "android",
+  "date": "2018-12-20",
+  "extraction_timestamp": "2026-02-20T12:19:05.971272",
+  "headline": "Android Beam පහසුකම Android මෙහෙයුම් පද්ධතියෙන් ඉවත් කිරීමට Google සමාගම තීරණය කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-is-deprecating-the-android-beam-api-used-to-share-files-with-nfc/",
+  "word_count": 190
+}

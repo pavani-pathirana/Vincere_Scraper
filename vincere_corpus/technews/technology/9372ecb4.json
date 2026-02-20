@@ -1,0 +1,13 @@
+{
+  "body": "ඇමෙරිකාවේ Washington ප්‍රාන්තයේ ලැව්ගින්නට හසුවූ ප්‍රදේශවල සිටන Emergency Response කණ්ඩායම්වල සාමාජිකයන් හට අවශ්‍යය internet පහසුකම් ලබාදීමට SpaceX සමාගම ඉදිරිපත් වී ඇති බව මේ වන විට වාර්ථා වෙනවා.\n\nGlad SpaceX could help! We are prioritizing emergency responders & locations with no Internet connectivity at all.\n\nමේ වනවිටත් Starlink terminal 7ක් පමණ SpaceX තාක්ෂණික කණ්ඩායම් විසින් install කර අවසන් කර ඇති අතර මෙම සේවාව ලබාදීම ආරම්භ වී ඇත්තේ අගෝස්තු මාසයේ සිට බවCNBC පුවත් සේවයපවසයි.\n\nමීට පෙර කිසිඳු අවස්ථාවකදී මේ තරම් ඉක්මණින් සහ පහසුවෙන් tactical satellite උපාංගයන් සවි කර මේ තරම් reliable ලෙස සන්නිවේදන කටයුතු සිදු කරගැනීමට නොහැකි වූ බව CNBC ආයතනයට අදහස් දක්වමින් Washington State Military දෙපාර්තමේන්තුවේ IT division ප්‍රකාශ කර තිබෙනවා.\n\nCNBC පුවත් සේවයටඅනුව මෙම broadband internet සේවාව මගින් emergency services වල රාජකාරි කරන අයවලුන්හට තම පවුල් සමග සම්බන්ධවීමට, ලැව්ගින්නට හසුවූ ප්‍රදේශවල සිටන ජනතාවට තම රක්ෂණ වන්දි ලබාගැනීමට එම සමාගම් සමග සම්බන්ධවීමට, එම ප්‍රදේශවල සිටින ළමුන්ට දුරස්ථව අධ්‍යාපන කටයුතු කරගැනීමට සහයක් වනු ඇත.\n\nStarlink සේවාව මගින් සාමාන්‍ය satellite internet service එකක් මගින් ලබා දෙනවා මෙන් දෙගුණයක් bandwidth සහ 30ms පමණ වූ ඉතාමත් අඩු latency එකක් සහිත internet සේවාවක් ලබාදෙනු ලබයි.\n\nවර්තමානයේ පොලවේ සිට 35,000 km ස්ථානගත කර ඇති geostationary satellite මගින් ලබාදෙන internet service වල 600ms පමණ ඉහළ latency එකක් ඇති නමුත් starlink satellites කක්ෂය පිහිටුව ඇත්තේ 540-570 km පමණ ඉහලින්වේ.\n\nඑමගින් latency එක ඉතාමත් අවම කරගැනීමට හැකිවී ඇති අතර CNBC පුවත් සේවය පවසන අන්දමට starlink dish එකක් setup කිරීම විනාඩි 30ක් පමණ අඩු කාලයකින් කල හැකිය.\n\nSpacex ආයතනයේ CEO වන Elon Musk පවසන අන්දමට ඔවුන්ගේ ප්‍රමුඛත්වය ලබාදෙන්නේ emergency response කණ්ඩායම්වලට අවශ්‍ය අන්තර්ජාල පහසුකම් ලබාදීමට බවයි.\n\nවර්තමානයේ Starlink beta පරිශීලකයින් වෙත 11Mbps සිට 60Mbps දක්වා වන download speed එකක්, 5Mbps සිට 18Mbps දක්වා upload speed එකක් ද ලබාගැනීමට හැකිවී ඇති අතර ඒය ලබාදෙනු ලබන්නේ මේ වන විට කක්ෂගත කර ඇති satellite 700ක් පමණ භාවිතා කිරීමෙනි.",
+  "category": "technology",
+  "date": "2020-10-02",
+  "extraction_timestamp": "2026-02-20T12:09:38.476165",
+  "headline": "SpaceX සහයෙන් ලැව්ගින්නට හසුවූ ඇමෙරිකාවේ ප්‍රදේශවල Emergency Response කණ්ඩායම් වෙත Starlink Internet ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/spacex-starlink-brings-internet-to-emergency-responders-in-wildfire-areas/",
+  "word_count": 294
+}

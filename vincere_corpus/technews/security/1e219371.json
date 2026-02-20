@@ -1,0 +1,13 @@
+{
+  "body": "iOS දුරකථන භාවිතා කරන පරිශීලකයින් ප්‍රමාණයට වඩා Android දුරකථන භාවිතා කරනපරිශීලකයින් සංඛ්‍යාව පස් ගුණයකින් පමණ වැඩි විමේප්‍රතිඵලයක් ලෙස මේ වන විට Apple App Store එකෙහි ති‍බෙන apps ප්‍රමාණයටත් වඩා ඉතාමත් වැඩි apps ප්‍රමාණයක් Google Play Store හි දැක ගැනීමට හැකියාව ලැ‍බෙනවා.\n\nමෙම හේතුව නිසාම Android සඳහා app review process එක සිදු කිරීම ඉතාමත් අපහසු කාරණයක් වන අතර බොහෝ විට මේ දුර්වලතාවය මුල් කරගෙන අනතුරුදායක apps, Google Play Store එක හරහා පරිශීලකයින් වෙත ලඟාවීමට කටයුතු කළ අවස්ථා කිහිපයක් ගැනම අපි මීට පෙර ඔබව දැනුවත් කර තිබෙනවා.\n\nකොහොම නමුත් පරිශීලකයින් හට භාවිතා කිරීමට නුදුසුදු apps පිළිබඳව වාර්ථා වූ විගසම එවැනි apps, Play Store වෙතින් ඉවත් කිරීමට Google සමාගම කටයුතු කරන අතර,XDA-Developers වෙබ් අඩවියවාර්ථා කරන අන්දමට මේ වන විට Facebook phishing සඳහා භාවිතා කළ apps 25 ක් Google Play Store එකෙන් ඉවත් කිරීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nප්‍රංශයේ cyber-security ඒජන්සියක් වන Evina ආයතනය විසින් මෑතකදී පරිශීලකයින්ගෙන් Facebook login details ලබා ගන්නා apps 25 ක් පිළිබඳව මැයි මාසයේදී Google සමාගම වෙත වාර්ථා කළ අතර මෙම apps විශේෂයෙන්ම wallpaper apps, image සහ video editors, flashlight apps, games සහ file manager apps ලෙස Google Play Store එකේ තිබී ඇති බවට වාර්ථා වෙනවා.\n\nZdnet වෙබ් අඩවියමඟින් වාර්ථා වන්නේ මේ වන විට ඉවත් කළ සමහර apps Play Store හි වසරකට වැඩි කාලයක් තිබූ බවත්, ඉවත් කරන අවස්ථාව වන විට මේවා පරිශීලකයින් මිලියන 2.34ක් පමණ install කරගැනීමට කටයුතු කර තිබුණු බවත් ය.\n\nGoogle සමාගම විසින් ඉවත් කරන ලද apps ලැයිස්තුවට ඇතුළත් වන්නේ:\n\nකෙසේ වෙතත් මේ වන විට මෙම apps 25 Play Store එකෙන් ඉවත් කර ඇති අතර පරිශීලකයින් හ‍ට මෙම apps දැනටමත් භාවිතා කරනවා නම් ඔවුන් හටPlay Protect featureඑක මඟින් මේ පිළිබඳව දැනුවත් කිරීමට ද කරනු ලැබනවා.\n\nඉහත නම් සඳහන් apps අතරින් එකක් හෝ ඔබත් භාවිතා කරනු ලැබුවේ නම්, එය වහාම ඉවත් කර ඔබගේ Facebook ගිණුමේ password එක වෙනස් කර, එහි 2-factor authentication පහසුකම enable කරගැනීම නුවණට හුරු කටයුත්තක් බව අමුතුවෙන් කිවයුතු වන්නේ නැහැ.",
+  "category": "security",
+  "date": "2020-07-07",
+  "extraction_timestamp": "2026-02-20T12:08:27.560121",
+  "headline": "Facebook ගිණුම් වල login details සොරකම් කිරීම සඳහා භාවිතා කළ apps 25 ක් Play Store එකෙන් ඉවත් කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/google-has-removed-25-apps-from-play-store-for-phishing-facebook-credentials/",
+  "word_count": 306
+}

@@ -1,0 +1,13 @@
+{
+  "body": "සෑම ප්‍රධාන Android මෙහෙයුම් පද්ධතියක්ම නිකුත් කිරීමෙන් අනතුරුව එහි Go Edition එක නිකුත් කිරීමට Google සමාගම කටයුතු කරන අතර එහි අරමුණ නම් RAM ධාරිතාවය 1GB හෝ ඊට අඩු Entry-level ජංගම දුරකථන වල ප්‍රධාන Android සංස්කරණය ලබාදුනහොත් ඒවායේ ඇතිවන lag වීම් stuck වීම් ආදී ගැටළු වලට විසඳුමක් ලබාදීමයි.\n\nමීට පෙර ලිපි කිහිපයකින්ම අපි මේ පිළිබඳව ඔබව දැනුවත් කර තිබෙන අතර නවතම තොරතුරු අනුව Android 11 සංස්කරණයේ Go Edition එකද entry-level උපාංග සඳහා නිකුත් කිරීමට Google සමාගම කටයුතු කරමින් සිටින බව දැනගන්නට ලැබෙනවා.\n\nමෙහි විශේෂත්වය නම් මෙවර 2GB හෝ ඊට අඩු RAM සහිත උපාංග වලටද සහය වන ලෙස Android 11 Go Edition එක optimize කර තිබීම වන අතර මේ නිසා කලින් Go Edition වලට වඩා හොඳ smooth Android experience එකක් මෙම නව Go Edition එක හරහා ලබා ගැනීමට හැකියාව ලැබී තිබෙනවා.\n\nප්‍රධාන Android 11 සංස්කරණය හා සමානවම මෙම Go Edition එකද performance improvements හා අලුත් privacy features සඳහා මූලිකත්වය දෙමින් නිර්මාණය කර ඇති අතර එය Android 10 Go Edition එකට වඩා 20% ක පමණ ප්‍රමාණයකින් app launch time එක අඩු කර ඇති බව ද Google සමාගම පෙන්වා දෙනවා.\n\nAndroid 11 හි දී ලබා දුන් සියලුම privacy features ද මෙම Go Edition එක සමග ලැබෙනු ඇති අතර ඒ අනුව One-time permission සහ permission auto-reset ආදී option මෙම Go Edition එකේදීද ලැබෙනු ඇති.\n\nමෙම option පිළිබඳව විස්තරාත්මක තොරතුරු ඔබට පහත ලිපිය කියවීමෙන් දැනගත හැකි වෙනු ඇති.\n\nලබන මාසය පමණ වනවිට මෙම නව Go Edition එක නිකුත් කිරීමට Google සමාගම සූදානමින් සිටින අතර, Google සමාගම විසින් කලින් සඳහන් කල පරිදි 2GB වලට වඩා අඩු RAM සහිත දුරකථන වල අනිවාර්යයෙන්ම Android Go සංස්කරණයන් ධාවනය කලයුතු වෙනවා.\n\nමේ අනුව මෙම category එකට ඇතුළත් වන ජංගම දුරකථන වලට ඉදිරියේදී Android 11 Go Edition එක ලැබෙනු ඇති බව අනුමාන කල හැකි නමුත්, දුරකථන නිශ්පාදකයින් විසින් තවම මේ පිළිබඳව නිවේදනය කර නැති නිසා එම Devices හා Brand මොනවාද යන්න පිළිබඳව වැඩිදුර තොරතුරු වාර්තා වන්නේ නැහැ.",
+  "category": "android",
+  "date": "2020-09-13",
+  "extraction_timestamp": "2026-02-20T12:09:02.056730",
+  "headline": "RAM ධාරිතාවය 2GB හා ඊට අඩු smartphone සඳහා Android 11 Go edition එක ලබාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/android-11-go-edition-arrives-for-devices-with-2gb-of-ram-and-less/",
+  "word_count": 305
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Netflix, Amazon Prime, Disney+ වැනි විවිධ video streaming platforms වල ඇති අන්තර්තයන් තනි page එකක් හරහා නැරඹිය හැකි පහසුකමක් Google Chrome වලට එකතු කිරීමට මේ වන විට Google සමාගම කටයුතු කරමින් සිටින බව වාර්ථා වෙනවා.\n\nChrome Kaleidoscope යනුවෙන් හැඳින්වෙන මෙම විශේෂාංගය දැනට Google Chrome හිCanary versionඑකෙන් ලබා ගත හැකි වන නමුත් එය තවමත් මෙය ක්‍රියාත්මක වන තත්ත්වයේ නැහැ.\n\nChrome Story වෙබ් අඩවිය විසින් මෑතකදී නිකුත් කළ වාර්තාවකට අනුව,Chrome Canary සංස්කරණයේchrome://kaleidoscope/යන URL එකට පිවිසීමෙන් Kaleidoscope project එකට පිවිසිය හැකි අතර එහි පහත පණිවිඩය පෙන්වයි.\n\nමෙම පණිවිඩය වෙත redirect වීමට පෙර Chrome Story හට විශේෂාංගය සඳහා නව pages දෙකක් වෙත පිවිසීමට හැකි වී ඇති අතර පළමු Chrome Kaleidoscope පිටුවෙහි පහත පණිවිඩය සඳහන් වී ඇත.\n\nඊට අමතරව Netflix, Amazon Prime Video සහ Disney+ ඇතුළු streaming services කිහිපයක්ද එම පිටුවෙහි ලැයිස්තුගත කර තිබෙනවා දැකගන්න පුළුවන්.\n\nඅවශ්‍ය streaming services තෝරාගෙන පිටුවේ පහළ ඇති Next button එක click කිරීමෙන් දෙවන page එකට redirect වන අතර එහි පහත මෙලෙස සඳහන් වනවා.\n\nඉහත page එකෙහි තවමත් සම්පූර්ණයෙන් කිසිවක් දැකගැනීමට හැකියාවක් නැති අතර මෙම විශේෂාංගය හඳුන්වාදීමෙන් පසුව මෙම page එකට පෙර page එකෙන් තෝරාගත් platforms වල අන්තර්ගතය ලැයිස්තුගත කරනු ඇතැයි අනුමාන කළ හැක.\n\nවිශේෂයෙන් ඔබ streaming platforms කිහිපයකට subscribe වී ඇත්නම් මෙම Chrome Kaliedoscope විශේෂාංගය බොහෝ සෙයින් ප්‍රයෝජනවත් වනු ඇති නමුත්, development තත්ත්වයේ ඇති මෙම විශේෂාංගය හඳුන්වාදීමට නියමිත කාලයක් පිළිබඳ වැඩිදුර තොරතුරු නොමැති නමුත් මේ වන විට Chrome Canary සංස්කරණයෙහි මෙම විශේෂාංගය පරීක්ෂා කිරීම ආරම්භ කර ඇති බැවින්, මේ පිළිබද වැඩිදුර තොරතුරු ඉදිරි සති කිහිපය තුළ දැන ගැනීමට හැකියාව ලැබෙනු ඇත.",
+  "category": "google",
+  "date": "2020-08-23",
+  "extraction_timestamp": "2026-02-20T12:10:26.146877",
+  "headline": "Kaleidoscope නමින් one-stop video streaming hub එකක් Chrome වලට හඳුන්වාදීමට කටයුතු කරන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/chrome-working-on-one-stop-video-streaming-hub-named-kaleidoscope/",
+  "word_count": 242
+}

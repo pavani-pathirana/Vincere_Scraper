@@ -1,0 +1,13 @@
+{
+  "body": "2019 මැයි මාසයේ සිට Huawei ජංගම දුරකථන නිකුත් කරනු ලබන්නේ GMS (Google mobile Service) සහිතව නොව, HMS (Huawei Mobile Service) සහිතව වන බව ඔබ දැනටමත් දන්නා කාරණාවක් වෙනවා.\n\nමේ නිසා Huawei ජංගම දුරකථනවල Google සමාගමේ සේවාවන් භාවිතා කල නොහැකි වන අතර මෙලෙස අහිමි වුණු ප්‍රධානතම සේවාවක් වූයේ Google map navigation සේවාවයි.\n\nHMS සමඟ Develop කරන ලද Huawei App gallery එකේ Google Service සම්බන්ධ apps නොමැති අතර මේ නිසා නව Huawei පාරිභෝගිකයන් හට ප්‍රධාන Navigation service එකක් අහිමි වී තිබුනා.\n\nHMS සඳහා TomTom වෙතින් Navigation Service එකක් ලබාගැනීම සම්බන්ධයෙන් Huawei හා TomTom අතර මූලික සාකච්ඡා පසුගිය ජනවාරියේ සිට සිදු වූ අතර එහි ප්‍රතිඵලයක් ලෙසයි Huawei පරිශීලකයින්ට මෙම නව navigation අත්දැකීම ලැබෙන්නේ.\n\nමේ අනුව TomTom සමාගම විසින් සිය Navigation App එක Huawei App gallery වෙත ලබාදීමට කටයුතු කර ඇති බව ඔවුන්ගේනිළ Blog අඩවියහරහා නිවේදනය කර තිබෙනවා.\n\nHuawei App Gallery ඔස්සේ මෙමTomTom GO Navigation App එකDownload කරගන්නා පරිශීලකයන් හට එය පළමු දින 30 නොමිලයේ භාවිතා කිරීමේ හැකියාව ලැබෙන නමුත් අනතුරුව මසකට $1.99ක් හෝ වසරකට $12.99ක ගාස්තුවක් ගෙවීමට සිදුවෙනවා.\n\nනමුත් තවමත් Google Maps තරම් සර්ව සම්පූර්ණ Navigation අත්දැකීමක් ලබාදෙන්නට මෙම TomTom Navigation Service එක සමත් නොවනු ඇති බව වාර්ථා වන අතර එය තවදුරටත් වැඩිදියුණු කිරීම කෙරෙහි Huawei හා TomTom යන සමාගම් ද්විත්වයෙහිම ප්‍රභල අවධානයක් යොමු වී තිබෙනවා.\n\nTomTom යනු TomTom Plus, TomTom Live service, Map Share, TomTom Traffic, IQ Routes ආදී විහිදුණු පරාසයක සේවාවන් සපයන Consumer Electronic හා Navigation Technologies සහිත සමාගමක් වන අතර වර්තමානය වන විට ‍ලොව පුරා මිලියන ගණනක පාරිභෝගිකයන් පිරිසකට සේවය සපයන සමාගමක් වෙනවා.",
+  "category": "android",
+  "date": "2020-09-05",
+  "extraction_timestamp": "2026-02-20T12:09:44.666431",
+  "headline": "TomTom Go app එක Huawei App Gallery එකට එකතු කිරීමට TomTom ආයතනය කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/tomtom-releases-navigation-app-on-huawei-appgallery/",
+  "word_count": 243
+}

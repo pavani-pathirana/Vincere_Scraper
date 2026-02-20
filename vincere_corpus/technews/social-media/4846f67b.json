@@ -1,0 +1,13 @@
+{
+  "body": "අපට Computer එකක් හෝ Laptop එකක් ඇත්නම් අපිWhatsApp Webඑක හෝWhatsApp Desktopමෘදුකාංගය ඔස්සේ අපගේ දුරකථනය හරහා QR Code එකක් scan කර ගැනීම මගින් දුරකථනය හරහා භාවිතා කරන WhatsApp සේවාව අපගේ පරිගණකය වෙත ලබා ගන්නවා.\n\nකොහොම නමුත් මෙහි ඇති ගැටළුව වන්නේ පරිගණකය හරහා සම්බන්ධ වන WhatsApp web හෝ WhatsApp Desktop apps ක්‍රියාත්මක වීම සඳහා ජංගම දුරකථනයේ ඇති original WhatsApp app එක ක්‍රියාත්මකව (අන්තර්ජාල සම්බන්ධතාවයක් සහිතව) තිබිය යුතු වීමයි.\n\nමේ වන විටත් ඔබ Telegram වැනි සේවාවත් භාවිතා කරන්නේ නම් දුරකථනයේ අන්තර්ජාල සබඳතාවක් නොමැතිව ඔබගේ පරිගණකය හරහා ද කිසිදු බාධාවක් නොමැතිව Multi-Device පහසුකම ඔස්සේ භාවිතා කළ හැකි බව ඔබ දැනටමත් දන්නවා ඇති.\n\nමේ පහසුකම WhatsApp සඳහා ද ලබාදීමට කටයුතු කරනු ලබන බව Mark Zuckerberg විසින් මීට පෙර තහවුරු කළ අතර, මේ වන විට මෙය අලුතින් නිකුත් කිරීමට නියමිත WhatsApp Desktop beta සංස්කරණයට ඇතුලත් කිරීමට කටයුතු කර ඇති බව වාර්තා වෙනවා.\n\nමේ අනුව අලුත්ම WhatsApp Desktop beta සංස්කරණය භාවිතා කිරීමේදී ජංගම දුරකතනය අන්තර්ජාලයට සම්බන්ධ වී තිබීම අත්‍යාවශ්‍යය නොවන නමුත්, මූලිකව WhatsApp Desktop සංස්කරණය authenticate කරගැනීම සඳහා සුපුරුදු පරිදි QR Code එක scan කිරීම සිදු කළ යුතු වෙනවා.\n\nකොහොම නමුත් මේ වන විටත් ඔබ WhatsApp Desktop සංස්කරණය භාවිතා කරන්නේ නම්, ඉදිරියේදී එය අලුත්ම beta build එක වෙත ස්ව්‍යංක්‍රීයව update කිරීමට WhatsApp ආයතනය කටයුතු කරනු ඇති අතර multi-device beta පහසුකම භාවිතා කිරීමට ඔබට නුදුරු අනාගතයේදීම අවස්ථාව ලැබෙනු ඇති.",
+  "category": "social-media",
+  "date": "2021-07-13",
+  "extraction_timestamp": "2026-02-20T12:08:23.465105",
+  "headline": "Multi-Device පහසුකම සමඟින් WhatsApp Desktop Beta සංස්කරණයක් නුදුරේදී එළිදැක්වීමට WhatsApp ආයතනය සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/whatsapp-for-desktop-beta-with-multi-device-compatibility/",
+  "word_count": 211
+}

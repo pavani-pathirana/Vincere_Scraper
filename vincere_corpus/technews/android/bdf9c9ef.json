@@ -1,0 +1,13 @@
+{
+  "body": "වසර ගණනාවක් තිස්සේ Gmail web version එක තුල තිබුණු Undo send පහසුකම දැන් Gmail Android app එකට නිකුත් කිරීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nAndroid Policeවෙබ් අඩවිය පෙන්වා දෙන ආකාරයට මේ පහසුකම මුල් වරට දැකගන්නට ලැබෙන්නේ Gmail 8.7 කියන version එකේදී වන අතර මේ පහසුකම හරහා තත්ත්පර 10ක් ඇතුලත අප විසින් වැරදීමකින් send වූ email එකක් අදාල ලබන්නාට නොලැබෙන සේ නතර කර ගැනීමට අපට හැකියාව ලැබෙනවා.\n\nමේ පහසුකම මේ වෙනකොටත් Android සහ iOS වලට අදාලGoogle Inbox appඑකට ලබා දීලා තිබුණත් බහුතරයක් දෙනා භාවිතා කරනු ලබන Gmail app එකට මේ දක්වා ලබා දීමට Google සමාගම මෙතෙක් කටයුතු කර තිබුණේ නැහැ.",
+  "category": "android",
+  "date": "2018-08-25",
+  "extraction_timestamp": "2026-02-20T12:21:11.265791",
+  "headline": "Gmail වල Undo Send පහසුකම Android සඳහා නිකුත් කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/gmail-undo-send-feature-comes-to-gmail-for-android/",
+  "word_count": 99
+}

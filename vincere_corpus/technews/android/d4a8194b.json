@@ -1,0 +1,13 @@
+{
+  "body": "Google Chrome හි දකින්නට නොලැබෙන ඇතැම් additional features පැවතීමත්, නිතරම නව විශේෂාංග පරිශීලකයන් හට ලබා දීමට කටයුතු කිරීමත් නිසාවෙන් Samsung Internet යනු මේ වන විට ඉතාමත් ප්‍රසිද්ධ Chromium-based web browser එකක් වෙනවා.\n\nමේ දක්වා, Samsung internet browser එකෙහි තිබුණු අඩුපාඩුවක් වන්නේ එය ඔබගේ login credentials, Samsung සමාගමේ cloud storage එක තුළ ගබඩා කිරීමට පමණක් ඉඩ දී තිබීමයි.\n\nLastPassවැනි වෙනත් මුරපද කළමණාකරණ සේවාවන් භාවිතා කරන පුද්ගලයින්ට මෙය තරමක් අපහසුතාවයක් ගෙන දෙන කටයුත්තක් වූ නමුත් අලුත්ම beta සංස්කරණය හරහා Samsung Internet browser එකට password autofill කරනු ලබන apps භාවිතා කිරීමේ හැකියාව ලබාදී තිබෙනවා.\n\nAndroid Police වෙබ් අඩවිය වාර්ථා කරන පරිදි Samsung Internet beta 12.0.1.4 සංස්කරණයෙහි, Android 8.0 Oreo සමඟන් හඳුන්වා දුන් Autofill API සදහා සහය ලබාදෙනු ලබනවා.\n\nමේ Autofill API එක නිර්මාණය කර ඇත්තේ ඔබ භාවිතා කරන ඕනෑම password manager සේවාවක් සමඟ Android වලදී login credentials භාවිතා කිරී‍මේ හැකියාව ලබාදීම සඳහා වන නමුත් Samsung Internet විසින් දැනට සහාය දක්වන්නේ1Password,LastPassසහDashlaneයන සේවාවන් සදහා පමණි.\n\nමෙය තවමත්Google password managerඑක සහFirefox Lockwiseසදහා සහාය නොදක්වන නමුත් ඉදිරියේදී එම සේවාවන් සඳහා ද සහාය දක්වන ලෙස සකස්කරනු ඇති බව අනුමාන කළ හැකි වෙනවා.",
+  "category": "android",
+  "date": "2020-05-14",
+  "extraction_timestamp": "2026-02-20T12:11:58.265182",
+  "headline": "Samsung Internet 12 beta සංස්කරණය හරහා Password autofill apps කිහිපයකට සහාය දැක්වීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/samsung-internet-12-beta-adds-support-for-multiple-password-autofill-apps/",
+  "word_count": 174
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Android ජංගම දුරකථන විශාල ප්‍රමාණයක් වෙනුවෙන් නිර්මාණය කර ඇතිLineageOS එකමේ වන විට ලොව තිබෙන ජනප්‍රියතම Custom ROM වලින් එකක් බව අමුතුවෙන් කිව යුතු නැහැ.\n\nබොහෝමයක් පැරණ ජංගම දුරකථන වලට අලුත් Android සංස්කරණයක් ස්ථාපනය කරගැනීමේ ප්‍රධානතම සහ stable ම ක්‍රමය බොහෝ විට මේ LineageOS ROM එකක් භාවිතා කිරීම වන අතර මේ වන තුරු එය ස්ථාපනය කළ අවස්ථාවේ සිටම root access භාවිතා කිරීමේ හැකියාව අන්තර්ගත කර තිබුණා.\n\nLineageOS 15.1 සංස්කරණයේ සිට මේ root access ලබාගැනීම සඳහා වන superuser manager එක addon එකක් ලෙස වෙනම ඉදිරිපත් කිරීමට මොවුන් කටයුතු කරනු ලැබුවා.\n\nකොහොම නමුත් මීළඟ LineageOS සංස්කරණයේ, එනම් Android 10 මත පදනම් වන LineageOS 17 සංස්කරණයේ සිට මේ addon එකක් ලෙස ඉදිරිපත් කර තිබුණ superuser binary එක නතර කිරීමට තීරණය කර ඇති අතර, official ලෙස root access ලබාගැනීමේ හැකියාව ඉවත් කිරීමට මොවුන් තීරණය කර තිබෙනවා.\n\nමේ අනුව LineageOS 17 සංස්කරණය flash කරන්නන් හට root access ලබාගැනීම සඳහා සෘජුවම ROM එක install කිරීම පමණක් ප්‍රමාණවත් නොවන අතරMagiskහෝ වෙනත් ක්‍රමයක් භාවිතා කරමින් root access ලබාගත යුතු වෙනවා.\n\nබොහෝ විට වෙනත් Custom ROM නිර්මාණය කිරීමේදී base එක ලෙස ද මේ LineageOS එක භාවිතා කරනු ලබන නිසාවෙන් මීළඟ සංස්කරණය භාවිතා කිරීමේදී අනෙකුත් custom rom develop කරන්නන් හට ද මේ පිළිබඳව අවධානය යොමු කිරීමට සිදු වෙනවා.",
+  "category": "android",
+  "date": "2019-12-12",
+  "extraction_timestamp": "2026-02-20T12:13:40.161755",
+  "headline": "LineageOS එකේ root access ලබාගැනීම සඳහා ඇතුලත් කර ඇති superuser ක්‍රමය ඉවත් කිරීමට තීරණය කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/lineageos-is-dropping-its-own-superuser-implementation/",
+  "word_count": 197
+}

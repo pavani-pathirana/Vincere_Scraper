@@ -1,0 +1,13 @@
+{
+  "body": "Android සහ iOS සදහා ඇති Gmail app එක පසුගිය කාලය ඇතුලත ඉතාමත් වේගයෙන් දියුණුවෙමින් පවතින බව ඔබ දැනටමත් දකින්නට ඇති.\n\nමේ වන විට9to5Googleවෙබ් අඩවිය විසින් ඉදිරිපත් කල වාර්තාවකට අනුව, Gmail හරහා දැන් මිලදී ගැනීම්වලට සහ travel bookings සදහා වන email වලට summary cards (සාරංශ කාඩ්පත්) පෙන්වීමේ පහසුකමක් හඳුන්වාදීමට කටයුතු කර තිබෙනවා.\n\nමෙම පහසුකම web app එකේ මීට පෙර සිටම පැවති නමුත් දැන් ඔබට iOS හෝ Android Gmail app එක හරහාද මිලදී ගැනීම් හෝ travel booking වලට අදාල email එකක් ලැබුණු පසු මේ card-based UI එකක් හරහා email body එකෙහි ඇති details වල summary එක දැකගත හැකි වෙනවා.\n\nAndroid සඳහා වන Gmail app එකේ ඇති UI card එක මඟින් email body එකෙහි ඇති highlights, important details වැනි දේ ඉස්මතු කරන අතර උදාහරණයක් ලෙස flight එකක් book කිරීමේදී take-off සහ landing times, flight duration,  passenger name, seat,  සහ තහවුරු කිරීමේ අංකයද ඇතුළුව Email එකෙහි සඳහන් කර ඇති වැදගත් තොරතුරු ඉතාමත් පැහැදිලි ආකාරයට ඉදිරිපත් කරනු ලබනවා.\n\nඇතැම් cards වල අවසානයේ වැඩි විස්තර දැන ගැනීමට හෝ packages track කිරීම සදහා ද shortcuts සපයා තිබෙනවා.",
+  "category": "google",
+  "date": "2020-05-01",
+  "extraction_timestamp": "2026-02-20T12:13:41.622756",
+  "headline": "Email වල ඇති මිලදීගැනීම් සහ ගුවන් ටිකට්පත් පිළිබඳව Gmail app එක හරහා summary cards පෙන්වීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/new-gmail-cards-summarize-key-purchase-and-flight-details-on-android-ios/",
+  "word_count": 170
+}

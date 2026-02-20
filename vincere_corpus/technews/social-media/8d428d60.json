@@ -1,0 +1,13 @@
+{
+  "body": "Facebook සමාගම විසින් Facebook Messenger භාවිතා කරන iOS පරිශීලකයන් සඳහා App Lock නම් වූ නව පහසුකමක්, වැඩි දියුණු කළ privacy සහ security features කිහිපයක් හදුන්වාදීමට කටයුතු කර ඇති බව මේ වන විට වාර්ථා වෙනවා.\n\nමෙම App Lock පහසුකම සක්‍රිය කිරීමෙන් පසු Facebook Messenger විවෘත කිරීමට පෙර Face ID හෝ Touch ID authentication ලබාදීමට අවශ්‍ය වන අතර ඔබගේ ජංගම දුරකථනය unlock කර තිබියදී එය ලබාගන්නා වෙනත් පුද්ගලයෙකු හට Messenger Chats වලට පිවිසීමේ හැකියාව මේ හරහා අහිමි වී යන බව Facebook සමාගම පෙන්වා දෙනවා.\n\nFacebook සමාගම වැඩිදුරටත් ප්‍රකාශ කරන්නේ පරිශීලකයාගේ fingerprint හෝ face data Facebook සමාගම විසින් transfer කිරීමක් හෝ ගබඩා කරගැනීමක් සිදු නොකරන බවයි.\n\nමෙම App Lock පහසුකම සක්‍රිය කරගැනීම සඳහා Messenger පරිශීලකයින් හට settings වල නව \"Privacy\" කොටස භාවිතා කිරීමට සිදු වන අතර මේ App Lock විශේෂාංගයට අමතරව ඉදිරි මාස කිහිපය තුළ තවත් privacy controls කිහිපයක් ලබාදීමටද සමාගම සැලසුම් කර ඇති බව වාර්තා වෙනවා.\n\nමෙම පහසුකම අද දින සිට iPhone සහ iPad පරිශීලකයන් වෙත නිකුත් කර ඇති අතර ඉදිරි මාස කිහිපය තුළදී Android පරිශීලකයන් වෙතද මෙය ලබාදීමට කටයුතු කරනු ඇත.",
+  "category": "social-media",
+  "date": "2020-07-23",
+  "extraction_timestamp": "2026-02-20T12:11:55.836687",
+  "headline": "Face ID සහ Touch ID භාවිතා කරමින් Messenger Chats ආරක්ෂා කළ හැකි App Lock පහසුකම iOS පරිශීලකයින් හට ලබාදීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/facebook-messenger-can-now-lock-your-chats-behind-face-id/",
+  "word_count": 170
+}

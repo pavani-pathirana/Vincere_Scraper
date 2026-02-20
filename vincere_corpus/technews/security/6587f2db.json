@@ -1,0 +1,13 @@
+{
+  "body": "Android දුරකතන වලට එල්ලවිය හැකි malicious attacks වලින් Android පරිශීලකයන් ආරක්ෂා කිරීම සඳහා monthly security patches ලබාදීමට කටයුතු කිරීම, Google Play Protect වැනි නොයෙක් ආකාරයේ ආරක්ෂක වැඩසටහන් හඳුන්වාදීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nඑමෙන්ම Play Store එකට පිටතින් apps download කරගැනීමේදී ඔබ ඉතාමත් පරිස්සම් විය යුතු බව මෙන්ම, APK files ලබාගැනීම සඳහා APK Mirror වැනි විශ්වාසදායක වෙබ් අඩවි පමණක් භාවිතා කරන ලෙස TechNews.LK අපි ඔබව නිරන්තරයෙන් සඳහන් කරනු දැක ඇති.\n\nපසුගිය සතියේදී, system update එකක් ලෙස පෙනීසිටිමින් ඔබගේ Android ජංගම දුරකතනයට ඇතුළු වන නව spyware එකක් හඳුනාගැනීමට mobile security researchers ලා පිරිසක් සමත් වී ඇති අතර දැනට අනාවරණය වන ආකාරයට මෙම malware එක install වීමෙන් පසුව ඔබගේ device එකෙහි සම්පූර්ණ පාලනය ලබාගැනීම එයට හැකියාව ලැබෙනවා.\n\nමෙම malware එක පිළිබඳව මුලින්ම සොයාගනු ලැබුවේ ආරක්ෂක සමාගමක් වනZimperium ආයතනයවිසින් වන අතර Play Store එකෙන් පිටත ඇති bundled app එකක් install කිරීමෙන් පසුව, එය Google වෙතින් පැමිණෙන verified update එකක් ලෙස notification එකක් එවීමට අදාල වැඩසටහන කටයුතු කරනු ලබනවා.\n\nමෙම spyware එක activate වීමෙන් පසුව එයට ඔබගේ messages, contacts, search history සහ bookmarks access කිරීමට සහ upload කිරීමට හැකියාව හිමිවන අතර එයට ඔබගේ location track කිරීමට, camera භාවිතයෙන් photos ලබාගැනීමට, ඔබ ලබාගන්නා phone calls සහ external audio record කිරීමට මෙන්ම ඔබ clipboard එකට copy කරගන්නා content access කිරීමටද හැකියාව හිමිවෙනවා.\n\nමෙම spyware එක ඇතුළත් app එක කිසි විටෙකත් Play Store එක තුළ නොතිබූ බව Android Police වෙබ් අඩවිය පෙන්වා දෙන අතර එබැවින් පිටතින් apk files sideload නොකරන Android පරිශීලකයන් හට ඔවුන්ගේ මෙම spyware එක පිළිබඳව කරදර විය යුතු නැති බව ඔවුන් වැඩිදුරටත් පෙන්වාදෙනවා.\n\nකෙසේ වෙතත්, ඔබගේ ජංගම දුරකතනයට පැමිණෙන verified security patches update කර ගැනීමටත්, අත්‍යාවශ්‍ය වුවහොත් පමණක් විශ්වසනීය external source වලින් APKs ලබාගැනීමටත් කටයුතු කිරීම මගින් මෙවැනි අන්තරායදායක වැඩසටහන් වලින් ආරක්ෂා වීමට හැකියාව ලැබෙනවා.",
+  "category": "security",
+  "date": "2021-03-29",
+  "extraction_timestamp": "2026-02-20T12:06:30.178094",
+  "headline": "Android ජංගම දුරකතනවල system update එකක් ලෙස පැමිණෙන නව spyware එකක් පිළිබඳව තොරතුරු වාර්තා වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/new-spyware-on-android-pretends-to-be-a-system-update-for-your-phone/",
+  "word_count": 281
+}

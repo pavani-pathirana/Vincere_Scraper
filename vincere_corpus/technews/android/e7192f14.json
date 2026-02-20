@@ -1,0 +1,13 @@
+{
+  "body": "ඔයා Android ජංගම දුරකථනයක් භාවිතා කරනවා නම් බොහෝ වෙලාවට SMS/MMS සඳහාAndroid Messages app එකභාවිතා කරනවා ඇති.\n\nඒ වගේම 2018 වර්ෂය පුරාවට මේAndroid Messages app එක වැඩිදියුණු කරන්නට Google සමාගම කටයුතු කළඅතරඅන්තර්ජාලය හරහා SMS යැවීමේ සහ කියවීමේ පහසුකම දමෙයට එකතු කරන්නට ඔවුන් කටයුතු කළා.\n\nඉතින් මේAndroid Messages web app එකභාවිතා කරන විට මේ වෙනකන් එය භාවිතා කිරීමට හැකියාව ලැබුණේmessages.android.comකියන වෙබ් අඩවිය හරහා බව මේ වෙනකොටත් ඔබ දන්නවා ඇති.\n\nකොහොම වුණත්Chromium ව්‍යාපෘතියේ source code එක පිරීක්සීමේදීඅනාවරණය වූ පරිදි මේ සේවාව android.com වෙතින් google.com වෙත මාරු කිරීමට Google සමාගම සූදානම් වන බව පෙනී යනවා.\n\nකොහොම වුණත් තවමත් මේmessages.google.comකියන URL එක හරහා Android Messages web app එක භාවිතා කිරීමට අවස්ථාව නොලැබෙන නමුත්, නුදුරු අනාගතයේදීම මෙය සියළුම Android Messages පරිශීලකයන් හට භාවිතා කිරීමට අවස්ථාව ලැබෙනු ඇත.",
+  "category": "android",
+  "date": "2018-12-27",
+  "extraction_timestamp": "2026-02-20T12:18:53.583673",
+  "headline": "Android Messages සේවාව Android.com වෙතින් Google.com වෙත රැගෙන එන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-to-move-its-messages-web-app-from-android-com-to-google-com/",
+  "word_count": 121
+}

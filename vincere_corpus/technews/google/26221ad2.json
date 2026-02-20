@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින් සෑම නව update එකක් සමඟම නිරන්තරයෙන් chrome වෙත නව විශේෂාංග එක් කිරීමට කටයුතු කරන නමුත්, මෙම විශේෂාංග public release එකක් ලෙස නිකුත් කිරීමට පෙර, පරිශීලකයන් හටchrome://flagspage එකෙහි අදාළ experimental flags enable කිරීමෙන් ඒවා පරීක්ෂා කිරීමට හැකියාව තිබෙනවා.\n\nකෙසේ වෙතත්, chrome://flags page එකෙහි විශාල flags ප්‍රමාණයක් අන්තර්ගත කර ඇති බැවින්, නව flags සියල්ලම නිරීක්ෂණය කිරීම තරමක් අපහසු ක්‍රියාවක් වෙනවා.\n\nමෙම ගැටළුව විසඳීම සඳහා Google සමාගම විසින් දැන් Chrome Labs නමින් නව විශේෂාංගයක් පරීක්ෂා කරමින් සිටින අතර එමඟින් ඇතැම් නව flags කෙලින්ම පරිශීලකයින් හට පෙන්වීමට කටයුතු කරනු ලබනවා.\n\nTechdows වෙබ් අඩවියේ වාර්තාවකට අනුව, නව Chrome Labs විශේෂාංගය මේ වනවිට, නවතම Chrome Canary builds හරහා ලබා ගත හැකි අතර Chrome Labs විශේෂාංගය මුලින්ම භාවිතා කිරීම සඳහා ඔබට එම විශේෂාංගය සක්‍රීය කිරීමට සිදුවෙනවා.\n\nඒ සඳහා ඔබ නවතම Chrome Canary version එක වන (v 89.0.4353.0) install කරගත යුතු අතර ඉන්පසුව ඔබට chrome: // flags page එකට ගොස් 'Chrome Labs' search කර ‘Chrome Labs’ flag එක enable කර browser එක restart කළ යුතු වෙනවා.\n\nඉන්පසුව, ඔබගේ browser එකෙහි address bar එක අසලErlenmeyer flask එකක්(ප්ලාස්කුවක්) හැඩැති නව icon එකක් දැකගැනීමට හැකියාව ලැබෙනු ඇති අතර ඒ මත click කිරීමෙන් ලැබෙන drop-down menu එක හරහා ඔබට ලබා ගත හැකි සියලුම experimental flags දැකගැනීමට හැකියාව ලැබෙනවා.\n\nමේ වන විට, Chrome Labs විශේෂාංගයෙහි Reading List සහ Tab Search නමින් නව පර්යේෂණාත්මක විශේෂාංග දෙකක්ද ලැයිස්තුගත කර තිබෙනවා දැකගන්න පුළුවන්.\n\nමෙම Chrome Labs විශේෂාංගය stable channel එකකට ලබාදෙන කාලවකවානුවක් පිළිබඳව තොරතුරු තවමත් වාර්තා වී නොමැති අතර Google සමාගම විසින් මෙම විශේෂාංගය පිළිබඳ වැඩි විස්තර නිකුත් කළ විගස අපි ඔබව දැනුවත් කිරීමට බලාපොරොත්තු වෙනවා.",
+  "category": "google",
+  "date": "2020-12-16",
+  "extraction_timestamp": "2026-02-20T12:08:00.612284",
+  "headline": "Google සමාගමෙහි නව Chrome Labs විශේෂාංගය මඟින් පරිශීලකයින් හට experimental browser features පහසුවෙන් පරීක්ෂා කිරීමට හැකියාව ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/googles-new-chrome-labs-lets-users-test-experimental-browser-features/",
+  "word_count": 253
+}

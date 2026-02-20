@@ -1,0 +1,13 @@
+{
+  "body": "iOS 14 සංස්කරණය හඳුන්වාදීමත් සමඟින් එහි security feature එකක් ලෙස clipboard එකේ ඇති දත්ත copy කරගන්නා විට ඒ බව toast message එකක් හරහා පරිශීලකයාව දැනුවත් කිරීමේ පහසුකමක් ලබාදීමට Apple සමාගම කටයුතු කරනු ලැබුවා.\n\nමේ අලුත් පහසුකමත් සමඟින්, TikTok ඇතුලු තවත් apps ගණනාවක් විසින් පරිශීලකයාගේ දත්ත හොර රහසේම ලබාගැනීමට කටයුතු කරමින් සිටින බව අනාවරණය වූ අතර ඒ පිළිබඳව අපි ඔබව මීට පෙර දැනුවත් කළා මතක ඇති.\n\nමෙලෙස පරිශීලක දත්ත ලබාගන්නා apps අතර ඉතා ප්‍රසිද්ධ සේවාවක් වන Reddit සේවාවට අදාල app එකද තිබුණු අතර, මේ වන විට එම code එක ඉවත් කර, මෙම ගැටළුවට විසඳුමක් ලබාදීමට කටයුතු කරමින් සිටින බව Reddit ආයතනය ප්‍රකාශ කර තිබෙනවා.\n\nClipboard එකට copy කරනු ලැබූ URL නිරීක්ෂණය කර, ඒවා අනුව Reddit suggestions ලබාදීමට කටයුතු කරනු ලැබූ බවත්, මෙලෙස copy කරගත් දත්ත කිසිඳු අයුරකින් store කරගැනීමක් සිදු නොකළ බවත්, මෙම පහසුකමට අදාල code segments ඉවත් කර, මීළඟ 14 වැනි දින update එකක් නිකුත් කරනු ලබන බවත් Reddit සමාගම විසින් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nUPDATE: Seems like Reddit is capturing the clipboard on each keystroke as well 😕Seeing the notification come up just as much.pic.twitter.com/nzbElmRG2a\n\nමේ අතර Reddit සේවාවට අමතරව LinkedIn සේවාව විසින් ද මෙම කටයුත්ත සිදු කරමින් පැවති අතර, මෙම දත්ත transmit කිරීම හෝ store කරගැනීමක් සිදු නොකළ බව ප්‍රකාශ කරනු ලැබුවත්, මේ වන තුරු ඔවුන් එම දත්ත භාවිතා කිරීමට මූලික වූ හේතුවක් පිළිබඳව කිසිඳු නිළ වාර්ථාවක් සිදු කිරීමට කටයුතු කර නැහැ.\n\nHi@DonCubed. Appreciate you raising this. We've traced this to a code path that only does an equality check between the clipboard contents and the currently typed content in a text box. We don't store or transmit the clipboard contents.\n\nමූලිකව මෙමෙ චෝදනාව TikTok සේවාව වෙත එල්ල වුණු අතර එහිදී ඔවුන් ප්‍රකාශ කර සිටියේ මෙම දත්ත භාවිතා කරමින් ඔවුන්ගේ anti-spam පහසුකම ක්‍රියාත්මක වන බව වන අතර ඔවුන් ද එම පහසුකම ඉවත් කරමින් අලුත් update එකක් ලබාදීමට කටයුතු කරනු ලැබුවා.\n\nඉදිරි සති කිහිපය ඇතුලත් iOS 14 සංස්කරණයේ public beta එකක් බළාපොරොත්තු විය හැකි බවත්, ඒ සමඟින් තවත් මෙවැනි apps පිළිබඳව දැනගත හැකි වනු ඇති බවත් The Verge වෙබ් අඩවිය වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "security",
+  "date": "2020-07-06",
+  "extraction_timestamp": "2026-02-20T12:08:29.486895",
+  "headline": "iOS clipboard එකේ ඇති දත්ත හොර රහසේම copy කරගන්නා ගැටළුව විසඳීමට කටයුතු කරනු ලබන බව Reddit සහ LinkedIn ආයතන ප්‍රකාශ කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/reddit-says-its-fixing-code-in-its-ios-app-that-copied-clipboard-contents/",
+  "word_count": 333
+}

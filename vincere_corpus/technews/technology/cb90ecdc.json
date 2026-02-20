@@ -1,0 +1,13 @@
+{
+  "body": "Intel සමාගම විසින් ඔවුන්ගේ 11th generation “Rocket Lake” CPUs 2021 වසරේ මුල් කාර්තුව තුලදී නිකුත් කිරීමට නියමිතව ඇති බව පසුගියදා නිළ වශයෙන් ප්‍රකාශ කරනු ලැබූ අතර ඔවුන් විසින් නිකුත් කරන ලද මාධ්‍ය නිවේදනයට අනුව මෙම CPUs PCIe 4.0 සඳහාද සහාය දක්වනවා.\n\nනිළ නොවන ආරංචි මාර්ග වලට අනුව, නව chipsets 2021 මාර්තු මාසය පමණ වන විට නිකුත් වනු ඇතැයි අනුමාන කෙරෙනවා.\n\nනිළ තහවුරු කිරීමක් නොමැති වුවද, මේ සඳහාත් Intel සමාගම විසින් වසර ගණනාවක් තිස්සේ භාවිතා කළ 14nm process එකම භාවිතා කරනු ඇති බවද සඳහන් වන නමුත්, මෙයින් අදහස් කරන්නේ මෑතකදී ප්‍රකාශයට පත් කරන ලද 11th-gen mobile processors වල මෙන් මෙම series එකෙත් architectural improvements දැකිය හැකි බවයි.\n\nඑමෙන්ම, නව Rocket Lake-S chips දැනට පවතින Intel 400-series motherboards සමඟ compatible වනු ඇතැයි අපේක්ෂා කරන අතර එය එසේ වුවහොත්, එමඟින් පරිශීලකයින්ට පහසුවෙන් තමන්ගේ පරිගණක upgrade කිරීමේ හැකියාවද තිබෙනවා.\n\nමෙහිදී දැකගත හැකි වඩාත් වැදගත්ම update එක වනුයේ PCIe 4.0 storage සඳහා සහාය දැක්වීම වන අතර මෙම පහසුකම AMD සමාගම විසින් දැනට පවතින Ryzen CPUs සමඟ ඉදිරිපත් කර තිබෙනවා.\n\nඊට අමතරව මේ සඳහා Intel සමාගමෙහි නවතම Xe graphics භාවිතා කිරීමට මෙන්ම USB 4 සහ Thunderbolt 4 සඳහාද සහය ලබා දෙනු ඇතැයි අපේක්ෂා කිරීමට හැකියාව තිබෙනවා.\n\nIntel සමාගම විසින් desktop PC අවකාශයෙහි ආධිපත්‍යය දැරූ කාලයක්ද තිබුණ නමුත්, මේ වනවිට මෙම තත්වය වෙනස් වී තිබෙන අතර බොහෝදෙනා AMD සමාගමෙහි Ryzen CPU දෙසට යොමුවීමේ වැඩි නැඹුරුතාවයක් දක්වනවා.",
+  "category": "technology",
+  "date": "2020-10-10",
+  "extraction_timestamp": "2026-02-20T12:09:04.413118",
+  "headline": "2021 මුල් භාගයේදී Intel 11th-gen ‘Rocket Lake’ desktop processors නිකුත් කරන බවට Intel සමාගම තහවුරු කරයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/intel-confirms-11th-gen-rocket-lake-desktop-processors-coming-in-early-2021/",
+  "word_count": 219
+}

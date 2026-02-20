@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මාර්තු මස 14 වැනිදා Google සමාගම විසින් ඔවුන්ගේ Android මෙහෙයුම් පද්ධතියේ අලුත්ම සංස්කරණය වනAndroid Q වල ප්‍රථම beta සංස්කරණය නිකුත් කිරීමට කටයුතු කළාමතක ඇති.\n\nමුල් නිකුත් කිරීමෙන් සති තුනකට ආසන්න කාලයකින් පසුව ඔන්න දැන් මේ Android Q වල දෙවැනි beta සංස්කරණය ද Google Pixel devices සඳහා නිකුත් කිරීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nමෙම beta 2 සංස්කරණයත් සමඟින් Android මතදී Multitasking සඳහා Bubbles නමින් අලුත් ක්‍රමයක් හඳුන්වා දීමට Google සමාගම කටයුතු කර තිබෙන අතර Facebook Messenger වල තිබෙන ආකාරයේ bubble මගින් දැනට open කර ඇති apps භාවිතා කළ හැකි වෙනවා.\n\nමීට අමතරවතවත් Privacy features කිහිපයක්සහඒවා පිළිබඳව අදහස් දැක්වීමේ අවස්ථාවක්ද ලබා දීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nඑමෙන්ම Android Studio 3.5 වල Canary release එක සමඟින් foldable device වල ඇති functionality එක test කිරීමේ හැකියාව ලැබෙන Android Emulator නිර්මාණය කිරීමේ හැකියාව ද ලබා දීමට ද මොවුන් කටයුතු කර තිබෙනවා.\n\nමේ සමඟින් Foldable screen සහිත devices වලට තම apps optimize කිරීමේ හැකියාව developer වරුන් හට ලැබෙන අතර Android Q මෙහෙයුම් පද්ධතියේ stable සංස්කරණයක් මීළඟ අගෝස්තු මාසයේදී පමණ නිකුත් කරන අවස්ථාව වන විට අදාල apps ද ගැටළුවකින් තොරව එම මෙහෙයුම් පද්ධතිය මත ක්‍රියාත්මක කරවීමට අවස්ථාව හිමි වෙනවා.",
+  "category": "android",
+  "date": "2019-04-05",
+  "extraction_timestamp": "2026-02-20T12:17:50.201671",
+  "headline": "Android Q වල දෙවැනි Beta සංස්කරණය නිකුත් කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-outs-android-q-beta-2-with-a-new-way-to-multitask/",
+  "word_count": 185
+}

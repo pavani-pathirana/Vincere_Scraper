@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගමවිසින් ඔවුන්ගේGoogle Chrome වල සහ Windows 7 වල තිබෙන දුර්වලතාවයන් දෙකක්පසුගිය පෙබරවාරි 27 වැනිදා හඳුනාගෙන ඇති අතර, Chrome වල තිබෙන bug එකට update එකක් ලබා දීමට කටයුතු කර තිබෙනවා.\n\nකොහොම නමුත් Windows වල පවතින bug එක ද Microsoft සමාගමට පෙන්වා දී ඇති අතර ඒ වෙනුවෙන් වන Windows update එක තවමත් ලබා දීමට කටයුතු කර නොමැති බව වාර්ථා වෙනවා.\n\nමේ Windows වල පවතින bug එක හරහා හැකර්වරුන් හට Chrome වල තිබෙනsecurity sandbox එක, එහෙමත් නැතිනම් ආරක්ෂක පද්ධතියෙන් පිටට විත්, system එකේ files access කිරීමේ අවස්ථාව ලැබෙන බව ඔවුන් පෙන්වා දෙනවා.\n\nමෙය දැනට Windows 7 32bit සංස්කරණ වල පවතින බව තහවුරු කල ද ඊට පෙර නිකුත් කළ Windows මෙහෙයුම් පද්ධති වල ද තිබිය හැකි බව විශ්වාස කරනු ලබනවා.\n\nඔයා Google Chrome web browser එක භාවිතා කරනවා නම්, හැකි ඉක්මණින් 72.0.3626.121 වන Chrome සංස්කරණය හෝ ඊට පසුව නිකුත් කළ සංස්කරණයක් වෙතupdate කරගන්නා ලෙසGoogle සමාගම ඉල්ලා සිටින අතර, Windows 7 භාවිතා කරන්නන් හට හැකි ඉක්මණින් Windows 10 වෙත මාරු වන ලෙස ද ඉල්ලා සිටිනවා.\n\nඑමෙන්ම මේ වෙනුවෙන් update එකක් නිකුත් කිරීමට Microsoft සමාගම ද කටයුතු කරමින් සිටින බව මේ වන විට දැනගන්නට ලැබෙනවා.",
+  "category": "microsoft",
+  "date": "2019-03-10",
+  "extraction_timestamp": "2026-02-20T12:11:24.335942",
+  "headline": "Windows 7 වල Chrome භාවිතා කරන විට ඇති වන Security Bug එකක් Google සමාගම විසින් පෙන්වා දෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/google-reports-zero-day-exploit-in-windows-7/",
+  "word_count": 180
+}

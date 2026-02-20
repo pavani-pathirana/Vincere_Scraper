@@ -1,0 +1,13 @@
+{
+  "body": "Signal ආයතනයේ විශාලතම තරඟකරුවා වනWhatsApp සමාගමේ මෑතකදී ඇති වූ පසුබෑමෙන්ප්‍රයෝජන ගැනීම සඳහා Signal ආයතනය විසින් පසුගිය මාස කිහිපයේදී encrypted group calls, custom wallpapers, animated stickers ඇතුළු නව විශේෂාංග කිහිපයක්ම හඳුන්වාදීමට කටයුතු කරනු ලැබුවා.\n\nමේ වනවිට, Signal පරිශීලකයින් හටWhatsApp Paymentsසඳහා විකල්පයක් ලබාදීම සඳහා, Signal ආයතනය විසින් එක්සත් රාජධානිය තුළ privacy එක කේන්ද්‍ර කරගත් නව payments feature එකක් පරීක්ෂා කිරීම ආරම්භ කර තිබෙනවා.\n\nSignal හි developers ලාගේ blog post එකකට අනුව, Signal app එක සඳහා ලබාගත හැකි නවතම beta update එකත් සමඟ Signal Payments නමින් නව විශේෂාංගයක් හඳුන්වාදෙන අතර එමඟින්MobileCoinභාවිතයෙන් platform එකට payments යැවීමට සහ ලබාගැනීමට හැකියාව තිබෙනවා.\n\nMobileCoin යනු privacy-focused payments protocol එකක් වන අතර එය පරිශීලකයින් හට digital wallet එකක් සහ MOB නමින් හැඳින්වෙන cryptocurrency එකක් ලබා දෙනු ලබනවා.\n\nනවතම Signal beta update එක හරහා එක්සත් රාජධානියේ සිටින Signal පරිශීලකයින් හට මුදල් යැවීමට සහ ලබාගැනීමට පහසුවෙන් MobileCoin wallet එකක් Signal app එකට link කිරීමට හැකියාව ලබාදෙන අතර ඒ හරහා ඔබගේ ශේෂය පිළිබඳව සොයා බැලීමට සහ ඔබගේ transaction history එක පරික්ෂා කිරීමට හැකියාව ලබාදෙන සරල interface එකක්ද ලබාදෙනවා.\n\nMobileCoin නිර්මාණය කර ඇති ආකාරය නිසා, ඔබගේ කිසිදු ගෙවීම් තොරතුරක් සඳහා Signal ආයතනය වෙත ප්‍රවේශය නොමැති වෙනවා.\n\nමෙම විශේෂාංගය දැනට එක්සත් රාජධානියේ පරිශීලකයින් හට පමණක් සීමා වී ඇති නමුත්, එය ඉක්මනින් තවත් කලාප කරා ව්‍යාප්ත වනු ඇතැයි අපේක්ෂා කල හැකි වෙනවා.",
+  "category": "social-media",
+  "date": "2021-04-09",
+  "extraction_timestamp": "2026-02-20T12:08:59.129361",
+  "headline": "Signal ආයතනය privacy එක කේන්ද්‍ර කරගත් payments feature එකක් පරීක්ෂා කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/signal-starts-testing-a-privacy-focused-payments-feature/",
+  "word_count": 208
+}

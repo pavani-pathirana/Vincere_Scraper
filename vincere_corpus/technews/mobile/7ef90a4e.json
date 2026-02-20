@@ -1,0 +1,13 @@
+{
+  "body": "Wireless charging සහ reverse wireless charging යනු මේ වන විට premium smartphones වල ඇති පහසුකමක් ලෙස හැඳින්විය හැකි අතර මෙහිදී තරමක් විශාල ප්‍රමාණයේ කම්බි දගරයක් භාවිතා කර උපාංග හරහා විදුලි සම්ප්‍රේෂණය සිදුකරනු ලබනවා.\n\nQiයනු මෙම රැගන් රහිත තාක්ෂණය සදහා භාවිතා කරන ප්‍රධානතම ප්‍රමිතිය වන අතර මෙම  Qi wireless charging තාක්ෂණය අන්තර්ගත වන නවතම උපාංග හරහා Fast Charging පහසුකම 10W දක්වා ලබාගැනීමේ හැකියාවක් පවතී.\n\nමේ වන විට මේ Wireless charging පහසුකම NFC තාක්ෂණය හරහා ලබාදීමට හැකියාව ලැබෙන ක්‍රමවේදයක් පිළිබඳවNFC Forum එකවිසින් නිවේදනය කර තිබෙනවා.\n\nකෙසේ නමුත් නවතම NFC තාක්ෂණය මගින් එතරම් වේගයක් ලබාගැනීමට නොහැකි බව NFC Form එක සදහන් කරනවා.\n\nමෙයින් ලැබෙන්නේ 1W වැනි බලයක් පමණක් වන අතර මෙම පහසුකම හදුන්වා දී තිබෙන්නේ IoT devices සහ කුඩා consumer devices සදහාය.\n\nඊට හේතුව මෙවැනි කුඩා devices වල ඇති අවකාශය ඉතාමත් සීමිත බැවින් මෙම පහසුකම හරහා නිෂ්පාදකයින්ට ඔවුන්ගේ devices වල NFC chip එකක් තිබේනම් වෙනම wireless charging module එකක් අවශ්‍ය නොවෙන නිසා අවකාශය (space එක) උපරිමව ප්‍රයෝජනයට ගැනීමට හැකියාව ලබාදීමයි.\n\nඋදාහරණයක් ලෙස, වෙනත් device එකක් සමඟින් pair වීම සඳහා NFC තාක්‍ෂණය ඇතුළත් කර ඇති Bluetooth headset එකක් wireless ආකාරයෙන් charge කිරීම සඳහා NFC පහසුකම භාවිතා කළ හැකි වීම පෙන්වා දිය හැක. මෙම අවස්ථාවේ දී, NFC ඇන්ටෙනාව තොරතුරු හුවමාරු කර ගැනීමට සහ බලය සම්ප්‍රේෂණය කිරීම යන කාරණා දෙකටම භාවිතා කළ හැකි වෙනවා.\n\nමෙහිදී සන්නිවේදනයට සහ Charging සදහා එකම ඇන්ටෙනාවක් යොදා ගන්නා අතර මෙම තාක්ෂණය මගින් smartwatches, fitness trackers, wireless earbuds, digital pens වැනි devices wireless charge කිරීම තවත් පහසු කෙරෙනු ඇති බව NFC Forum මගින් සදහන් කරයි.\n\nකොහොම නමුත් පැරණි NFC chips අන්තර්ගත වන devices හරහා මේ පහසුකම භාවිතා කළ නොහැකි වනු ඇති බවත්, අලුත් hardware specification එකක් මේ සඳහා යෝජනා වනු ඇති බවත් XDA-Developers වෙබ් අඩවිය පෙන්වා දෙනවා.",
+  "category": "mobile",
+  "date": "2020-05-11",
+  "extraction_timestamp": "2026-02-20T12:12:50.802859",
+  "headline": "NFC තාක්ෂණය හරහා Wireless Charging පහසුකම ලබාදිමට සූදානම් වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/nfc-now-supports-limited-wireless-charging-capabilities/",
+  "word_count": 275
+}

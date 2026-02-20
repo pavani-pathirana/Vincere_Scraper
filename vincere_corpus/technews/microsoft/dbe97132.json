@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මාර්තු මාසයේදී Chromium-based Edge browser එක සඳහා vertical tabs option එකක් හඳුන්වාදීමට සූදානමින් සිටින බවMicrosoft සමාගම ප්‍රකාශ කළ අතරඑමඟින් පරිශීලකයන් හට vertical tab navigation එකක් ලබාගැනීමට අවස්ථාව ලැබෙන බව සමාගම වැඩිදුරටත් පෙන්වා දෙනු ලැබුවා.\n\nමේ වනවිට Microsoft සමාගම විසින් Edge Dev channel එක සඳහා vertical tabs option එකෙහි preview එකක් හඳුන්වාදී තිබෙනවා.\n\nඔබ දැනටමත් Edge browser එකෙහි Dev channel එකට සම්බන්ධ වී සිටින්නේ නම්, Settings > Appearance වෙත ගොස් “show vertical tabs button” නම් toggle එක enable කිරීම මගින් මෙම නව layout එක සක්‍රීය කරගැනීමට හැකියාව තිබෙන අතර ඉන්පසුව ඔබට browser එකෙහි ඉහළ කෙළවරෙහි vertical tabs icon එකක් දැකගැනීමට හැකිවෙනවා.\n\nමේ වනවිට මෙම විශේෂාංගය Edge Dev channel එක සඳහා පමණක් නිකුත් කර ඇති අතර ඉක්මනින්ම මෙම විශේෂාංගය Edge stable version එක සඳහාද ලබාදෙනු ඇතැයි අනුමාන කළ හැකි වෙනවා.",
+  "category": "microsoft",
+  "date": "2020-10-30",
+  "extraction_timestamp": "2026-02-20T12:08:18.478835",
+  "headline": "Microsoft Edge browser එක සඳහා Vertical Tabs layout එකක් හඳුන්වාදීමට Microsoft සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-edge-is-getting-a-slick-vertical-tabs-layout/",
+  "word_count": 129
+}

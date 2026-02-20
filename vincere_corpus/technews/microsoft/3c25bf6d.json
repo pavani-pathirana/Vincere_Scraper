@@ -1,0 +1,13 @@
+{
+  "body": "ඔන්න දැන් mobile processors වලින් කරන්න පුළුවන් වැඩ ගොඩක් වැඩි වෙලා. Windows 10  දැන් සාමාන්‍යය ලැප්ටොප් වල වගේම ARM based ලැප්ටොප් සහ ටැබ් වලත් ධාවනය කරන්න පුළුවන්. ඒ වගේම QUALCOMM® SNAPDRAGON™ 820, 835 හා SNAPDRAGON™ 845 යන චිප් සහිත පරිගණක වල Windows 10 enterprise හි developer සංස්කරණය Windows 10 Pro සංස්කරණය අත්හදා බලන්නත් මේ වෙනකොට පුළුවන් වෙලා තියනවා.\n\nමේ Windows 10 ARM based devices වල ධාවනයත් සමඟින් laptops සහ tablet වල ඉදිරි අනාගතය ගොඩක් වෙනස් වේවි. මේ Windows දැනට නම් x86 programs ධාවනය කරවන්න තමයි සමත් වෙලා තියෙන්නේ. ඒ කොහොම වුනත් මේ Windows සාර්ථකව පරීක්ශණ මට්ටමේ වැඩ කටයුතු කරගෙන යනවා වගේම Microsoft සමාගම සහ QUALCOMM® ආයතනයත් මේ ගැන ඉතාමත් උනන්දුවෙන් කටයුතු කරනවා. Adobe Photoshop වගේ වැඩසටහන් ධාවනය කිරීමෙන් අත්හදාබැලීම් සිදුකරන මේ Windows 10 දැන් අළුතින් එන හැම Developer preview සංස්කරණයකම අන්තර්ගත වෙනවා. ඒ කියන්නේ ARM based පරිගණකයකට දැන් මේ Windows ස්ථාපනය කරලා බලන්න ඔයාට වුණත් පුළුවන්.\n\nHP envy x2 කියන ලැප්ටොප් පරිගණක වල ARM මාදිලියක් මේ වෙනකොට වෙළඳපලට නිකුත් වෙලා තියනවා. මේ HP envy x2 ලැප්ටොප් එක SNAPDRAGON™ 835 කියන mobile chipset එක සහිත පරිගණකයක්. නමුත් මෙය Windows 10 in S mode එකත් සමගයි ඇවිත් තියෙන්නේ. කොහොම වුණත්  ඔයාලට windows 10 pro මේ පරිගණකයට install කරන්න බැරිකමක් නෑ. මේ Windows 10 in S mode එකත්  April 2018 Update එකත් එක්කම Windows 10 Pro in S mode කියන උපකරණයක් බවට යාවත්කාලීන කරලත් තියනවා. ඒ වුණත් Windows 10 සමඟ මේ පරිගණකය නම් අනාගත වෙනසක් ඇතිකරන පරිගණකයක් කියලත් හදුන්වන්න පුළුවන් මොකද tech geeks ලා තම තමන්ගේ mobile එකටත් Windows install කරාවි.\n\nHP envy x2 හි 4G LTE, WiFi වගේම 4GB RAM එකකුත් තියනවා. මේ Windows 10 in S mode කියන රාමුවෙන් එළියට ගත්තම නම් මේ ලැප්ටොප් එකෙන් එයාලා කියනවාටත් වඩා වැඩ ගන්න පුළුවන් වගේම Windows 10 enterprise හි developer සංස්කරණයත් මෙහි අත්හදා බලන්නත් පුළුවන් වෙලා තියනවා.",
+  "category": "microsoft",
+  "date": "2018-05-27",
+  "extraction_timestamp": "2026-02-20T12:13:44.963760",
+  "headline": "Windows 10 සමඟින් එන ARM based ලැප්ටොප් පරිගණක",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/windows-10-arm-based-laptops/",
+  "word_count": 293
+}

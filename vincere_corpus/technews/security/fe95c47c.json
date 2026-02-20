@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින් Autofill API එක Android පරිශීලකයන් හට හඳුන්වා දී වසර කිහිපයක් ගත වී ඇති අතර එමඟින් වෙනත් password manager සේවාවන් වල මෙන්ම පහසුවෙන් ඔබගේ credentials පුරවා අදාල apps වෙත පිවිසීමට හැකියාව ලැබුණා.\n\nකෙසේ වෙතත් බොහෝ third-party password apps මඟින් ඔබගේ තොරතුරු වෙනත් app එකකට ලබාදීමට පෙර ඔබේ අනන්‍යතාවය තහවුරු කර ගැනීමට පියවර ගන්නා අතර, Google autofill පහසුකම භාවිතා කිරීමට එවැනි අවශ්‍යතාවයක් නොතිබුණු බැවින්, එය තරමක් අනාරක්ෂිත බව ඔබටත් දැනෙන්නට ඇති.\n\nමේ සඳහා විසඳුමක් ලෙස Google සමාගම විසින් ලබාදීමට සූදානමින් සිටින පහසුකමක් පිළිබඳව පසුගිය ජනවාරි මාසයේ දීXDA-Developers වෙබ් අඩවිය විසින්සිදු කළ Play Services teardown එකක් මඟින් අනාවරණය වූ නමුත් ඒ වන විට එම පහසුකම පරිශීලකයන් හට ලබාදී තිබුණේ නැහැ.\n\nකොහොම නමුත් Google Play Services වෙත මෑතකදී එක් කල update එකක් හරහා Google Autofill වෙත මෙම පහසුකම ලබාදී තිබෙන බව දැකගැනීමට හැකියාව ලැබෙන අතර මෙම නව විශේෂාංගය භාවිතා කරනු ලබන විට form එකකට දත්ත ඇතුලත් කිරීමට පෙර පරිශීලකයින් හට biometric authentication ලබාදීමට සිදුවේ.\n\nAndroid Police වෙබ් අඩවිය සඳහන් කරන පරිදි මෙම විශේෂාංගය Google Play Services v20.33.13 සංස්කරණය භාවිතා කරන්නන් හට ලබා ගත හැකි නමුත් එය ඊට මාසයකට පමණ පැරණි v20.26.14 සංස්කරණය භාවිතා කරන ඇතැම් පුද්ගලයන් හට ද ලබා ගත හැකි වූ නිසාවෙන් මෙය server-side update මඟින් ක්‍රියාත්මක වන බව අනුමාන කළ හැක.\n\nඔබටත් මෙම පහසුකම ලැබී ඇත්නම්Settings > Google > Autofill > Autofill with Googleයන path එකෙහිAutofill Securityයනුවෙන් නව menu එකක් තුළ Credentials toggle එකක් දැකගැනීමට හැකි විය යුතුය.\n\nමෙම පහසුකම සක්‍රීය කරගැනීම සඳහා Settings > System > Languages & Input > Autofill service වෙත ගොස් එහි එහි ඇති options වලින් Google autofill සේවාව තෝරාගත යුතු වෙනවා.\n\nඑහිදී දකින්නට ලැබෙන screen එකට අලුතින් Autofill Security නම් වූ අලුත් option එකක් එකතු වී ඇති අතර ඒ යටතේ ඇති use biometrics යන option එක enable කරගත යුතු වෙනවා.\n\nදැන් ඔබගේ passwords, payment methods, addresses සහ ඔබගේ වෙනත් තොරතුරු autofill පහසුකම හරහා ඇතුළත් කිරීමට පෙර ඔබගේ අනන්‍යතාවය තහවුරු කිරීමට සිදු වෙනවා.\n\nමෙම පහසුකම Android 10 සහ ඊට ඉහළ උපාංග වල ක්‍රියාත්මක වන අතර fingerprint, face හෝ retina authentication සඳහා සහාය දක්වන උපාංග වල භාවිතා කළ හැකි බව XDA-Developers වෙබ් අඩවිය පෙන්වා දෙනවා.",
+  "category": "security",
+  "date": "2020-08-22",
+  "extraction_timestamp": "2026-02-20T12:08:00.608286",
+  "headline": "Google Autofill පහසුකමෙහි ආරක්ෂාව වෙනුවෙන් Biometric authentication භාවිතා කිරීමේ හැකියාව Android පරිශීලකයින් හට ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/google-autofill-on-android-now-supports-biometric-authentication/",
+  "word_count": 339
+}

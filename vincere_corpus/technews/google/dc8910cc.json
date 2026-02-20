@@ -1,0 +1,13 @@
+{
+  "body": "Email එකක් එන වාරයක් පාසා ම notification එකක් එන එක ඔබට කරදරයක් වෙලා ද? ඔන්න එහෙනම් Google සමාගමෙන් මේකට විසඳුමක් ඉදිරිපත් කරලා තිබෙනවා.\n\niOS එකට අදාල Gmail එකේ අළුත්ම version එක මගින් කෘතීම බුද්ධිය එහෙමත් නැත්නම් Artificial Intelligence භාවිතා කරමින් ඔබට වඩාත් වැදගත් emails පමණක් හඳුනාගෙන, එම වැදගත් emails වලට පමණක් nofitications පෙන්වීමට කටයුතු කරනවා.\n\nමීට ඉහතදී මෙම පහසුකම Google Inbox App එකට පමණක් සීමා වී තිබූ අතර Gmail වල මෑතකදී සිදු කරන ලද වෙනස්කම් වලට අනුව මෙය Gmail App එකට ද හඳුන්වා දී තිබෙනවා.\n\nGmail Settings -> Notifications වෙත පිවිස  \"High priority only\" ලෙස සැකසීමෙන් මෙම පහසුකම enable කරගත හැකිය. කෙසේ වෙතත් මේ වන තුරු ඔබට මෙම option එක නෙපෙන්වයි නම් ඉදිරි දින කිහිපය ඇතුලත update එකක් ලෙස ලබාගැනීමට හැකියාව ලැබේවි.\n\nඑමෙන්ම දැනට මෙය iOS වලට පමණක් සීමා වුවත් ඉදිරියේදී Android වලට ද මෙම පහසුකම ලබා දීමට ඔවුන් අදහස් කරනවා.",
+  "category": "google",
+  "date": "2018-06-17",
+  "extraction_timestamp": "2026-02-20T12:23:55.764591",
+  "headline": "iOS මතදී Gmail වල notifications පෙන්වීම සඳහා කෘතීම බුද්ධිය භාවිතා කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/gmail-ios-app-now-uses-ai-for-notification/",
+  "word_count": 141
+}

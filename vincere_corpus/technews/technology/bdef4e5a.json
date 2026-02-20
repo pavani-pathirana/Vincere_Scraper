@@ -1,0 +1,13 @@
+{
+  "body": "ඔබ Google Assistant වැඩසටහන භාවිතා කරන අයෙක් නම්, එය wake up කිරීම සඳහා \"Hi Google\" හෝ \"OK Google\" ලෙස එයට ඇමතීම අවශ්‍ය වන බව අත්දැකීමෙන්ම දන්නවා ඇති.\n\nනමුත් Google Nest Hub Smart Display devuces වල ඇති Voice Assistant ව wake-up කිරීම සඳහා ඉදිරියේදී එලෙස ඇමතිම අවශ්‍ය නොවෙනු ඇති බව වාර්තා වන අතර, එනම් Voice Assistant වැඩසටහනට, ඉදිරියේදී සෑම විටම ඔබට සවන් දෙමින් සිටීමේ හැකියාවට ලැබීමට නියමිත වෙනවා.\n\nJan Boromeusz විසින් අනාවරණය කරන ලද මෙම නව අංගය ක්‍රියාත්මක වීම සඳහා, Nest Hub එකේ කැමරාව භාවිතා කරමින් පරිශීලකයා පැමිණෙනවා ද නැද්ද යන්න හඳුනාගන්නා අතර, එමෙන්ම එය Nest Hub එකේ ඇති Ultrasound sensors, Speakers හා Microphones ආදියද එම තොරතුරු ග්‍රහණය කර ගැනීම සඳහා භාවිතා කරනු ලබනවා.\n\nNest Hub එකෙහි මෙම Ultrasonic Sensor එකට device එකේ සිට මීටර් 1.2 ක පරාසයක් ආවරණය කිරීමේ හැකියාව ඇති අතර ඔබ Nest Hub එකට Face Match enable කර ඇතිනම්, ඔබ Hub එක අසලට පැමිණි විට ඔබට Notification පෙනවන අතර, Face Match enable කර නැති විටකදී වුවත්, Ultrasonic Sensor එක මඟින් Hub එක විසින් ඔබ පැමිණි බව හඳුනාගෙන ඔබට Notification පෙන්වීම සිදු කරනු ලබනවා.\n\nමෙම අවස්ථාවන් දෙක සඳහාම ඔබට Google Assistant wake-up කිරීමට අවශ්‍ය නැති අතර Hub එක විසින් ඔබ පැමිණි බව, ස්වංක්‍රීයව හඳුනාගැනීම සිදු කරනු ලබනවා.\n\nනමුත් The Independent වෙබ් අඩවිය වාර්තා කරන ආකාරයට, Google සමාගම විසින් මෙම නවතම feature එක පිළිබඳව අදහස් පළ කිරීම ප්‍රතික්ෂේප කර තිබෙන අතර ඒ නිසා මේ ගැන වැඩි විස්තර තහවුරු කර ගැනීමට ඉදිරි කාලයේදී හැකියාව ලැබෙනු ඇති බවට උපකල්පනය කළ හැකි වෙනවා.",
+  "category": "technology",
+  "date": "2020-12-12",
+  "extraction_timestamp": "2026-02-20T12:06:30.477095",
+  "headline": "Google Nest Hub Smart Display වලදී Voice Assistant wake-up කිරීමට \"Hey Google\" ලෙස ඇමතීම අවශ්‍ය නොවන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/googles-voice-assistant-will-soon-start-listening-for-your-commands/",
+  "word_count": 240
+}

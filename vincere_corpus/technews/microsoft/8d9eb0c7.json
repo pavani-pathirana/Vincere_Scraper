@@ -1,0 +1,13 @@
+{
+  "body": "Blue screen of death එහෙමත් නැත්තම් මරණයේ නිල් තිරය කියන නම ඇහුණු ගමන් අපිට මතක් වෙන්නේ Windows crash වෙලා restart වෙනකන් බලාගෙන ඉන්න එක නේද? දැන් ඉන්න තරුණ පරපුර මේ ගැන වැඩිය දන්නේ නැති වුණාට, Windows මුල් කාලේ ඉඳන් use කරපු අය නම් මේ හැඟීම මොන වගේද කියලා හොඳටම දන්නවා.\n\nමොහොතකට හරි හිතුවද Microsoft එකටම අයිති Blue screen of death screensaver එකක් තියෙයි කියලා.\n\nඅවුරුදු 10කටත් කලින් ඉඳන්ම Microsoft එකෙන්ම අපිට දීලා තියනවා office එකේ යාළුවන්ගේ ලේ රත් කරන්න නියම tools එකක්. ඒක නම් කරලා තියෙන්නේBlueScreen Screen Saverකියන නමින්මයි.\n\nමේක අපි Microsft ලා ගෙන්ම ගත්තට, මේක නිර්මාණය කරලා තියෙන්නේ නම් එයාලා නෙමෙයි. ඒක අයිති වෙලා තිබිලා තියෙන්නේ Winternals Software LP කියන සමාගමට. Microsoft එක විසින් මේ Winternals කියන සමාගම 2006 දී මිලට ගැනෙනවා. මේ tool එක release කරලා තියෙන්නෙත් 2006 ම තමයි. ඒ වගේම ඒ release කරපු links තාමත් හොඳින් වැඩ කරනවා.\n\nMark Russinovich කියන කෙනා තමයි මේ screensaver එක නිර්මාණය කරලා තියෙන්නේ. එයා දැන් Microsoft Azure එකේ Chief Technology Officer (CTO). එයයි Bryce Cogswell කියන කෙනයි එකතු වෙලා තමයි මම අර කලින් කියපු Winternals Software LP කියන සමාගම පිහිටුවලා තියෙන්නේ. ඒ වගේම ගොඩක් ප්‍රසිද්ධ website එකක් වෙන sysinternals.com එක නිර්මාණය කරන්නෙත්. ඒකත් පස්සේ Microsoft එකෙන් මිලදී ගන්නවා.\n\nමේ Screensaver එක Windows 95, 98, 2000, XP වගේම Windows server 2003 වෙනකන්ම support කරනවා. ඒ වගේම ඒක native BOSD එක විදිහටම නිර්මාණය කරන්න ඒක හදපු කෙනා වග බලාගෙන තියනවා. ඒ වගේම අළුත්ම Windows 10 එ‍කෙත් කිසිම අවුලක් නැතුව වැඩ කරනවා. නමුත් Windows 10 වල එන BOSD එක දැන් පරණ එකට වඩා වෙනස් නිසා, මේකෙන් ඒ තරම් බලපෑමක් වෙන්නේ නම් නෑ.\n\nUSE THIS SCREENSAVER TO SCARE YOUR ENEMIESමෙන්න මෙහෙමයි Microsoft එකෙන් මේ ගැන කියන්නේ.\n\nමේ වෙනකොට නම් ඉතින් Screensaver එකක් use කරන කෙනෙක් හොයාගන්නත් ටිකක් අමාරුයි. නමුත් ඉතින් මේකෙන් කියවෙන්නේ BOSD එක ගැන තිබුණු නරක ආකල්ප ඔක්කොම ගනනකට වත් නොගෙන office එකේ යාළුවෝ බය කරන්න මේක release කරන්න Microsoft එක වැඩ කරලා තියනවා.\n\nමේ වෙනකොට Microsoft එකෙන් BOSD එකට අමතරව Green Screen of Death (GSOD) කියලා අළුත් screen එකකුත් නිර්මාණය කරලා තියනවා. මේක යොදාගන්නේ නම් error එක ආවේ Windows වල production version එකක ද නැද්ද යන්න සොයාගැනීමටයි. ඒ වගේම මේ GSOD එක දකින්න ලැබෙන්නේ Windows Insider program එකේ ඉන්න users ලා ට විතරයි.\n\nඑක හොඳ දේකට තියෙන්නේ ඉස්සරට වඩා දැන් Microsoft ලා තමන්ගේ softwares release කරන්න කලින් හොඳට test කරන නිසා, මේ වගේ errors දැන් එන්නේ බොහොම කලාතුරකින්.\n\nDownload BlueScreen Screen Saver",
+  "category": "microsoft",
+  "date": "2018-05-01",
+  "extraction_timestamp": "2026-02-20T12:13:49.628908",
+  "headline": "ගොඩ දෙනෙක් නොදැන සිටි Blue Screen of Death (BSOD) Screensaver එක",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/blue-screen-of-death-bsod-screensaver/",
+  "word_count": 390
+}

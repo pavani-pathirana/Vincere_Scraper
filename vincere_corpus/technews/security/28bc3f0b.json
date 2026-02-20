@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය සිකුරාදා දිනයේFirefox වෙබ් browser එකෙහි add-ons ක්‍රියාවිරහිත වීම පිලිබදවඅපි මිට පෙර ඔබට සදහන් කලා මතක ඇති.\n\nමේ ගැටළුවට මේ වනවිටත්fix update එකක්පැමිණ තිබුණද තවමත් මෙම දෝෂය සියලුම Firefox පරිශීලකයන් හට විසදී නැති බව ලොව පුරා වෙසෙන Firefox පරිශීලකයන් විසින් වාර්ථා කරනු ලබනවා.\n\nNo. This is not acceptable. I won't update to 66.x, there's a reason I'm still on 54.Either you fix it for older versions or I'll find another browser (i.e. Chrome). Might be willing to give it one or two more days.\n\nමෙම දෝෂය තවමත් පවතින්නේ නවතම Firefox සංස්කරණය වන 66 සංස්කරණයට වඩා පහල සංස්කරණ භාවිත කරන පරිශීලකයන් හට වන අතර ඔවුන් පවසන ආකාරයට ඔවුන් නවතම සංස්කරණයට යාවත්කාලින නොවී සිටින්නේ ඔවුන් හට ඇති විවිධ හේතු නිසාවෙනි.\n\nSo basically, this was a ploy to expunge the users of older versions since it looks like you're not putting out a fix for anyone not using Quantum. Cool. Congrats--you're getting your way. But I'm not upgrading. I'm done with you.\n\nyou NEED To Do a release for ESR 52.9.0 for us XP users as we are affected as well we have No functionality with our addons  extentions/plugins\n\nබොහෝ පිරිසක් පවසන අන්දමට ඔවුන් භාවිත කරන ඇතැම් add-ons අලුත් Firefox සංස්කරණ වල භාවිත කල හැකි ආකාරයට යාවත්කාලින කර නොමැති අතර ඇතැම් add-ons, ඒවා නිර්මාණය කරන ලද ආයතන හෝ ඉංජිනේරුවන් විසින් අදාල ව්‍යාපෘතියම නවතා දමා ඇති නිසා එම add-ons වලට අදාල updates ලබා ගැනීමේ හැකියාවක් නොමැති බව වාර්ථා වෙනවා.\n\nඑමෙන්ම Windows XP වැනි පැරණි මෙහෙයුම් පද්ධති භාවිතා කරන්නන් හට Firefox වල නවතම සංස්කරණය ක්‍රියාත්මක නොවන බැවින් එම සංස්කරණ වල තවමත් මේ add-ons වල ගැටළුව එසේම පවතින බව දැනගන්නට ලැබෙනවා.\n\nමේ පිළිබඳව Mozilla ආයතනය දැනුවත් කිරීමට කටයුතු කර ඇතත් තවමත් මේ ගැන නිළ වශයෙන් නිවේදනයක් ලබා දීමට හෝ විසඳුමක් ලබා දීමට මොවුන් කටයුතු කර නොමැති බව වාර්ථා වෙනවා.",
+  "category": "security",
+  "date": "2019-05-07",
+  "extraction_timestamp": "2026-02-20T12:11:54.668688",
+  "headline": "Firefox add-ons ගැටලුවට විසඳුමක් ලබා දුන්නත් තවමත් එය භාවිතා කළ නොහැකි පිරිසක් ගැන වාර්ථා වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/firefox-pushes-another-update-to-fix-its-broken-add-ons/",
+  "word_count": 293
+}

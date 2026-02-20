@@ -1,0 +1,13 @@
+{
+  "body": "බොහෝ Twitter භාවිතා කරන්නන් පිරිසකට අද උදෑසන පණිවිඩයක් එවමින් Twitter සමාගම කියා සිටියේ ඔවුන්ගේAccount Activity API(AAAPI) එකේ පැවති bug එකක් නිසා third-party developers ලා හට direct messages බැලීමේ හැකියාව ලැබී තිබුණු බවයි.\n\nSeptember 10 වෙනි සදුදා ඔවුන් මේ Bug එක හදුනාගත් බවත් හදුනාගෙන පැයක් වැනි සුළු කාලයක් අැතුලත එය යථා තත්වයට පත්කල බවත් ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා. කොහොම නමුත් Twitter සමාගම ප්‍රකාශ කරනු ලබන අන්දමට මෙය 2017 මැයි මාසයේ පමණ සිට පැවති Bug එකකි.\n\nDevelopers use our APIs to create tools, like customer service support, or apps to better understand public conversations. We found and fixed a bug that affected less than 1% of people on Twitter in an API that may have shared certain account interactions.\n\nමේ AAAPI එක හරහා සපයනු ලබන සේවාවක් භාවිතා කරනු ලැබුවේ නම් පමණක් ඔබ මේ අවධානමට පත් වී ඇති බව පෙන්වා දෙන Twitter සමාගම මේ හරහා වෙනත් developer ලා අදාල messages බැළුවේද යන්න තවමත් තහවුරු කරගත නොහැකි බවත් පෙන්වා දෙනවා. එමෙන්ම Twitter භාවිතා කරන්නන්ගෙන් 1% ක පමණ සුළු ප්‍රමාණයක් පමණක් මෙයට අදාල වන බවත් ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමේ සිද්ධිය පිලිබදව සමාව ඉල්ලා සිටින Twitter සමාගම කියා සිටින්නේ මේ වෙනුවෙන් කලබල විය යුතු නැති බවත් මෙම සිදුවීම වෙනුවෙන් ගත හැකි සියලු පියවර ඔවුන් දැනටමත් සිදු කර ඇති බවත්ය. එමෙන්ම කිසිදු developer කෙනක් මෙම දත්ත අවභාවිතා කර අැති බවට තවමත් කිසිදු අාරංච්යක් නොමැති බව Twitter සමාගම වැඩිදුරටත් කියා සිටිනවා.\n\nමේ bug එක හරහා අගතියට පත්වී ඇතැයි අනුමාන කරන භාවිතාකරන්නන් ඔවුන්ගේ වෙබ්අඩවිය හා mobile app එක භාවිතා කරමින් සම්බන්ධ කරගැනීමට කටයුතු කරන බවත්, අදාල developers ලා විසින් මේ පුද්ගලික දත්ත ලබාගෙන ඇති නම් ඒවා මකාදැමීමට අවශ්‍යය පියවර ගන්නා බවත් ඔවුන් වැඩිදුරටත් ප්‍රකාශ කරනවා.\n\nමේ ආකාරයේම පසුගිය මැයි මාසයේ අනාවරණය වූ bug එකක් නිසාවෙන්මිලියන 330ක පමණ භාවිතා කරන්නන් පිරිසකගේ passwords plain text ආකාරයෙන් ගබඩා කර ගැනීම හේතුවෙන්මීට කලින් අවස්ථාවකදීද මෙලෙස තම භාවිතා කරනන්නගෙන් සමාව ඉල්ලීමට කටයුතු කළා මතක ඇති.\n\nTwitter සමාගම විසින් පළ කළමේ පිළිබඳව තොරතුරු ඇතුලත් ලිපියTwitter Developer Blog එක හරහා බලන්න පුළුවනි.",
+  "category": "security",
+  "date": "2018-09-22",
+  "extraction_timestamp": "2026-02-20T12:16:55.055310",
+  "headline": "Twitter එකේ bug එකක් හරහා පිටස්තර developers ලා හට Direct Messages කියවීමට අවස්ථාව ලැබී ඇත",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/twitter-api-bug-potentially-allowed-developers-to-read-dms-and-private-accounts/",
+  "word_count": 317
+}

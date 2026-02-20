@@ -1,0 +1,13 @@
+{
+  "body": "Samsung Galaxy S10 සහ Galaxy Note 10 යන ජංගම දුරකථන වල අන්තර්ගත කර ඇතිultrasonic fingerprint sensor එකවිසින් පරිශීලකයන්ගේ ඇඟිළි සළකුණු හඳුනාගැනීමට අපොහොසත් වීමක් ගැන පසුගිය සතියේ දැනගන්නට ලැබුණා.\n\nමේ ජංගම දුරකථන වල fingerprint sensor එක in-display, එහෙමත් නැතිනම් display එකට යටින් පිහිටා ඇති අතර ඇතැම් අවස්ථා වලදී display එක මත silicone screen protector එකක් සවි කළ විට, මේ හරහා ලබාගන්නා දත්ත නිවැරදි නොවන බවත්, ඉන් පසුව ඕනෑම අයෙකුගේ ඇඟිළි සළකුණක් භාවිතා කරමින් fingerprint authentication පහසුකම භාවිතා කළ හැකි වන බවත් වාර්ථා වුණා.\n\nමේ අනුව Galaxy Note10/10+ සහ S10/S10+/S10 5G ජංගම දුරකථන වල එවැනි screen protector සවි කර ඇත්නම් ඒවා ඉවත් කිරීමටත්, ඇතුලත් කර ඇති fingerprint දත්ත සියල්ල මකා දමා, අලුතින් fingerprint setup එක සිදු කරන ලෙසත් Samsung සමාගම ඉල්ලා සිටියා.\n\nBank of China has barred Galaxy S10/Note10 and Tab S6 users from its mobile banking through fingerprint unlocking after Samsung admitted the fingerprint vulnerability of these devices in a statement.pic.twitter.com/u275wUvJ1A\n\nකොහොම නමුත් මේ තත්ත්වය හමුවේ එක්සත් රාජධානිය (UK), චීනය, ඊශ්‍රායෙලය සහ කොරියාව ඇතුලු ලොව පුරා බැංකු හා මූල්‍යය ආයතන විශාල සංඛ්‍යාවක් විසින් Google Play Store හරහා අදාල ජංගම දුරකථන වලට තමන්ගේ සේවාවන් ඇතුලත් banking apps ලබාදීම තාවකාලිකව නතර කිරීමට කටයුතු කර තිබෙනවා.\n\nGood morning Robert, We've removed the app from the Play Store for customers with Samsung S10 devices. This is due to reports that there are security concerns regarding these devices. We hope to have our app available again shortly once the issue has been resolved. SY\n\nමේ දුර්වලතාවය පිළිබඳව Samsung සමාගම දැනටමත් දැනුවත් බවත්, ඉතාමත් ඉක්මණින් මේ වෙනුවෙන් software update එකක් ලබාදීමට කටයුතු කරනු ලබන බවත්, එම update එකෙන් පසුව නැවතත් fingerprint scan එක සිදු කළ යුතු වන බවත් Samsung සමාගම නිවේදනයක් නිකුත් කරමින් ප්‍රකාශ කර සිටිනවා.",
+  "category": "security",
+  "date": "2019-10-24",
+  "extraction_timestamp": "2026-02-20T12:10:20.574691",
+  "headline": "Galaxy S10 සහ Note 10 වල Fingerprint පහසුකමේ දුර්වලතාවයක් නිසා ලොව පුරා බැංකු රැසක් ඔවුන්ගේ සේවාවන් අත්හිටුවයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/banks-around-the-world-are-removing-support-for-the-galaxy-s10-and-note10-from-their-apps/",
+  "word_count": 279
+}

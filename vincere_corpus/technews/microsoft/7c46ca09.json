@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft Fluid යනු 2019 වසරේ Build සමුළුවේදී නිකුත් වුණු Framework එකක් වන අතර 2019 වසරේ දී එතරම් ප්‍රසිද්ධව නොතිබුනු දෙයක් වුවත් මෙහි අරමුණ වූයේ latency එකෙන් අඩු, පාරිභෝගිකයන් හට පහසුවෙන් එකතුවී documents වැනි දෑ සමඟින් වැඩකිරීමට හැකි platform එකක් නිර්මාණය කිරීමයි.\n\nවිශේෂත්වය වනුයේ මෙය Microsoft Office apps සමඟ ද ක්‍රියා කිරීමේ හැකියාව සහිතව නිර්මාණය කර තිබීම වන අතර වගු, සටහන් සහ ලැයිස්තු සෑදීම ඔබ මෙතෙක් සිදු කළ ආකාරයට වඩා ඉතාම පහසුවෙන් නිර්මාණය කිරීමට මේ හරහා හැකියාව ලැබෙනවා.\n\nමේ වන විට මෙම framework එක ප්‍රයෝජනවත් ලෙස භාවිතා කළ හැකි සේවාවන් කිහිපයක් ලෙස නිර්මාණය කර ඒවා Microsoft Outlook, එනම් Outlook.com සේවාව සමඟ අන්තර්ගත කිරීමටත්, මෙම framework එකේ සම්පූර්ණ source code එක open source license එක යටතේ GitHub එක හරහා නිකුත් කිරීමටත් Microsoft සමාගම කටයුතු කර තිබෙනවා.\n\nමේ අනුව ඕනෑම developer කෙනෙකු හට තමන් කැමති app එකකට හෝ සේවාවකට මේ framework එක භාවිතා කිරීමට හෝ Microsoft සමාගම සමඟ එකතු වී මේ framework එක වැඩිදියුණු කිරීමට අවස්ථාව සහ අවසරය ලැබෙනවා.\n\nමෙය බැලූ බැල්මට Google Docs වලට සමාන, සියල්ලන්ටම එකතු වී වැඩ කල හැකි platform එකක් පමණක් බව පෙනුනද ඊට අමතරව බොහෝ features මෙහි ඇති බව ඔවුන් පෙන්වා දෙනවා.\n\nමෙහි Low-Latency Collaboration විශේෂාංග නිසා ඉතා වේගයෙන් එකිනෙකා කරන වෙනස්කම් පෙන්වා දෙන අතර Online Document එකකට වඩා වෙනස් වන්නේ මෙහි ඇති Realtime Updating Feature එක නිසායි.\n\nඑමෙන්ම JavaScript API එකක් ලෙස මෙය ලබාදෙන අතර අපට අවශ්‍ය නම් අපගේ ව්‍යාපෘති වලට ඉතාමත් පහසුවෙන් මෙය අන්තර්ගත කරගැනීමේ හැකියාව ද පවතිනවා.\n\nමෙය දැනට Preview මට්ටමේ පවතින අතර ඔබටFluid Preview වෙබ් අඩවියමගින් භාවිතා කල හැකි වේ.",
+  "category": "microsoft",
+  "date": "2020-05-21",
+  "extraction_timestamp": "2026-02-20T12:09:30.941168",
+  "headline": "Microsoft සමාගමේ Fluid Framework එක open source කර Office 365 සමඟින් අන්තර්ගත කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsofts-fluid-framework-is-now-open-source-comes-to-office-365/",
+  "word_count": 246
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Google Maps2017 වර්ෂයේදී watchOS platform එකෙන් ඉවත් වූ පසුනැවතත් watchOS වෙත ලබාදීමට කටයුතු කරනු ලබන බවපසුගිය මාසයේදී Google සමාගම විසින් නිවේදනය කරනු ලැබුවා.\n\nමේ අනුව අලුත්ම update එකෙන් පසුව Apple Watch එක සඳහා Google Maps app එක මේ වන විට ලබා ගැනීමට හැකියාව තිබෙනවා.\n\nApple Watch එකට Google Maps app එක ලබාදීම හරහා මූලිකව අවධානය යොමු කර ඇත්තේ පියවරෙන් පියවර directions ලබාදීම මෙන්ම estimated arrival time එක වැනි දත්ත ලබාදීමයි.\n\nමේ app එකෙහි primary screen එක මගින් ඔබගේ “Current trip\" එක පෙන්වන අතර “Travel times” ලැයිස්තුවක් ඊට පහතින් දැකගැනීමට හැකිවෙනවා. එයට Home, Work සහ වෙනත් save කරන ලද shortcuts/destinations ඇතුළත්ව ඇති බව ද දැකගත හැකි වෙනවා.\n\nකොහොම නමුත් ඔබට ඔබගේ watch එකට සෘජුවම නව location එකක් ඇතුලත් කිරීමට හැකියාවක් නොලැබෙන අතර ඔබගේ watch එකෙහි මින් පෙර save නොකල ස්ථාන වෙත ගමන් කිරීම සඳහා ක්‍රියාවලිය ආරම්භ කිරීමට ජංගම දුරකථනය භාවිතා කිරීමට සිදු වෙනවා.\n\nමේ නව app එක Apple Watch වෙත ස්ථාපනය කිරීම සඳහා, පළමුව Google Maps වල නවතම version එක වන5.52 version එක වෙතයාවත්කාලීන කල යුතු වන අතර, ඊට අමතරව watchOS app එක සඳහා watchOS 5 හෝ ඊට ඉහළ සංස්කරණයක් තිබීමද අවශ්‍ය වන බවThe Verge වෙබ් අඩවියපෙන්වා දෙනවා.",
+  "category": "apple",
+  "date": "2020-09-11",
+  "extraction_timestamp": "2026-02-20T12:09:37.322167",
+  "headline": "Apple Watch සඳහා Google Maps app එක දැන් App Store එක හරහා ලබාගැනීමේ හැකියාව ලබා දෙයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/google-maps-for-apple-watch-now-live-with-latest-update/",
+  "word_count": 187
+}

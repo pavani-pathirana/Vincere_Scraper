@@ -1,0 +1,13 @@
+{
+  "body": "Qualcomm සමාගම විසින් පසුගිය මාසයේදීSnapdragon 768G නමින් හැඳින්වෙන 5G chipset එකඑළිදැක්වීමට කටයුතු කළ අතර ඒ පිළිබඳව අපි ඔබව මීට පෙර දැනුවත් කිරීමට කටයුතු කළා මතක ඇති.\n\nඔන්න දැන් Qualcomm සමාගම විසින් mid-range devices සඳහා වන තවත් SoC (System-On-a-Chip) එකක් වන Snapdragon 600 series එකේ මීළඟ සංස්කරණය වන Snapdragon 690 SoC එක එළිදක්වා ඇති අතර මෙම SoC එක හරහා 5G සම්බන්ධතාවය වඩා දැරිය හැකි මිලකට පරිශීලකයින් වෙත ළඟා කිරීම ඔවුන්ගේ අරමුණ වෙනවා.\n\nමේ Snapdragon 600 series එකේ 5G තාක්ෂණය සඳහා සහාය දක්වනු ලබන පළමුවැනි SoC එක ‍Snapdragon 690 වන අතර එය මීට පෙර මීට වඩා higher-end series වන 700 සහ 800 series වලට අදාල SoC වල පමණක් මේ පහසුකම දැකගත හැකි විය.\n\nමේ නිසා ඉදිරියේදී 5G තාක්ෂණයෙන් සමන්විත වඩා ලාභදායී devices දැකගැනීමට හැකියාව ලැබෙනු ඇති නමුත් මෙය mmWave 5G තාක්ෂණය සඳහා සහය දක්වන බවක් පෙනෙන්ට නොමැති අතර speed එකෙන් අඩු sub-6GHz 5G තාක්ෂණය සඳහා පමණක් සහාය දක්වනු ලබනවා.\n\nමීට අමතරව Snapdragon 690 chip එක 192-megapixel දක්වා camera වලට සහාය දැක්වීමත්, 30FPS යටතේ 4K HDR video capture කිරීමේ හැකියාවත්, 120Hz display සහ Wi-Fi 6 සඳහා සහාය දැක්වීමත් යන හැකියාවන් වලින් සමන්විත වන අතර Qualcomm හිKryo 560 CPU එකකින්බළගැන්වෙනවා.\n\nමේ අලුත් Snapragon 690 chipset එක මීට පෙර නිකුත් කළ Snapdragon 675 හි CPU එකට වඩා 20% ක performance boost එකක් ලබා දෙන බව ද Qualcomm සමාගම පෙන්වා දෙනවා.\n\nSnapdragon 600 series එකෙහි පළමු 8nm chip එක මෙය වන අතර Cortex-A77 cores දෙකකින් සහ Cortex-A55 cores හයකින් මෙහි CPU එක සමන්විත වෙනවා.\n\nඑමෙන්ම මෙහි Adreno 619L GPU එකක් අන්තර්ගත වන අතර පැරණි Snapdragon 675 chipset එකට වඩා 60% ක grpahic performance boost එකක් මේ හරහා ලැබෙනු ඇති බව Qualcomm සමාගම පෙන්වා දෙනවා.\n\nමීට අමතරව මෙය machine learning සඳහා අවශ්‍යය වන පහසුකම් වලින් ද සමන්විත වන අතර AI performance boost එක 70%කින් පමණ වැඩි වන බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමේ Snapdragon 690 chipset එක මේ වර්ෂයේ මැද භාගයේදී මහාපරිමාණයෙන් නිෂ්පාදනය කිරීම ආරම්භ කරනු ඇති අතර මේ වන විටත් HMD Global (Nokia), LG Electronics, Motorola, SHARP, TCL, සහ Wingtech යන සමාගම් විසින් මේ chipset එක සහිත ජංගම දුරකථන එළිදක්වනු ලබන බවට සනාථ කර තිබෙනවා.",
+  "category": "mobile",
+  "date": "2020-06-18",
+  "extraction_timestamp": "2026-02-20T12:12:07.503087",
+  "headline": "Qualcomm සමාගම විසින් 5G, Wi-Fi 6 සහ 120Hz සඳහා සහාය දක්වන Snapdragon 690 chipset එක එළිදක්වයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/qualcomm-reveals-mid-range-snapdragon-690-with-5g-wi-fi-6-and-120hz-support/",
+  "word_count": 339
+}

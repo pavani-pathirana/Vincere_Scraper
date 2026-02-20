@@ -1,0 +1,13 @@
+{
+  "body": "YouTube Android App එක තුල යම් දෙයක් search කල විට එ‍යට අදාල YouTube Videos සමග Google Search results ද පෙන්වන පහසුකමක් ගැන මේ වන විට වාර්ථා වෙනවා.\n\nපහත දැක්වෙන screenshot එකෙහි දැකිය හැකි පරිදි search results වල සුපුරුදු පරිදි වීඩියෝ කිහිපයක් ඇති අතර එයින් පසුව Google Search result එකක් ද ඇතුළත් නව “Results from the web”  යනුවෙන් card feature එකක් ඇතුලත් කර ඇති බවreddit පරිශීලකයෙකුපෙන්වා දෙනවා.\n\nකොහොම වුණත් මේ පහසුකම Google සමාගමේ YouTube වල සිදු කරනු ලබනපරීක්ෂණ හා අත්හදාබැලීම් ලැයිස්තුවේද අන්තර්ගත නොවන අතර Android Police වෙබ් අඩවිය ප්‍රකාශ කර සිටින්නේ ඔවුන්ගේ කිසිඳු පරිශීලකයෙකු හට ‍මේ පහසුකම තවමත් ලැබී නොමැති බැවින් වැඩිදුර තොරතුරු වාර්ථා කිරීම අපහසු බවයි.\n\nබොහෝ විට Google සමාගම විසින් තෝරාගත් පරිශීලකයින් පිරිසක් හට පමණක් server-side flag එකක් භාවිතා කරමින් මෙම පහසුකම ලබාදී ඊට අදාල අත්හදාබැලීම සිදු කරනු ඇති බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "google",
+  "date": "2020-05-27",
+  "extraction_timestamp": "2026-02-20T12:12:55.892318",
+  "headline": "YouTube app එක තුළ Google Search results පෙන්වීමේ පහසුකමක් අත්හදාබැලීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/youtube-for-android-tests-showing-a-recommended-google-search-result-when-searching-in-youtube/",
+  "word_count": 135
+}

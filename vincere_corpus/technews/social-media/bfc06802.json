@@ -1,0 +1,13 @@
+{
+  "body": "රටවල් 7ක් අතර පරීක්ෂා කරමින් සිටි Instagram වල like count එක, එහෙමත් නැතිනම් likes ප්‍රමාණය පෙන්වීම ඉවත් කිරීම පසුගිය ජූලි මස සිට තවත් රටවල් ගණනාවකට නිකුත් කිරීමට Facebook ආයතනය කටයුතු කර ඇති තිබෙනවා.\n\nඑයට හේතුව වූයේ ඔබේ Followers ලා හට අවශ්‍ය “ඔබ Share කරන ඡායාරූප සහ වීඩියෝ කෙරෙහි අවධානය යොමු කිරීම මිස, ඔවුන් කොපමණ කැමතිද යන්න මත නොවේ” යන පදනම මත පිහිටා Instagram ආයතනය විසින් යම් Post එකකට ලැබී ඇති Like ප්‍රමාණය hide කිරීමට තීරණය කිරීමයි.\n\nඒ අනුව යමින් Instagram හි මව් සමාගම වන Facebook සමාගමද ඔබ විසින් පළ කරන Post වලට ලැබෙන Like ගණන hide කිරීමට තීරණය කර ඇති බව වාර්තා වන අතර Facebook Android App එකේ Source Code එක පදනම් කරගෙන ඉංජිනේරු විශේෂඥයෙකු වන Jane Wong(ජේන් වොන්ග්) මේ බව තහවුරු කරයි.\n\nFacebook is working to hide like counts, too!https://t.co/WnUrM12aZgTip@Techmemepic.twitter.com/TdT73wT6A0\n\nTechCrunch වෙබ් අඩවියවිසින් Facebook සමාගමෙන් මේ පිළිබඳව කළ විමසීමකදී මෙම තොරතුර සනාථ කිරීමට Facebook ආයතනය කටයුතු කර ඇති නමුත් මෙම පහසුකම පරීක්ෂා කිරීමේ කටයුතු තවමත් ආරම්භ කිරීමට කටයුතු නොකළ බව ද ප්‍රකාශ කර තිබෙනවා.\n\nමේ අනුව අදාල post එක share කළ, එනම් post එකේ හිමිකරුට පමණක් මුලු like ප්‍රමාණය දැකගත හැකි වනු ඇති අතර, අනෙක් පුද්ගලයන් හට දැකගත හැකි වනුයේ අදාල post එකට like කරනු ලැබූ mutual friends ලා ගේ නම් පමණක් වනු ඇත.\n\nකොහොම නමුත් comment වලට දක්වන ලද like හෝ reactions ගණන තවදුරටත් සියල්ලටම දර්ශණය වනු ඇති අතර ඊට හේතුව තවමත් මෙම option එක development මට්ටමේ පැවතීමයි.\n\nඑමෙන්ම මෙම option එක සියලුම පරිශීලකයින්ට ලබාදෙන දිනයක්ද තවම නිශ්චිතව සඳහන් කර නොමැත නමුත් එය ඉතා ඉක්මනින් ලැබෙනු ඇති බව විශ්වාස කෙරෙනවා.",
+  "category": "social-media",
+  "date": "2019-09-04",
+  "extraction_timestamp": "2026-02-20T12:17:36.323957",
+  "headline": "Facebook වලින් Like count එක ඉවත් කිරීමට කටයුතු කරනු ලබන බව Facebook ආයතනය විසින් සනාථ කරයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/facebook-says-it-may-remove-like-counts/",
+  "word_count": 252
+}

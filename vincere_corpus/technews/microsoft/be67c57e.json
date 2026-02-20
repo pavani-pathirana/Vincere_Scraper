@@ -1,0 +1,13 @@
+{
+  "body": "2015 වර්ෂයේදීWindows 10හඳුන්වාදීමත් සමඟින් Microsoft සමාගම ඔවුන්ගේ පැරණිInternet Explorer web browser එකදෙවැනි තැනට පත් කරමින් default browser එක ලෙස අලුත් Edge Browser එක ලබා දීමට කටයුතු කලා මතක ඇති.\n\nකොහොම වුණත් මේ Internet Explorer යනු නිකන්ම නිකන් web browser එකක් නොවේ. තවමත් Internet explorer වල පමණක් වැඩ කරන ලෙස සැකසූ information system ලොව පුරා ව්‍යාපාර වල භාවිතා වන බැවින් Microsoft සමාගමට මෙය තමන්ගේ operating system එකෙන් සම්පූර්ණයෙන්ම ඉවත් කර දැමීමට හැකියාව ලැබුණේ නැහැ.\n\nඒ වගේම දැන්, මේ අලුතින් හඳුන්වා දුන්Edge Browser එකත්, Chromium ව්‍යාපෘතිය පාදක කරගත් අලුත් browser එකක් වෙත ගෙන යෑමට ඔවුන් කටයුතු කරමින් සිටියදී, Internet Explorer භාවිතා කිරීමේ අනතුරුදායක බව ගැන “The perils of using Internet Explorer as your default browser” යන නමින් දිගු ලිපියක් හරහා පැහැදිලි කිරීමට Microsoft සමාගම කටයුතු කර තිබෙනවා.\n\nමේ අනුව මේ Internet Explorer යනු තවදුරටත් අලුත් web standards සමඟින් update නොවන, ව්‍යාපාරික ප්‍රජාව සඳහා පැරණි පද්ධති වලින් අලුත් මෘදුකාංග වෙතට මාරු වීම සඳහා ලබා දෙන කාලය මදක් දිගු කිරීමට පමණක් ලබා දී තිබෙන solution එකක් බව ඔවුන් ප්‍රකාශ කරනවා.",
+  "category": "microsoft",
+  "date": "2019-02-10",
+  "extraction_timestamp": "2026-02-20T12:11:44.929382",
+  "headline": "Internet Explorer භාවිතා කිරීම නවතා දමන්නැයි Microsoft සමාගම Windows පරිශීලකයන්ගෙන් ඉල්ලා සිටියි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-wants-windows-users-to-give-up-on-internet-explorer/",
+  "word_count": 166
+}

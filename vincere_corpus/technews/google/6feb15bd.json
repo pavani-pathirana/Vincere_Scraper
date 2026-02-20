@@ -1,0 +1,13 @@
+{
+  "body": "මේ වන විට Android devices root කිරීම සඳහා ලොව පුරා භාවිතා වන ජනප්‍රියතම ක්‍රමවේදය වන්නේMagiskහරහා systemless root පහසුකම ලබාගැනීම වන අතර, මෙහි නිර්මාණකරු වන John Wu මේ වන විට Google සමාගමට එකතු වීමට කටයුතු කර තිබෙනවා.\n\ntopjohnwu වන developer name එක හරහා පෙනී සිටිමින් Magisk root injection tool එක නිර්මාණය කර, 2016 වර්ෂයේ සිට එය open-source project එකක් ලෙස පවත්වාගෙන ආ මොහු 2019 වර්ෂයේදී intern කෙනෙකු ලෙස Apple සමාගමට එකතු වුණා.\n\nමූලිකව Apple සමාගමේ Siri Core Platform එක සම්බන්ධයෙන් වැඩ කළ ඔහු, 2020 වර්ෂයේදී Apple සමාගමේ Machine Translation team එකට full-time employee කෙනෙක් ලෙස සම්බන්ධ වුණා.\n\nකොහොම නමුත් මේ වන විට ඔහු Apple සමාගම අතහැර, Google සමාගමේ Android Platform Security team එක සමඟින් එකතු වීමට කටයුතු කර තිබෙන බව වාර්තා වෙනවා.\n\nIt's official! 🎉🎉Starting today, I'm joining the Android Platform Security team@Google🤠I'm very excited to collaborate along side with talented people that used to be \"on the other side\". Really looking forward to what I'll be working on in the future!\n\nමේ අනුව Android OS එකේ security vulnerabilities patch කිරීමට මොහු තම සහයෝගය ලබාදෙනු ඇති අතර, Android OS එකේ දුර්වලතාවයක් උපයෝගී කරගෙන root access ලබාගැනීමට මිලියන ගණනකට උපකාර කළ මොහු, දැන් එම දුර්වලතා patch කිරීම සඳහා නිළ වශයෙන් පත් වී තිබෙනවා.\n\nවි‍ශේෂයෙන්ම Banking apps වැනි security critical app වලින් භාවිතා කරනු ලබන Android වල core security API එකක් වූ SafetyNet API එක පවා Magisk හරහා bypass කිරීමේ හැකියාව ලැබුණු අතර, Magisk හරහා root කල Android ජංගම දුරකථන වල එම Banking app පවා ක්‍රියාත්මක කරවීමට හැකියාව ලැබෙනවා.\n\nකොහොම නමුත් Android boot process එක, verified boot සහ SafetyNet වැනි core security elements පිළිබඳව හසළ දැනුමක් ඇති මොහු Android Security team එකට එකතු වීම හරහා Android OS එකේ ඉදිරියට නිකුත් වන security updates පිළිබඳව හොඳ බළාපොරොත්තුවක් ඇති කරගත හැකි වෙනවා.",
+  "category": "google",
+  "date": "2021-05-18",
+  "extraction_timestamp": "2026-02-20T12:06:37.775095",
+  "headline": "ප්‍රසිද්ධ Android Root injection tool එකක් වන Magisk හි නිර්මාතෘවරයා Apple සමාගම අතහැර Android Platform Security team එකට එකතු වෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/magisk-developer-john-wu-leaves-apple-to-join-google-on-the-android-security-team/",
+  "word_count": 287
+}

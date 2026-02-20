@@ -1,0 +1,13 @@
+{
+  "body": "සෑම වර්ෂයකම දෙසැම්බර් මාසයේදී Qualcomm සමාගම විසින් ඔවුන්ගේ මීළඟ chipset එක එළිදැක්වීමට කටයුතු කරනු ලබන අතර මෙවර මේ ආකාරයේ chipset දෙකක් එළිදැක්වීමට ඔවුන් කටයුතු කරනු ලැබුවා.\n\n2020 වර්ෂයේ නිකුත් වීමට නියමිත බොහෝමයක් flagship devices වලට අන්තර්ග කෙරෙනු ඇතිSnapdragon 865 chipset එකසහ mid-range devices සඳහා නිෂ්පාදනය කෙරෙනSnapdragon 765 chipset එකමේ අතරට එකතු වුණා.\n\nමේ Snapdragon 865 chipset එක පසුගිය වසරේ නිකුත් කළ Snapdragon 855 chipset එකේ CPU performance එකට වඩා 25%කින් වැඩි බවත්, graphic processing performance එක 20%කින් එහෙමත් නැතිනම් 35%ක power efficiency එකකින් ද යුක්ත වන බව ඔවුන් පෙන්වා දෙනවා.\n\nඅලුතින් නිකුත් වන flagship devices සියල්ලකම පාහේ අන්තර්ගත වන display එක high refresh rate එකකින් යුක්ත වන අතර Pixel 4, OnePlus 7T වැනි ජංගම දුරකථන 90Hz දක්වා ද, Asus ROG Phone II වැනි ජංගම දුරකථන වල 120Hz දක්වා ද මෙය ඉහළ තත්ත්වයක තිබෙන බව දැකිය හැකි වෙනවා.\n\nකොහොම නමුත් මේ refresh rate එක වැඩි වන තරමට ඒ වෙනුවෙන් GPU එක මගින් සිදු කරන කාර්යය ප්‍රමාණය වැඩි වන නිසාවෙන්, මේ සඳහා අඩු resolution එකක් භාවිතා කිරීමට බොහෝ ජංගම දුරකථන නිශ්පාදකයින් කටයුතු කර තිබෙනවා.\n\nමේ අලුත් Snapdragon 865 chipset එකට QHD+ (3200 x 1800/3840 × 1600) resolution එකක් සහිත display එකකට 144Hz දක්වා refresh rate එකක් ලබාදීමේ හැකියාව තිබෙන බව Qualcomm සමාගම ප්‍රකාශ කර සිටිනවා.\n\nමීට අමතරව Qualcomm සමාගමේ 3D Sonic නමින් හඳුන්වන ultrasonic under-display fingerprint scanning තාක්ෂණය තවදුරටත් දියුණු කර එකම අවස්ථාවකදී ඇඟිලි දෙකක් වෙන වෙනම හඳුනාගැනීමේ හැකියාව ලබාදීමට ද මොවුන් සමත් වී තිබෙනවා.\n\nකොහොම වුණත් Snapdragon 855 chipset එකට අන්තර්ගත කර තිබුණු Snapdragon X55 5G modem එක එයින් ඉවත් කිරීමට Qualcomm සමාගම කටයුතු කර ඇති නමුත් එම modem එක පිටතින් සම්බන්ධ කරන්නේ නම් ඒ සඳහා සහාය දැක්වීමට හැකි ලෙස මේ අලුත් chipset එක නිර්මාණය කර තිබෙනවා.\n\nඑමෙන්ම Wi-Fi 6 තාක්ෂණය, Bluetooth 5.1 තාක්ෂණය සහ Qualcomm Quick Charge AI තාක්ෂණය ද මේ chipset එක සමඟින් අන්තර්ගත කිරීමට Qualcomm සමාගම කටයුතු කර තිබෙනවා.",
+  "category": "technology",
+  "date": "2019-12-06",
+  "extraction_timestamp": "2026-02-20T12:16:38.708780",
+  "headline": "5G, 200MP Camera සහ 144Hz display සඳහා සහාය සමඟින් Qualcomm සමාගමේ Snapdragon 865 chipset එක එළිදක්වයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/qualcomm-announces-the-snapdragon-865-with-support-for-5g-200mp-cameras-and-144hz-displays/",
+  "word_count": 301
+}

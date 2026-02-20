@@ -1,0 +1,13 @@
+{
+  "body": "Virus කියන්නේ Windows මෙහෙයුම් පද්ධතියක් භාවිතා කරන විට අපිට තිබෙන විශාලම ගැටළු වලින් එකක් බව අපි හැමෝම දන්නවා.\n\nමේ හේතුව නිසාම අන්තර්ජාලය ඔස්සේ හෝ වෙනත් විදිහකින් අපි රැගෙන එන (නොදන්නා) file එකක් open කරන්නට පෙර එම file එක දෙස සාධාරණ සැකයකින් බළන්නට අපි පුරුදු වෙලා ඉන්නවා. අදාල file එක open කිරීම තුලින් virus එකක් ස්ථාපනය වීමේ හැකියාවක් තිබෙනවා කියන බය අපේ හිත් වල හැම වෙලාවෙම වගේ තියනවා.\n\nඔන්න මේ ප්‍රශ්නය විසඳන්න Microsoft සමාගම විසින් Windows Sandbox නම් වූ පහසුකමක් එළි දක්වන්නට කටයුතු කර තිබෙනවා. මේ පහසුකම හරහා අපිට කැමති file එකක්virtual desktop environment එකක, ඒ කියන්නේ හරියටvirtual machine එකකrun කරනවා වගේ open කරලා බළන්න හැකියාව ලැබෙනවා.\n\nඒ වගේම අදාල program එක close කර දැමූ විට මේ වෙනුවෙන් නිර්මාණය වුණු virtual environment එක ද ඉවත් වී යන අතර මේ සඳහා virtual machine එකක් setup කිරීමට අවශ්‍යයතාවයක් නොමැති වෙනවා.\n\nකෙසේ නමුත් මෙම පහසුකම නිසි ආකාරයෙන් වැඩ කිරීමට නම් BIOS හරහා CPU Virtualization කියන පහසුකම enable කළ යුතු බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමේ Windows Sandbox භාවිතා කිරීමේදී සිදු වන්නේ මෙගාබයිට් 100ක (100MB) පමණ බරින් අඩු Windows environment එකක් අදාල app එක run කිරීම වෙනුවෙන්ම නිර්මාණය වීමයි.\n\nබොහෝ ‍දුරට මෙහි ක්‍රියාකාරීත්වය සාමාන්‍යය virtual machine එකකට සමාන ලෙස පෙනුනත් එහි Smart memory management, Snapshot and Clone වැනි පහසුකම් මෙන්ම host operating system එක හා sandbox operating system එක අතර නිර්මාණය කර තිබෙන සම්බන්ධතාවය අතින් ද ගත් කළ මෙය සාමාන්‍යය virtual machine එකකට වඩා එහා ගිය ක්‍රියාවලියක් වෙනවා.\n\nඉතින් මේ අලුත් පහසුකමWindows Insiderලා හට නම් මේ වන විටත් Windows 10 වල 18305 හෝ ඊට පසු build හරහා ලබා දී තිබෙන අතර සාමාන්‍යය Windows 10 Pro සහ Enterprise පරිශීලකයින් හට ලබා වසරේදී නිකුත් කිරීමට සූදානම් බව දැනගන්නට ලැබෙනවා.",
+  "category": "microsoft",
+  "date": "2018-12-19",
+  "extraction_timestamp": "2026-02-20T12:12:24.582808",
+  "headline": "ආරක්ෂිතව .exe file open කිරීමේ හැකියාව ලබා දෙන Windows Sandbox පහසුකම 2019 දී Windows 10 වෙතට එකතු වෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/windows-sandbox-is-a-safe-new-way-to-run-untrusted-exe-files/",
+  "word_count": 272
+}

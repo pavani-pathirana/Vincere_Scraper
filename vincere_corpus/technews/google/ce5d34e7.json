@@ -1,0 +1,13 @@
+{
+  "body": "මිතුරන්, පවුලේ අය සහ සමීපතමයන් අතර සම්බන්ධ විම සඳහා මිනිසුන් Google Chat වැනි සේවාවන් විශාල වශයෙන් භාවිතා කිරීමට හුරුවී සිටින අතර Google සමාගම විසින් මේ වනවිට මෙතෙක් Google Chat හි නොතිබුණු නව අංග දෙකක් එකතු කිරීමට කටයුතු කරලා තියෙනවා.\n\nGoogle Chat සඳහා මෙලෙස අලුතින් එක් වූ ප්‍රධාන අංගයක් වන්නේconversations pin කිරීමටහැකියාව ලැබීම වන අතර conversation එකක් pin කිරීම මඟින් Gmail හි chat වල ඉහලින්ම එම pin කරපු conversation එක පෙන්වනු ලබනවා.\n\nඑමෙන්ම, Workspace Essentials සහ G Suite Basic ඇතුළු විවිධ ගනුදෙනුකරුවන් සඳහා මෙම සතිය ආරම්භයේ සිට මෙම විශේෂාංගය භාවිතා කිරීමට අවස්ථාව ලැබෙන බවද වාර්තා වෙනවා.\n\nGoogle Chat සඳහා අලුතින් එක් වූ අනෙක් අංගය වනුයේ Chat conversations වලින් සෘජුවම Google Calendar සඳහා meetings schedule කිරීමට පරීශිලකයන් හට අවස්ථාව ලැබිමයි.\n\nමෙම පහසුකම compose bar එකෙහි නව calendar icon එක tap කිරීම මඟින් භාවිතා කිරීමට හැකියාව ලැබෙන අතර පරීශීලකයින් හට දිනය, වේලාව සහ සහභාගිවන්නන් ඇතුළුව invite customize කළ හැකි අතර පසුව එය chat එකෙන්ම අනෙකුත් අය සමග share කරගැනීමටද අවස්ථාව ලැබෙනවා.\n\nඔබ ජංගම දුරකතනයෙන් Google Chat භාවිතා කරන්නේ නම්, යම් event එකක් draft කිරීම සඳහා Google Calendar app එක විවෘත වන අතර Chat භාවිතා කරන අතරතුර ඔබ web එකෙන් event එකක් draft කරන්නේ නම්, Calendar එක side panel එකක් ලෙස pop out වෙනු ඇත.\n\nAndroid Gmail app එක සහ Chat Android mobile app එක සඳහා මෙම විශේෂාංගය දැනටමත් ක්‍රියාත්මක වන නමුත් මෙම පහසුකම ඉක්මනින්ම iOS app එක සඳහාත් සහාය දක්වන බවට Google සමාගම විසින් වැඩිදුරටත් ප්‍රකාශ කරනු ලබනවා.",
+  "category": "google",
+  "date": "2020-11-18",
+  "extraction_timestamp": "2026-02-20T12:08:32.268682",
+  "headline": "Google Chat මඟින් conversations pin කිරීමට සහ Google Calendar events schedule කිරීමේ හැකියාව ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-chat-now-lets-you-pin-conversations-and-schedule-google-calendar-events/",
+  "word_count": 235
+}

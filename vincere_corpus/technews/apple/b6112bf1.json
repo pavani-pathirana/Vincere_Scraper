@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම ඔවුන්ගේ smart home උපාංග ප්‍රචලිත කරගැනීම වෙනුවෙන් විශාල උත්සාහයක් දරනු ලබන බව පෙනෙන්නට තිබෙන අතර මේ වන විට ඔවන්ගේHomeKit Accessory Development Kit (ADK) එකopen-source කිරීමට කටයුතු කර තිබෙනවා.\n\nමේ තීරණයට ප්‍රධානතම හේතුව වී තිබෙන්නේ Apple, Google සහ Amazon සමාගම එකතුව අලුත් open-source smart home standard එකක් එළිදැක්වීම වන අතර මේ හරහා Amazon Alexa,Google Weave Protocol එකසහ Apple HomeKit standard එක භාවිතා කරනු ලබන සියළුම devices ‍එක standard එකක් යටතට ගෙන එනු ලබනවා.\n\nඑනම් මේ සියළුම devices ඕනෑම platform එකක් සමඟින් සම්බන්ධ කර භාවිතා කිරීමේ හැකියාව ලැබෙනවා.\n\nකොහොම නමුත් මේ standard එක එළිදැක්වූ පමණින් ක්ෂණිකවම අදාල devices සම්බන්ධ කීරීමේ හැකියාවක් නොලැබෙන අතර මේ සඳහා අදාල devices වලට ගැලපෙන මෘදුකාංග අලුත් standard එකට අනුව නිර්මාණය කිරීමට අදාල නිෂ්පාදකයන් හට සිදු වෙනවා.\n\nමේ කටයුත්ත ඉක්මන් කරනු පිණිස මෙන්ම මේ වෙනුවෙන් ලොව පුරා මෘදුකාංග ඉන්ජිනේරුවන් උනන්දු කරවීම සඳහා Apple සමාගම මේ පියවර ගෙන ඇති බව විශ්වාස කළ හැකි වෙනවා.\n\nකොහොම නමුත් එලෙස මෘදුකාංගයක් නිර්මාණය කළ පමණින් ඕනෑම අයෙකුට Apple Smart home devices නිශ්පාදනය කර බෙදාහැරීමේ හැකියාව නොලැබෙන අතරApple HomeKit MFI program එකයටතේ අවසර ලබාගත යුතු වෙනවා.\n\n‍නමුත් මේ ආකාරයේ license එකක් ලබාගැනීමට පෙර එම තාක්ෂණයන් සමඟින් තමන්ගේ devices අනුගත වන්නේද යන්න සොයාබැලීමට මෙන්ම විනෝදාංශයක් වශයෙන් programming කරන්නන් හට මේ තාක්ෂණය සමඟින් අත්දැකීමක් ලබාගැනීමට මෙය ඉතාමත් හොඳ අවස්ථාවක් වෙනවා.",
+  "category": "apple",
+  "date": "2019-12-23",
+  "extraction_timestamp": "2026-02-20T12:12:21.490004",
+  "headline": "Apple සමාගම විසින් ඔවුන්ගේ HomeKit Accessory Development Kit එක Open-source කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-open-sources-homekit-tools/",
+  "word_count": 206
+}

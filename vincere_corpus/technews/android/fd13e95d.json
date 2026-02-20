@@ -1,0 +1,13 @@
+{
+  "body": "iOS හි AirDrop පහසුකම මෙන් Device දෙකක් අතර වේගයෙන් සහ පහසුවෙන් file transfer කරගත හැකි නව පහසුකමක් සම්බන්ධයෙන් Google සමාගම සූදානමින් සිටින බව අපි මීට පෙර ලිපියකින් ඔබව දැනුවත් කිරීමට කටයුතු කළ බව මතක ඇති.\n\nමුලින් මෙම පහසුකම Fast Share නමින් හඳුන්වා තිබුණද දැන් නවතම වාර්තා මගින් පෙන්වා දෙන්නේ එය Nearby Share නමින් හදුන්වාදීමට ගූගල් සමාගම කටයුතු කරමින් සිටින බව වන අතර මෙම නවතම පහසුකම Android 6.0, Marshmallow සංස්කරණයේ සිට ඉහළ Android සංස්කරණ වලට සහය දක්වනු ඇති.\n\nFile tranfer කිරීම සඳහා 3rd party apps විශාල ප්‍රමාණයක් මේ වන විටත් තිබෙන නමුත් මෙම පහසුකමේ ඇති විශේෂත්වය වන්නේ එම 3rd party apps කිසිවක සහය නොමැතිව device එකේ option එකක් ලෙස ස්වාධීනව ක්‍රියා කිරීමයි.\n\nඑමෙන්ම දත්ත පහසුවෙන් Share කිරීම සඳහා Bluetooth, Bluetooth Low Energy, WebRTC හෝ peer-to-peer WiFi භාවිතා කරමින් best protocol එක select කිරීමට මෙම Nearby Share පහසුකම සමත් වන අතර ඔබ සම්පූර්ණයෙන්ම offline සිටියද transfer ක්‍රියාවලියට කිසිඳු බාධාවක් සිදු වන්නේ නැහැ.\n\nතවද පරිශීලකයන්ගේ දත්තවල රහස්‍යභාවය ආරක්ෂා කිරීම සම්බන්ධයෙන් මෙම විශේෂාංගය develop කිරීමේදී Google සමාගම වැඩි අවධානයක් යොමු කර ඇති බව දැනගන්නට ලැබෙන අතර ඒ අනුව file එකක් share කරන විට sender හා receiver දත්ත fully-encrypt වන බව ඔවුන් පෙන්වා දෙනවා.\n\nඑමෙන්ම device search කිරීම සම්බන්ධයෙන් ද setting කිහිපයක් හඳුන්වා දී තිබෙන අතර ඒ අනුව ඔබට “hidden,” හෝ visible for “some contacts” හෝ visible to “all contacts,” ආදි ලෙස setting සකස් කිරීමේ හැකියාව ලැබෙන බැවින්, ඔබට අනවශ්‍ය file receive වීමක් පිලිබඳව කරදර වීමට අවශ්‍ය වන්නේ නැහැ.\n\nChromebooks, Android ඇතුළුව තවත් මෙහෙයුම් පද්ධති සඳහා මෙන්ම Pixel හා Samsung Devices වලට මෙම පහසුකම මුලින්ම ලැබෙනු ඇති අතර අනාගතයේදී සියලුම උපාංග වෙත මෙම පහසුකම ලබාදීමට කටයුතු කරන බව Google සමාගම පවසනවා.",
+  "category": "android",
+  "date": "2020-08-05",
+  "extraction_timestamp": "2026-02-20T12:10:06.243249",
+  "headline": "Android devices දෙකක් අතර File Tranfer කල හැකි \"Nearby Share\" පහසුකම හඳුන්වාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/instantly-share-files-with-people-around-you-with-nearby-share/",
+  "word_count": 266
+}

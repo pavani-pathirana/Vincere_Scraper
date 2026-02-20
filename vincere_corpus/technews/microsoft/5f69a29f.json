@@ -1,0 +1,13 @@
+{
+  "body": "Windows වල අපි වැඩිපුරම භාවිතා කරන Apps වලින් එකක් වන Windows Calculator App එකේ source code එක Microsoft සමාගම විසින්GitHub එකටupload කර ඇති බව මේ වන විටවාර්ථා වෙනවා.\n\nමෙයMIT License එකයටතේ publish කර ඇති අතර ඕනෑම කෙනෙකුට ලබාගැනීමේ හැකියාවට අමතරව මෙය භාවිතා කරමින් Windows Calculator එකට අලුත් පහසුකම් එකතු කිරීමටත්, එය වැඩිදියුණු කිරීමටත් Open Source community එකට මේ අනුව අවස්ථාව ලැබෙනවා.\n\nමීට අදාල වනඋපදෙස් මාලාවක් දමෙයට අන්තර්ගත කිරීමට Microsoft සමාගම කටයුතු කර ඇති අතර හොඳ තත්ත්වයේ Windows App එකක් නිර්මාණය කිරීම සඳහා guideline එකක් ලෙස දමේ repository එකභාවිතා කිරීමේ හැකියාව ලොව පුරා මෘදුකාංග නිෂ්පාදනකරුවන් හට මෙය ඉතාමත් ප්‍රයෝජනවත් වෙනවා.\n\nපසුගිය කාළසීමාව ඇතුලතGitHub එක Microsoft සමාගම විසින් මිළදී ගැනීමේදීබොහෝ open source community members ලා බිය වූ නමුත්, මේ වන විට Linux වලට එල්ල විය හැකි බළපෑම් වලින් එය රැකගැනීම සඳහා Microsoft සමාගම විසින් ඔවුන්ගේPatent බළපත්‍ර 6,000ක පමණ ප්‍රමාණයක් ද මේ ආකාරයෙන් open source කිරීමට කටයුතු කර තිබෙනවා.",
+  "category": "microsoft",
+  "date": "2019-03-07",
+  "extraction_timestamp": "2026-02-20T12:11:26.904952",
+  "headline": "Microsoft සමාගම විසින් Windows Calculator එක Open Source License එකක් යටතේ GitHub එකට එකතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-open-sources-its-windows-calculator-on-github/",
+  "word_count": 146
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම මේ දින වල ඔවුන්ගේ in-app purchases සඳහා බළ කරනු ලබන App Store නීති නිසාවෙන් ඉතාමත් ප්‍රසිද්ධියට පත්ව ඇති අතර, පසුගිය දිනක මේ කාරණය මුල් කරගෙන ඇති වූ සිදුවීමක් නිසාවෙන් ප්‍රසිද්ධ mobile game එකක් වූ Fortnite, App Store එකෙන් ඉවත් කිරීමට කටයුතු කළා මතක ඇති.\n\nඑමෙන්ම මේ ආකාරයෙන්ම නොමිලයේ ලබාදෙමින් තිබුණු WordPress app එකට ද in-app purchases එකතු කිරීම සඳහා එහි developer වූMatt Mullenwegහට බළ කර ඇති අතර, මෙයට හේතුව වී තිබුණේ WordPress.com හරහා ලබාදෙනු ලබන premium subscriptions වලින් Apple සමාගමට ඔවුන්ගේ 30%ක කොමිස් මුදල ලබාගැනීමට නොහැකි වීමයි.\n\nකොහ‍ොම නමුත් මේ වන විට මෙම තීරණය වෙනස් කරමින් WordPress app එකට නැවතත් 100%ක් free app එකක් ලෙස පවත්වාගෙන යෑමට ඉඩ දීමටත්, අදාල developer වරයාගෙන් ලිඛිතව සමාව ඉල්ලීමටත් Apple සමාගම කටයුතු කර තිබෙනවා.\n\nමීට පෙර අවස්ථ‍ාවකදී The Verge වෙබ් අඩවිය සමඟ පැවති සාකච්ඡාවකදී WordPress app එකේ developer වරයා විසින් ප්‍රකාශ කර ඇති ආකාරයට, දින 30ක් ඇතුලත in-app purchases (IAP) පහසුකම එකතු කිරීමට කටයුතු නොකළහොත් ඔහුගේ Apple Developer ගිණුම lock කර, WordPress app එකට updates ලබාදීම අවහිර කිරීමට කටයුතු කරනු ලබන බව Apple සමාගම විසින් ඔහුට දන්වා තිබෙනවා.\n\nApp Store නීති වලට අනුකූල වෙමින් WordPress premium plans පිළිබඳව සඳහන් වන සියළුම තොරතුරු app එකේ ඉවත් කිරීම හරහා නැවත මෙය free app එකක් ලෙස ලබාදීම වෙනුවෙන් සිදු කරනු ලැබූ ඉල්ලුම් කිරීම් ද ඉවත දැමීමට Apple සමාගම කටයුතු කර තිබුණි.\n\nකොහොම නමුත් මේ වන විට ඔහුගේ නිළ Twitter ගිණුම හරහා ප්‍රකාශයක් නිකුත් කරමින් ප්‍රකාශ කර සිටින්නේ Apple සමාගම විසින් මෙම සිදුවීම නැවත review කිරීමට කටයුතු කර ඇති බවත්, in-app purchases පහසුකම WordPress app එකට ඇතුලත් කිරීම තවදුරටත් අවශ්‍යය නොවන බවත් ය.\n\nI did not expect the previous tweet to get attention outside the WP community. My understanding was the previous decision was final, and we had already made many of the arguments people suggested privately over the several weeks the app was locked.\n\nමෙහිදී මෙම developer වරයාගේ දෙවන ඉල්ලීම වන Premium plans පිළිබඳව වන සියළුම තොරතුරු iOS app එකෙන් ඉවත් කිරීමේ යෝජනාවට Apple සමාගම අනුමැතිය ලබාදී ඇති අතර, එම තොරතුරු ඉවත් කිරීමෙන් පසුව නැවතත් WordPress iOS app එක free app එකක් ලෙස App Store හරහා ලබාදීමට කටයුතු කෙරෙනු ඇත.",
+  "category": "apple",
+  "date": "2020-08-24",
+  "extraction_timestamp": "2026-02-20T12:10:11.009916",
+  "headline": "WordPress iOS app එකට in-app purchases එකතු කිරීමට බළ කිරීම සම්බන්ධයෙන් සමාව ඉල්ලීමට Apple සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-apologizes-to-wordpress-for-forcing-to-add-in-app-purchases/",
+  "word_count": 345
+}

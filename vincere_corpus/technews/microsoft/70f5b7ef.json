@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මැයි මාසයේදී Microsoft සමාගම විසින් ඔවුන්ගේ command line app වල අලුත්ම සංස්කරණය වන Windows Terminal එක එළිදැක්වීමට කටයුතු කරනු ලැබුවා.\n\nමේ අලුත් Terminal එක හරහා සාමාන්‍යය command prompt එක, PowerShell එක සහWindows Subsystem for Linux (WSL) පද්ධතියක් භාවිතා කරනවා නම්, ඊට අදාල මෙහෙයුම් පද්ධතියේ terminal එක access කිරීමේ හැකියාව ඇතුළු තවත් පහසුකම් රාශියකින් සමන්විත වෙනවා.\n\nමෙය එළිදක්වා දිනක් ඇතුලතඑහි source code එකGitHub එකට upload කිරීමට Microsoft සමාගම කටයුතු කළ නමුත් එය භාවිතා කිරීමට නම් මේ source code එක ගෙන, එය තනිවම compile කරගැනීමට developer වරුන් හට සිදු වුණා.\n\nකොහොම නමුත් අද දින Windows 10 මෙහෙයුම් පද්ධතිය සඳහාWindows Store එක හරහා download කරගත හැකි app එකක් ලෙසමේ අලුත් Windows Terminal එක නිකුත් කිරීමට Microsoft සමාගම කටයුතු කර තිබෙනවා.\n\nමේ අලුත් terminal එක හරහා web browser එකක මෙන් terminal tabs open කරගත හැකි අතර, එහි ඇතිJSON file එකක් edit කිරීම හරහාtheme එක හා background එක වෙනස් කිරීම වැනි options රාශියක් භාවිතා කිරීමේ හැකියාව ලබා දී තිබෙනවා.\n\nඑමෙන්ම මේ terminal එක GPU-based text rendering, එහෙමත් නැතිනම් text පෙන්වීම සඳහාGPU එකසහDirectXභාවිතා කරනු ලබන නිසාවෙන් emoji වැනි graphics ද terminal එක හරහා පෙන්වීමේ හැකියාව ද ලැබෙනවා.",
+  "category": "microsoft",
+  "date": "2019-06-22",
+  "extraction_timestamp": "2026-02-20T12:10:56.703666",
+  "headline": "Microsoft සමාගම විසින් ඔවුන්ගේ අලුත් Windows Terminal එක Download කරගැනීමේ හැකියාව ලබා දෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsofts-new-windows-terminal-now-available-to-download/",
+  "word_count": 182
+}

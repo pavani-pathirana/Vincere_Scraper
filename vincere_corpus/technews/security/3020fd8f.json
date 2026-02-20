@@ -1,0 +1,13 @@
+{
+  "body": "Firefox එකේ අළුත් පෙනුම ගැනමීට පෙර ලිපියක් මගින් ඔබට දැනුවත් කළා මතක ඇති. පෙනුම වගේම තමන්ගේ පරිශීලකයන්ගේ Privacy එක ගැනත් ලොකු නැඹුරුවක් දක්වන Web Browser එකක් ලෙස Mozilla Firefox හදුන්වා දෙන්න පුලුවන්.\n\nඔන්න දැන් Firefox භාවිතා කරන්නන්ගේ web annoyances එසේත් නැතහොත් අන්තර්ජාලය භාවිතා කිරීමේදි ඇතිවන්නා වූ විවිධ කරදරකාරී දේවල් වැළැක්වීමේ අරමුණින් නව පහසුකම් කිහිපයක්ම තමන්ගේ Web Browser එකට ඇතුලත් කිරිමට Mozilla ආයතනය කටයුතු කර තිබෙනවා.\n\nඉතින් මේ අලුත් සංස්කරණය හරහාDisconnectසමාගම සමග එකතු වීfingerprintingහාcryptocurrency miningවැනි හානිකර ක්‍රියාකාරීත්වන්ගෙන් Firefox භාවිතා කරන්නන් ආරක්ෂාකර ගැනීමට කටයුතු කර තිබෙනවා.\n\nFingerprinting කියන්නේ ඔයාගේ Web browser එකේ තිබෙන Cookies, මෙහෙයුම් පද්ධතියේ තොරතුරු වගේ දේවල් භාවිතා කරලා, අන්තර්ජාලය තුලදී ඔයාව unique විදිහට identify කරගන්න පුළුවන් වෙන විදිහේ digital fingerprint එකක් නිර්මාණය කිරීමයි.\n\nඉතින් මේ වගේ fingerprint එකක් භාවිතා කරලා ඔයා මොන වෙබ් අඩවියකට ගියත්, ඒ ඔයාමයි කියන එක හඳුනාගන්න මේ fingerprints හිමිකරුවන් හට හැකියාව ලැබෙනවා. ඒ කියන්නේ ඔයා නොදැනුවත්වම ඔයාව track කරන්නට මේ fingerprints හරහා හැකියාව ලැබෙනවා.\n\nඒ අනුව ඔයාටම ගැලපෙන විදිහට නිර්මාණය කරන ලද Ads පෙන්වීමට වගේ දේවල් වලට මේ වගේ digital fingerprints භාවිතා කරනවා.\n\nඉතින් ඔබටත් අවශ්‍ය නම් මේ අලුත් feature එක Firefox 67 වෙනි සංස්කරණයේ beta version එක හෝ Firefox 68 වෙනි Firefox nightly version එක හරහා ලබා ගන්න පුලුවන්. කෙසේ වුවත් Cryptomining හා Fingerprinting Block කිරීමේ හැකියාව default ලෙස enable වී නොපවතින අතර එය Privacy & Security හරහා ගොස් Enable කර ගත යුතු වෙනවා.\n\nමෙම පහසුකම නුදුරේදීම Firefox 68 වෙනි Firefox Nightly Version එක සමග Default Enable කිරීමට Mozilla ආයතනය බලාපොරොත්තු වෙනවා.\n\nඑමෙන්ම Tracking Protection සඳහා වන “Shield\" එක මත Click කිරීම මගින් අදාල විස්තර බලා ගත හැකි අතර ගැටලුවක් පවතින්නේ නම් ඒ පිළිබඳව \"Report a Problem\" යන option එක හරහා Mozilla ආයතනය දැනුවත් කළ හැකි වෙනවා.",
+  "category": "security",
+  "date": "2019-04-11",
+  "extraction_timestamp": "2026-02-20T12:12:21.801015",
+  "headline": "Fingerprinting හා Cryptocurrency mining වලින් ආරක්ෂා වීමේ හැකියාව Firefox Browser එක සඳහා ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/mozilla-adds-fingerprinting-and-cryptocurrency-mining-protection-to-firefox/",
+  "word_count": 273
+}

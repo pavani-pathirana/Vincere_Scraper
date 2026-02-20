@@ -1,0 +1,13 @@
+{
+  "body": "ඔබගේ Google Drive trash එකෙහි ඇති files manually සහ permanently delete කිරීමට කටයුතු කරනු ලැබුවේ නැතිනම්, මේ දක්වා එම ලිපිගොනු දින නියමයක් නොමැතිව ඔබගේ trash එකෙහි ගබඩා කර තැබීමට ඉඩ දීමට Google සමාගම කටයුතු කර තිබුණා.\n\nකොහොම නමුත් මේ වන විට Google සමාගම විසින්ඔක්තෝබර් 13 වන දින සිට Google Drive එකෙහි trash එක ක්‍රියාත්මක වන ආකාරය වෙනස් කිරීමටකටයුතු කරනු ලබන බව නිවේදනය කර තිබෙනවා.\n\nඔබත් Google Drive පරිශීලකයෙකු නම් බොහෝදුරට මෙම නව trash එකට සිදුවන වෙනස්කම පිළිබඳව ඔබව දැනුවත් කරමින් E-mail එකක් දැනටමත් ලැබී තිබෙනවා ඇති.\n\nමේ අනුව Google සමාගම විසින් දැනුවත් කරන ආකාරයට ඔක්තෝබර් 13 වන දින සිට ඔබගේ Google Drive එකෙහි trash එකට එක් වන සියලුම files දින 30ක කාල සීමාවකට පසුව ස්ව්‍යංක්‍රීයවම delete කිරීමට කටයුතු කෙරෙනු ලැබෙනවා.\n\nමෙම 30ක කාල සීමාව තුළදී ඔබට අවශ්‍යනම් අදාල files නැවතත් restore කර ගැනීමට හැකියාව ලැබෙන අතර, මෙම ක්‍රියාවලිය ඔබගේ Backup සහ Sync behavior සඳහා බලනොපාන බවද Google සමාගම විසින් වැඩිදුරටත් සඳහන් කර තිබෙනවා.\n\nඑමෙන්ම සෑම පරිශීලකයෙකුම මේ පිළිබඳව දැනුවත් කිරීම සඳහා, මෙම Google Drive වෙනස පිළිබඳ විස්තර සහිත banner එකක් Drive, Docs සහ Forms වල in-app notifications මගින් පෙන්වීමට කටයුතු කරනු ලබනවා.\n\nමීට අමතරව G-Suite පරිශීලකයන්ගේ trash එකෙන් delete කරනු ලැබූ files දින 25 ක් දක්වා කාළසීමාවක් තුලදී restore කිරීමට admin වරුන් හට තවමත් හැකියාව ලැබෙන අතර Google vault admin වරුන් විසින් සකස් කර ඇති රඳවා තබා ගැනීමේ ප්‍රතිපත්ති මෙම වෙනස කෙරෙහි බලපාන්නේ නැති බවද සඳහන් වෙනවා.",
+  "category": "google",
+  "date": "2020-09-19",
+  "extraction_timestamp": "2026-02-20T12:09:56.323081",
+  "headline": "Google Drive වල trash files දින 30ක කාල සීමාවකින් පසුව ස්ව්‍යංක්‍රීයව delete කිරීමට Google සමාගම තීරණය කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-drive-will-start-automatically-deleting-trash-files-after-30-days/",
+  "word_count": 227
+}

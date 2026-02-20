@@ -1,0 +1,13 @@
+{
+  "body": "WhatsApp කියන්නේ මේ වන විට අපි හැමෝටම වගේ නැතුවම බැරි app එකක් බවට පත් වෙලා තිබෙන බව අමුතුවෙන් කියන්න වුවමනා වෙන්නේ නැහැ.\n\nඒ වගේම මීට ගොඩ කාලයකට පෙර WhatsApp ආයතනය විසින් ඔවුන්ගේ සේවාවේ ආරක්ෂාව තහවුරු කිරීම සඳහා end-to-end encryption ක්‍රමයක් හඳුන්වා දුන්නා මතක ඇති. ඒ හරහා අපේ messages අපේ ග්‍රහණයෙන් ඉවතට ගිය පසු ඒවායේ ආරක්ෂාව සහතික කිරීමට සමත් වුණා.\n\nඔන්න දැන් අපේ ලඟ තිබෙන messages වල ආරක්ෂාව තහවුරු කිරීම සඳහා WhatsApp වෙතට Fingerprint authentication ක්‍රමය එකතු කිරීමට WhatsApp සමාගම සූදානම් වෙන බව දැනගන්නට ලැබෙනවා.\n\nමේ අනුව Android Marshmallow හෝ ඊට පසු Android සංස්කරණයක් භාවිතා කරන්නන් හට fingerprint authentication භාවිතා කිරීමට හැකියාව ලැබෙන අතර iOS භාවිතා කරන්නන් හටFaceIDසහTouchIDපහසුකම භාවිතා කිරීමට හැකියාව ලැබෙනවා.\n\nමීට අමතරව PIN සහ Password භාවිතා කිරීමේ හැකියාව ද ඇතුලත් කිරීමට නියමිත බව දැනගන්නට ලැබෙනවා.\n\nමෙම පහසුකම  WhatsApp පරිශීලකයන් හට නිකුත් කිරීමට නියමිත දිනයක් පිළිබඳව නම් තවමත් දැනගන්නට ලැබෙන්නේ නැහැ.",
+  "category": "social-media",
+  "date": "2019-01-13",
+  "extraction_timestamp": "2026-02-20T12:21:17.387645",
+  "headline": "WhatsApp සඳහා Fingerprint authentication ක්‍රමය එකතු කිරීමට WhatsApp ආයතනය සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/whatsapp-for-android-may-soon-get-fingerprint-authentication/",
+  "word_count": 141
+}

@@ -1,0 +1,13 @@
+{
+  "body": "LastPassයනු මේ වන විට බොහෝ දෙනෙක් භාවිතා කරන ඉතාමත් ප්‍රසිද්ධ password manager එකක් වන අතර දැන් LastPass විසින් සිය පරිශීලකයන් වෙත නව පහසුකම් කිහිපක් හඳුන්වාදීමට කටයුතු කර ඇත.\n\nLastPass සේවාවේ paid සංස්කරණය භාවිතා කරන පරිශීලකයින් සඳහා අලුතින් හඳුන්වාදී ඇති “dark web monitoring” tool එක හරහා එම පරිශීලකයින්ගේ logins අන්තර්ජාලය පුරා ඇතිවන data breaches හරහා හැකර්වරුන් අතට පත්වී ඇත්දැයි පරීක්ෂා කිරීමේ හැකියාව ලබාදී තිබෙනවා.\n\nඔබගේ සියලු passwords වල strength එක පිළිබඳ වඩා හොඳ අවබෝධයක් ලබාදීම සඳහා නිර්මාණය කර ඇතිනව security dashboard එකෙහිකොටසක් ලෙස මෙම tool එක ලබාදීමට LastPass ආයතනය කටයුතු කර තිබෙනවා.\n\nමෙම නව tool එක මගින් Enzoic database එක තුළ අදාල පරිශීලකයාගේ logins පරීක්ෂා කර බලන අතර, monitoring tool එක මගින් database එකෙහි ඔබගේ logins වලින් එකක් හෝ සොයා ගතහොත් LastPass හි නව security dashboard එක හරහා මෙන්ම email එකක් මගින් ද ඒ පිළිබඳව ඔබව දැනුවත් කිරීමට කටයුතු කරනවා.\n\nඑම alert එක මඟින් ඔබගේ password එක කුමන වෙබ් අඩවිය හරහා breach වී ඇත්දැයි පෙන්වන අතර එම වෙබ් අඩවියට සම්බන්ධ අනෙකුත් වෙබ් අඩවි ද පෙන්වීමට කටයුතු කරනු ලබන බැවින්, පහසුවෙන්හ ඊට අදාල passwords වෙනස් කරගැනීමේ හැකියාව ලැබෙනවා.\n\nඊට අමතරව නව security dashboard එක free සහ paid LastPass පරිශීලකයන් සඳහා ලබා ගත හැකි අතර එමගින් ඔබගේ passwords අතුරින් දුර්වල හෝ නැවත භාවිතා කරන ලද passwords හෝ වෙනත් ආකාරයකින් අවධානමට ලක්ව ඇති passwords පිළිබඳව ඔබට දැනුම් දෙනු ලබනවා.\n\nමේ update කරන ලද dashboard එක මගින් ඔබ වෙනස් කළ යුතු passwords පිළිබඳව ‍තොරතුරු වාර්ථා කරන නමුත්, ඒ සඳහා මෙම පහසුකම manually run කිරීම සිදු කළ යුතු වන බව The Verge වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nLastPass ආයතනය පවසන්නේ මේ නව dashboard එක දැනට භාවිතා කල හැක්කේ ඔවුන්ගේ desktop app එක සඳහා පමණක් බවත් ඉදිරි සතිවලදී mobile apps හරහාද මෙම පහසුකම භාවිතා කල හැකි වනු ඇති බවයි.\n\nකොහො වුණත් මෙවැනි monitoring tools ලෙස වෙනත් password manager සේවාවන් වලත් දකින්නට ලැබෙන අතර1Passwordවැනි paid service මගින් හෝHave I Been Pwned databaseඑක මගින් ද ඔබගේ login තොරතුරු compromise වී ඇත්දැයි ඔබට නිරීක්ෂණය කිරීමට හැකියාව තිබෙනවා.\n\nApple සමාගම විසින්iOS 14සහmacOS Big Surහි කොටසක් ලෙස Safari වෙත password monitoring පහසුකම නොමිලේ ලබාදීමට සැලසුම් කර ඇති නමුත් LastPass හි නව විශේෂාංගය දැනටමත් ඔවුන්ගේ සේවාව භාවිතා කරන්නන් හට බොහෝ ප්‍රයෝජනවත් වනු ඇති.",
+  "category": "security",
+  "date": "2020-08-06",
+  "extraction_timestamp": "2026-02-20T12:08:09.336021",
+  "headline": "හැකර්වරුන්ගේ ග්‍රහණයට ලක් වූ passwords පිළිබඳව දැනගැනීමේ හැකියාව ලබදෙන පහසුකමක් LastPass වලට එකතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/lastpass-will-now-monitor-your-accounts-for-breaches-and-at-risk-passwords-and-alert-you-when-you-need-to-change-them/",
+  "word_count": 349
+}

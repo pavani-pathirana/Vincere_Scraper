@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින්Android 10 release කිරීමත් සමඟපසුගිය වසරේ system level dark theme පහසුකම් හඳුන්වා දුන් අතර බොහෝ ප්‍රධාන apps වලට මේ පහසුකම අන්තර්ගත කිරීමට කටයුතු කරනු ලැබුවත්, සියලුම app නිර්මාණය කරන්නන් එයට අනුගත වූයේ නැති බව අප දන්නා කාරණාවක් වෙනවා.\n\nGoogle සමාගමෙහි default keyboard app එක වන Gboard සඳහා සඳහා ද මේ system level dark theme එක ක්‍රියාත්මක වන පහසුකම මේ දක්වා හඳුන්වා දී නොතිබුණු අතර, සම්පූර්ණ system එකම dark theme එකට හැරෙන විට keyboard එක පමණක් සාමාන්‍යය ලෙස දර්ශනය වීමෙන් පරිශීලකයින් ඉමහත් අපහසුතාවයට ලක් වුණා.\n\nකොහොම නමුත් දැන් Gboard වල නවතම beta සංස්කරණය මගින් system theme එක මත පදනම්ව ස්වයංක්‍රීයව light/dark mode අතර මාරුවීම සඳහා සහාය දක්වන නව keyboard theme option එකක පරීක්ෂා කරන බව වාර්ථා වෙනවා.\n\nGboard beta version 9.6.4.320679808එකෙහි මෙලෙස default light, default dark සහ system auto ලෙස themes තුනක් දැක ගැනීමට හැකියාව ලැබෙන බවAndroid Police වෙබ් අඩවියපෙන්වා දෙනවා.\n\nකෙසේ නමුත් මෙම Gboard theme එක apply කල හැකි වන්නේ ඔබ keyboard එක customize කර නොමැති නම් පමණක් වන අතර keys වටා borders එකතු කිරීමෙන් පවා themes අතර මාරුවීම අවහිර වන නමුත්, මෙම ගැටළු ඉදිරියට පැමිණෙන update එකක් මඟින් නිරාකරණය කරනු ඇති බව අපේක්ෂා කරනවා.",
+  "category": "android",
+  "date": "2020-07-17",
+  "extraction_timestamp": "2026-02-20T12:10:46.261677",
+  "headline": "ස්ව්‍යංක්‍රීයව dark theme එකට මාරු වීමේ පහසුකම Gboard වලට එකතු කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/gboard-adds-support-for-automatic-dark-theme-switching-in-latest-beta-version/",
+  "word_count": 187
+}

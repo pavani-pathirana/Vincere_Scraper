@@ -1,0 +1,13 @@
+{
+  "body": "මේ වන විට WhatsApp Beta යෙදුම භාවිතා කරන Android පරිශීලකයන් හට දෝෂ කිහිපයක් වාර්ථා වී තිබෙනවා.\n\nනවතම WhatsApp Beta සංස්කරණය(Version 2.22.24.20)ලබා ගෙන, WhatsApp හරහා ලැබුණු වීඩියෝවක් download කිරීමේදී, WhatsApp යෙදුම crash වන බවට ලොව පුරා බොහෝ Beta පරිශීලකයන් වාර්ථා කර තිබෙනවා. එමෙන්ම Message එකක් යැවූ පසු පෙන්වන Check Mark එකද කිහිප සැරයක් ඉතා වේගයෙන් blink වන බවද අපට දැක ගැනීමේ හැකියාව ලැබුණා.\n\nSome users are experiencing crashes when downloading videos after installing the latest version of WhatsApp beta for Android. In addition, WhatsApp may continuously play a conversation tone when sending a message.These are definitely two bugs. Looking for a bug fix update...\n\nකෙසේ වෙතත් මෙම ගැටළුව සාමාන්‍ය WhatsApp පරිශීලකයන් හට නොමැති අතර මෙම දෝෂ සංවර්ධන මට්ටමේ පවතින Beta යෙදුමේ Bug එකක් විය හැකි බවත් ඉදිරි සංස්කරණයකදී මෙම ගැටළු නිරාකරණය කරනු ඇති බවත් අපට පෙන්වා දිය හැකිය.",
+  "category": "social-media",
+  "date": "2022-11-16",
+  "extraction_timestamp": "2026-02-20T12:05:44.545484",
+  "headline": "WhatsApp Beta පරිශීලකයන් හට යෙදුමේ දෝෂ කිහිපයක් වාර්ථා වෙයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/some-android-users-experiencing-crashes-on-new-whatsapp-beta-releases/",
+  "word_count": 137
+}

@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය පෙබරවාර් 4 වැනිදාපරිශීලකයන්ගේ Photos සොරකම් කළ Beauty Camera apps 29ක් Google Play Store එක තුල තිබූ බවඅපි ඔබට වාර්ථා කළා මතක ඇති.\n\nඔන්න දැන් ලැබෙන තොරතුරු අනුව මේ Google Play Store එකේ තිබී,BitcoinසහEthereumකියන cryptocurrency සොරකම් කරන Malware App එකක් හඳුනාගැනීමට Eset ආයතනය සමත් වී තිබෙනවා.\n\nමෙසේ සොරකම් කරන ලද Bitcoin හෝ Ethereum අදාල app එක නිර්මාණය කළ තැනැත්තාගේWalletඑකට යන ලෙස මෙම Malware එක නිර්මාණය කිරීමට ඔහු කටයුතු කර තිබෙනවා.\n\nමේ virus එකClipper යන වර්ගයටඅයත් වන අතර, මේ Clipper වර්ගයේ malware වලින් සිදු වන්නේ, operating system එකේ clipboard එක (සරළව, copy කරන හැම දෙයක්ම, paste කරන තුරු තිබෙන ස්ථානය) තුල තිබෙන දත්ත අතරින් cryptocurrency address හඳුනාගෙන, ඒවා malware එකේ හිමිකරුගේ address එක සමඟින් මාරු කිරීමයි.\n\nසාමාන්‍යයෙන් cryptocurrency wallet එකක address එකක් මතක තබා ගැනීමට ඉතාමත් අපහසු විදිහේ random අකුරු සහ ඉලක්කම් වලින් නිර්මාණය වෙනු ලබන අතර, මේ App එක හරහා සිදු වන්නේ යම්කිසි transaction එකක් සිදු කිරීම සඳහා අදාල පරිශීලකයා විසින් තම wallet address එක clipboard එකට copy කරගැනීමෙන් අනතුරුව, එය ඔහු විසින් අදාල තැනට paste කිරීමට ප්‍රථමව, මේ app එක නිර්මාණය කළ පුද්ගලයාගේ wallet address එක කලින් copy කරගත් address එකත් සමඟින් මාරු කරනු ලබනවා.\n\nඒ අනුව නොදැනුවත්වම අදාල පුද්ගලයා විසින් භාවිතා කරන්නේ මේ Malware එක නිෂ්පාදනය කළ තැනැත්තාගේ Wallet address එක බැවින් අදාල මුදල් සියල්ලම සෘජුවම මේ Malware නිෂ්පාදකයාගේ ගිණුමට බැර වන ලබනවා.\n\nමේ App එක ප්‍රසිද්ධ Ethereum සම්බන්ධ සේවා සපයන ආයතනයක් වනMetaMask සේවාවේනිළ Mobile App එක ලෙස පෙනී සිටිමින් මෙම කටයුත්තෙහි නියැලීම හේතුවෙන්, මෙය download කරගන්නා පිරිස ද Ethereum එදිනෙදා භාවිතා කිරීමට පුරුදු වූ අයයි.\n\nකොහොම වුණත් මේ App එක මේ වන විටත් Google Play Store එකෙන් ඉවත් කිරීමට කටයුතු කර ඇතත් මෙයින් වූ හානිය කොපමණදැයි කිසිවෙකුටත් සොයාගත නොහැකි වෙනවා.",
+  "category": "security",
+  "date": "2019-02-11",
+  "extraction_timestamp": "2026-02-20T12:13:15.352102",
+  "headline": "Clipper වර්ගයට අයත් Cryptocurrency සොරකම් කරනා App එකක් ප්‍රථම වතාවට Google Play Store එකෙන් හමුවෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/first-clipper-malware-discovered-on-google-play/",
+  "word_count": 273
+}

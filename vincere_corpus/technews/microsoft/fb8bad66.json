@@ -1,0 +1,13 @@
+{
+  "body": "2008 වර්ෂයේදි Google සමාගම විසින් Google Chrome browser එක launch කිරිමෙන් පසු අන්තර්ජාලය භාවිතා කරන්නන් Internet Explorer භාවිතා කිරීම ක්‍රමයෙන් ගිලිහි ගියා.\n\nමෙම හේතුව නිසා Microsoft සමාගම විසින් ඔවුන් නවතම Web browser එක Microsoft Edge නමින් හදුන්වා දීමට කටයුතු කළ අතර එය Chromium මත පදනම් වුණු Web browser එකක් බව අප ඔබ‍ව මීට පෙර දැනුවත් කළා මතක ඇති.\n\nමේ Microsoft Edge Browser එකට විවිධ ආකාරයේ ප්‍රයෝජනවත් රැසක් එකතු කිරීමට Microsoft සමාගම කටයුතු කරමින් සිටින අතර ඒ අතරින් Collections පහසුකම තවත් එක් විශේෂාංගයක් ලෙස පෙන්වා දිය හැකි වෙනවා.\n\nවිශේෂයෙන්ම අපි යම්කිසි දෙයක් පිළිබඳව research එකක් සිදු කරන විටදී ඊට සම්බන්ධ (links, images, videos ආදී) තොරතුරු අන්තර්ජාලයෙන් එකතු කරමින් සිටින විට ඒවා පිළිවෙලකට එක තැනක තබාගැනීමේ හැකියාව මේ හරහා ලැබෙන අතර මෙම පහසුකම වෙනත් වැදගත් දෑ manage කිරීම සඳහා ද භාවිතා කළ හැකි වෙනවා.\n\nMicrosoft Edge desktop browser එකට මේ පහසුකම ලබාදීමට Microsoft සමාගම මීට පෙර කටයුතු කළ අතර මේ වන විට ඔවුන්ගේAndroid app එකසඳහා ද මෙය ලබාදීමට කටයුතු කරමින් සිටින බව වාර්ථා වෙනවා.\n\nCollections feature එක භාවිතා කිරිමට නම් අවම වශයෙන් Microsoft Edge (beta) version 45.04.24.4994. එක තිබිම අවශ්‍ය වන අතර වාර්තාවට අනුව bottom bar එකේහි ඇති three-dot button එක tab කිරිම මගින් ඔබට Collections access කිරිමට හැකියාව ලැබෙනවා.\n\n“+” icon මත tap කර නව Collection එක් කළ හැකිය. ඔබ මෙයට නමක් දුන් පසු, මෙනුවෙන් “Add to Collection” හි tap කිරීමෙන් ඔබට links or images Collection සදහා එකතු කිරිම කර හැකිය.\n\nමෙසේ නිර්මාණය කරනු ලැබූ Collections, වෙනත් devices වලින් access කිරීමට නම් Sync settings හරහා මෙම collections sync වීමේ පහසුකම enable කළ යුතු අතර මෙම feature එක භාවිතා කිරීමට දැනට Microsoft Edge beta version එක තිබිය යුතු වෙනවා.",
+  "category": "microsoft",
+  "date": "2020-05-30",
+  "extraction_timestamp": "2026-02-20T12:09:25.601169",
+  "headline": "Microsoft සමාගම විසින් ඔවුන්ගේ Edge Android App එක සදහා Collections පහසුකම ලබා දීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-edge-for-android-gets-support-for-collections/",
+  "word_count": 267
+}

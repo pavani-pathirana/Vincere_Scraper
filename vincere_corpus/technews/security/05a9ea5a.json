@@ -1,0 +1,13 @@
+{
+  "body": "Google Play store එක හරහා බැංකු හාcryptocurrency මාරු කරන ආයතනලෙස පෙනීසිටිමින් ව්‍යාජ Finance apps 6ක් හරහා Android භාවිතා කරන්නන් රැසකගේ credit card සහ වෙනත් බැංකු ගිණුම් වලට login වීමට භාවිතා කරනු ලබන username සහ password සොරාගැනීමක් සිදු වී තිබෙන බවESETආයතනය විසින් පෙන්වා දෙනවා.\n\nමේ apps අතර Austrian cryptocurrency exchange එකක් වනBitpandaහි මෙන්ම ස්විස්ටර්ලන්තය, එක්සත් රාජධානිය, නවසීලන්තය, ඔස්ට්‍රේලියාව සහ පෝලන්තය ඇතුලු රටවල් රැසක බැංකු වල නිළ Android App එක ලෙස පෙනී සිටිම්න‍ෙ මෙම වංචාව සිදු කරගෙන ගොස් ඇති අතර මෙයPhishingඝනයට අයත් වන දත්ත සොරකමක් වෙනවා.\n\nමෙම apps සියල්ලම පාහේ Google Play එකට එකතු කරන්නට කටයුතු කර තිබුණේ පසුගිය ජුනි මාසයේ වන අතර මේ සියල්ලම එකිනෙකට වෙනස් developer name වලින් publish කිරීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nඑමෙන්ම publish කර ගතවී ඇති මාස කිහිපය තුල දහස් ගණනක් භාවිතා කරන්නන් විසින් මෙම apps download කරගෙන ඇති අතර ඔවුන් සියළුදෙනාගේ දත්ත මෙලෙස සොරකම් කිරීමට ලක් වී තිබෙනවා.\n\nමේ වර්ගයේ app එකක් install කළ පසු credit card දත්ත හෝ login වීමට භාවිතා කරනු ලබන username සහ password ඉල්ලා සිටින අතර, එම දත්ත අදාල servers වලට යැවීමෙන් පසුව \"thank you\" හෝ \"congratulations\" යනුවෙන් message එකක් පෙන්වා app එකෙන් ඉවත් වීමක් සිදු වෙන බව පෙන්වා දෙන ESET සමාගම මෙවැනි ආකාරයේ app එකක් ඔබ දැනටමත් භාවිතා කර තිබෙන්නේ නම්, වහාම අදාල app එක ඉවත් කර දමා, password සහ pin codes වෙනස් කරන ලෙසටද ඔවුන් දන්වා සිටිනවා.\n\nඑමෙන්ම මේ ආකාරයේ attacks වලින් බේරීම සඳහා අදාල බැංකු වල වෙබ්අඩවි වල සඳහන් වන link වලින් පමණක් එම apps install කරගන්න ලෙසත් ඔවුන් වැඩිදුරටත් දන්වා සිටිනවා.",
+  "category": "security",
+  "date": "2018-09-21",
+  "extraction_timestamp": "2026-02-20T12:16:56.679308",
+  "headline": "ව්‍යාජ Finance Apps 6ක් හරහා Android භාවිතා කරන්නන්ගේ Credit Card තොරතුරු සොරාගනී",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/fake-finance-apps-phish-credit-card-data-from-android-users/",
+  "word_count": 243
+}

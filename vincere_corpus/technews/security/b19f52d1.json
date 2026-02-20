@@ -1,0 +1,13 @@
+{
+  "body": "මේ වන විට ලොව පුරා Telegram ජනප්‍රිය වී ඇති ප්‍රධානතම හේතුව වන්නේ එහි ඇති privacy features නිසාවෙන් බව අමුතුවෙන් කිවයුතු නැහැ.\n\nකොහොම නමුත් තමන්ගේ අනන්‍යතාවය ආරක්ෂා කරගැනීමට හැකියාව ඇති නිසාවෙන් හැකර්වරුන් සහ අපරාධකරුවන් ද විශාල වශයෙන් මෙම සේවාව තමන්ගේ අපරාධ සඳහා භාවිතා කරන බව වැඩි දෙනෙකුගේ අවධානයට යොමු නොවන කරුණකි.\n\nමේ වන විට මේ Telegram සේවාවේ පවතින Channels හරහා පැතිරෙන, FatalRAT නම් වූ Trojan වෛරසයක් පිළිබඳව AT&T Alien Labs හි security researcher වරුන් පිරිසක් විසින් අනාවරණය කිරීමට කටයුතු කර තිබෙනවා.\n\nමෙය Telegram Channel හරහා media articles හෝ software download links හරහා අදාල channel වල සාමාජිකයින් වෙත යොමු කෙරෙනු ලැබෙනවා. මෙහි විශේෂත්වය වන්නේ මෙම වෛරසය පැතිරවිය හැක්කේ අදාල channel වල admin වරුන් හට පමණක් වීමයි.\n\nමෙම වෛරසයේ source code එක පිරීක්සීමෙන් දැකගත හැකි වන්නේ මෙය Windows මෙහෙයුම් පද්ධතිය ඉලක්ක කරගෙන නිර්මාණය කර ඇති බවත්, එය ස්ථාපනය වීමට පොරොතුව disk space එක, processors ප්‍රමාණය වැනි දේවල් සඳහා පරීක්ෂා කිරීමක් සිදු කරනු ලබන අතර, එම පරීක්ෂාවන් වලින් එකක් හෝ අසාර්ථක වන්නේ නම්, එය ස්ථාපනය නොවී ඉවත් වී යනවා.\n\nමෙම වෛරස් එක හරහා Windows registry එක වෙනස් කිරීම, Keylogger එකක් ලෙස ක්‍රියාත්මක වී ඔබගේ passwords, credit card තොරතුරු වැනි දෑ එකතු කරගැනීම මෙන්ම අදාල හැකර්වරයාගේ command එකක් හරහා වෙනත් files download කර ස්ථාපනය කිරීම වැනි දෑ සිදු කළ හැකි වෙනවා.\n\nමීට අමතරවEdge,Chrome,Firefox, 360Secure Browser, SoguBrowser, සහ QQBrowser වැනි ප්‍රසිද්ධ Web Browser වලින් user information මකා දැමීමේ හැකියාව ද මෙයට ඇති බවත්, usernames, addresses, පරිගණකයේ external IP address එක වැනි තොරතුරු encrypted channel එකක් හරහා අදාල හැකර්වරයාට යැවීමට ද මෙයට හැකියාව ඇති බව AT&T ආයතනය පෙන්වා දෙනවා.\n\nමේ වන විට මේ පිළිබඳව antivirus මෘදුකාංග නිෂ්පාදනය කරන සමාගම් දැනුවත් කර ඇති නමුත් නුදුරු අනාගතයේදී මෙහි වැඩිදියුණු කරන ලද සංස්කරණ බොහෝමයක් දැකගත හැකි වනු ඇති බව cyware ආයතනය පෙන්වා දෙනවා.",
+  "category": "security",
+  "date": "2021-08-10",
+  "extraction_timestamp": "2026-02-20T12:05:44.593483",
+  "headline": "Telegram Channel හරහා පැතිරෙන FatalRAT නම් Trojan ගණයට අයත් වෛරසයක් පිළිබඳව AT&T ආයතනය අනාවරණය කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/a-new-trojan-fatalrat-is-leveraging-telegram/",
+  "word_count": 283
+}

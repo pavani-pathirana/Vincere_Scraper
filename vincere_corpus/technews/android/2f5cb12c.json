@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මාස කිහිපය තුළ server-side updates ගණනාවක් හරහාDark mode,smart compose,clipboard suggestionsයන විශේෂාංග ඇතුළුව Gboard හි බොහෝ වෙනස්කම් සිදු වූ අතර තවමත් මේ පහසුකම් පරිශීලකයින් වෙත ලබාදෙමින් පවතිනවා.\n\nදැන් Gboard සඳහා තවත් විශේෂාංග දෙකක් වන clipboard එක සඳහා image pasting පහසුකම සහ Google Search එක වෙනුවට Google Lens පහසුකම හඳුන්වාදීමට Google සමාගම කටයුතු කර ඇති බව වාර්ථා වෙනවා.\n\nමෙම වසරේ මුල අනාවරණය වූimage pasting පහසුකම මගින් Gboard clipboard එක හරහා පහසුවෙන් images copy කරගැනීමට සහ paste කර ගැනීමට හැකියාව ලැබෙන අතර එමගින් image URL එකක් share කිරීමට හෝ image එක download කර share කිරීමට වැය වෙන කාලයට වඩා අවම කාලයකින් image එකක් share කරගැනීමට හැකියාව ලැබෙනවා.\n\nඔබට Gboard clipboard එකට image එකක් copy කළ හැකි ක්‍රම කිහිපයක් ඇති අතර Android මත Chrome 84 හි image එක මත long-press කිරීම මගින් image එකක් පහසුවෙන්ම copy කර ගැනීමට හැකියාව තිබෙනවා.\n\nඑහිදී ඔබට \"Copy image\" යන option එක දැක ගැනීමට නොහැකිනම්Chrome://flagsහිCopy Imageflag එක enable කර browser එක restart කිරීම මගින් මෙම විශේෂාංගය ලබාගත හැකිය. මෙය Android 10, 11 සහ ඇතැම් විට පැරණි versions වලද ක්‍රියා කරනු ලබනවා.\n\nAndroid 11 සංස්කරණයෙහි ඔබට Chrome වල පමණක් නොව, ඕනෑම තැනක සිට Recents screen එක විවෘත කර image එක long-press කර “Copy\" මත tap කිරිම මගින් image එක copy කර ගැනීමට හැකියාව ලැබෙනවා.\n\nඉහත සඳහන් ආකාරයට copy කරගත් images paste කර ගැනීම සඳහා ඔබ කළයුත්තේ Gboard clipboard එක විවෘත කර ඔබ copy කරගත් image එක select කිරිමයි.\n\nමෙම වසර මුලදී මෙම විශේෂාංගය පිළිබඳව අනාවරණය වූ විට මෙය apps 21 ක් සඳහා සහාය දක්වන බව වාර්ථා වුණු අතර, මේ වන විට පහත සඳහන් apps වලට අමතරව තවත් apps වලට ද මෙම පහසුකම අන්තර්ගත කර ඇති බව අනුමාන කළ හැකි වෙනවා.\n\nGboard වල තිබුණු Google Search පහසුකම ආරම්භයේ සිටම දැකගැනීමට හැකිවූ විශේෂාංගයක් නමුත් බොහෝ දෙනෙකු එය භාවිතා නොකරන නිසා දැන් ඒ වෙනුවට Google Lens පහසුකම ඇතුලත් කිරීමට කටයුතු කර ඇති අතර එය වඩාත් ප්‍රයෝජනවත් වෙනවා.\n\nඔබ menu එකෙන් Lens තෝරාගත් පසු, Gboard විසින් ක්ෂණිකව text scanning open කරනු ඇති අතර එවිට ඔබට text එක තෝරා “Send to keyboard” යන button එක මත tap කිරීම මගින් එම text එක ඔබගේ clipboard එකට එක් කරගත හැකිය.\n\nමෙම නව විශේෂාංග දෙකම Gboard 9.5.11 සංස්කරණයේ සිට 9.616 සංස්කරණය දක්වා වන Gboard සංස්කරණ භාවිතා කරන්නන් හට server-side update එකක් හරහා ලබාදීමට කටයුතු කරමින් පවතින බව වැඩිදුරටත් වාර්ථා වෙනවා.",
+  "category": "android",
+  "date": "2020-08-01",
+  "extraction_timestamp": "2026-02-20T12:10:20.745687",
+  "headline": "Clipboard එක හරහා image paste කිරීමේ හැකියාව Gboard වෙත එකතු කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/gboard-image-pasting-is-now-live-lens-replaces-google-search/",
+  "word_count": 373
+}

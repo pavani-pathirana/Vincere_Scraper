@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය වසරේදී Google සමාගම විසින් Smart Compose සහ autocorrect පහසුකමGmailසහGoogle Docs හි G Suite version එකසඳහා නිකුත් කිරීමට කටයුතු කරනු ලැබූ අතර, ඒ පිළිබඳව අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nඑමගින් ඔබේ ලිවීමේ රටා සහ වාක්‍ය ඛණ්ඩ මත පදනම්ව ස්වයංක්‍රීයව වචන suggest කිරීම සිදු කරන අතර මෙය මිලියන ගණනක් වූ Gmail පරිශීලකයින්ගේ මෙන්ම Google Docs පරිශීලකයින්ගේ කාළය ඉතිරි කරගැනීමට හැකියාව ලබාදෙන පහසුකමක් වුණා.\n\nමේ වන විට9to5Google වෙබ් අඩවියසඳහන් කරන ආකාරයට Gboard වෙතද මෙම විශේෂාංගය ලබාදීමට Google සමාගම කටයුතු කර ඇති අතර එය Google Messages, WhatsApp සහ Telegram වැනි messenger apps  තුළ මෙන්ම වෙනත් යෙදුම් සඳහාද ලබා ගත හැකි වෙනවා.\n\nමෙම smart compose පහසුකම නවතම Gboard beta version 9.5.12.317844448 එක හරහා ලබා ගත හැකි නමුත් දැනට server-side A/B test එකක කොටසක් වන නිසාවෙන් මෙතෙක් එය ලැබී ඇත්තේ කිහිප දෙනෙකුට පමණක් වන අතර එය manually enable කිරීමට ක්‍රමයක් නොමැත.\n\nඔබටත් එම පහසුකම ලැබී ඇත්නම් එම පහසුකම භාවිතා කරන්නේ කෙසේද යන්න පිළිබඳ පැහැදිලි කිරීමක් ඔබට දිස්වෙනු ඇති අතර Gmail වලදී මෙන් ඔබට suggested text එක ඇතුළත් කිරීමට ඒ මත swipe right කල හැකිය.\n\nThird-party apps සමඟ මේ තරම් සම්බන්ධ වීමට Gboard app එක කටයුතු කරන්නේ කෙසේද යන්න පැහැදිලි නැති නමුත් සෑම දෙයක්ම text-entry fields තුළ සිදුවන බැවින් මෙම පහසුකම ක්‍රියාත්මක කිරීම සඳහා chat apps විසින්ම කිසිදු code එක් කිරීමට අවශ්‍ය නොවනු ඇත.\n\nPlay Store හරහාGboard beta සඳහා ලියාපදිංචි වීමෙන්ඔබටත් දැනට පරීක්ෂණ මට්ටමේ පවතින මේ feature එක ලැබී ඇත්දැයි පරික්ෂා කල හැකි අතර මේ ස‍ඳහා ඔබට Google Play Services update කිරීමට ද සිදු වනු ඇත.",
+  "category": "google",
+  "date": "2020-07-02",
+  "extraction_timestamp": "2026-02-20T12:11:31.743123",
+  "headline": "Gboard beta සංස්කරණය හරහා chat apps වලට smart compose පහසුකම හඳුන්වාදීමට Google සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/gboard-beta-is-getting-smart-compose-for-chat-apps/",
+  "word_count": 241
+}

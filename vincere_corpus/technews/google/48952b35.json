@@ -1,0 +1,13 @@
+{
+  "body": "මේ වන විට ලෝකයේ තිබෙන විශාලම ලාබ නොලබන ආයතනය වන්නේLinux Foundationඑකයි. ඒ වගේම open source මෘදුකාංග නිර්මාණය කිරීමට හා ප්‍රවර්ධනය කිරීම සඳහා මොවුන් කටයුතු කරනු ලබනවා.\n\nලිනක්ස් වල නිර්මාතෘ වනLinus Torvaldsගේ මූලිකත්වයෙන් ලෝකප්‍රසිද්ධLinux kernelඑක නිර්මාණය කිරීම හා යාවත්කාලීන කරන්නෙත් මෙන්න මේ Linux Foundation එක හරහා තමයි.\n\nඑමෙන්ම Google සහ Tencent කියන සමාගම් දෙක වසරකට ඇමෙරිකානු ඩොලර් ලක්ෂ 5 බැගින් මෙම Linux Foundation එකට පරිත්‍යාග කරමින් ඔවුන්ගේ Platinum level sponsors ලා වීමට කටයුතු කර ඇති බව පසුගියදා Linux Foundation එක මගින් නිවේදනය කරනු ලැබුවා.\n\nමීට ඉහතදී Google සමාගමට ලැබී තිබුණේ Silver level membership එකක් වන අතර ඒ සඳහා ඔවුන් Linux Foundation එකට වසරකට ඇමෙරිකානු ඩොලර් ලක්ෂයක මුදලක් පරිත්‍යාග කරනු ලැබුවා. ඉතින් මේ අළුත් platinum membership එකත් එක්ක, Google සමාගමට තමන්ගේ නියෝජිතයෙක් Linux Foundation එකේ අධ්‍යක්ෂවරයෙකු ලෙස පත්කිරීමට අවස්ථාව ලැබෙනවා. මේ සඳහා open-source strategy for Google Cloud Platform හි ප්‍රධානියා වන Sarah Novotny ව පත් කරනු ලැබ තිබෙනවා.\n\nසමහරවිට ඔයා නොදන්නවා ඇති, මේ Google සමාගම open source මෘදුකාංග වෙනුවෙන් සේවය ලබා දීලා තිබෙන්නේ මුදලින් පමණක්ම නොවෙයි. මේ වන විට open source ව්‍යාපෘති 10,000 ක පමණ ප්‍රමාණයකින් මේ වෙනුවෙන් දායකවීමටත් මොවුන් කටයුතු කරලා තිබෙනවා. ඒ අතර කවුරුත් දන්න Node.Js, Cloud Foundry වගේම Open API Initiative එකත් වෙනවා.\n\nඒ වගේම Tencent කියන්නෙත් චීනයේ සුප්‍රසිද්ධ තාක්ෂණික සමාගමක්. ඔයාල දන්නවා ඇති අපි දැනට භාවිතා කරන අන්තර්ජාල සේවා බොහෝමයක් චීනයේ භාවිතා කරන්නට නොදෙන බව. නමුත් මේ හැම සේවාවක් සඳහාම විකල්ප ක්‍රමයක් ඔවුන් සතුව තිබෙනවා. ඉතින් Webio, QQ සහ WeChat කියන සේවා ගැන ඔයාලා යන්තමින් හරි අහලා තියනවා ඇති. ඒ සේවා ද ඇතුළුව තවත් විශාල සේවා ප්‍රමාණයක් සපයන ආයතනයක් තමයි මේ Tencent කියන්නේ.\n\nඉතින් මම කලින් කිවුවා වගේ මේ Tencent  එකටත්  Linux Foundation එකට අධ්‍යක්ෂවරයෙකු එකතු කිරීමට අවස්ථාව ලැබෙනවා. එමෙන්ම  මොවුන් Linux Foundation එකෙහි Deep Learning Foundation එක යටතේ Angel project නමින් හැඳින්වෙන big data සඳහා වන  high-performance distributed machine-learning platform එකක් සඳහා ද දායක වෙනවා.\n\nකොහොම නමුත් මේ වන වටත් AT&T, Cisco, Huawei, IBM, Intel, Microsoft, Oracle, Qualcomm, Samsung සහ VMWare කියන සියළු ආයතන Linux Foundation එකේ Platinum Member ලා වෙනවා.",
+  "category": "google",
+  "date": "2018-06-30",
+  "extraction_timestamp": "2026-02-20T12:23:49.794592",
+  "headline": "Linux Foundation එකට ඩොලර් ලක්ෂ 5 බැගින් ගෙවන Google සහ Tencent",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-tencent-platinum-members-linux-foundation/",
+  "word_count": 324
+}

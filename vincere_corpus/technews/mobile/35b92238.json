@@ -1,0 +1,13 @@
+{
+  "body": "Xiaomi සමාගම විසින් දින කිහිපයකට පෙර ඔවුන්ගේ Mi A3 ජංගම දුරකථන සඳහා Android 11 update එක නිකුත් කිරීමට කටයුතු කරනු ලැබූ අතර මේ වන විට එම update එක install කළ බොහෝ දෙනා හට විශාල ගැටළුවකට මුහුණදීමට සිදුව තිබෙන බව වාර්තා වෙනවා.\n\nමෙම update එක සිදු කිරීමෙන් අනතුරුව Android One logo එක, එනම් boot screen එකෙහි මිනිත්තු 15 - 20ත් අතර කාළයක් පවතින බවත්, ඉන් පසුව black screen එකකට ගොස් off වී යන බවත්බොහෝ පරිශීලකයින් වාර්තා කර තිබෙනවා.\n\nමෙලෙස off වී යාමෙන් අනතුරුව එය නැවතත් bootloader එක (Fastboot mode එක) දක්වා හෝ on කරගැනීමට නොහැකි බවත්, කිසිඳු ආකාරයකින් ‍පරිගණකයකට හෝ වෙනත් device එකකට detect කර නොගන්නා බවත් වැඩිදුරටත් වාර්තා වෙනවා.\n\n@XiaomiIndiaToday received A11 update to my Mi A3 and after installing it and restarting the device, phone is completely dead. Neither it is charging nor switching on. What the hell is this? My phone is completely dead on new year eve.@XiaomiSupport@manukumarjain\n\nමෙය update එක සිදු කළ සෑම පුද්ගලයෙකු හටම මෙම අවාසනාවන්ත තත්ත්වයට මුහුණදීමට සිදුව ‍නැති වුවත්, bootloader එක දක්වා හෝ ජංගම දුරකථනය ගෙන ඒමට නොහැකි වන බැවින් මෙය ඉතාමත් අවධානම්කාරී කටයුත්තක් වෙනවා.\n\nමේ පිළිබඳව Xiaomi සමාගම විසින් තවමත් නිළ වශයෙන් පිළිතුරක් හෝ නිවේදනයක් නිකුත් කිරීමට කටයුතු කර නොමැති අතර, ඔබත් Mi A3 ජංගම දුරකථන හිමියෙකු නම් Android 11 update එක සිදු කිරීමට ඉක්මන් නොවී තව ටික දිනක් ඉවසීමෙන් සිටීම නුවණට හුරු වෙනවා.",
+  "category": "mobile",
+  "date": "2021-01-03",
+  "extraction_timestamp": "2026-02-20T12:06:45.675145",
+  "headline": "අලුත් Android 11 update එක install කිරීමෙන් පසු Mi A3 ජංගම දුරකථන නැවතත් on කළ නොහැකි තත්ත්වයට පත් වන බව වාර්තා වෙයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/android-11-is-rolling-out-to-the-xiaomi-mi-a3-and-bricking-phones/",
+  "word_count": 221
+}

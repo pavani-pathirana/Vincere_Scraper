@@ -1,0 +1,13 @@
+{
+  "body": "2017 වර්ෂයේදී Microsoft සමාගම විසින් ඔවුන්ගේWindows 10 මෙහෙයුම් පද්ධතියේ ARM chipset වලින් බළගැන්වෙන devices සඳහා වූ සංස්කරණයක්නිකුත් කරන්නට කටයුතු කළා මතක ඇති.\n\nඉතින් මේ නිකුත් කිරීමත් සමඟින්Qualcomm සමාගමඇතුළු තවත් පිරිස් මේ Windows 10 ARM මත පදනම් වූAlways connected PC පරිගණකනිපදවීම වෙනුවෙන් දැඩි උනන්දුවෙන් කටයුතු කරන්නට වුණා.\n\nඒ වගේම පසුගිය වසරේ ඔක්තෝම්බර් මාසයේදීx86 වලට දැනට නිර්මාණය කර ඇති apps, ARM64 chips වලට ගැලපෙන ලෙස port කිරීමේ හැකියාව ලබා දෙන SDK එකක්හඳුන්වා දීමට ද Microsoft සමාගම කටයුතු කළා.\n\nI bet you've never seen this before. Well, probably have. It's Windows. On a Pixel 3 XL. Because why not? Everything runs Windows nowadays.pic.twitter.com/PSpRm7STrJ\n\nBas Timmer‍‍‍ කියන නෙදර්ලන්ත ජාතික මෘදුකාංග ඉංජිනේරුවරයා විසින් මීට ඉහතදී Google Pixel 3XL ජංගම දුරකථනයක් මේ Windows 10 ARM සංස්කරණය භාවිතයෙන් පණගන්වන්නට කටයුතු කර තිබුණු බව දකින්නට ඇති.\n\nThat's something... quite the opposite of \":(\".Touch should be pretty easy here since it's a Synaptics controller.pic.twitter.com/BzfZer1rW1\n\nඔන්න දැන්, ඔහු විසින් OnePlus 6T ජංගම දුරකථනයක් ඒ ආකාරයෙන්ම Windows 10 ARM සංස්කරණය භාවිතා කරමින් boot කරන්නට සමත් වී ඇති අතර මේ වන විට එහි විශාල ප්‍රගතියක් දකින්නට ලැබෙනවා.\n\nTouch works, UFS doesn't, so the next step will have to wait for *that* to somehow be figured out.pic.twitter.com/b5GE3HIxKR\n\nOnePlus 6T ජංගම දුරකථනයේ අන්තර්ගත වන Samsung සමාගම විසින් නිෂ්පාදිත Super AMOLED display එකටSynapticsසමාගම විසින් නිෂ්පාදිත touchscreen controller එකක් අන්තර්ගත කර ඇති නිසාවෙන්, මෙහි touch පහසුකම වැඩ කරන තත්ත්වයට ගෙන ඒම පහසු වෙනු ඇතැයි ඔහු වැඩිදුරටත් ප්‍රකාශ කර තිබෙනවා.\n\nA little clip of the 6T I wanted to upload the other day. Don't mind the rotation, video editing capabilities on phones are horrible and I don't have any encoding tools on PC at hand.pic.twitter.com/vu6RQuJmzz\n\nකොහොම වුණත් මෙය සිදු කරන ආකාරය පිළිබඳව විස්තර හෙළි කිරීමට මොහු තවමත් කටයුතු කර නොමැති අතර මෙය එදිනෙදා භාවිතා කරන ජංගම දුරකථනයක ස්ථාපනය කර භාවිතා කළ නොහැකි බව දැකගතහැකි වෙනවා.",
+  "category": "mobile",
+  "date": "2019-04-10",
+  "extraction_timestamp": "2026-02-20T12:19:34.684906",
+  "headline": "OnePlus 6T ජංගම දුරකථනයක Windows 10 ARM සංස්කරණය Install කිරීමට Developer කෙනෙකු සමත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/developer-boots-windows-10-on-arm-on-the-oneplus-6t/",
+  "word_count": 298
+}

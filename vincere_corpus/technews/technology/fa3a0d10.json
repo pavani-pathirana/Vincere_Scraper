@@ -1,0 +1,13 @@
+{
+  "body": "VR වගේම AR කියන්නේ පසුගිය දවස් වල බොහොම කතාබහට ලක් වුණු මාතෘකාවක් වගේම බොහෝමයක් සමාගම් තම තමන්ගේ නිෂ්පාදන මේARසහVRභාවිතයෙන් එළිදක්වන්නට කටයුතු කරනවා දකින්නට ලැබුණා.\n\nඔන්න Mozilla සමාගම විසින් මේOculus,ViveportසහDaydream VRකියන devices වල භාවිතා කරන්න පුළුවන් විදිහේ Web Browser එකක් නිර්මාණය කරන්නට කටයුතු කරලා තියනවා.\n\nමේ අලුත් Web Browser එක හඳුන්වන්නේ Firefox Reality කියන නමින් වන අතර මෙය මුල සිටම virtual reality headset සඳහා තත්ත්වයෙන් උසස් web browsing අත්දැකීමක් ලබාදීම උදෙසා තමයි නිර්මාණය කරලා තියෙන්නේ.\n\nමේ හරහා 3D අත්දැකීමක් මෙන්ම සාමාන්‍යය 2D විදිහට web browse කරන්නත් හැකියාව තිබෙන අතර ඉතාමත් පහසුවෙන් මේ options දෙක අතර මාරු වීමට හැකියාව ඇති බව ඔවුන් ප්‍රකාශ කරනවා.\n\nමේ VR Headset එකකදී type කරන එක ටිකක් අපහසු කටයුත්තක් නිසා, කටහඬ භාවිතා කරමින් search කිරීමටත් මේ අලුත් Web Browser එක හරහා අවස්ථාව තිබෙනවා. ඒ වගේම scroll කිරීම වැනි අනෙකුත් actions සඳහා ඊට අදාල remote controller එක භාවිතා කරන්නට හැකියාව ලබා දී තිබෙනවා.\n\nමේ අලුත් Browser එක නිර්මාණය කිරීමේදී VR Headset භාවිතා කරන්නන්ගේ අදහස් ලබා ගනිමින් ඒ ඔස්සේ මෙහි වැඩිදියුණු කිරීම් කටයුතු සිදු කිරීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nMozilla සමාගමට අයත් වන Firefox Quantum කියන page renderer එක මේ Browser එක නිර්මාණය කිරීමේදී භාවිතා කරන්නට කටයුතු කර තිබෙන අතර තවමත් සාමාන්‍යය Web Browser එකක තිබෙන Bookmarks වැනි පහසුකම් මෙයට ඇතුලත් වන්නේ නැහැ. නමුත් මෙහි ඊළඟ සංස්කරණය හරහා 360-video බැලීම වැනි තවත් පහසුකම් ඇතුලත් කිරීමට ඔවුන් බළාපොරොත්තු වෙනවා.\n\nමේ  Firefox Reality Browser එක දැන් Google Play Store එක හරහා Download කරගැනීමට අවස්ථාව ලබා දී තිබෙන අතර Mozilla සමාගම විසින් මේ සඳහා content නිර්මාණය කිරීම වෙනුවෙන් ‍උනන්දුවක් ඇති අයට විවෘත ආරාධනයකුත් කර තිබෙනවා.‍",
+  "category": "technology",
+  "date": "2018-09-19",
+  "extraction_timestamp": "2026-02-20T12:22:36.890491",
+  "headline": "Oculus සහ Daydream VR සඳහා අලුතින් එන Firefox Reality වෙබ් බ්‍රවුසර් එක",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/firefox-reality-is-a-new-web-browser-built-for-oculus-viveport-and-daydream-vr/",
+  "word_count": 253
+}

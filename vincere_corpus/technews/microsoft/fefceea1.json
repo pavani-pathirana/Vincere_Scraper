@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගම ඔවුන්ගේ Windows 10 මෙහෙයුම් පද්ධතියේ අලුත්ම සංස්කරණය වනWindows 10 October update එකපසුගිය ඔක්තෝම්බර් දෙවන දා නිකුත් කරන්නට කටයුතු කළා.\n\nමේ අලුත් update එක හරහා නව පහසුකම් කිහිපයක් ලැබුණත්, ඇතැම් භාවිතා කරන්නන්ගේ user data එහෙමත් නැතිනම් documents, desktop, downloads වැනි user profile එක තුල ගබඩා වන files මකා දැමීමට කටයුතු කර ඇති බව දැනගන්නට ලැබෙනවා.\n\nවාර්ථා වන අන්දමට මෙය documents, photos වැනි folders වලින් නොනැවතී user profile එක අඩංගු සම්පූර්ණ ගොණුවම මකා දමා ඇති අවස්ථා ද වාර්ථා වෙන අතර මෙය සිදු වන හේතුව හෝ මේ වෙනුවෙන් පිළියමක් ලබා දීමට හෝ Microsoft සමාගම තවමත් කටයුතු කර නැහැ.\n\nමේ update එක තවමත් ස්ව්‍යංක්‍රීයව ක්‍රියාත්මක කිරීමට Microsoft සමාගම කටයුතු කර නොමැති අතර, check for updates button එක click කර manually update කළ පිරිසට පමණක් මෙම අවධානමට මුහුණපෑමට සිදු වී තිබෙනවා.\n\nකොහොම නමුත් ඔබ මේ Windows 10 October update එක ලබා ගැනීමට බළාපොරොත්තුවෙන් සිටිනවා නම් ඒ අදහස මදක් කල් දැමීමෙන් හෝ අදාල files backup කර ගැනීමෙන් පසුව update කිරීම සිදු කිරීමෙන් අනවශ්‍යය අවධානමක් ගැනීමට අවශ්‍යය නොවනු ඇත.",
+  "category": "microsoft",
+  "date": "2018-10-05",
+  "extraction_timestamp": "2026-02-20T12:12:55.156098",
+  "headline": "Windows 10 October Update එක මගින් ඇතැම් භාවිතා කරන්නන්ගේ files මකා දමයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/windows-10s-latest-update-is-deleting-some-users-documents/",
+  "word_count": 164
+}

@@ -1,0 +1,13 @@
+{
+  "body": "WhatsApp සේවාව වෙත මෑතක සිට නව විශේෂාංග කිහිපයක්ම හඳුන්වාදීමට WhatsApp ආයතනය කටයුතු කරමින් සිටින අතර එම විශේෂාංග පිළිබඳව ලිපි කිහිපයකින්ම අප ඔබව දැනුවත් කිරීමටද කටයුතු කරනු ලැබුවා.\n\nමේ වනවිට, WhatsApp සේවාවේ තවත් විශාලතම අඩුපාඩුවක්ව පැවති cloud chat backups සඳහා end-to-end encryption පහසුකම නොමැති වීමටද විසඳුමක් ලබාදීමට WhatsApp ආයතනය කටයුතු කරමින් සිටින බව වාර්තා වන අතර එමගින් ඔබගේ WhatsApp chat backups password එකක් මගින් encrypt කිරීමේ හැකියාව හිමිවෙනවා.\n\nWABetaInfo වෙබ් අඩවියවිසින් වාර්තා කරන ආකාරයට, මෙම විශේෂාංගයAndroid සඳහා වන WhatsApp beta version 2.21.15.5 හිකොටසක් ලෙස ක්‍රියාත්මක වෙමින් පවතින අතර ඒ හරහා WhatsApp chat backups password එකක් මගින් encrypt කිරීමේ හැකියාව හිමිවෙනවා.\n\nඑසේ encrypt කිරීමෙන් පසුව නැවතත් chat එක restore කිරීමේදී අදාල password එක ඇතුළත් කළ යුතු අතර මෙම password එක මුළුමුනින්ම පුද්ගලික ලෙස තබාගන්න බවත්, එය WhatsApp, Facebook, Google හෝ Apple වැනි වෙනත් සමාගමක් අතර share නොවන බවත් වැඩිදුරටත් වාර්තා වෙනවා.\n\nඑමෙන්ම, ඔබට වැඩි ආරක්ෂාවක් අවශ්‍ය නම් password එකක් වෙනුවට 64-digit encryption key එකක් භාවිතා කරමින් ඔබගේ chat backups encrypt කළ හැකි අතර එම encryption key එක නැති වුවහොත් ඔබේ chat එක නැවත restore කරගැනීමේ හැකියාව නොමැති වෙනවා.\n\nමෙම විශේෂාංගය තවමත් WhatsApp beta පරිශීලකයන් හට පමණක් ලබාගැනීමට හැකියාව තිබෙන නමුත් ඉක්මනින්ම මෙම පහසුකම සියලුම WhatsApp පරිශීල්කයන් වෙත ලබාගැනීමට හැකියාව ලැබෙනු ඇතැයි බලාපොරොත්තු වෙන්න පුළුවන්.",
+  "category": "security",
+  "date": "2021-07-25",
+  "extraction_timestamp": "2026-02-20T12:05:47.103477",
+  "headline": "WhatsApp ආයතනය විසින් cloud chat backups සඳහා end-to-end encryption පහසුකම පරීක්ෂා කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/whatsapp-is-testing-end-to-end-encryption-for-cloud-chat-backups/",
+  "word_count": 202
+}

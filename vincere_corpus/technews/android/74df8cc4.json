@@ -1,0 +1,13 @@
+{
+  "body": "Android 10 භාවිතා කරන්නන්ගෙන් සැලකිය යුතු ප්‍රමාණයක්, තමන්ගේ OS එකෙහි stability සම්බන්ධ issues පවතින බවට report කර ඇත.\n\nAndroid Police වෙබ් අඩවියේ Artem Russakovskii විසින් පසුගිය දිනක මේ පිළිබදව තම twitter ගිණුමේ සටහනක් තැබූ පසු වෙනත් පරිශීලකයන් බොහෝ පිරිසක් තමන්ද මෙම ගැටලුවට පත්ව ඇති බව ප්‍රතිචාර දක්වා තිබෙනවා.\n\nAnother thing that really bothers me on the Pixel 4 XL - when an app freezes up, it oftentimes locks up the whole UI. Notifications, home gesture - everything becomes unresponsive.Sometimes the UI unfreezes when the app does, sometimes the app remains frozen.Anyone else?\n\nඔවුන් සදහන් කරන ආකාරයට තම device එකෙහි බොහෝවිට app එකක් freeze වන අතර ඉන්පසුව UI එක සම්පූර්ණයෙන්ම කිසිඳු ප්‍රතිචාරයක් නොදක්වන මට්ටමකට පැමිණෙනවා.\n\nමෙම තත්වය උදාවූ විට app එක close කිරීමට, back වීමට, home screen එකට පැමිණීමට හෝ notification shade එක ප්‍රතිචාර නොදක්වන බවත් තම device එක සුළු මොහොතක් lock කල පසුව මෙම තත්වය යථා තත්වයට පත්වන බවද සදහන් කර සිටිනවා.\n\nමෙසේ වාර්තා වූ සිද්ධීන්ගෙන් වැඩිපුර වාර්තා වී ඇත්තේ (stock pixel launcher එක භාවිතා කරන) Google Pixel devices, ඇතැම් OnePlus සහ Xiaomi devices භාවිතා භාවිතා කරන්නන් හට බව ද වාර්ථා වෙනවා.\n\nමෙය launcher එක සම්බන්ධ ගැටලුවක් නොවන බවට තහවුරු වන්නේ (Nova Launcher, Action Launcher වැනි) third-party launchers භාවිතා කරන  පිරිස්ද තමන්ගේ Android 10 run වන devices වල මෙම ගැටලුවට මුහුණ දී ඇති නිසාවෙනි.\n\nමෙම apps freeze වන ගැටලුවට මුහුණ දී ඇත්තේ Amazon, Twitter, YouTube, YouTube Music, සහ Google Play Store වැනි apps use කිරීමේදී බව බොහෝ දෙනා පවසයි.\n\nකෙසේ නමුත් මේ වනවිටත් මෙම ගැටළුව සදහා පැහැදිලි පිළිතුරක් ලැබී නොමැති අතර මේ දක්වා google සමාගමද මෙයට නිළ ප්‍රකාශයක් සිදුකර නොමැත.",
+  "category": "android",
+  "date": "2020-04-22",
+  "extraction_timestamp": "2026-02-20T12:12:58.015369",
+  "headline": "Android 10 භාවිතා කරන ඇතැමුන් හට app freezing සහ unresponsive UI ගැටළුවලට මුහුණ දීමට සිදු වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/some-android-10-users-are-facing-random-freezing-and-unresponsive-ui-issues/",
+  "word_count": 260
+}

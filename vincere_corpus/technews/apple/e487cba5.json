@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් ඔවුන්ගේiCloud Keychain එකතුළ store කරන ලද passwords, Chrome වල Windows සහ Mac සංස්කරණ ද්විත්වය තුලදීම භාවිතා කළ හැකි වන ලෙස extension එකක් හඳුන්වාදීමට කටයුතු කර තිබෙනවා.\n\nමේ අනුව Mac සහ Windows පරිගණක අතර නිතර මාරු වෙමින් වැඩ කරන පුද්ගලයින් හට තමන්ගේ iCloud Keychain එකේ ඇති passwords පහසුවෙන් භාවිතා කිරීමේ හැකියාව ලැබෙන අතර, මේ වන විට මේ iCloud Passwords extenstion එකනිළ Chrome Web Store එක හරහාdownload කරගැනීමේ හැකියාව ලබාදී තිබෙනවා.\n\nමේ හරහා ඔබ Safari තුළදී generate කළ passwords, Chrome මතදී භාවිතා කිරීමේ හැකියාව ලබාදීමට අමතරව, Windows සඳහා වන Chrome Browser එක මතදී අලුත් password generate කිරීම සහ එහි දැනටමත් ඇති passwords iCloud එකට sync කිරීමේ හැකියාව ද ලැබෙනවා.\n\nඑමගින් Chrome browser එක තුළ භාවිතා කළ logins, ඔබගේ Apple devices තුළදී ද භාවිතා කිරීමේ හැකියාව ලැබෙනවා.",
+  "category": "apple",
+  "date": "2021-02-01",
+  "extraction_timestamp": "2026-02-20T12:08:24.419001",
+  "headline": "iCloud Passwords සඳහා Chrome extension එකක් නිළ වශයෙන් හඳුන්වාදීමට Apple සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-releases-chrome-extension-for-icloud-passwords/",
+  "word_count": 127
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Instagram හි posts create කිරීම සහ edit කිරීම වැනි ප්‍රධානතම කාර්‍යයන් ඇතුළුව බොහොමයක් විශේෂාංග Instagram mobile version එකට පමණක් සීමා වී තිබෙන අතර desktop එක සඳහා වන Instagram වෙබ් අඩවිය හරහා එම කාර්‍යයන් කිරීමට පරිශීලකයන් හට හැකියාව නොමැති වෙනවා.\n\nනමුත්, developer කෙනෙකු සහ app analyst කෙනෙකු වනAlessandro Paluzzi විසින්පෙන්වා දෙන ආකාරයට desktop සඳහා වන Instagram වෙබ් අඩවිය හරහා post create කිරීමේ හැකියාව ලබාදීමට Instagram ආයතනය මේ වනවිට කටයුතු කරමින් සිටින අතර ඔහු විසින් ඔහුගේ twitter ගිණුම ඔස්සේ පළ කර ඇති images වල දැක්වෙන ආකාරයට desktop සඳහා වන Instagram වෙබ් අඩවියේ navigation bar එකේ ඉහළින් නව plus button එකක් දැකගැනීමට හැකිවෙනවා.\n\n#Instagramis working on the ability to create posts from the desktop website 👀pic.twitter.com/pATuOHiTGE\n\nඑම plus button එක මත click කිරීමෙන් පසුව, ඔබට post කිරීමට අවශ්‍ය photos upload කල හැකි window එකක් දිස්වන අතර එයට photos upload කිරීමෙන් පසුව ඔබට square (1:1), portrait (4:5) සහ landscape (16:9) යන aspect ratio වලින් එම photos crop කිරීමටද හැකියාව ලබාදී තිබෙනවා තිබෙනවා.\n\nඑයින් පසුව Instagram mobile version එකේ මෙන්, ඔබට කැමති filters භාවිතා කිරීමටත්, caption එකක් එක් කිරීමටත්, අවශ්‍ය පුද්ගලයන් tag කිරීම සහ location information ඇතුළත් කිරීමේ හැකියාවත් මේ සඳහා ලබාදී තිබෙනවා.\n\nPaluzzi විසින් සඳහන් කරන ආකාරයට, මෙම විශේෂාංගය මේ වනවිටත් අභ්‍යන්තරව පරීක්‍ෂාවට ලක්ව ඇති අතර එය වඩාත් පුළුල් ලෙස ලබාගත හැකි දිනයක් පිළිබඳව තොරතුරක් තවමත් වාර්තාවන්නේ නොමැති වෙනවා.\n\nකොහොම නමුත්, මෙම update එකත් සමඟ desktop පරිශීලකයින් හට stories, reels හෝ IGTV content upload කිරීමට හැකියාව තිබේද යන්න පිළිබඳව තොරතුරක් තවමත් වාර්තා වන්නේ නැහැ.",
+  "category": "social-media",
+  "date": "2021-05-17",
+  "extraction_timestamp": "2026-02-20T12:08:54.170650",
+  "headline": "මේ දක්වා ලබාදී නොතිබුණු post නිර්මාණය කිරීමේ පහසුකම Instagram Desktop සංස්කරණයට ලබාදීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/instagram-will-soon-let-you-create-posts-on-desktop/",
+  "word_count": 240
+}

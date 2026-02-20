@@ -1,0 +1,13 @@
+{
+  "body": "360° camera එකක් නොමැතිව Street View data capture කිරීමේ විශේෂාංගයක් පරික්ෂා කිරීමට Google සමාගම කටයුතු කරමින් සිටින බව මීට පෙර ලිපියකින් අපි ඔබ දැනුවත් කලා මතක ඇති.\n\nමේ වනවිට, Google සමාගම විසින් ඔබගේ ජංගම දුරකතනය හරහා Street View photos capture කරගැනීමේ හැකියාව Android සඳහා වන Street View app එකට නිළ වශයෙන් ලබාදීමට කටයුතු කර තිබෙනවා.\n\nඒ අනුව,ARCore-compatible Android devicesභාවිතා කරන පරිශීලකයන් හට imagery capture කර Google Street View වෙත publish කිරීමට හැකියාව තිබෙන අතර, Google සමාගම විසින් මෙම විශේෂාංගය මේ වනවිට Toronto, New York, Austin, Nigeria, Indonesia සහ Costa Rica යන රටවල පරිශීලකයන් හට ලබාදීමට කටයුතු කර ඇති අතර මෙම විශේෂාංගය ඉදිරියේදී වෙනත් රටවල් සඳහාද ලබාදීමට Google සමාගම බලාපොරොත්තු වෙනවා.\n\nඑමෙන්ම, Google සමාගම විසින් ඔවුන්ගේ Street View imagery නොමැති විට මෙසේ user-generated content භාවිතා කරනු ඇති බවටද වැඩිදුරටත් වාර්තා වෙනවා.\n\nමෙම නව beta විශේෂාංගය මාස ගණනක් තිස්සේ පරීක්ෂාවට ලක්ව ඇති අතර, මෙම විශේෂාංගය නිකුත් කිරීමත් සමඟ Street View images ලබාගැනීමට 360° camera එකක් තිබීමේ අවශ්‍යතාවයද මගහැරෙනවා.\n\nමෙම විශේෂාංගයත් සමඟ ඔබ ලබාගන්නා Street View photos වල ඇති මුහුණු සහ බලපත්‍ර තහඩු ආදිය ස්වයංක්‍රීයව බොඳ කිරීමටද කටයුතු කරනු ලබනවා.",
+  "category": "android",
+  "date": "2020-12-05",
+  "extraction_timestamp": "2026-02-20T12:07:14.444057",
+  "headline": "Android devices හරහා Google Maps Street View photos ලබාගැනීමේ හැකියාව ලබාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-maps-now-lets-you-create-street-view-photos-with-just-a-phone/",
+  "word_count": 177
+}

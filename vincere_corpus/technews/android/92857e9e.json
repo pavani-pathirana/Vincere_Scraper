@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් ඔවුන්ගේ iPhone වලට Fingerprint authentication තාක්ෂණය හඳුන්වාදීමට කලින් Android වල fingerprint authentication පහසුකම තිබුණත්, bio-metric facial authentication ක්‍රමයක් මුලින්ම හඳුන්වා දෙන්නට Android මෙහෙයුම් පද්ධතිය සමත් වුනේ නැහැ.\n\nමෑත කාලීනව නිකුත් වුණු සෑම Android ජංගම දුරකථනයකම පාහේ Face Unlock පහසුකම ඇතුලත් වුවත් එය Camera එක පමණක් භාවිතා කරන ඉතාමත් අනාරක්ෂිත ආකාරයේ authentication ක්‍රමයක් බව ඔබ අත්දැකීමෙන්ම දන්නවා ඇති.\n\nකොහොම නමුත් මෙම තාක්ෂණය විශාල sensors ප්‍රමාණයක් භාවිතා කරමින් ඉතාමත් නිරවද්‍යය ලෙස Apple සමාගම විසින් ඔවුන්ගේ iPhone X සහ ඉන්පසුව නිකුත් වුණු iPhone මාදිලි සඳහා අන්තර්ගත කළ අතර Huawei සහ Xiaomi වැනි සමාගම් මෙම ආකාරයේ තාක්ෂණයක් Android මෙහෙයුම් පද්ධතියට රැගෙන ආවත්, ඒ වෙනුවෙන් Android මෙහෙයුම් පද්ධතියේ විශාල වෙනස්කම් රාශියක් සිදු කිරීමට ඔවුන් හට සිදුවී තිබුණා.\n\nඔන්න දැන් Google සමාගම විසින් Notch එකට Android Pie හරහා native සහාය ලබා දෙන්නට කටයුතු කළාක් මෙන් Android Q හරහා මේ bio-metric facial authentication ක්‍රමය පහසුවෙන් අන්තර්ගත කිරීම හැකියාව ලබා දීමට සූදානම් වන බව දැනගන්නට ලැබෙනවා.\n\nXDA-Developers වෙබ් අඩවිය හරහා Android Q මෙහෙයුම් පද්ධතියේ source code පිරීක්සන අතරතුර මෙම පහසුකමට අදාල source code හා strings කිහිපයක් සොයාගෙන තිබෙන අතර Face Unlock පහසුකම හරහා මිලදී ගැනීම් සිදු කිරීමට මෙන්ම වෙනත් apps සඳහා sign in වීම දක්වා දේ සිදු කිරීමට හැකියාව ලැබෙන බව පෙනෙන්නට තිබෙනවා.\n\nකොහොම වුනත් තවමත් මෙම පහසුකමට අදාල screenshots කිසිවක් තවමත් දැකගන්නට ලැබෙන්නේ නැති නිසාවෙන් මෙහි පෙනුම කෙසේදැයි තවමත් රහසක් ව පවතිනවා.",
+  "category": "android",
+  "date": "2019-01-27",
+  "extraction_timestamp": "2026-02-20T12:18:43.752861",
+  "headline": "Face Unlock වලින් එහා ගිය Face Authentication ක්‍රමයක් Android Q වලට එකතු වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-is-working-on-a-face-id-like-feature-for-android-q/",
+  "word_count": 218
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Chrome 69 වන සංස්කරණයපිළිබඳව පුවතක් මීට ටික දවසකට කලින් දකින්න ලැබුණා මතක ඇති. මේ පුවත වාර්ථා වෙන්නේ Chrome වල 70 වෙන සංස්කරණයෙන් හඳුන්වාදීමට නියමිත අළුත් පහසුකමක් ගැනයි.\n\nඅපි ගොඩක් වෙලාවට Google, Facebook, Twitter වගේ Online services වලට login වෙන්න පාවිච්චි කරන සාම්ප්‍රදායික ක්‍රමය තමයි username එක සහ password ලබා දීමෙන් login වෙන එක.\n\nඑ්ක ටිකක් වෙලාව යන වැඩක් වගේම ඔයා2-factor authenticationක්‍රමය පාවිච්චි කරනවා නම් ඔයාගේ Phone එකට එන verification code එකත් type කරන්න වෙනවා. මේක ටිකක් කරදරකාරී වැඩක් බව අමුතුවෙන් කියන්න ඕන නැහැ.\n\nඉතින් මේ අළුත් update එකෙන් එ් ගැටලුවට විසදුමක් ලබාදෙන්න Google සමාගමට කටයුතු කරමින් පවතිනවා. Android හා Mac devices වලින් websites හා web apps වලට login වෙනකොට ඔයාගේ  password එක වෙනුවට finger print එක භාවිතා කරන්නට Chrome වල 70 වෙනි සංස්කරණයෙන් පසුව හැකියාව ලැබෙනවා.\n\nඑහෙමත් නැත්නම්  ඔයා Two step verification භාවිතා කරනවා නම් ඔයා ඔයාගේ Mobile Phone එකට එන code එක වෙනුවට (second factor එක වෙනුවට) ඔයාගේ Finger print එක භාවිතා කරන්නත් හැකියාව ලැබෙන අතර එ්ක ගොඩක් අාරක්ෂාකාරී වගේම ඉතාමත් පහසු ක්‍රමවේදයක් වේවි.\n\nChromium projectඑකේofficial blog postඑකට අනුව Android සහ Mac OS වලට Chrome වල 70 වෙනි සංස්කරණයෙන් මේ පහසුකම එකතු කිරීමට Google සමාගම බලාපොරොත්තු වන නමුත් Windows laptops හෝ iOS devices වලට මේ පහසුකම ලබා දීම පිළිබඳව නම් තවමත් සඳහනක් නැහැ.\n\nකොහොම නමුත් Chrome Browser එක මෙයට සහාය දීම පමණක් මෙම පහසුකම භාවිතා කිරීමට ප්‍රමාණවත් නොවන අතර අදාල වෙබ් අඩවිය විසින් ද මෙම API භාවිතා කර තමauthenticationsystem එක වැඩිදියුණු කළ යුතු වෙනවා.\n\nමීට අමතරව Chrome 70 වෙනි සංසකරණයට තවත් වැදගත් අංග කිහිපයක්ම අැතුලත් වෙලා තියෙනවා.\n\nWindows 10 වලටWeb Bluetooth-වෙබ් අඩවියක සිට Chrome භාවිතා කරමින් ලඟ තියෙන Bluetooth device එකක් එක්ක සම්බන්ධ වෙලා communicate කරන්න මේ හරහා අවස්ථාව ලැබෙනවා.\n\nමේ පහසුකම දැනටමත් Android, Chrome OS සහ mac OS වලට නිකුත් කර තිබෙන අතර Windows 10, Linux සහ පරණ Windows සංස්කරණ සදහා මේ පහසුකම ලැබෙනු අැත.\n\nShape Detection API- මේ පහසුකම හරහා  bar-codes,  image එකක අැති Text, QR codes වගේ දේවල් හදුනා ගන්න හැකියාව ලැබෙනවා.\n\nGoogle calendarඑකට අනුව මේ Chrome වල 70 වෙනි සංස්කරණය ඔක්තෝම්බර් මස මැද භාගය වන විට නිකුත් කිරීමට නියමිත වෙනවා.\n\nමේ Chrome 70 වෙනි සංස්කරණය ගැන වැඩි විස්තර දැනගන්න කැමති නම්,Chromium Project එකේ මේ ගැන පළ කර ඇති blog එකහරහා බලාගන්න ඔයාට අවස්ථාව තියනවා.",
+  "category": "google",
+  "date": "2018-09-17",
+  "extraction_timestamp": "2026-02-20T12:22:52.978532",
+  "headline": "Chrome වලදී Fingerprint භාවිතා කර Login වීමේ පහසුකම Android හා MacBook වලට ලබා දෙන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-adds-fingerprint-support-to-chrome-on-android-and-mac-in-latest-beta/",
+  "word_count": 359
+}

@@ -1,0 +1,13 @@
+{
+  "body": "ප්‍රධාන WhatsApp app වලට fingerprint authentication ක්‍රමය එකතු කිරීමට WhatsApp ආයතනය කටයුතු කළ බව මීට පෙර ඔබව දැනුවත් කළා මතක ඇති.\n\nඑමෙන්ම මේ වන විට Android උපාංග සඳහා වන නවතම WhatsApp beta update එක මගින් ඔබ WhatsApp web වෙත QR Code එක sacn කර login වන අවස්ථාවේදී අමතරව fingerprint authentication මගින් verify කිරීමක්ද සිදු කල හැකි බව වාර්තා වෙනවා.\n\nWABetaInfoවෙබ් අඩවිය විසින් WhatsApp වල 2.20200.10 වන නවතම WhatsApp beta build එක ඔස්සේ WhatsApp web සඳහා ලබාදීමට නියමිතව ඇති මෙම නව වැඩි දියුණු කළ ආරක්ෂක විශේෂාංගය පිළිබදව අනාවරණය කර ගැනීමට සමත් වූ අතර WABetaInfo විසින් සඳහන් කරන ආකරයට, අනාගත update එකක් මඟින් WhatsApp mobile app එක තුළ fingerprint authentication එක සිදු කරනු ලබන තුරු WhatsApp web වෙත අලුතින් login වීමට හැකියාව ලබා ‍නොදී සිටීමට කටයුතු කෙරෙනවා.\n\nමේ අනුව අලුත් device එකක් භාවිතා කරමින් WhatsApp web වෙත sign-in වන විට නව session එකක් නිර්මාණය කිරීම සඳහා ඔබේ fingerprint එක WhatsApp mobile app එක තුළ scan කළ යුතු වෙනවා.\n\nකොහොම නමුත් මෙහිදී fingerprint authentication වෙනුවට අනාගතයේදී Face Unlock වැනි අනෙකුත් biomatric authentication ක්‍රම සඳහා සහාය එක් කරනු ලැබෙයිද යන්න තවමත් පැහැදිලි නැහැ.\n\nමෙහිදී පැහැදිලිව තේරුම්ගත යුතු කාරණය නම්, WhatsApp web සඳහා ප්‍රවේශ වීමට අවශ්‍යය වන QR Code එකේ අවශ්‍යයතාවය මේ හරහා ඉවත් නොවන බව සහ මේ අලුත් පහසුකම වෙනත් පුද්ගලයින් විසින් තමන්ගේ chat එක වෙත ප්‍රවේශ වීම වලක්වාගැනීම සඳහා සහාය වන අතිරේක ආරක්ෂක විශේෂාංගයක් ලෙස භාවිතා පමණක් භාවිතා කර හැකි වීමයි.\n\nමෙම විශේෂාංගය තවමත් සංවර්ධන කටයුතු වල මුල් අවධියේ පවතින බැවින් මෙහි stable build එකක් සාමාන්‍යය පරිශීලකයින් හට ලබාදීමට තව ටික කලක් ගත විය හැකි බවද WABetaInfo වෙබ් අඩවිය පෙන්වා දෙනවා.",
+  "category": "security",
+  "date": "2020-09-18",
+  "extraction_timestamp": "2026-02-20T12:07:48.252845",
+  "headline": "WhatsApp web app එකට පිවිසීම සඳහා ඉදිරියේදී fingerprint verification පහසුකම එකතු කිරීමට සූදානම් වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/whatsapp-web-might-soon-receive-a-fingerprint-security-feature/",
+  "word_count": 258
+}

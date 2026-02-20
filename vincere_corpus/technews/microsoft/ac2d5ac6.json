@@ -1,0 +1,13 @@
+{
+  "body": "Windows 10වල ඇති bug එකක්, එහෙමත් නැතිනම් ගැටළුවක් නිසාවෙන් පරිගණකය shutdown හෝ sleep කිරීමේ ක්‍රියාවලිය සඳහා මිනිත්තු දෙකක පමණ කාලයක් දක්වා දීර්ඝ විය හැකි බව මේ වන විට වාර්ථා වෙනවා.\n\nWindows 10 මෙහෙයුම් පද්ධතියේදීUSB type-C controller එකපාලනය කිරීම සඳහා සකස් කර ඇති ක්‍රමවේදයේ ගැටළුවක් මෙයට හේතුව වී ඇති අතර කිසියම් අවස්ථාවකදී USB type-C device එකක් පරිගණකය shutdown වන අතරතුරදී plug හෝ unplug කළහොත් පමණක් මෙය සිදු විය හැකි බව Microsoft සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.\n\nShutdown හෝ Sleep වන අතරතුර, USB-C device එකක් connect/disconnect කළහොත් Windows 10 වල ඇතිUSB Type-C Connector System Software Interface(UCSI) එක හරහා අදාල device එක හඳුනාගැනීමේ ක්‍රියාවලිය ආරම්භ කරනු ලබන අතර එය අවසන් වන තුරු shutdown හෝ sleep වීමේ ක්‍රියාවලිය නතර කරගෙන සිටිනු ලබන බව ඔවුන් පෙන්වා දෙනවා.\n\nUSB type-C chargers ඇතුලු සියළුම devices සඳහා මෙය අදාල වන නමුත් මේ සඳහා ගත වන කාළයට අමතරව අදාල devices වලට කිසිඳු හානියක් සිදු නොවන බවත් ඔවුන් ප්‍රකාශ කරනවා.\n\nකොහොම නමුත් මේ bug එක සඳහා තාවකාලික විසඳුමක් හෝ fix එකක් ලබා දෙන කාළසීමාවක් ගැන තවමත් Microsoft සමාගම විසින් ප්‍රකාශයක් සිදු කර නොමැති අතර, shutdown හෝ sleep command එක ලබා දීමට ප්‍රථමව ඔබගේ type-C devices ඉවත් කිරීම හෝ සම්බන්ධ කිරීම සිදු කළහොත් මෙම ගැටළුවට මුහුණදීමට සිදු නොවන බව දැනගන්නට ලැබෙනවා.",
+  "category": "microsoft",
+  "date": "2019-06-25",
+  "extraction_timestamp": "2026-02-20T12:10:53.654420",
+  "headline": "Windows 10 වල Bug එකක් නිසාවෙන් Shutdown වීම Slow විය හැකි බව Microsoft සමාගම ප්‍රකාශ කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/windows-10-usb-type-c-bug-can-cause-os-shutdowns-to-be-slower/",
+  "word_count": 199
+}

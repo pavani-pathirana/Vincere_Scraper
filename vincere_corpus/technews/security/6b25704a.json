@@ -1,0 +1,13 @@
+{
+  "body": "බොහෝ විට mac පරිගණක භාවිතා කරන්නන් අතර ඇති මතයක් වන්නේ \"Apple පරිගණක වලට virus නැහැ\" යන්න වුවත්, එය එසේ නොවන බව සිදුවීම් ගණනාවකින්ම මේ වන විට පැහැදිලි වී තිබෙනවා.\n\nමේ වන විට මෙය නැවත වරක් සනාථ කරමින් mac පරිගණක 30,00කට ආසන්න ප්‍රමාණයක තිබුණු malware වර්ගයට අයත් virus එකක් පිළිබඳව තොරතුරු අනාවරණය කිරීමට Red Canary ආයතනය කටයුතු කර තිබෙනවා.\n\nSilver Sparrow නමින් හඳුන්වන මේ අනතුරුදායක වැඩසටහන මේ වන විටත් රටවල් 153ක ඇති mac පරිගණක 29,139ක පමණ ඇති බව Malwarebytes ආයතනය පෙන්වා දෙන අතර මේ අතරින් වැඩි ප්‍රමාණයක් United States, the United Kingdom, Canada, France, සහ Germany යන රටවල් වලට අයත් වන බව ද ප්‍රකාශ කරනවා.\n\nමෙහි විශේෂත්වය වන්නේ මෙම වැඩසටහන Apple සමාගමේ Intel x86_64 architecture එක මත මෙන්ම අලුත් M1 ARM64 architecture එක මත පදනම් වූ mac පරිගණක වර්ග දෙක තුලම ක්‍රියාත්මක වීමයි.\n\nමේ අනුව මේ වන විට (සතියක පමණ කාලයක් තුළ) M1 chip පාදක කරගත් mac පරිගණක සඳහා වන malware දෙකක් හඳුනාගෙන තිබෙනවා.\n\nGiven all of this, Silver Sparrow is uniquely positioned to deliver a potentially impactful payload at a moment’s notice, so we wanted to share everything we know with the broader infosec community sooner rather than later.\n\nමෙය install වූ පරිගණක වල සිට execute කිරීම සඳහා උපදෙසක් ලබාදෙන තෙක් බලාසිටින ලෙස නිර්මාණය කර ඇති නමුත්, මෙම malware එක විසින් මේ දක්වා කිසිඳු අනතුරුදායක ක්‍රියාවක් සිදු කළ බවට තොරතුරක් වාර්තා නොවන බවත්, Apple සමාගම විසින් එම binary එක දැනටමත් revoke කිරීමට කටයුතු කර ඇති බවත් The Verge වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nමේ අනුව අලුත් පරිගණක වලට මෙය පැතිර යාම අඩු වනු ඇති නමුත්, මෙය දැනටමත් තවත් පරිගණක කොපමණ ප්‍රමාණයක ස්ථාපනය වී ඇත්තේද යන්න පිළිබඳව තවමත් හරිහැටි තොරතුරක් වාර්තා වන්නේ නැහැ.",
+  "category": "security",
+  "date": "2021-02-22",
+  "extraction_timestamp": "2026-02-20T12:06:45.661145",
+  "headline": "Malware වර්ගයට අයත් virus එකක් \nලොව පුරා Mac පරිගණක 30,00කට ආසන්න ප්‍රමාණයක තිබී හඳුනාගැනෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/new-silver-sparrow-malware-infected-nearly-30-000-apple-macs/",
+  "word_count": 271
+}

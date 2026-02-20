@@ -1,0 +1,13 @@
+{
+  "body": "මේ​ වන විට macOS සහ iOS පරිශීලකයන් හට ලබා දී තිබූ Safari web browser එකේ නවතම යාවත්කාලින කිරීම වන version 13.0 නිකුත් කිරීමට Apple සමාගම කටයුතු කර තිබෙනවා.\n\n‍මේ අලුත් සංස්කරණය හරහා mobile devices, එනම් iOS සහ iPadOS මගින් බළගැන්වෙන devices සඳහා desktop grade, එනම් mac පරිගණකයකදී Safari හරහා සිදු කළ හැකි සියළුම පහසුකම් ඇතුලත් වන අන්දමේ web browsing අත්දැකීමක් ලබාදීමට Apple සමාගම කටයුතු කර තිබනවා.\n\nමේ වන විට මෙම යවාත්කාලීන කිරීම macOS 10.15, 10.14.5, 10.13.6 යන පරිශීලකයන් හටත් iOS 13 භාවිතා කරන්නන් හටත් ලබාදීමට කටයුතු කර ඇති අතර ඉදිරියේදී iPadOS සමඟින් iPad වෙත ද ලබාදීමට නියමිත වෙනවා.\n\nවිශේෂයෙන්ම iOS පරිශීලකයන් හට Safari 13 සංස්කරණය සමඟින් Download manager පහසුකමක් ලබාදීමට Apple සමාගම කටයුතු කර තිබෙන අතර Privacy සහ security ඇතුළු තවත් වැඩිදියුණුකිරීම් ගණනාවක් ම මෙයට ඇතුලත් වෙනවා.\n\nකොහොම නමුත් මේ සංස්කරණය සමඟින් පැරණි Safari Extension සියල්ල නවත්වාදැමීමට Apple සමාගම තීරණය කර ඇති බැවින්Safari App Extension API එකහරහා නිර්මාණය කරනු ලැබූ Extensions පමණක් ක්‍රියාත්මක වනු ලබනවා.\n\nබොහෝ දෙනා ප්‍රකාශ කරන පරිදි VPN extension සහ Ad Blocking extension බොහෝමයක් මේ අනුව අකර්මන්‍යය වී ගොස් ඇති බව වාර්ථා වෙනවා.",
+  "category": "apple",
+  "date": "2019-09-22",
+  "extraction_timestamp": "2026-02-20T12:13:09.697100",
+  "headline": "macOS සහ iOS පරිශීලකයන් හට Safari 13 සංස්කරණය නිකුත් කිරීමට Apple සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-releases-safari-13-for-mac-and-ios/",
+  "word_count": 176
+}

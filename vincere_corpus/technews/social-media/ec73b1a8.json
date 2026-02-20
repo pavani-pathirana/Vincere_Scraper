@@ -1,0 +1,13 @@
+{
+  "body": "Twitter භාවිතා කරන්නන්ගේ locked හෝ suspend වී ඇති Account වලට Log වූ පසු notification banner එකක් පෙන්වන නව ක්‍රමයක් මේ දින වල Twitter සමාගම විසින් අත්හදා බලමින් සිටින බවTwitter Supportනම් නිල Twitter ගිණුම හරහා සඳහනක් කර තිබෙනවා.\n\nKnowing where your account stands is important. We’re testing a new way of letting you know — right when you log in.If your account is locked or suspended, some of you will start seeing a banner making that clear.pic.twitter.com/fOP53keghz\n\nතමවත් අත්හදා බැලීමේ මට්ටමේ පවතින මෙම පහසුකම දැනට ලබා දී ඇත්තේ ඉතාමත් සුලු Twitter iOS, Android හා web පරිශීලකයන් ගණනකට පමණයි.\n\nකෙසේ වුවත් මෙම පහසුකම සියලු Twitter භාවිතා කරන්නන් හට ලබා දුන් පසු කිසියම් අවස්ථාවක ඔබේ Account එක locked හෝ suspend වුවහොත් ඔබව Twitterread-only modeඑකකට යොමු කර ඉහත ආකාරයට ඒ බව Notice එකක් මඟින් පෙන්වීමට කටයුතු කරනවා ඇත.\n\nඅප ඉහත සඳහන් කළ Twitter read-only mode එක තුළදී ඔබට Timeline එක බැලීමට හා Followers ලා හට Direct message යැවීමට පමණක් හැකියාව ලැබෙන අතර tweet කිරීමට, retweet කිරීමට හෝ like කිරීමට ඇති හැකියාව අහිමි වී යනවා.\n\nඑමෙන්ම ඔබ යම් අවස්ථාවක ඔබ permanently suspend වුවහොත් ඔබට Twitter වෙත appeal එකක් ඉදිරිපත් කළ හැකි Link එකක්ද මෙම Notice එකට එකතු කිරීමට Twitter සමාගම කටයුතු කර තිබෙනවා.",
+  "category": "social-media",
+  "date": "2021-07-28",
+  "extraction_timestamp": "2026-02-20T12:08:12.598935",
+  "headline": "Twitter Account එක locked හෝ suspended ලෙස පෙන්වන නව ක්‍රමයක් අත්හදා බලයි",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/twitter-is-testing-notices-that-tell-you-if-your-account-is-suspended-or-locked/",
+  "word_count": 198
+}

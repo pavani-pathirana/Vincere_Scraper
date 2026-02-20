@@ -1,0 +1,13 @@
+{
+  "body": "මෙතෙක් කාලයක් ශ්‍රී ලංකාවේ දුරකථන සේවා සපයන්නන් අතුරින් ඇපල් සමාගම නිළ වශයෙන් සහාය දැක්වූයේ Dialog Axiata සමාගම සමග පමණි. නමුත් දැන් ශ්‍රී ලංකාවේ Mobitel සේවා අත්විදින පාරිභෝගිකයන් හට සුභ ආරංචියක් රැගෙන එමින් ඇපල් සමාගම මින් සුළු මොහොතකට පෙර, අද මධ්‍යම රාත්‍රීයේ (ජූනි 8) සිට ශ්‍රී ලංකාව තුල Mobitel සමාගම සමගද සහාය දැක්වීම ආරම්භ කෙරුනා. ඒ Mobitel Carrier Bundle එක නිළ වශයෙන් මුදා හරිමින්.\n\nඔබගේ ඇපල් දුරකථනයේ දැනටමත් මෙම Carrier Bundle එක update වී install වී තිබෙනු ඇති. එය සනාථ කරගැනීමට ඔබගේ දුරකථනයේ Settings > General > About වෙතට පිවිසී Carrier යටතේ ඇති නම සසදා බලන්න. එය \"Mobitel 32.1\" යනුවෙන් කියැවෙන්නේ නම් ඔබගේ දුරකථනය සාර්ථකව update වී ඇත. එසේ නොමැතිව එය \"Carrier 32\" වැනි අගයක් පවසන්නේ නම් තවමත් ඔබගේ දුරකථනයට මෙම Carrier Bundle එක download වී නොමැත.\n\nඔබගේ ඇපල් දුරකථනය ඔබගේ පරිඝණකට සම්බන්ද කර iTunes අධාරයෙන් මෙම Carrier Bundle එක update කරගත හැකි අතර යම් හෙයකින් එසේ කිරීමට අපොහොසත් වන්නේ නම් මෙය පහත දැක්වෙන ලින්කුවෙන් බාගත හැක.\n\nhttps://updates.cdn-apple.com/2018/carrierbundles/091-87321-20180608-E1F0AD4A-69C3-11E8-B4E8-CEE1FAF9855B/Mobitel_lk_iPhone.ipcc\n\nඉහත දක්වා ඇත්තේ \"Mobitel 32.1\" Carrier Bundle එකෙහි ලින්කුව වන අතර ඉදිරියට පැමිණිය හැකි අලුත් updates බාගත කිරීමට පහත ලින්කුව භාවිතා කරන්න.\n\nhttp://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.appserver.client.MZITunesClientCheck/version\n\nබාගත් Carrier Bundle පැකේජය දැන් ඔබට ඔබගේ ඇපල් දුරකථනයේස්ථාපනය කරගත හැක.\n\nඉහත දැක්වෙන්නේ එසේ බාගත කල Carrier Bundle එකෙහි ඇතුලාන්තයයි. එයට අනුව මෙමගින් දුරකථනයට බොහෝ දෑ එක්කරනු ලබයි. පාරිභෝගික සේවා වැනි වටිනාකියන ප්‍රයෝජනවත් Mobitel කෙටි දුරකථන අංක ද ඒ අතර වෙයි. මෙය දුරකථනයේ Settings තුලට පිවිසීමෙන් ද සනාථ කරගත හැක.\n\nඅලුතින් එක්වුනු \"Carrier Services\" නම් වූ කොටස ඉහතින් දැක්වේ.\n\nඑතුල ඇත්තේ පෙර කී වටිනා ප්‍රයෝජනවත් දුරකථන අංකයි. මෙමගින් පෙර පැවති \"Mobitel LK\" නමින් දිස්වූ Carrier Name එක \"Mobitel\" ලෙස සැකසේ. 4G පහසුකමට අදාල මෙවලම් ද Dialog Axiata Carrier Bundle එක මෙන් ස්වයංක්‍රීයව ලබා දෙන නමුත් iOS මෙහෙයුම් පද්ධතියටම ආවේනික වන ලෙසින් Visual Voicemail පහසුකමට අදාල මෙවලම් ඇතුලත් වන බවක් නම් පෙනී යන්නේ නැහැ.\n\nමුලින්ම මේ පුවත ඔබ වෙත උණු උණුවේම රැගෙන ආවේ Techie - Tech News සිංහලෙන්.\n\nතවත් මෙවැනි පුවත් රැසක් රැගෙන ඔබ හමුවට එන්නම්.",
+  "category": "apple",
+  "date": "2018-06-09",
+  "extraction_timestamp": "2026-02-20T12:21:11.496323",
+  "headline": "ඇපල් සමාගම ශ්‍රී ලංකාව තුල නවතම Mobitel Carrier Bundle එක මුදාහැරේ",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-releases-mobitel-carrier-bundle-to-sri-lanka/",
+  "word_count": 315
+}

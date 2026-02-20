@@ -1,0 +1,13 @@
+{
+  "body": "Twitter Android හෝ iOS mobile apps ඔස්සේ 2K, එහෙමත් නැතිනම් 2048x2048 resolution එකක් දක්වා පමණක් පැවති image upload කිරීමේ හා View කිරීමේ හැකියාව 4K (4096x4096) resolution එක දක්වා ඉහළ දැමීමට Twitter සමාගම කටයුතු කර තිබෙනවා.\n\nමෙම පහසුකම activate කිරීම සඳහා Twitter setting මෙනුවේ Settings and privacy > Data usage > High-quality images uploads වෙත ගොස් ඒවා Upload කලයුතු මාධ්‍ය, Mobile data & Wi-Fi හෝ Wi-Fi only පමණක්ද යන්න select කල යුතු වෙනවා.\n\nHave a collection of higher res photos waiting to be shared? We’re testing ways for you to upload and view 4K images on Android and iOS.If you're in the test, update your high-quality image preferences in “Data usage” settings to get started.pic.twitter.com/EgW5fsb8Z8\n\nකෙසේ වුවත් පෙර පරිදිම Twitter වෙත image එකක් upload කිරීමේදී Compress වීමක් සිදුවනු ඇති නමුත් එය කලින් පැවති ලෙස 4K image එකක් 2K ලෙස Compress වීම සිදු නොවනු ඇති අතර, ඒ වෙනුවට 4K image එක යම් ප්‍රමාණයකට Compress වී, 4K resolution quality එකම පවත්වාගෙන upload වීම හා view වීම සිදු වනු ඇති.\n\nඑමෙන්ම upload කරන image එකක් landscape ආකාරයට පමණක් කල යුතු වීමද Twitter හි පැවති දුර්වලතාවයක් වු අතර, වාර්තා වන තොරතුරු වලට අනුව දැන් Twitter වෙත portrait ආකාරයටද image upload කිරීමේ හැකියාව ලබාදීමට සූදානම් වෙනවා.\n\nNow testing on Android and iOS: when you Tweet a single image, how the image appears in the Tweet composer is how it will look on the timeline –– bigger and better.pic.twitter.com/izI5S9VRdX\n\nමෙහිදී ඡායාරූපයක උස සඳහා යම් සීමාවක් තිබිය හැකි වුවත් එය තවදුරටත් landscape ආකාරයට පමණක් upload කිරීම අවශ්‍ය නොවනු ඇති අතර, මෙමගින් ඔබ upload කරන image එකේ සියලුම අන්තර්ගතයන් timeline එකේ පෙන්වීමට හැකියාව ලැබෙනු ඇති.\n\nකෙසේ වුවත් video upload කිරීමේ දැනට තිබෙන සීමාව වන 720p සීමාව තවදුරටත් වෙනස් නොවනු ඇති අතර, Data usage එකද කළමනාකරණය කර ගනිමින් video upload කරනු ලබන resolution එක ඉහළ දැමීම සැබැවින්ම අභියෝගයක් වී ඇති බව මෙහිදී අනුමාන කළ හැකි වෙනවා.",
+  "category": "android",
+  "date": "2021-03-11",
+  "extraction_timestamp": "2026-02-20T12:06:52.242512",
+  "headline": "Android හා iOS mobile apps සඳහා 4K image upload සහ view කිරීමේ පහසුකම ලබාදීමට Twitter ආයතනය කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/twitter-enables-4k-image-uploads-from-mobile-apps/",
+  "word_count": 306
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින්පසුගිය ජුනි මාසයේදී පැවැත්වූ WWDC event එකඅතරතුරදී ප්‍රකාශ කළ අන්දමට iOS 13 සමඟින් iPhone වල තිබෙන Apple Siri හා HomePod හරහා සජීවීව Radio channel වලට සවන්දීමේ හැකියාව මේ වන විටත් ලබා දීමට කටයුතු කර ඇති බව වාර්ථා වෙනවා.\n\nමේ අනුව ලොව පුරා Radio station 100,000 කට අධික ප්‍රමාණයකට සජීවීව සවන්දීමේ හැකියාව ලැබෙන අතරTuneIn,iHeartRadioසහRadio.comයන සේවාවන් හරහා මෙය ක්‍රියාත්මක වන බව Apple සමාගම ප්‍රකාශ කරනවා.\n\nමේ සඳහා“play radio station [Radio station එකේ නම]”ලෙස Siri හෝ HomePod එකට විධාන කළ විට“Playing [Radio station එකේ නම], provided by [සේවාව සපයන්නාගේ නම].”ලෙස පිළිතුරු ලැබෙන අතර අදාල radio station එකට සවන්දීමේ හැකියාව ද ලැබෙනවා.\n\nමීට අමතරව Music app එක හරහා මෙය පාලනය කළ හැකි අතර එහි ඇති search පහසුකම භාවිතා කරමින් අවශ්‍යය radio channel එකක් සොයා ගැනීමට ද අවස්ථාව තිබෙනවා.\n\nකොහොම නමුත් Siri හරහා සිදු කරන විමසීමේදී ‘radio station’ යන වචන දෙක අන්තර්ගත නොවුනහොත් Apple Music වල search කිරීමකට යොමු වන බවත්, ඉදිරියේදී නිකුත් වන updates සමඟින් එය fix කරනු ඇති බවත් විශ්වාස කෙරෙනවා.",
+  "category": "apple",
+  "date": "2019-07-01",
+  "extraction_timestamp": "2026-02-20T12:13:59.645067",
+  "headline": "Apple Siri හා HomePod හරහා Radio Station 100,000කට අධික ප්‍රමාණයකට සවන්දීමේ හැකියාව ලබා දෙයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-starts-to-roll-out-support-to-play-100-000-radio-stations-with-siri-on-iphone-and-homepod/",
+  "word_count": 160
+}

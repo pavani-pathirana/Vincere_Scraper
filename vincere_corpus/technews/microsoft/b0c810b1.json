@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft විසින් RPA Platform එකක් වනSoftomotiveතමන්ගේඅයිතියට ගත් බවMicrosoft ප්‍රධාන විධායක නිළධාරී වන Satya Nadella, ඊයේ (මැයි 19) පැවති Microsoft Build 2020 සමුළුවේදී ප්‍රකාශ කරනු ලැබුවා.\n\nSoftomotive Platform එක Microsoft හි දැනට තිබෙන Power Automate Platform එකටම එකතු වන අතර මෙමඟින් පැරණි (Legacy) Applications ස්වයංක්‍රීයකරණය ඉතා පහසු වන බව ඔහු පෙන්වා දෙයි.\n\nSoftomotive Platform එක භාවිතා කරන පාරිභෝගිකයන් ගනන දැනට 9000ක් පමණ සිටින අතර Microsoft හි දැනට පවතින RPA Platform එක හෙවත් PowerAutomation Platform එකේ දැනට License තිබෙන පාරිභෝගිකයන් හට නොමිලේ මෙම Softomotive Platform එක භාවිතා කළ හැකි බවත් ඔහු වැඩිදුරටත් පෙන්වා දෙනු ලබනවා.\n\nWinAutomation හි low-code RPA යෙදුම Softomotive නම් වන අතර මෙමඟින් මෙතෙක් කල් Power Automate මඟින් සහය නොදුන් සාමන්‍ය පරිගණක මෘදුකාංග (Legacy Desktop Applications) හැසිරවීම වැනි දේ ඇතුළු Microsoft Power Automate හි සැලකිය යුතු විශේෂාංග කිහිපයක්ම දියුණු වෙනවා.\n\nඉහතින් දැක්වෙන්නේ Softomotiveලාගේ WinAutomation Tool එකේ Screenshot එකක් වන අතර මෙය SAP වැනි මෘදුකාංග ද Legacy Terminal මෘදුකාංග ද සහ Java වැනි සියලුම Desktop Applications පාලනය කිරීමට සමත් වේ.\n\nWinAutomation වලට අමතරව Softomotiveලාගේ වෙනත් Apps වන Process Robot ආදිය ද Power Automate පවුලේ අලුත් තැනක් ගන්නා අතර මෙම මිලදී ගැනීමට ප්‍රධානතම හේතුව නම් WinAutomation හි Desktop Automation Features බව අපට පැහැදිලිව පෙනේ.\n\nමේ පිළිබඳව අදහස් දක්වමින් Softomotive හි ප්‍රධාන විධායක නිළධාරියා වන Marios Stavropoulos මෙසේ ප්‍රකාශ කරනු ලබනවා.\n\nසමාගම් දෙකම මෙම ගනුදෙනුවේ මූල්‍ය තොරතුරු පිළිබඳව අනාවරණයක් සිදු කිරීමට කටයුතු කර නැහැ.",
+  "category": "microsoft",
+  "date": "2020-05-20",
+  "extraction_timestamp": "2026-02-20T12:09:37.125172",
+  "headline": "Microsoft විසින් RPA Platform එකක් වන Softomotive හෙවත් WinAutomation මිලදී ගැනීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-acquires-softomotive-to-expand-low-code-robotic-process-automation-capabilities-in-microsoft-power-automate/",
+  "word_count": 221
+}

@@ -1,0 +1,13 @@
+{
+  "body": "MediaTek සමාගම විසින් සිය G series එක සඳහා Helio G85 නම් වූ නව gaming-oriented chipset එකක් එළිදක්වා ඇති බව මේ වන විට වාර්ථා වෙනවා.\n\nතවමත් මෙහි මිළ ගණන් හෝ specs පිළිබඳව වැඩිදුර විස්තර තවමත් ප්‍රකාශයට පත්කර නොමැති නමුත් මෙම නව chipset එකත් සමග gaming chipset සදහා ඇති options ප්‍රමාණය තවත් පුළුල් වනු ඇත.\n\nG85 යනු LTE support කරනු ලබන (මෙයට 5G support නොකරයි) 8-core chipset එකක් වන අතරපසුගිය සතිය තුළ එළි දැක්වූXiaomi Redmi Note 9දුරකතනයද මෙම Helio G85 SoC එකෙන් බලගැන්වෙන බව වාර්ථා වෙනවා.\n\n12nm technology එක භාවිතයෙන් නිර්මාණය කර ඇති මෙම chip එක, 2GHz - A75 cores දෙකකින්ද, 1.8GHz - A55 cores 6 කින්ද සමන්විත වෙනවා.\n\nමීට අමතරව 1GHz ARM Mali G52 GPU එකක්ද මේ සදහා අන්තර්ගත කර ඇති අතර මෙහි gaming performance සහ connectivity හැකියාව ඉහළ දැමීම සදහාMediaTek \"HyperEngine\" optimizationsද ඇතුලත් කර තිබෙන බව ඔවුන් ප්‍රකාශ කරනවා.\n\nමෙම chipset එක 8GB RAM දක්වා සහාය දක්වන අතර FHD+ resolution, 60Hz display, Bluetooth 5.0 සහ802.11acසඳහා ද සහය දක්වයි.\n\nCellular connectivity වෙනුවෙන් මේ chipset එක category 7 LTE සහ VoLTE/VoWi-Fi සඳහා සහාය දක්වන අතර මීට අමතරව Dual 4G SIM සඳහා ද මෙය සහය දක්වනු ලබනවා.\n\nAI camera tasks සදහා support කිරීම, multi-camera arrays සදහා support කිරීම (sensor size එක 48MP දක්වා, උදාහරණ ලෙස 16MP+16MP ලෙස), bokeh/portrait mode එක මෙන්ම 240fps දක්වා video recording සඳහා ද මෙම chipset එක සහාය දක්වනු ලබනවා.\n\nකොහොම වුණත්Benchmarks පිළිබඳව වංචා කිරීමසම්බන්ධවද MediaTek ආයතනයට මීට කලකට පෙර චෝදනා ද එල්ල වී ඇති බව වාර්ථා වී තිබුණා.",
+  "category": "mobile",
+  "date": "2020-05-07",
+  "extraction_timestamp": "2026-02-20T12:12:57.427368",
+  "headline": "MediaTek සමාගම ඔවුන්ගේ Gaming Chipset Series එකේ අලුත්ම Chipset එක වන Helio G85 Chipset එක එළිදක්වයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/mediatek-unveils-newest-addition-to-gaming-chipset-series-with-helio-g85/",
+  "word_count": 239
+}

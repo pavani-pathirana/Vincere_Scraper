@@ -1,0 +1,13 @@
+{
+  "body": "OnePlus ආයතනය විසින් public charging stations සොයාගැනීම පහසු කිරීම සඳහා නව විශේෂාංගයක් හඳුුන්වාදීමට සූදානම් වන බව අනාවරණය කරගැනීමටXDA-Developers වෙබ් අඩවියමේ වන විට සමත් වී තිබෙනවා.\n\nඒ පසුගියදා XDA-Developers වෙබ් අඩවියේ ජ්‍යෙෂ්ඨ සාමාජිකයකු වනSome_Random_Usernameවිසින් Android 11 Beta 1 තුළ OnePlus 8 සහ OnePlus 8 Pro සඳහා ඇති Settings app එකෙහි තිබූ නව strings කිහිපයක් සොයාගැනීමත් සමඟයි.\n\nමෙම strings තුළ ඇති විස්තර මගින් පෙන්නුම් කරන්නේ OnePlus සමාගම විසින් විසින් සිය පරිශීලකයින් හට ඔවුන්ගේ දුරකථන ඉක්මනින් ආරෝපණය කර ගැනීම සඳහා Charging Stations ජාලයක් ගොඩනැගීමට කටයුතු කරන බවයි.\n\nමේ වන විටත් OnePlus Charging Stations ඉන්දියාවේ Bengaluru ජාත්‍යන්තර ගුවන් තොටුපලේ ස්ථාපනය කර ඇති බවUrAvgHomoSapienවිසින් tweet එකක් එක් කරමින් ප්‍රකාශ කර තිබෙනවා.\n\n@aamirXDAhttps://t.co/LOYNJeKLnTHi just read your article.Something, related to the article. (1/3)pic.twitter.com/B12KdTXiXP\n\nBengaluru හි Kempegowda ජාත්‍යන්තර ගුවන්තොටුපළේ පිටත්වීමේ පර්යන්තයේ ස්ථාපනය කර ඇති මෙම OnePlus Charging Station එකෙහි OnePlus devices සඳහා 30W Warp Charging පහසුකම සඳහා සහාය දක්වන USB Type-A ports දෙකකින් සමන්විත වෙන අතර වෙනත් gadgets සඳහා international plug එකක් ද මෙහි දැක ගැනීමට හැකි වෙනවා.\n\nඉදිරියේදී 65W Warp Charging සඳහා ද සහාය දැක්වීමට හැකිවන පරිදි OnePlus විසින් මෙම Charging Stations යාවත්කාලීන කිරීමටද ඉඩ ඇති බව අනුමාන කෙරෙනවා.\n\nමෙම Charging StationsBLE beacons (Bluetooth low energy beacon)වලින් සමන්විත වන අතර එමඟින් ඔවුන්ගේ අනන්‍යතාවය අසල ඇති උපාංගවලට (මෙම අවස්ථාවේදී OnePlus දුරකථන වලට) broadcast කිරීමට ඉඩ සලසනු ලබනවා.\n\nඊට අමතරව settings app එක තුළින් හමු වූ graphic asset මඟින් ද මේ පිළිබඳව වඩා හොඳ අදහසක් ලබාගත හැකිය.\n\nBeta version එක තුළ තවදුරටත් අධ්‍යනය කිරීමෙන් පසුව මෙම “charging station” විශේෂාංගයට අදාළ classes කිහිපයක්ද හදුනාගැනීමට හැකි වී ඇති අතර එහි ඇතුළත් වන්නේ,\n\nBeta version එකෙහි “com.oneplus.chargingpilar” නම් වූ package name එකක් පිළිබඳව ද සඳහනක් ඇති අතර එයින් ඇඟවෙන්නේ මෙම feature එක ක්‍රියාත්මක වීමට අවශ්‍ය supporting app එකක් ද ඇති බවයි.\n\nමෙම feature එකට අදාළ setting preferences කිහිපයක් ද අනාවරණය කරගැනීමට හැකියාව ලැබී ඇත.\n\nOnePlus සමාගම විසින් මෙම feature එක ප්‍රකාශයට පත් කරනු ලබන කාළ වකවානුවක් පිළිබඳව තවමත් අනාවරණය වී නොමැති නමුත් OnePlus 8T ජංගම දුරකථනය එළිදැක්වීමත් සමඟින් මෙම පහසුකම නිකුත් කිරීමට කටයුතු කරනු ඇති බව අනුමාන කෙරෙනවා.",
+  "category": "mobile",
+  "date": "2020-06-20",
+  "extraction_timestamp": "2026-02-20T12:12:02.900645",
+  "headline": "Public charging stations සොයාගැනීම පහසු කිරීම සඳහා නව පහසුකමක් හඳුුන්වාදීමට OnePlus සමාගම කටයුතු කරන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/oneplus-may-be-working-on-a-feature-to-help-you-find-public-charging-stations/",
+  "word_count": 326
+}

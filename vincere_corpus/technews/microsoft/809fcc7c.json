@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගම විසින් මේ වන විට අත්හදාබැලීමේ කටයුතු සිදු කරමින් පවතින්,Chromium ව්‍යාපෘතිය මත පදනම් වූ අලුත් Edge Browser එක ගැනමීට කලින් ඔබව දැනුවත් කිරීමට කටයුතු කළා මතක ඇති.\n\nමූලිකව Windows 10 වලට පමණක් සීමා කර තිබූ testing සංස්කරණය ඊයේ දින සිට Windows 7 සහ Windows 8 යන මෙහෙයුම් පද්ධති සඳහා ද නිකුත් කිරීමට Microsoft සමාගම කටයුතු කර ඇති අතර, මේ අනුව Windows 7, Windows 8, Windows 8.1, Windows 10, macOS,‍‍ යන මෙහෙයුම් පද්ධති සඳහා ලබාගත හැකි වෙනවා.\n\nනිළ EdgeInsider වෙබ් අඩවියහරහා මෙහි දිනපතා update වන canary channel එක හෝ සතිපතා update වන dev channel එක මගින් ඔබගේ platform එකට අදාලව download කරගැනීමේ හැකියාව තිබෙන අතර stable channel එකක් ගැන තවමත් කිසිඳු සඳහනක් ඉදිරිපත් කිරීමට ඔවුන් කටයුතු කර නොමැති වෙනවා.\n\nකොහොම වුණත් දැනට පවතින් Dev channel එකේ ඇති සංස්කරණය පවා ඉතාමත් හොඳ තත්ත්වයක පවතින බව මෙය භාවිතා කළහොත් ඔබට වැටහෙනු ඇති අතර ඉදිරියේදී මෙය stable තත්ත්වයට පත් වූ විට Google Chrome සඳහා ඉතාමත් හොඳ තත්ත්වයේ තරඟයක් ලබාදීමට හැකියාව Microsoft සමාගමට ලැබෙනු ඇති බව විශ්වාස කළ හැකි වෙනවා.",
+  "category": "microsoft",
+  "date": "2019-06-20",
+  "extraction_timestamp": "2026-02-20T12:11:04.894368",
+  "headline": "Microsoft සමාගමේ අලුත් Chromium Edge Browser එක Windows 7 සහ 8 වලටත් ලබා දීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsofts-chromium-edge-browser-now-available-on-windows-7-and-windows-8/",
+  "word_count": 166
+}

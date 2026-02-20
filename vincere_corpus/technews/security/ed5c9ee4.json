@@ -1,0 +1,13 @@
+{
+  "body": "Facebook platform එකේ විවිධ ආකාරයේ ආරක්ෂක දුර්වලතා පිළිබඳව මෙන්ම ඒ හාරහා සිදු වුණු data leak ගණනාවක් ගැන TechNews.LK පාඨක ඔබ මේ වන විටත් හොඳින් දන්නවා ඇති.\n\nඔන්න දැන්, තවත් එවැනි දුර්වලතාවයක් භාවිතා කරමින් එකතු කරගන්නා ලද Facebook පරිශීලකයින්ගේ ජංගම දුරකථන අංක Telegram bot එකක් භාවිතා කරමින් අලෙවි කරනු ලබන පුද්ගලයෙකු පිළිබඳව වාර්තා වෙනවා.\n\nමේ bot එක සතුව Facebook පරිශීලකයින් මිලියන 533ක පමණ ප්‍රමාණයකගේ ජංගම දුරකථන අංක ඇති බවත්, bot එකට අදාල පරිශීලකයාගේ Facebook ID එක ඉදිරිපත් කර ජංගම දුරකතන අංකය ලබාගැනීමට හෝ, ජංගම දුරකථන අංකය ලබාදී Facebook ID එක ලබාගැනීමේ හැකියාව පවතිනවා.\n\nFew days ago a user created a Telegram bot allowing users to query the database for a low fee, enabling people to find the phone numbers linked to a very large portion of Facebook accounts.This obviously has a huge impact on privacy.pic.twitter.com/lM1omndDET\n\nමේ ආකාරයේ එක් විමසීමක් සඳහා එක් credit එකක් වැය වන අතර මෙම credit එකක් ඇමෙරිකානු ඩොළර් 20ක් ගෙවා ලබාගත යුතු වෙනවා. එමෙන්ම bulk pricing plan එකක් ද ලබාදී ඇති අතර ඩොළර් 5,000ක මුදලකට credits 10,000ක ප්‍රමාණයක් ලබාගත හැකි වෙනවා.\n\n2021 ජනවාරි මස 12 වැනි දින සිට මේ දක්වා මෙම bot එක ක්‍රියාත්මක වන බවත් මේ සඳහා Facebook සමාගම විසින් 2019 වර්ෂයේදී patch කළ දුර්වලතාවයක් භාවිතා කරමින් ලබාගත් database එකක් භාවිතා කරනු ලබන බව ද වාර්තා වෙනවා.\n\nමේ අනුව 2019 වර්ෂය දක්වා වන ජංගම දුරකථන අංක මේ හරහා ලබාගත හැකි වනු ඇති අතර, බොහෝ පුද්ගලයින් තම ජංගම දුරකථන අංකය වසර ගණනාවකට මාරු නොකරන බැවින් මෙම දත්ත වල නිරවද්‍යයතාවය බොහ‍ෝ දුරට තවමත් ඉහළ මට්ටමක පවතිනු ඇති බව අනුමාන කෙරෙනවා.",
+  "category": "security",
+  "date": "2021-01-26",
+  "extraction_timestamp": "2026-02-20T12:06:49.608143",
+  "headline": "Facebook හි දුර්වලතාවයක් හරහා සොරාගත් Facebook පරිශීලකයින්ගේ ජංගම දුරකථන අංක Telegram bot එකක් හරහා අලෙවි කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/facebook-users-phone-numbers-are-for-sale-through-a-telegram-bot/",
+  "word_count": 251
+}

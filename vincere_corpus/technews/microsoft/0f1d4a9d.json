@@ -1,0 +1,13 @@
+{
+  "body": "මේ වෙනකොට Microsoft එක විසින් එයාලාගේ Windows 10 මෙහෙයුම් පද්ධතියේ පෙනුම Modern විදිහට වෙනස් කිරීමට ලොකු උත්සාහයක් දරණවා ඔයාලාට පෙනිලා ඇති. Operating system එකේ හැම තැනම තිබෙන පොඩි පොඩි කොටස් පවා මේ වෙනකොට වෙනස් කරගෙන යන්නට ඔවුන් සමත් වෙලා තිබෙනවා.\n\nමේ විදිහට ඉතින් ඔන්න අපි නිතරම භාවිතා කරන volume control UI එකත් fluent design එකට අනුව වෙනස් කරලා තිබෙනවා. නමුත් ගොඩ දෙනෙක් මේ අළුත් design එකට ඒ තරම් කැමැත්තක් දක්වන්නේ නැහැ. ඉතින් ඔයත් මේ අළුත් පෙනුමට වඩා පරණ පෙනුමට කැමති කෙනෙක් නම්, දැන් කියලා දෙන්න යන පොඩි trick එකෙන් ඒ පරණ පෙනුම නැවතත් ලබාගන්න පුළුවන්.\n\nමේ සඳහා ඔයා Administrator account එකකින් ඔයාගේ PC එකට Login වෙලා ඉන්න ඕන.\n\nHKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\MTCUVC\n\nHKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\n\nදැන් registry editor එකෙන් ඉවත් වී වෙනස්කම සිදුවී ඇත්දැයි පරීක්ෂා කර බලන්න. මේ සඳහා system reboot කිරීමක් හෝ explorer process එක kill කිරීමට අවශ්‍යයතාවයක් නොමැති අතර ඔබට නැවතත් අළුත් UI එකට මාරු වීමට අවශ්‍යය නම් කළ යුතු වන්නේEnableMtcUvcඑකට යෙදූ value එක, 1 ලෙස මාරු කිරීම පමණි.\n\nකෙසේ වෙතත් අළුතින් එන update වලදී මෙම ක්‍රමය මගින් UI එක වෙනස් කර ගැනීමටද නොහැකි වීමට ඉඩ ඇත. නමුත් මේ වන විට මේ trick එක හොඳින් වැඩ කරයි.",
+  "category": "microsoft",
+  "date": "2018-06-18",
+  "extraction_timestamp": "2026-02-20T12:13:39.421758",
+  "headline": "Windows 10 - April Update එකෙන් පසුව පරණ Volume Control එක නැවත ලබාගනිමු",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/how-to-use-the-old-volume-control-interface-in-windows-10-april-2018-update/",
+  "word_count": 186
+}

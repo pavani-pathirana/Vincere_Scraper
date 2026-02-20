@@ -1,0 +1,13 @@
+{
+  "body": "Password manager service එකක් භාවිතා කිරීම ඇත්තෙන්ම ඔබගේ online accounts ආරක්ෂිතව තබා ගැනීමට වැදගත් කාර්යභාරයක් සිදු කරනු ඇති අතර Google Play Store හරහා ඔබට මේ වන විට Password manager apps විශාල ප්‍රමාණයක් ලබා ගැනීමට හැකියාවක් තිබෙනවා.\n\nමේ වන විට මේ අතරට එකතු වන අලුත්ම password managing app එක වන්නේ Dropbox සමාගම විසින් හඳුන්වාදී ඇතිDropbox Passwords app එකවන අතර මෙය ඉතාමත් minimal සහ clean user interface එකක් සහිතව නිර්මාණය කර තිබෙනවා.\n\nමෙහි පෙනුම බොහෝ දුරට Dropbox cloud storage app එකට සමාන වන අතර ඔබගේ Dropbox account එක සමඟින් මේ passwords sync වන නිසා Windows, macOS මෙන්ම iOS වැනි platform ගණනාවක් හරහා මෙය භාවිතා කිරීමට හැකියාව ලැබෙනවා.\n\nDropbox Passwords සේවාව හරහා ම ඔබට අලුත් passwords generate කරගැනීමේ හැකියාව ලැබෙන අතර මෙහි අනතර්ගත වනzero-knowledge encryption තාක්ෂණයනිසාවෙන් අදාල passwords cloud එක තුලදී හෝ වෙනත් කිසිඳු තැනකදී Dropbox ආයතනයට හෝ වෙනත් පුද්ගලයෙකු හට දැකගත නොහැකි වන ලෙස ආරක්ෂා වෙනවා.\n\nDropbox Passwords app එක දැනට Early Access මට්ටමමේ පවතින අතර එය දැනට download කරගත හැකි වන්නේ ඇතැම් Dropbox පරිශීලකයින් හට පමණක් බව වාර්ථා වන නමුත් මෙය Google Play Store එක හරහා මේ වන විටත් download කරගැනීමේ හැකියාව ලැබී තිබෙනවා.",
+  "category": "security",
+  "date": "2020-06-06",
+  "extraction_timestamp": "2026-02-20T12:09:06.622166",
+  "headline": "Dropbox සමාගම විසින් ඔවුන්ගේම Password Manager app එකක් හඳුන්වාදීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/dropbox-is-working-on-a-password-manager/",
+  "word_count": 183
+}

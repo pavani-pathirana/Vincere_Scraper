@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මාසයේදීGoogle Duoහරහා group call ලබා ගැනීමේ පහසුකම සහ අලුත් features රැසක් ලබා දීමට සූදානම් වන බව මීට පෙර අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nමේ වන විට Google Duo PWA එක, එහෙමත් නැතිනම් web app එක භාවිතා කරන්නන් හට එක් වරකට පුද්ගලයන් 32 ක් දක්වා group call සඳහා සම්බන්ධ කරගැනීමේ හැකියාව ලබාදී ඇති බව වාර්ථා වෙනවා.\n\nමේ අනුව පසුගිය වසර කිහිපය තුළ group callsAndroidසහiOSapps සඳහා පමණක් සීමා වූ group call පහසුකම මේ වන විට web app එක හරහා ද භාවිතා කළ හැකි අතර, දැනට තිබුණු පුද්ගලයන් 12 සීමාව 32ක් දක්වා ඉහළ දැමීමට Google සමාගම තීරණය කර තිබෙනවා.\n\nපසුගිය මාර්තු මාසයේ දී මෙම සීමාව පුද්ගලයන් 8 දෙනෙක් දක්වා පමණක් සීමා කර තිබූ අතරCOVID-19 වසංගතයහේතුවෙන් Google Duo භාවිතා කරන්නන් ප්‍රමාණය වැඩි වීමත් සමඟින් එම ප්‍රමාණය 12 දක්වා ඉහළ දැමීමට කටයුතු කරනු ලැබුවා.\n\nමේ අතර,duo.google.comදැන් desktop සඳහා Web App එකක් ලෙස භාවිතයට ගැනීමට හැකියාව පවතින අතර Google Chrome හරහාduo.google.comවෙත පිවිසුනු විට Chrome හි address bar එකෙහි පෙන්වන install button එක හරහා මෙය app එකක් ලෙස install කරගත හැකි වෙනවා.",
+  "category": "google",
+  "date": "2020-06-20",
+  "extraction_timestamp": "2026-02-20T12:12:06.728092",
+  "headline": "Google Duo PWA එක මඟින් එක් වරකට පුද්ගලයන් 32ක් දක්වා group calls සඳහා එකතු කරගැනීමේ හැකියාව ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-duo-rolling-out-web-group-calls-with-up-to-32-people/",
+  "word_count": 167
+}

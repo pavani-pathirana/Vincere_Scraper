@@ -1,0 +1,13 @@
+{
+  "body": "මීට ටික කාලයකට කලින් Gmail එකේ design එක සම්පූර්ණයෙන්ම වගේ වෙනස් කරන්න Google සමාගම කටයුතු කළා මතක ඇති.\n\nඉතින් ඒ re-design එකත් එක්ක හඳුන්වා දුන්නු අළුත් පහසුකමක් තමයි මේ Gmail Confidential Mode එක කියන්නේ. මේ feature එක මුලින්මG Suiteභාවිතා කරනන්ට පමණක් නිකුත් කළ අතර පසුව එය සෑම Gmail භාවිතා කරන්නෙකු හටම නිකුත් කරන්නට Google සමාගම කටයුතු කළා.\n\nඔන්න දැන් මේ Confidential Mode එක Gmail Mobile app එකටත් එකතු කරන්නට ඔවුන් කටයුතු කර තිබෙනවා.\n\nConfidential mode is now available on mobile devices and can help you protect sensitive information from unauthorized access. Learn more about this feature →https://t.co/lmQNElH6C1pic.twitter.com/Nxtx2yU0pG\n\nමේ පහසුකම හරහා අපි mail එකක් යවන විට එයට කල් ඉකුත් වෙන දිනයක් සකසන්නට අපිට අවස්ථාව ලැබෙන අතර එසේ සඳහන් කරනු ලබන කාළසීමාව පසුවූ විට අදාල email පණිවුඩය තවදුරටත් ලබන්නාට කියවීමට නොහැකි වෙනවා.\n\nමීට අමතරව passcode එකක් මගින් අදාල mail එක lock කිරීමටත් හැකියාව මෙමගින් ලැබෙනවා. එම passcode එක SMS හරහා යැවීමට Google සමාගම මගින් කටයුතු කරනු ලබන අතර එසේ නොමැති නම් Email මගින් යැවීමටද සැකසුම් කළ හැකි වෙනවා.\n\nඑමෙන්ම මේ හරහා යවනු ලබන email copy කිරීමට, print කිරීමට, forward කිරීමට හෝ downlod කිරීමට නොහැකි වෙන ලෙස සකස් කරන්නට Google සමාගම කටයුතු කර තිබෙනවා. එසේ වුවත් ලබන්නාට එහි screenshot එකක් ලබා ගැනීමට මෙමඟින් බාධාවක් ඇති වන්නේ නැහැ.\n\nකොහොම නමුත් මේ Gmail Confidential Mode එක මගින් සත්‍ය වශයෙන්ම අදාල email එකට ආරක්ෂාවක් ලැබෙන්නේ නැති බවත්, භාවිතා කරන්නාව ආරක්ෂාව පිළිබඳව අදහසක් මගින් නොමඟ යැවීමට මෙය පිටුවහලක් වෙන බවත්Electronic Frontier Foundation (EFF)එක විසින් වාර්ථාවක් නිකුත් කරමින් ප්‍රකාශ කර සිටිනවා.\n\nඅවම තරමින් මේ email එකend-to-end encryptකිරීමට වත් Google සමාගම කටයුතු කර නොමැති බැවින් අතරමැදියෙකුට පහසුවෙන්ම මෙය කියවිය හැකි බව ඔවුන් පෙන්වා දෙනවා. එමෙන්ම SMS passcode එක යැවීම සඳහා අදාල ලබන්නාගේ ජංගම දුරකථන අංකය ලබාගන්නා බැවින් ඒ මගින් අනවශ්‍යය ආකාරයෙන් පෞද්ගලික දත්ත එකතු කිරීමට Google සමාගම කටයුතු කරනු ලබන බවත් ඔවුන් වැඩිදුරටත් ප්‍රකාශ කර සිටිනවා.",
+  "category": "google",
+  "date": "2018-08-18",
+  "extraction_timestamp": "2026-02-20T12:23:13.545329",
+  "headline": "Gmail වල Confidential Mode එක Mobile app එකට එකතු කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/gmails-confidential-mode-arrives-on-mobile-devices/",
+  "word_count": 297
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Street View යනු Google Maps හරහා navigation කරන බොහෝදෙනෙක් භාවිතා කරන පහසුකමක් වන අතර මේ වනවිට වාර්තා වන ආකාරයට, Google සමාගම විසින් 360° camera එකක් භාවිතයෙන් තොරව street view data capture කරගැනීම සඳහා විශේෂාංගයක් පරික්ෂා කරමින් සිටින බවට වාර්තා වෙනවා.\n\nDriving Mode ලෙස හැඳින්වෙන මෙම විශේෂාංගය Google Street View app එක භාවිතා කරන ඇතැම් පරිශීලකයින්ගේ side menu එකෙහි දැකගැනීමට හැකියාව ලැබෙන අතර එය enable කිරීමෙන් පසු, 360° camera එකක් නොමැතිව වුවද street view images capture කිරීමට හැකියාව ලැබෙනවා මෙන්ම, එම images වල ඇති මුහුණු සහ වාහනවල license plates ආදිය ස්වයංක්‍රීයව blur කිරීමටද මෙයට හැකියාව තිබෙනවා.\n\nකෙසේවෙතත්, මෙම විශේෂාංගය ඔස්සේ පරිශීලකයන්ගේ ජංගම දුරකතනවලින් ලබාගන්නා image data වල ගුණාත්මක බව පාලනය කිරීමට Google සමාගම සැලසුම් කර තිබෙන ආකාරය පිළිබඳව තවමත් වාර්තා වන්නේ නොමැති අතර ඉහත ආකාරයට data capture කරගත් පරිශීලකයන් හට ඔවුන්ගේ contributions ඔවුන්ගේ profile එකෙහි දැකිය හැකි නමුත් Google Maps වල තවමත් එම data දැකගැනීමට හැකියාව නොපවතින හෙයින්, Driving Mode එක මගින් රැස්කරගත් දත්ත Google සමාගම විසින් manual review කරනු ඇතැයි අනුමාන කළ හැකිවෙනවා.\n\nඑමෙන්ම, මෙම විශේෂාංගය තවමත් භාවිතා කිරීමට හැකියාව ලැබී ඇත්තේ සීමිත පරිශීලකයන් පිරිසක් සඳහා වන බැවින් මෙය server side update එකක් හරහා ලබාදෙනු ලබන විශේෂාංගයක් බව පෙනෙන්නට තිබෙන අතර මෙම විශේෂාංගය පුළුල් ලෙස ලබාදීමට Google සමාගම කටයුතු කළහොත්, ග්‍රාමීය ප්‍රදේශයවලට පවා Street View පහසුකම ලබාදීමට Google සමාගමට හැකියාව ලැබෙනු ඇත.",
+  "category": "google",
+  "date": "2020-11-10",
+  "extraction_timestamp": "2026-02-20T12:08:47.664782",
+  "headline": "360° camera එකක් නොමැතිව Street View data capture කිරීමේ විශේෂාංගයක් පරික්ෂා කර බැලීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-street-view-is-testing-driving-mode-for-contributing-without-a-360deg-camera/",
+  "word_count": 212
+}

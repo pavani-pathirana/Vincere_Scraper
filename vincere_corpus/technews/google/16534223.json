@@ -1,0 +1,13 @@
+{
+  "body": "Android මෙහෙයුම් පද්ධතිය විවිධGPUසමඟ කටයුතු කිරීමේ ක්‍රියාවලිය වැඩිදියුණු කිරීම වෙනුවෙන් GPU test කිරීමෙහි ප්‍රවීනයෙකු වූGraphicsFuzzආයතනය මිලදී ගැනීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nමේ GraphicsFuzz කියන්නේ විවිධ mobile devices වල GPU reliability එක පරීක්ෂා කරමින් ඒවාbenchmarkකිරීමට කටයුතු කළ ආයතනයක්. ඒ වගේම මේ පරීක්ෂණයන් හරහා ලබාගන්නා ප්‍රතිථලයන් ඔස්සේ graphic drivers වල ඇති ගැටළු නිරාකරණය කිරීමටද අවශ්‍යය පියවර ගැනීමට මොවුන් කටයුතු කරනු ලබනවා.\n\nමෙම ආයතනයේ සේවය කළ Alastair Donaldson, Hugues Evrard, සහ Paul Thomson යන තිදෙනා Google සමාගමේ Android graphic team එකට එකතු වීමට නියමිත අතර ඔවුන්ගේ graphic driver පරීක්ෂා කිරීමේ තාක්ෂණයන් මින්පසුව Android මෙහෙයුම් පද්ධතියේ සුභසිද්ධිය උදෙසා යොදාගනු ඇති.\n\nමේ මිළදීගැනීමත් සමඟින් Android මෙහෙයුම් පද්ධතියේ මීළඟ versions වලදී මෙහෙයුම් පද්ධතිය හා GPU එක අතර ඇති වන ගැටළු බොහෝමයක් නිරාකරණය වනු ඇත. Mobile phone එක භාවිතා කරමින් game play කරන අයට මෙය ඉතාමත් හොඳ ආරංචියක් වනු ඇත.",
+  "category": "google",
+  "date": "2018-08-07",
+  "extraction_timestamp": "2026-02-20T12:23:28.806888",
+  "headline": "Google සමාගම විසින් GraphicsFuzz ආයතනය මිලදී ගනී",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-acquires-graphicsfuzz-a-firm-which-specializes-in-testing-gpu-reliability/",
+  "word_count": 134
+}

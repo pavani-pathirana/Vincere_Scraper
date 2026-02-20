@@ -1,0 +1,13 @@
+{
+  "body": "AMD සමාගම විසින් පසුගියදා ඔවුන්ගේ නවZen 3 architecture එකමත පදනම්ව නිර්මාණය කළ desktop processors lineup එක වන Ryzen 5000 series එක එළිදැක්වීමට කටයුතු කරනු ලැබුවා.\n\nඑහිදී AMD සමාගම විසින් Ryzen 9 5950X, Ryzen 9 5900X, Ryzen 7 5800X, Ryzen 5 5600X ලෙස නව CPU models හතරක් එළිදක්වනු ලැබූ අතර එම CPU models වල තොරතුරු ඔබට පහත දැක්වෙන spec sheet එකෙන් දැකගන්න පුළුවන්.\n\nඉහත spec sheet එකෙහි දැක්වෙන පරිදි මිලෙන් වැඩිම processor එක වන Ryzen 9 5950X processor එක cores 16 කින් සහ threads 32 කින් සමන්විත වන අතර එහි base clock frequency එක 3.4GHz ලෙසද, boost clock speed එක 4.9GHz ලෙසද සඳහන් වෙනවා.\n\nඑමෙන්ම ඕනෑම mainstream desktop CPU එකක ඇති ආකාරයේ ඉහළ single සහ multi-threaded performance මෙම SoC සතුව ඇති බව සමාගම පවසන අතර එහි TDP (Thermal design power) එක 105W ලෙස සඳහන් වෙනවා.\n\nඊට අමතරව Ryzen 9 5900X processor එක cores 12 කින් සහ threads 24 කින් සමන්විත වන අතර එහි base clock frequency එක 3.7GHz ලෙසද, boost clock speed එක 4.8GHz ලෙසත්, Ryzen 7 5800X processor එක cores 8 කින් සහ threads 16 කින් සමන්විත වන අතර එහි base clock frequency එක 3.8GHz ලෙසද, boost clock speed එක 4.7GHz ලෙසද සඳහන් වෙනවා.\n\nමෙම models සියල්ලගෙන්ම මිලෙන් අඩුම processor එක වන Ryzen 5 5600X processor එක cores 6 කින් සහ threads 12 කින් සමන්විත වන අතර එහි base clock frequency එක 3.7GHz ලෙසද boost clock speed එක 4.6GHz ලෙසද සඳහන් වෙනවා. එමෙන්ම models හතරෙන්ම box එකත් සමඟ stock cooler එකක් පැමිණෙන එකම processor එකද මෙය බවට සඳහන් වෙනවා.\n\nRyzen 5000 series එක නොවැම්බර් 5 සිට වෙළදපලට නිකුත් කරනු ඇති අතර ඉහත දැක්වෙන CPUs සියල්ලම B550 සහ X570 chipsets සහිත motherboards සඳහා compatible වනු ඇත.\n\nඑමෙන්ම Intel සමාගම දැනටමත් ඔවුන්ගේ 11th-gen ‘Rocket Lake’ desktop processors එළිදැක්වීම සඳහා සූදානම්වෙමින් සිටින අතර 2021 වසරේ මුල් කාර්තුව වන විට එය දැකගත හැකිවනු ඇතැයි බලාපොරොත්තු වන්න පුළුවන්.\n\nකෙසේවෙතත්, AMD සමාගම විසින් ඔවුන්ගේ නවතම Ryzen 5000 series desktop CPUs එළිදැක්වීමත් සමඟ AMD සමාගම තවමත් සිය පාරිභෝගිකයන් සඳහා ගෙවන මුදලට උපරිම performance ලබාදෙන බවට නැවතත් සනාථ කරනු ලබනවා.",
+  "category": "technology",
+  "date": "2020-10-11",
+  "extraction_timestamp": "2026-02-20T12:08:59.946932",
+  "headline": "AMD සමාගම විසින් ඔවුන්ගේ Zen 3 architecture එක සහිත Ryzen 5000 Series එකේ Desktop CPUs එළිදක්වයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/amd-officially-unveils-ryzen-5000-series-desktop-cpus-with-zen-3-architecture/",
+  "word_count": 332
+}

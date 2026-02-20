@@ -1,0 +1,13 @@
+{
+  "body": "ඔන්න තවත් අළුත්ම අළුත් TLD එකක්, එහෙමත් නැත්තම් Top Level Domain (.com/.net/.org වගේ) එකක්Google Registryඑකෙන් announce කරලා තියනවා. 2018 මැයි 1 වෙනිදා, ඒ කියනේ ඊයේ තමයි මේක launch කරලා තියෙන්නේ.\n\nTLD එකක් කියන්නේ ඔය web address එකේ අගට එන .com එහෙමත් නැත්තම් .net වගේ තියන කොටස. www.technews.lk එකේ නම් .lk කියන කොටස. මේ වගේ TLD මේ වෙනකොට 1,543 ක් වගේ තියනවා. එක එක රටවල් වලට, jobs වලට වගේ දේවල් වලට මේවා වෙන් කරලා තියනවා.\n\nඅපි අද මේ කතා කරන .app කියන TLD එක මේ විදිහට වෙන් වෙලා තියෙන්නේ apps වලට සහ app developers ලා ට. විශේෂයෙන්ම developers ලාට එයාලාගේ apps ටික ලෝකෙට පෙන්නන්න සරළ සහ ආරක්ෂාකාරී විදිහක් ලබා දෙන්න තමයි Google එක මේකෙන් අරමුණු කරගෙන තියෙන්නේ.‍\n\nඅපි කොච්චර mobile apps එක්ක කාලය ගත කළත්, අන්තිමට අපිට app එක ගැන විස්තර කරන්න, ඒක use කරන විදිහ කියලා දෙන්න website එකක් ඕන වෙනවනේ. ඒ website එකට පහසුවෙන් මතක හිටින domain name එකක් තියනවා නම් ඒක promotion වලටත් ගොඩක් හොඳයි. ඒ වගේම official website එකකට ඇවිත් app එකක් download කරගන්න, user ට app එක ගැන අළුත්ම news ලබා දෙන්න වගේම app එකත් එක්ක website එකේ contents share කරන්න මේ වගේ domain එකක් use කරන එක වාසියක් වෙනවා වගේම user ගේ විශ්වාසය දිනාගන්නත් මේක වටිනවා.\n\nමම මුළින් කිවුවා මේ .app domain එක ආරක්ෂාවට මුල් තැනක් දෙනවා කියලා. ඒක තවදුරටත් පැහැදිළි කරනවා නම්, අපිට මේ .app domain එකක් use කරන්න පුළුවන් HTTPS එක්ක විතරයි. ඒ කියන්නේ මේ domain එක හරහා අපි හුවමාරු කරන දත්ත end-to-end encrypt වෙලයි තියෙන්නේ. සරළව කිවුවොත් මැද ඉන්න attackers (Man in the middle) ලාට මේ data මොනවාද කියලා පේන්නේ නෑ. ඒ වගේම ඔයාගේ service provider ට (උදා: Dialog, Mobitel වගේ)  මේ data වලට tracking injection කරන්නත් බෑ. විශේෂයෙන්ම ඔයා open WiFi networks වලට එහෙම connect වෙනවා නම්, මං අර කලින් කියපු (MITM) attackers ලා බලාගෙන ඉන්නේ ඔයාලා connect වෙනකන්, නමුත් අපි HTTPS හරහා විතරක් මේක බාවිතා කරන නිසා එයාලාගෙන් (යම්තාක් දුරට) පරිස්සම් වෙන්න පුළුවන්. මේ විදිහට HTTPS අනිවාර්යය කරපු පළමුවෙනි TLD එකත් මේ .app කියන domain එක තමයි. අනාගතේ මුළු web එකම HTTPS කරන්න යන වැඩසටහනට මේක සහායක් වෙනවා කියලා තමයි Google ලා කියන්නේ.\n\n2018 මැයි 1 වෙනිදා පැසිෆික් වේලාවෙන් උදේ 9 ඉඳන් මැයි 7 වෙනිදා වෙනකන් Early Access Program එක හරහා අපිට මේ domain එක වෙන් කරගන්න පුළුවන්. හැබැයි මේකට වෙනම ගානක් අය කරනවා. ඊට පස්සේ මැයි 8 වෙනිදා ඉඳන් ඕනම කෙනෙකුට කමන් කැමති domain registar කෙනෙක් ගෙන් මේ .app domain එකක් ගන්න පුළුවන්.\n\nපහල තියන button එක click කරලා, එහෙමත් නැත්තම්https://get.appකියන website එකට ගිහින් ඔයාට පුළුවන් ඔයාගේ .app domain එක දැන්ම reserve කරලා තියන්න.",
+  "category": "google",
+  "date": "2018-05-02",
+  "extraction_timestamp": "2026-02-20T12:24:02.067593",
+  "headline": "අළුතින්ම එන .app Domain එකක් ඔයාගේ app එකටත් ගන්න",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/app-domain-app/",
+  "word_count": 415
+}

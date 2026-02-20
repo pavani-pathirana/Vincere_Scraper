@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් පසුගිය මාර්තු මාසයේදී Dark Sky weather forecasting සේවාවතමන් යටතට ගැනීමත්සමග එහි ප්‍රතිඵලයක් ලෙස Dark Sky සේවාව Apple නොවන devices සහ clients සඳහා සහාය දැක්වීම ක්‍රමයෙන් ඉවත් කිරීමට කටයුතු කරනු ලබන බව දැකගත හැකි වෙනවා.\n\nමේ වනවිට Android සහ Wear OS සඳහා වන Dark Sky සේවාව සම්පූර්ණයෙන් නවත්වාදැමීමට කටයුතු කර ඇති නමුත් Dark Sky වෙබ් අඩවියට ප්‍රවේශවීමේ හැකියාව තවමත් පවතිනවා.\n\nAndroid සඳහා වන Dark Sky app එක මුලින්ම shutdown කිරීමටසැලසුම් කර තිබුණේපසුගිය ජූලි මස 1 වැනි දින වන අතර එම කාල සීමාවට පෙර Phone/Tablet සහ Wear OS devices මගින් නව පරිශීලකයින් එය download කිරීම වැලැක්වීම සඳහා Google Play Store එකෙන් ඉවත් කිරිමට කටයුතු කරනු ලැබුවා.\n\nOh no! Dark Sky is GONE! It was my favorite weather app.pic.twitter.com/jJtWkqtUpO\n\nදැනට Dark Sky පරිශීලකයන්ට තවමත්ලැයිස්තුවට කෙලින්ම පිවිසිය හැකියනැතහොත් ඔවුන්ගේ “My apps” library list එක හරහා එයට පිවිසීමට හැකියාව තිබෙනවා.\n\nකෙසේ වෙතත් අවසානයේදී Apple සමාගමට අයත්Dark Sky සමාගම පැවසුවේජූලි මාසයේ shut down කිරීමට නියමිතව තිබූ සේවාව shutdown කිරීම තවත් මාසයකින් දීර්ඝ කරන බවයි.\n\nඑනම් අගෝස්තු 1 වැනි දින සිට Dark Sky සේවාව shutdown කර ඇති අතර Android app එකෙහි ඇති සියලුම කාලගුණ දත්ත ශුන්‍ය අගයක් ලබාදීමත්, “The Dark Sky app has shut down” ලෙස පණිවිඩයක් එහි දිස්වන ආකාරයත් දැකගැනීමට හැකියාව ලැබෙනවා.\n\nවසරකට ඇමරිකානු ඩොලර් 2.99ක සැලැස්මට තවමත් subscribe වී සිටින පරිශීලකයන් හට ඒ සඳහා සම්පූර්ණ refund එකක්  ලැබෙනු ඇති අතර Google Play Store විසින් අද උදෑසන පහත email එක dark sky පරිශීලකයන් වෙත යවා තිබෙනවා.\n\nDark Sky වෙබ් අඩවියද අද දින shutdown කිරීමට නියමිතව තිබුණු නමුත් weather forecasts සහ maps සඳහා සේවාව ලබාදීම තවදුරටත් දීර්ඝ කර ඇති අතර, කෙසේ වෙතත් embeds පහසුකම මේ වන විට අක්‍රීය කර ඇති බව දැකගත හැකි වෙනවා.\n\nshutdown schedule එක තවදුරටත් විමසා බැලීමේදී, Dark Sky හි දත්ත භාවිතා කරන third-party weather apps වලට 2021 අවසානය දක්වා ප්‍රවේශය ලබාදෙනු ඇති අතර දැනට සිටින ගනුදෙනුකරුවන් සඳහා API access ලබාදීම දිගටම ක්‍රියාත්මක වන නමුත් නව ලියාපදිංචිවීම් තවදුරටත් භාරගනු නොලැබෙන බව වාර්තා වෙනවා.",
+  "category": "android",
+  "date": "2020-08-03",
+  "extraction_timestamp": "2026-02-20T12:10:10.255256",
+  "headline": "Android සහ Wear OS සඳහා Dark Sky සේවාව නිල වශයෙන් Shut Down කිරීමට Apple සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/apple-shuts-down-dark-sky-for-android-and-wear-os/",
+  "word_count": 312
+}

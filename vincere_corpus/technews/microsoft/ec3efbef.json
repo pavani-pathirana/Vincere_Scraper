@@ -1,0 +1,13 @@
+{
+  "body": "මේ වසරේ ජනවාරි 14 වැනි දින සිට Windows 7 මෙහෙයුම් පද්ධතියට updates ලබාදීම නිළ වශයෙන් නවත්වා එම මෙහෙයුම් පද්ධතිය අතහැර දැමීමට Microsoft සමාගම කටයුතු කරනු ලබන බව අපි මීට පෙර ඔබව දැනුවත් කළා මතක ඇති.\n\nබළාපොරොත්තු වූ ආකාරයෙන්ම පසුගිය 14 වැනි දින Windows 7 වලට අවසාන update එක (KB4534310) නිකුත් කරමින් එය නිමා කිරීමට Microsoft සමාගම කටයුතු කරනු ලැබූ නමුත්, මේ update එක තුල අන්තර්ගත වූ දුර්වලතාවයක් නිසාවෙන් wallpaper mode එක Stretch ලෙස භාවිතා කරනු ලැබුවන්ගේ wallpaper එක තනි කළු ලෙස වෙනස් වීමට පටන් ගෙන තිබෙනවා.\n\nමූලිකව Microsoft සමාගම නිවේදනය කර තිබුණු ආකාරයට මේ අවසාන update එකෙන් පසුව තවත් updates අවශ්‍යය වන්නේ නම් ඒ සඳහා Microsoft සමාගමට මුදල් ගෙවා එම කටයුත්ත සිදු කරගත යුතු වන නමුත් මේ ගැටළුව නිසාවෙන් තවත් අවසාන windows update එකක් Windows 7 පරිශීලකයන් හට නොමිලයේ ලබාදීමට මොවුන් තීරණය කර තිබෙනවා.\n\nමේ අනුව සියළුම Windows 7 සංස්කරණ භාවිතා කරන්නන් හට මෙන්ම Windows Server 2008 R2 SP1 සංස්කරණය භාවිතා කරන්නන් හට මේ අවසාන bug fix update එක ඉදිරියේදී නිකුත් කිරීමට Microsoft සමාගම කටයුතු කරනු ලබනවා.",
+  "category": "microsoft",
+  "date": "2020-01-28",
+  "extraction_timestamp": "2026-02-20T12:10:18.150688",
+  "headline": "Windows 7 නිළ වශයෙන් නවත්වා දැමීමෙන් පසුව නැවතත් update එකක් නිකුත් කිරීමට Microsoft සමාගමට සිදු වෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-forced-to-create-a-free-windows-7-update-after-ending-support/",
+  "word_count": 167
+}

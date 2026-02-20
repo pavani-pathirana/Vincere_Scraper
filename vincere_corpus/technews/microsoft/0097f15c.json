@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගම විසින් මුලින්ම Edge browser එක windows 10 සඳහා 2015 වර්ෂයේදී හඳුන්වාදුන් අතර එය Internet Explorer web browser එකේ වැඩිදියුණු කළ සංස්කරණයක් වූ මෙහි අරමුණ වි තිබුනේ පරීශිලකයන් හට වැඩි දියුණු කළ හා සැහැල්ලු internet browsing experience එකක් ලබාදීමයි.‍\n\nකෙසේ වෙතත්, Microsoft සමාගම විසින් බලාපොරොත්තු වූ පරිදි එම browser එකට එතරම් පිළිගැනීමක් නොලැබුණු නිසා, එම සමාගම විසින් පසුගිය වසරේ Edge සඳහා Chromium-based කරගත් නව සංස්කරණයක් නිකුත් කිරීමට කටයුතු කරනු ලැබුවා.\n\nMicrosoft හි පෙර Edge browser උත්සාහයන් මෙන් නොව, නව Chromium පාදක කරගත් Edge browser එක බෙහෙවින් ජනප්‍රිය වීමට පටන්ගත් අතර මේ අලුත් browser එක සඳහා Microsoft සමාගම විසින් නව විශේෂාංග ගෙන ඒමට නිරන්තර උත්සාහයන් දරනවා.\n\nghacksවෙබ් අඩවියේ මෑතකදී නිකුත් වූ වාර්තාවකට අනුව, පැවසෙන්නේ Microsoft සමාගම විසින් නව Sleeping Tabs නම් වූ විශේෂාංගයක් හඳුන්වාදීමෙන් desktops සඳහා Edge Browser එකෙහි ක්‍රියාකාරිත්වය වැඩි දියුණු කිරීමට කටයුතු කරමින් සිටින බවයි.\n\nනව Sleeping Tabs විශේෂාංගය Microsoft Edge 87 වෙනි සංස්කරණයේදී දැක ගැනීමට හැකිවන අතර මේ වන විටත්Canary channel එකෙහිඅන්තර්ගත වෙනවා.\n\nමෙම අංගය සැලසුම් කර ඇත්තේ ස්වයංක්‍රීයව background tabs sleep කර දැමීමෙන් browser එකේ resources භාවිතය අඩු කිරීම සඳහා වන අතර මෙම අංගය සක්‍රීය කිරීම සඳහා, ඔබ මුලින්ම ඔබේ system එක සඳහා Microsoft Edge වල නවතම Canary release එක download කරගත යුතු වෙනවා.\n\nඉන්පසු, මෙම විශේෂාංගය ක්‍රියාත්මක කිරීම සඳහා,edge://flagsවෙත ගොස් ඉහත පින්තුරයේ ඇති ආකාරයට මෙම විශේෂාංගය ක්‍රියාත්මක කල යුතුවන අතර ඉන් පසුව browser එක restart කළ යුතු වෙනවා.\n\nඉන් පසුව background tabs sleep වන අවස්ථ‍ාවේදී, ඉහත රුපයේ මෙන් එය අළු පැහැයකින් පෙන්නවනු ලබන අතර එහි “This tab is sleeping to save resources.” යනුවෙන්ද පෙන්වනු ලබනවා.\n\nඑමෙන්ම මෙහි ඇති වර්ණ පටිපාටීන් මඟින් sleeping tabs, සක්‍රිය ඒවායින් වෙන් කර හඳුනාගැනීමට උපකාරී වෙනවා.\n\nSleeping tab එකක් මත click කිරීමෙන් එය නැවත activate වන අතර පරීශිලකයින් අවසානයේ වැඩ නවතා ඇති තැනින්ම නැවත එය යථා තත්වයට පත් වන නමුත් මෙලෙස sleeping tab එකක් නැවතත් යථා තත්වයට පත්වීමට යම් කාලයත් ගතවෙනවා.\n\nSleeping tabs විශේෂාංගය දැනට පර්යේෂණාත්මක මට්ටමේ ඇති අතර එය stable ලෙස මුදා හැරීමට පෙර Microsoft සමාගම විසින් තවත් වෙනස්කම් කිහිපයක් සිදු කළ හැකි අතර මෙය සාමාන්‍යය පරිශීලකයින් හට නිකුත් කරන කාල නියමය පිළිබඳව කිසිඳු තොරතුරක් තවමත් වාර්තා වන්නේ නැහැ.",
+  "category": "microsoft",
+  "date": "2020-09-23",
+  "extraction_timestamp": "2026-02-20T12:08:31.593254",
+  "headline": "Microsoft Edge Browser එකේ RAM භාවිතා අවම කිරීම සඳහා Sleeping Tabs නම් වූ නව විශේෂාංගයක් එකතු කිරීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-edge-is-getting-a-sleeping-tabs-feature-to-unload-background-tabs-automatically/",
+  "word_count": 339
+}

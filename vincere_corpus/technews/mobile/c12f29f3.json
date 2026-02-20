@@ -1,0 +1,13 @@
+{
+  "body": "Wear OS සඳහාWear 3100 chipsetඑක නිකුත් කර වසර දෙකකට පමණ පසුව Qualcomm සමාගම විසින් එහි ඊළඟ පරම්පරාව වන Wear 4100 හාWear 4100+යන chipset හඳුන්වා දීමට කටයුතු කර තිබෙනවා.\n\n2016 වර්ෂයේදී හඳුන්වාදුන් Wear 2100 chipset එකට සාපේක්ෂව ඊට පසු හඳුන්වා දුන් 3100 chipset එකෙහි සැලකිය යුතු නව්‍යකරණය දැකීමට නොහැකි වූ නමුත් මෙම නවතම 4100 chipset series එක සඳහා සැලකිය යුතු වේගයක් හා කාර්යක්ෂමතාවයක් ලබාදීමට Qualcomm සමාගම කටයුතු කර තිබෙනවා.\n\nමීට පෙර භාවිතා කළ 28nm process එක වෙනුවට 12-nanometer manufacturing process එක මත නිෂ්පාදනය වනු ඇති මෙම නව chipset එක quad-core Cortex A53 processors වලින් බලගැන්වෙන අතර එය කලින් මාදිලියට වඩා 85%ක කාර්යක්ෂමතාවයක්ද, 25% ක බැටරි කාර්යක්ෂමතාවයක් හා වේගවත් LPDDR3 memory එකකින්ද සමන්විත වෙනවා.\n\nඑමෙන්ම 3100 chipset එකට වඩා 2.5x ගුණයක වේගවත් graphics performance එකක් ද මෙම නව chipset එක මඟින් ලබා දෙන අතර එය 16mp ක කැමරාවක් සඳහාද සහය දක්වන අතර අඩු බලැති 4G-LTE Modem එකක් සඳහාද සහය දක්වනවා.\n\nමීට අමතරව කලින් මාදිලියට වඩා 'Watch Mode' හි දී Color 64000 ක් දක්වා නැරඹිය හැකි අතර අන්තර්ජාලය තුළ මෙම නවතම chipset එක සම්බන්ධයෙන් ඇති පුවත් විශ්ලේෂණය කිරීමේදී පැහැදිලි වන්නේ එය කලින් මාදිලියට වඩා බොහෝ අංශ වලින් වැඩිදියුණු කර තිබෙන බවයි.\n\nWear OS වලට පමණක් නොව මෙයAndroid Open Source Platform(AOSP) එක සඳහාද බාධාවකින් තොරව සහාය දෙනු ඇති බව Qualcomm සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.\n\nමෙම නවතම chipset එක මඟින් බලගැන්වෙන Smart Watch එකක් පිළිබඳව තවමත් වැඩි තොරතුරක් වාර්තා වී නැතත් එය මුලින්ම මීළඟ 'TicWatch Pro' එක තුළ ඇතුළත් විය හැකි බව අනුමාන කෙරෙනවා.\n\nඒ අතර නවක Samrt Watch නිෂ්පාදකයකු වන imoo සමාගමද මෙම නවතම chipset එක භාවිතා කරමින් smartwatch එකක් මෙම වසර අගදී නිකුත් කිරීමට සූදානම් වන බවද වාර්තා වෙනවා.",
+  "category": "mobile",
+  "date": "2020-07-02",
+  "extraction_timestamp": "2026-02-20T12:11:45.784941",
+  "headline": "Qualcomm සමාගම විසින් Wear OS සඳහා නවතම Snapdragon Wear 4100 හා 4100+ Chipsets නිකුත් කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/qualcomm-announces-snapdragon-wear-4100-first-wear-os-watch-shipping-this-year/",
+  "word_count": 266
+}

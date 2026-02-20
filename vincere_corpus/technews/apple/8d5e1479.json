@@ -1,0 +1,13 @@
+{
+  "body": "Google Assistantකියන්නේ මේ වන විට ලොව බොහෝ දෙනෙක් භාවිතා කරන ඉතාමත් හොඳ virtual assistant කෙනෙක්.\n\nAndroid වලදී මේ Google Assistant හට සුපිරි බලයක් තිබුණත්, iOS මතදී ඊට අදාල permissions සහ native functions වල සීමාසහිත බව නිසා තවමත්Siriතරම් පරිශීලකයාට සමීප වීමට අවස්තාව ලැබී තිබුණේ නැහැ.\n\nනමුත් Google සමාගම විසින් මෙයට පිළියමක් ලෙසSiri Shortcutsහරහා තම Google Assistant app එක සම්බන්ධ කිරීමට කටයුතු කර තිබෙන බව දැනගන්නට ලැබෙනවා.\n\nඉතින් මේ හරහා \"OK Google\" හෝ \"Hey Google\" වැනි වැකියක් record කර Siri Shortcut එකක් හරහා Google Assistant සේවය භාවිතා කිරීමේ හැකියාව iOS පරිශීලකයින් හට ලැබෙනවා.\n\nමේ අනුව Siri Shortcuts හරහා Google Assistant ගේ සහාය ලබා ගැනීමට අවශ්‍යය වූ විට \"Hey Siri, OK Google\" යනුවෙන් පැවසිය යුතු වෙනවා. මෙය එතරම් සාර්ථක ක්‍රමයක් ලෙස නෙපෙනුනත්, මොකුත්ම නැතිවාට වැඩියෙන් එය හොඳ බව සැළකිය හැකි වෙනවා.\n\nඑමෙන්ම මේ හරහාSmart Homeactions perform කරනවා නම්, ඒ සඳහා ද Siri Shortcuts සකස් කිරීමට හැකියාව ලැබෙන අතර Siri භාවිතා කරමින් සිටින අතරතුර \"Good night Google\" වැනි විධානයක් හරහා නිවසේ සියළුම විදුලි පහන් නිවා දැමීම වැනි action එකක් සිදු කරගැනීමට අවස්ථාව ලැබෙනවා.\n\nඉතින් ඔයත් මේ පහසුකම භාවිතා කරන්න කැමැත්තෙන් ඉන්නවා නම්,Google Assistant app එකේ අලුත්ම version එකApp Store හරහා download කරගෙන මේ අලුත් integration එක enable කරගැනීමට මේ වන විට හැකියාව තිබෙනවා.",
+  "category": "apple",
+  "date": "2018-11-21",
+  "extraction_timestamp": "2026-02-20T12:18:18.927445",
+  "headline": "Siri Shortcuts සමඟින් Google Assistant iOS වලදී වඩාත් ප්‍රයෝජනවත් ලෙස භාවිතා කළ හැකි වෙයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/google-assistant-siri-shortcuts-feature-iphone-ios/",
+  "word_count": 199
+}

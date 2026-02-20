@@ -1,0 +1,13 @@
+{
+  "body": "මීට වසරකට පමණ පෙර Google සමාගම විසින් Pixel devices වල Google Phone app එක සඳහා call record කිරීමේ හැකියාව ලබාදීමට කටයුතු කළ අතර ඊට ටික කලකට පසුව, Nokia devices කිහිපයක් සහ Xiaomi devices කිහිපයක් සඳහාද මෙම විශේෂාංගය ලබාදීමට Google සමාගම කටයුතු කරනු ලැබුවා.\n\nමේ වනවිට, Google phone app එක සඳහා නොදන්නා අංක වලින් පැමිණෙන calls ස්වයංක්‍රීයව record කිරීමේ හැකියාව ලබාදීමට Google සමාගම කටයුතු කරමින් සිටින බවට වාර්තා වන අතර Google Phone app එකෙහි නවතම update එක වන version 59 එකෙහි teardown එකක් මගින් මෙම විශේෂාංගය ඉස්මතු කරන නව code strings කිහිපයක් අනාවරණය කරගැනීමටXDA-Developers වෙබ් අඩවියටහැකියාව ලැබී තිබෙනවා.\n\nමෙලෙස අනාවරණය කරගත් පළමු string එකෙහි සඳහන් වන ආකාරයට, record කරනු ලබන සෑම call එකකදීම ඒ පිළිබඳව ඔබත් සමඟ ඇමතුමේ සිටින අනෙක් පුද්ගලයාව දැනුවත් කෙරෙන අතර මෙම call recoding පහසුකම භාවිත කිරීමට නම් මුලින්ම ඇමතුම් පටිගත වීමට ඉඩ දීමට එකඟ විය යුතු වෙනවා.\n\nඑමෙන්ම, මෙලෙස record කරන සියලුම recordings ඔබගේ phone එකේ පමණක් ගබඩා කරන බවද සඳහන් වෙනවා.\n\nමෙලෙස අනාවරණය කරගත් අනෙකුත් strings මඟින් ස්වයංක්‍රීය call recording options දෙකක් පිළිබඳව සනාථ කරන අතර එකක් “Always record” සහ අනෙක “Cancel” යනුවෙන් සඳහන් වෙනවා.\n\nකෙසේ වෙතත්, මෙම විශේෂාංගය පිළිබඳව Google සමාගම විසින් තවමත් නිළ වශයෙන් තහවුරු කර නොමැති අතර මෙම විශේෂාංගය app teardown එකක් හරහා අනාවරණය කරගත් විශේෂාංගයක් පමණක් වන බව මතක තබාගත යුතු වෙනවා.",
+  "category": "google",
+  "date": "2021-01-13",
+  "extraction_timestamp": "2026-02-20T12:07:52.767629",
+  "headline": "නොදන්නා අංක වලින් පැමිණෙන calls ස්වයංක්‍රීයව පටිගත කිරීමේ විශේෂාංගයක් Google Phone app එකට හඳුන්වාදීමට Google සමාගම කටයුතු කරන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-phone-app-prepares-to-let-you-always-record-calls-from-numbers-not-in-your-contacts/",
+  "word_count": 210
+}

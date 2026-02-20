@@ -1,0 +1,13 @@
+{
+  "body": "දැනට නිකුත් වී ඇති ‍බොහෝ smartphones වල camera app එකෙහි pro mode එකක් අන්තර්ගත වන අතර එමඟින් පරිශීලකයන් හ‍ට ISO, shutter speed, white balance සහ exposure වැනි දෑ තමන්ට කැමති ආකාරයෙන් වෙනස් කරගෙන photos ගැනීමට ඉඩ ලබා දෙනවා.\n\n‍බොහෝ විට Pro mode එක මගින් RAW images capture කරගැනීමට ද හැකියාව ලැබෙන අතර එමඟින් capture කරගත් image එක .dng ලෙස save කරගැනීමට පරිශීලකයින් හ‍ට ඉඩ ලබා දී ති‍බෙනවා.\n\nකෙසේ වෙතත්,RAW image capture කර ගැනීමෙන් බොහෝ වාසි ඇතිඅතර එහි අඩුපාඩු කිහිපයක් තිබෙනවා.\n\nඋදාහරණයක් ලෙස ඔබ JPEG වැනි පොදු format එකකින් image capture කර ගන්නා විට smartphones එක මඟින් රූපවල ඇති distortions හෝ exposure වැනි ගැටළු ස්වයංක්‍රීයව විසදෙන නමුත් ඔබ එය RAW image එකක් ලෙස save කරගන්නා විය processing කිසිවක් සිදු නොවන නිසා, මෙවැනි ගැටළු ස්වයංක්‍රීයව නිරාකරණය වන්නේ නැහැ.\n\nමෙම ගැටළුව විසඳීම‍ට Android smartphones කිහිපයක් සඳහා ඒ ඒ devices සඳහා විශේෂිත වූ lens correction profiles, Adobe Photoshop සහ Lightroom සඳහා ලබා දීමට Adobe සමාගම විසින් කටයුතු කර ඇති බව මේ වන විට වාර්ථා වෙනවා.\n\nමෙම වසර මුලදී Adobe සමාගම විසින් මෑත කාලයේදී නිකුත් කරන ලද OnePlus 7T, Huawei Mate 30 Pro සහ LG G8 ThinQ වැනි devices කිහිපයක් සඳහා මෙලෙස lens correction profiles නිකුත් කර ඇති අතර දැන් තවත් devices කිහිපයක් සඳහා ඔවුන් Adobe Photoshop සහ Lightroom සඳහා සහය දක්වන පරිඳී lens correction profiles එකතු කර ඇත.\n\nමෙම lens correction profiles Adobe Photoshop Express සහ Lightroom apps සඳහා ද සහය දක්වන අතර ඔබගේ දුරකථනයට අදාල lens correction profiles එක adobe සමාගම විසින් නිකුත් කර තිබෙන්නේ දැයි සැකයක් ඇත්නම් පහත ඇති link එක හරහා ගොස් ඔබගේ දුරකථන මාදිලියත් ඒ අතර ති‍‍‍බේදැයි පරික්ෂා කර බැලිය හැක.",
+  "category": "mobile",
+  "date": "2020-06-19",
+  "extraction_timestamp": "2026-02-20T12:12:06.175091",
+  "headline": "Adobe Photoshop සහ Lightroom හරහා භාවිතා කිරීමට හැකි වන පරිදි දුරකථන මාදිලි කිහිපයක් සඳහා lens correction profiles එකතු කරයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/adobe-photoshop-and-lightroom-add-lens-correction-profiles-for-the-huawei-p40-pro-apple-iphone-se-ipad-pro-and-more/",
+  "word_count": 261
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Facebook ආයතනය විසින් පෙර සිටම තමන් සතුව ඇති WhatsApp, Messenger සහ Instagram යන platforms ඒකාබද්ධ කිරීමට සැලසුම් කරන බව අපි ඔබව මීට පෙර දැනුවත් කිරීමට කටයුතු කළා මතක ඇති.\n\nමෙම ඒකාබද්ධ කිරීම සිතූ තරම් පහසු නොවන්නේ end-to-end encryption වලට අමතරව Facebook Messenger වල මෙන් WhatsApp සේවාවේ messages server එකක් තුළ store නොවී, අදාල device එකේ පමණක් store වීමයි.\n\nWhatsApp තනි device එකක පමණක් භාවිතා කළ හැක්කේ ද මෙම හේතුව නිසාවෙන් බව GSM Arena වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nමේ කටයුත්තේ ඇති සංකීර්ණ බව නිසාම මෙය තරමක් ප්‍රමාද වන ගතියක් පෙන්නුම් කලද, මේ වන විට එය තරමක් දුරට සාර්ථක කරගැනීමට Facebook සමාගම සමත් වී ඇති බව දැකගත හැකි වෙනවා.\n\n#Instagramis working to integrate#Messengerin the app 👀pic.twitter.com/aQInx3m4yK\n\nWABetaInfo වෙබ් අඩවියවිසින් වාර්ථා කරන ආකාරයට Facebook messenger app එකේ නවතම version එකෙන් පහත ලැයිස්තුවෙහි පෙන්වන ආකාරයට “whats_app” references ඇතුලත් වන අතර මෙය මෙම platform ද්විත්වය අතර integration එක සිදු කිරීම සඳහා භාවිතා කරනු ලබන references බව ඔවුන් පෙන්වා දෙනවා.\n\nඉහත දැක්වෙන්නේ පණිවුඩ සහ සේවාවන් කළමනාකරණය කිරීම සඳහා අවශ්‍ය වන Facebook messenger app එකට අදාල වන local database එකක table නිර්මාණය කිරීම සඳහා වන references වන අතර මෙහිදී block කර ඇති WhatsApp භාවිතා කරන්නන් පිළිබඳව, WhatsApp push notifications සහ chat recipients ලා පිළිබඳව වන තොරතුරු තේරුම් ගැනීමට මෙන්ම තවත් දේවල් ගැන තොරතුරු පිළිබඳව ද සඳහන් වෙනවා.\n\nකොහොම නමුත් අදාල පණිවිඩයේ අන්තර්ගතය Facebook servers සමඟ share කර නොගන්නා අතර Facebook Messenger සහ WhatsApp අතර cross-chat කිරීම සඳහා Messenger app එකට නව protocol ඇතුළත් කිරීමට ඔවුන් කටයුතු කරනු ඇති බව වාර්ථා වෙනවා.\n\nFacebook සමාගම විසින් මෙම local database එක අනෙකුත් උපාංග සමඟින් sync කිරීම සඳහා ඔවුන්ගේ servers වලට upload කරනු ඇත්දැයි යන්න පිළිබඳව තවමත් තොරතුරක් වාර්ථා වන්නේ නැහැ.",
+  "category": "social-media",
+  "date": "2020-07-10",
+  "extraction_timestamp": "2026-02-20T12:12:02.223640",
+  "headline": "Messenger පරිශීලකයින් හට WhatsApp සේවාව සමඟ cross-chat කිරීමේ හැකියාව ලබාදීමට සූදානම් වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "social-media"
+  ],
+  "url": "https://technews.lk/facebook-messenger-shows-early-signs-of-cross-chat-support-with-whatsapp/",
+  "word_count": 270
+}

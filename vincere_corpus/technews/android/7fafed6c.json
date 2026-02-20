@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය මාසයේදී Google සමාගම විසින් ඔවුන්ගේ office apps කිහිපයකට dark theme ලබාදීමට සුදානම් වන බවට තොරතුරු වාර්ථා වූ අතර මේ වන විට Google සමාගම විසින් නිළ වශයෙන් නිවේදනය කර ඇත්තේ Android පරිශීලකයින් සඳහා Google Docs, Sheets සහ Slides යන apps වලට dark theme එක ලබාදීමට කටයුතු කර ඇති බවයි.\n\nමේ Google Docs, Sheets සහ Slides සඳහා මෙලෙස එකතු කර ඇති dark theme පහසුකම Android system-wide setting එක default ලෙස භාවිතා කරනු ඇති බැවින් එය Android 10 සඳහා ස්ව්‍යංක්‍රීයව ක්‍රියාත්මක වන නමුත් අවශ්‍යය නම්, අදාල app එකෙහිMenu > Settings > Theme > Darkවෙත ගොස්dark theme එක enable කරගැනීමේ හැකියාව ද ලබා දී තිබෙනවා.\n\nමෙම apps රාත්‍රියේදී documents editing සහ viewing කටයුතු වලට භාවිතා කිරීමේදි dark theme එක යෙදිමෙන් ඔවුන්ගේ ඇස් වලට පහසුවක් ඇති වෙනු ඇති අතර AMOLED Display ඇති ජංගම දුරකථන වලදී දිගු කාලයක් තිස්සේ display එකේ සුදු වර්ණය පෙන්වීම සඳහා යොමු කෙරෙනු ලැබෙන බැටරි power එක ද ඉතිරි වනු ඇත.\n\nG suite භාවිතා කරන්නන් ඇතුළුව සියළුම Android පරිශීලකයින් හට මේ පහසුකම දැනටමත් නිකුත් කිරීමට කටයුතු කර ඇති අතර ඉදිරි සති කිහිපය ඇතුලත මීට අදාල update එක ඔවුන් හට ලැබෙනු ඇති බව Google සමාගම වාර්ථා කරන නමුත්, iOS පරිශීලකයින් හට මෙය ලබාදීමට නියමිත දිනයක් පිළිබඳව තවමත් වාර්ථා ‍වන්නේ නැහැ.",
+  "category": "android",
+  "date": "2020-07-07",
+  "extraction_timestamp": "2026-02-20T12:10:58.198664",
+  "headline": "Google Docs, Sheets සහ Slides යන Android apps සඳහා dark theme එක ලබාදීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-docs-sheets-and-slides-now-support-a-dark-theme-on-android/",
+  "word_count": 198
+}

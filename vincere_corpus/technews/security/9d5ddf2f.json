@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය ජනවාරි 12 වැනිදාWhatsApp වලට fingerprint authentication ක්‍රමයක් එකතු කිරීමට WhatsApp ආයතනය සූදානම් වන බවඔබව දැනුවත් කළා මතක ඇති.\n\nඔන්න දැන් iOS මත WhatsApp භාවිතා කරන්නන් හට biometric ආරක්ෂක ක්‍රමවේද හරහා තම WhatsApp messages ආරක්ෂා කරගැනීමේ හැකියාව ලබා දීමට WhatsApp ආයතනය කටයුතු කර තිබෙන බව දැනගන්නට ලැබෙනවා.\n\nමේ අනුව ඔබගේ iPhone මාදිලියට අනුව Face ID හෝ Touch ID පහසුකම භාවිතා කරමින් මෙම ආරක්ෂක උපක්‍රමය activate කළ හැකි වන අතර9to5Mac වෙබ් අඩවියප්‍රකාශ කරන අන්දමට මෙම පහසුකම WhatsApp 2.19.20 සංස්කරණයේ සිට ලබා දී තිබෙනවා.\n\nSettings –> Account –> Privacy වල තිබෙන Screen Lock කියන option එක on කිරීම හරහා මෙය enable කරගැනීමේ අවස්ථාව තිබෙන අතර මේ හරහා chat එකින් එක lock කිරීමේ පහසුකමක් ලබා දෙන්නේ නැති නමුත් phone එක unlock කර ඇති අවස්ථාවකදී පවා WhatsApp වෙත ඇතුලු වීමට මෙම ආරක්ෂක ක්‍රමයක් භාවිතා කළ යුතු වෙනවා.\n\nකොහොම නමුත් මෙහිදී ඔබ notification settings ගැන වැඩි අවධානයක් යොමු කළ යුතු බවත්, message previews පහසුකම on කර තිබුණහොත් වෙනත් කෙනෙකුට මේ ආරක්ෂක ක්‍රමය නොමැතිව අදාල message එක කියවීමට හා reply කිරීමට notification එක හරහා අවස්ථාව ලැබෙන බවත් ඔවුන් පෙන්වා දෙනවා.\n\nමීට අමතරව WhatsApp calls answer කිරීම සඳහා ද මේ ආරක්ෂක ක්‍රමය අවශ්‍යය නොවන බව දැනගන්නට ලැබෙනවා.\n\nකලින් සඳහන් කළ ආකාරයට මේ පහසුකම තවමත් ලබා දී ඇත්තේ iOS මත WhatsApp භාවිතා කරන්නන් හට පමණක් වන අතර ඉදිරි සති කිහිපය ඇතුලත Android වලට ද මේ පහසුකම ලැබේවි යැයි අනුමාන කළ හැක.",
+  "category": "security",
+  "date": "2019-02-04",
+  "extraction_timestamp": "2026-02-20T12:13:26.440640",
+  "headline": "Face ID හෝ Touch ID භාවිතා කරමින් WhatsApp lock කිරීමේ පහසුකම iOS භාවිතා කරන්නන් හට ලබා දෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/whatsapp-can-now-be-locked-using-face-id-or-touch-id/",
+  "word_count": 223
+}

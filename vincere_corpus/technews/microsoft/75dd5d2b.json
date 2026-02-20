@@ -1,0 +1,13 @@
+{
+  "body": "මෙම වසරේ පෙබරවාරි මාසයේදී Microsoft සමාගම විසින් ඔවුන්ගේ Defender මෘදුකාංගය iOS සහ Android පරිශීලකයින් හට ලබාදීමට සූදානමින් සිටින බව අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nඑමෙන්ම මෙම වසරේ ජුනි මාසය වන විට Android පරිශීලකයින් හට මෙහි preview සංස්කරණයක් ලබාගැනීමේ හැකියාව ලබාදීමට කටයුතු කළ නමුත්, Google Play Store එකට ඇතුලත් කර නොතිබූ මේ app එක download කරගැනීම සඳහා ඔවුන්ගේ වෙබ් අඩවිය හරහා ගොස් උපදෙස් මාලාවක් අනුගමනය කළ යුතු වුණා.\n\n‍මෙම වසරේ අග වන විට සාමාන්‍යය පරිශීලකයින් හට මේ app එක නිකුත් කිරීමට Microsoft සමාගම බළාපොරොත්තු වන අතර මේ වන විට පියවරක් ඉදිරියට තබා මෙය preview සංස්කරණයක් ලෙසින් Google Play Store එකට එකතු කිරීමට මොවුන් කටයුතු කර තිබෙනවා.\n\nMicrosoft Defender ATP Previewලෙස හැඳින්වෙන මේ app එක හරහා APK files scan කිරීම, අනෙකුත් files හරහා සිදු විය හැකි අනතුරු මෙන්ම messaging apps වැනි දෑ හරහා එවනු ලබන phishing link වැනි දෑ හරහා සිදු විය හැකි අනතුරු ද වැලැක්වීමට කටයුතු කරනු ලබන බව Microsoft සමාගම පෙන්වා දෙනවා.\n\nමීට පෙර ලිපියකින්සඳහන් කළ ආකාරයට මෙම app එක ඉලක්ක කර සිටින්නේ Microsoft සමාගමේ enterprise සේවාවන් භාවිතා කරනු ලබන පරිශීලකයින් පමණක් වන අතර මෙය භාවිතා කිරීමටMicrosoft 365 E5 license එකක්අවශ්‍යය වෙනවා.\n\nAndroid 6 හෝ ඉන් පසුව නිකුත් කරනු ලැබූ Android සංස්කරණයක් භාවිතා කරන්නේ නම් සහ Microsoft 365 E5 license එකක් ඇත්නම්, මේ වන විට මේ app එක Google Play Store එක හරහා download කරගෙන භාවිතා කිරීමට ඔබට හැකියාව ලැබෙනවා.",
+  "category": "microsoft",
+  "date": "2020-08-31",
+  "extraction_timestamp": "2026-02-20T12:08:56.214657",
+  "headline": "Microsoft Defender ATP app එක Google Play Store එකට ඇතුලත් කිරීමට Microsoft ආයතනය කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-defender-for-android-arrives-on-the-play-store/",
+  "word_count": 221
+}

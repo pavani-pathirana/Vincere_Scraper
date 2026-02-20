@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය වසරේ මැයි මාසයේ දී Google සමාගම විසින් Wear OS සඳහා “Tiles\" යනුවෙන්නව විශේෂාංගයක් හඳුන්වාදීමට කටයුතු කල අතරඑමගින් පරිශීලකයින් හට තමන්ගේ Wear OS smartwatches වල නිතරම සිදුකරන actions වෙත swipe එකකින් ප්‍රවේශ වීමට හැකියාව ලබාදෙනු ලැබුවා.\n\nමෙම පහසුකම නිකුත් කරන අවස්ථාවේදී, පරිශීලකයින්ට ලබාගැනීමට හැකියාව ලැබුණේ Goals, Next event, Forecast, Heart rate, Headlines සහ Timer ඇතුළු Tiles 5 ක් පමණ වුවත් ඒ වනවිට third-party මෘදුකාංග සංවර්ධකයින් විසින් companion app එකට custom Tiles එක් කිරීම සඳහානිල නොවන Tiles API එකක් නිකුත් කිරීමටද සමත් වී තිබුණා.\n\nඉන්පසුව පරිශීලකයින් හට Tiles පහසුවෙන් කළමනාකරණය කිරීමට සහ ඔවුන්ගේ අභිමතය පරිදි ඒවා පිළිවෙලට සැකසීම සඳහා menu එකක් සමඟ Wear OS app එක නැවතත් update කිරීමට Google සමාගම කටයුතු කරනු ලැබූ නමුත් එහිදී ද මේ Tiles 5 සීමාව ඉවත් කර තිබුණේ නැහැ.\n\nකොහොම නමුත් දැන් Google සමාගම විසින් මෙම ගැටළුවට පිළිතුරක් ලෙස Wear OS app එක සඳහා නව update එකක් ලබාදීමට කටයුතු කර තිබෙන බව වාර්තා වෙනවා.\n\nWear OS app එකේ 2.40 වැනි සංස්කරණයත් සමඟ, දැන් ඔබගේ smartwatch එකට Tiles 5කට වඩා එකතු කිරීමේ හැකියාව ලැබෙන අතර, ඉහත screenshot දැක්වෙන පරිදි, TicHealth, Forecast, Next event, TicPulse, Timer, Simple Calculator, Headlines, Hand-Wash Timer, Voicememo, සහ TicExercise ඇතුළු Tiles 10ක් එක් කිරීමට හැකියාව ලබා දී තිබෙන බව වාර්තා වෙනවා.\n\nඔබ සතුව Wear OS මගින් බළගැන්වෙන smartwatch එකක් තිබේ නම් මෙම නව විශේෂාංගය අත්හදා බැලීමට ඔබට Wear OS app එකෙහි නවතම version එක වෙත update කළ යුතු වෙනවා.",
+  "category": "android",
+  "date": "2020-09-17",
+  "extraction_timestamp": "2026-02-20T12:08:56.196661",
+  "headline": "Wear OS එකේ තිබුණු Tiles 5ක සීමාව ඉවත් කර එය Tiles 10ක් දක්වා වැඩි කිරීමේ හැකියාව ලබාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/the-wear-os-app-now-lets-you-add-more-than-5-tiles/",
+  "word_count": 227
+}

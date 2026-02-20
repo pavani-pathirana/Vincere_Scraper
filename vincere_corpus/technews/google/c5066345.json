@@ -1,0 +1,13 @@
+{
+  "body": "Google Authenticator පරිශීලකයන් හට නව විශේෂාංග කිහිපයක් සමඟ update එකක් ලබාදීමට Google සමාගම කටයුතු කරමින් සිටින බව මීට පෙර ලිපියකින් අප ඔබව දැනුවත් කළ අතර එම update එක මේ වසර මුලදී Android පරිශීලකයන් හට ලබාදීමටද Google සමාගම කටයුතු කරනු ලැබුවා.\n\nමේ වනවිට, Google Authenticator භාවිතා කරන iOS පරිශීලකයන් හටද මෙම update එක ලබාදීමට Google සමාගම කටයුතු කරමින් සිටින අතර iOS පරිශීලකයන් හට Google Authenticator app එකට අවසන් වරට update එකක් ලබාදීමට කටයුතු කර ඇත්තේ 2018 වසරේ වීම විශේෂත්වයක් වෙනවා.\n\nGoogle Authenticator 3.1 version එකත් සමඟින් redesign කරන ලද පෙනුමක් දැකගැනීමට හැකියාව ලැබෙන අතර නව UI එක මගින් සමස්ත app එකේම තිබූ නිල් පැහැති ඉහළ තීරුව ඉවත් කර විවිධ අංග center වී ඇති සුදු පැහැති UI එකක් දැකගැනීමට හැකියාව ලැබෙනවා.\n\nAndroid පරිශීලකයන් සඳහා මීට පෙර ලබා දුන් update එකේ මෙන්, iOS පරිශීලකයන් සඳහාද ලබාදී ඇති ප්‍රධානතම විශේෂාංගයක් වන්නේ accounts transfer කිරීමේ හැකියාව වන අතර මෙම නව update එකත් සමඟින් iOS පරිශීලකයන් හටද QR codes හරහා 2FA codes export කිරීමට හෝ import කිරීමට හැකියාව හිමිවෙනවා.\n\nඑමෙන්ම, iOS පරිශීලකයන් සඳහා Google Authenitcator version 3.1 දැන් App Store එක හරහා ලබාගැනීමට හැකියාව තිබෙනවා.",
+  "category": "google",
+  "date": "2020-12-05",
+  "extraction_timestamp": "2026-02-20T12:08:03.885497",
+  "headline": "Google Authenticator භාවිතා කරන iOS පරිශීලකයන් සඳහා dark theme, 2FA account transfers ඇතුළු විශේෂාංග කිහිපයක් ලබාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-authenticator-for-ios-gets-dark-theme-redesign-bulk-2fa-account-transfers/",
+  "word_count": 179
+}

@@ -1,0 +1,13 @@
+{
+  "body": "පසුගියGoogle I/O event එකඅතරතුරදී අනාවරණය කළ ආකාරයට ඔන්න දැන් Google Assistant app එකට අලුත් පෙනුමක් එකතු කිරීමට Google සමාගම කටයුතු කර තිබෙනවා.\n\nමේ අලුත් පෙනුමSmart Displayවලදී Google Assistant app එකේ තිබෙන පෙනුමින් ආභාශයක් ලබා තිබෙන අයුරු දකින්නට ලැබෙන අතර Icons සහ buttons තරමක් විශාල ලෙස ඇතුලත් කිරීමට ඔවුන් කටයුතු කර තිබෙනවා.\n\nමේ අනුව භාවිතා කරන්නාට අදාල actions මත touch කිරීමට පහසු වන අතර අවම ආයාසයකින් මීළඟට සිදු කළ යුතු action එක තෝරාගැනීමට හැකියාව ලැබෙන බව ඔවුන් පෙන්වා දෙනවා. මීට කලින් ප්‍රසිද්ධව පැවති පහසුකමක් වන Google Now Cards වල අලුත් යෙදවුමක් ලෙස පෙන්වා දිය හැකි My Day swipe-up gesture එකත් මේ වන විට Google Assistant භාවිතා කරන සියළුදෙනාටම පාහේ ලබා දීමට Google සමාගම කටයුතු කරනු ලබනවා.\n\nමීට අමතරව Google Assistant සඳහා actions නිර්මාණය කරනු ලබන developers ලා හට අලුත් පෙනුම හරහා thumbnails, GIF images යොදාගැනීමට මෙන්ම අදාල actions හරහා මුදල් ඉපයීමට අවස්ථාවක් ද ලබා දීමට ඔවුන් කටයුතු සූදානම් කර තිබෙනවා.\n\nඑමෙන්ම “Google Sign-In for Assistant” යන අලුත් පහසුකම හරහා මීට කලින් සිදු කළ මිලදීගැනීම් මතක තබා ගැනීමට කටයුතු කරන Google Assistant, මේ ගණුදෙනු භාවිතා කරන්නාගේ Google Account එකට සම්බන්ධ කරනු ලබනවා. මේ අනුව මීළඟ අවස්ථාවේදී අදාල මිලදීගැනීමක් සිදු කරන්නට යාමේදී භාවිතා කරන්නාගේ කටහඬ හරහා අදාල සේවාවට login වීමේ පහසුකම ලැබෙනවා.\n\nමේ පහසුකම් සමඟින් Google Assistant සඳහා actions නිර්මාණය කරන developers ලා හට තමන්ගේ platform එක සමඟ මේ Assistant actions තව තවත් පහසුවෙන් අන්තර්ගත කිරීමට අවස්ථාව ලැබෙන බව Google සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "google",
+  "date": "2018-10-05",
+  "extraction_timestamp": "2026-02-20T12:22:26.275662",
+  "headline": "Google Assistant App එකට අලුත් පෙනුමක් සහ අලුත් developer tools එකතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-assistants-new-ui-and-developer-tools-are-officially-rolling-out/",
+  "word_count": 231
+}

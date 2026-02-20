@@ -1,0 +1,13 @@
+{
+  "body": "ඔයා Android Phone එකක් භාවිතා කරනවා නම්,Custom ROM ගැනදන්නවා නම්, ගොඩක් වෙලාවටLineageOSකියන නම දන්නවා ඇති.\n\nLineageOS කියන්නේ මේ වෙනකොට ලොව ජනප්‍රියම custom ROM එක බවට පත් වෙලා තියන aftermarket firmware එක වන අතර මෙය ආරම්භ වුණේ කලින්CyanogenMod(OnePlus One එකේ පළවෙනි ROM එක) කියන නමින් හැඳින්වුණු ව්‍යාපෘතිය වසා දැමීමත් සමඟයි.\n\nමේ හරහා ජංගම දුරකථන නිෂ්පාදකයින් විසින් නිළ වශයෙන් Android මෙහෙයුම් පද්ධතියේ updates ලබා නොදෙන, පැරණි devices වලට Android මෙහෙයුම් පද්ධතියේ අලුත්ම සංස්කරණයන් install (flash) කිරීමට හැකියාව ලබා දෙන අතර පැරණි ජංගම දුරකථනය හරහා ම අලුත් Android සංස්කරණ වල පහසුකම් භාවිතා කරන්නට පරිශීලකයන් හට අවස්ථාව ලැබෙනවා.\n\nමෙම ව්‍යාපෘතිය ආරම්භ කර වසර දෙකක් ගතවී ඇති අතර, මේ වන විට ලොව පුරා Android devices මිලියන 1.8ක ප්‍රමාණයක් මත මේ LineageOS එක run වෙන බව ඔවුන් ප්‍රකාශ කර තිබෙනවා.\n\n2 years!Arbitrary statistics:1.8 million devices (800k official),163 devices, 2635 reported devices (most of these are duplicates or badly named devices, ie mako vs nexus4)1.2 million downloads in November, which is roughly 500TB from our mirrors.Here's to another year!\n\nකොහොම නමුත් ඉහත සඳහන් කළ මිලියන 1.8 අතුරින් devices ලක්ෂ 8ක පමණ ප්‍රමාණයක පමණක් මොවුන්ගේ නිළ builds, එහෙමත් නැතිනම් ඔවුන් විසින්ම build කරනු ලැබූ සංස්කරණ භාවිතා කරනු ලබන අතර ඉතිරිය ලොව පුරා වෙසෙන විවිධ Android developers ලා විසින් build කර බෙදා හැරීමට කටයුතු කළ සංස්කරණ බවත් සඳහන් වෙනවා.\n\nමේ LineageOS එක මේ වන විට විවිධAndroid devices 163ක්සඳහා නිළ වශයෙන් සහාය දක්වන අතර පසුගිය නොවැම්බර් මාසය ඇතුලත LineageOS එක මිලියන 1.2 වතාවක් පමණ download කිරීමට කටයුතු කර තිබෙනවා. එය ප්‍රමාණ කළහොත් ටෙරාබයිට් 500 කට ආසන්න ප්‍රමාණයක් වන බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nඉතින් ඔයත් කැමති නම් ඔයාගේ පරණ Android Phone එකට අලුත්ම Android version එක දාගෙන බළන්න,නිළ LineageOS වෙබ් අඩවියටගිහින් ඔයාගේ phone එකට අදාල ROM එක download කරගෙන flash කරගන්න ඔයාට අවස්ථාව තියෙනවා.\n\nඒ වගේම ඔවුන්ගේනිළ download page එකටගිහින් ඔයාගේ phone එකට මේ LineageOS එක නිළ වශයෙන් support කරනවද කියලා බළාගන්නත් හැකියාව තියනවා.\n\nඔයා මේ LineageOS එක ඔයාගේ phone එකට flash කරනවා නම්, Google Play Store පසුකම වගේම Google Apps ලබාගන්න ඕන නම් ඔයාට GApps වෙනම flash කරන්න වෙනවා. ඒ වෙනුවෙන්Open GApps කියන වෙබ් අඩවියභාවිතා කරන්න පුළුවන්.",
+  "category": "android",
+  "date": "2018-12-19",
+  "extraction_timestamp": "2026-02-20T12:19:12.466318",
+  "headline": "වසර දෙකක් තුලදී Android Devices මිලියන 1.8ක් බළගැන්වීමට LineageOS සමත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/1-8-million-android-devices-powered-by-lineageos-in-2-years/",
+  "word_count": 338
+}

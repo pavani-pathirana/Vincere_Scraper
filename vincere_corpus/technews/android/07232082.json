@@ -1,0 +1,13 @@
+{
+  "body": "ඊයේ දිනයේ පැවති Google I/O 2021 event එක අතරතුරදී Android 12 වල පළමුවැනි public beta සංස්කරණය නිකුත් කිරීමට Google සමාගම කටයුතු කරනු ලැබුවා.\n\nGoogle Pixel 3 මාදිලියේ සිට ඉන් පසුව නිකුත් වුණු ඕනෑම Pixel ජංගම දුරකථනයකට මෙම beta 1 සංස්කරණය ඉල්ලුම් කළ හැකි අතර, OnePlus, Lenovo, Asus, Oppo, Realme, Sharp, Tecno, TCL, Vivo, Xiaomi, සහ ZTE යන සමාගම් වලින් ද තෝරාගත් devices සඳහා Android 12 beta 1 සංස්කරණය ලබාදීමට කටයුතු කර තිබෙනවා.\n\nandroid.com/betaයන වෙබ් අඩවියට ගොස් ඔබගේ ජංගම දුරකථන නිෂ්පාදකයාට අදාල link එක භාවිතා කිරීමෙන් ඔබගේ ජංගම දුරකථනයටත් මෙය ලබාගතහැකි දැයි දැනගැනීමට හැකියාව ලැබෙනවා.\n\nඔබ භාවිතා කරන්නේ Google Pixel 3 හෝ ඉන් පසුව නිකුත් කළ Pixel device එකක් නම්,g.co/androidbetaවෙබ් අඩවියට පිවිසුණු විට, එහි ඇති Your eligible devices නම් කොටසෙහි ඔබගේ device එක දිස් වනු ඇති අතර, එහි ඇති opt-in option එක click කිරීම හරහා මෙයට enroll වීමේ හැකියාව ලැබෙනවා.\n\nඉන් පසුව පැය 24ක් ඇතුලත (මිනිත්තු කිහිපයකින් ලැබෙනවා) ඔබගේ ජංගම දුරකථනයේ Settings -> System -> System Update යන option එකට ගොස්, Check for update යන option එක මත (කිහිප වරක්) tap කිරීම කළ විට OTA update එකක් ලෙස ඔබට Android 12 beta 1 update එක ලැබෙනවා.\n\nAndroid 5, එහෙමත් නැතිනම් Android Lollipop සංස්කරණයෙන් පසුව Android මෙහෙයුම් පද්ධතියට ලැබුණු විශාලතම UI වෙනස්කම් මෙම Android 12 සංස්කරණයේදී දැකගත හැකි වන අතර, පරිශීලකයාගේ wallpaper එක පාදක කර ගනිමින් මුළු device එක පුරාම theme එක වෙනස් වන ආකාරයට මය නිර්මාණය කර තිබෙනවා.\n\nඑමෙන්ම iOS එකට සමාන අයුරින් camera එක සහ mic එක app එකකින් භාවිතා කරන විට ඊට අදාල privacy notification එකක් පෙන්වනු ලබන අතර, යම්කිසි app එකකින් clipboard එක access කරනු ලබන විට එය toast message එකක් හරහා දැනුවත් කිරීමට ද කටයුතු කරනු ලබනවා.\n\nකොහොම නමුත් මෙම UI එක පිළිබඳව වන වෙනස්කම් සහ Privacy dashboard ඇතුළු සියළුම පහසුකම් beta 1 සංස්කරණයෙහි ඇතුලත් නොවන අතර, එයින් කොටසක් දැනටමත් ලබාදී තිබෙනවා.\n\nජුනි - ජූලි මාස වලදී නිකුත් කිරීමට නියමිත beta 2 සහ beta 3 සංස්කරණ වලදී මෙන්ම අගෝස්තු මාසයේදී නිකුත් කිරීමට නියමිත අවසාන beta 4 update එක හරහා ක්‍රමයෙන් ඉහත සඳහන් කළ සියළු පහසුකම් ලබාදීමට Google සමාගම කටයුතු කරනු ඇති අතර ඉන් පසුව මෙහි release candidate version එක සහ අවසානයේ stable සංස්කරණය නිකුත් කිරීමට නියමිත වෙනවා.",
+  "category": "android",
+  "date": "2021-05-19",
+  "extraction_timestamp": "2026-02-20T12:06:33.349095",
+  "headline": "Android 12 beta 1 සංස්කරණය Google Pixel සහ තෝරාගත් OnePlus, Xiaomi, Oppo, Realme, Vivo, Lenovo, Asus, Sharp, Tecno, TCL, ZTE ජංගම දුරකථන වලට ලබාදෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/android-12-public-beta-is-now-available/",
+  "word_count": 350
+}

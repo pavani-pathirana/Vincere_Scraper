@@ -1,0 +1,13 @@
+{
+  "body": "iOS 14 version එකත් සමඟ Apple Music සඳහා නව විශේෂාංග කිහිපයක්ම හඳුන්වාදීමට Apple සමාගම කටයුතු කළ අතර,මීට පෙර Android සඳහා වන Apple Music 3.4 beta version එක හරහාautoplay පහසුකමක්, නව search experience එකක්, නවීකරණය කරන ලද Now Playing interface එකක් ද හඳුන්වාදීමට Apple සමාගම කටයුතු කරනු ලැබුවා.\n\nමෙම පහසුකම් කිහිපයට අමතරව, Android devices භාවිතා කරන බොහොමයක් Apple Music පරිශීලකයන් බලාපොරොත්තුවෙන් සිටි crossfade පහසුකම ද Apple Music වෙත එකතු කිරීමට Apple සමාගම මේ වන විට කටයුතු කර තිබෙනවා.\n\nApple Music app එකෙහි settings page එකෙහි Playback section එකෙහි ඇති crossfade toggle එක සක්‍රිය කිරීමෙන් පසුව, ගීත overlap කිරීමට සහ crossfade කිරීමට හැකියාව ලබාදෙන අතර crossfade විශේෂාංගයෙහි කාලසීමාව customize කිරීමටද පරිශීලකයන් හට අවස්ථාව ලබාදී තිබෙනවා.\n\nඑමෙන්ම crossfade duration එක තත්පර 12 ක් වන උපරිම කාලසීමාව දක්වා default ලෙස පැමිණෙන බව දැකගැනීමට පුළුවන්.\n\nමෙම නව විශේෂාංගය තවමත් ලබා දී ඇත්තේ Apple Music beta පරිශීලකයන් සඳහා පමණක් වන අතර ඔබටත් Apple Music වෙත crossfade පහසුකම සක්‍රීය කර ගැනීමට අවශ්‍ය නම්මෙම link එක හරහාApple Music beta program එකට සම්බන්ධ වීමට හැකියාව තිබෙනවා.\n\nමීට අමතරව අවශ්‍යය නම්APK Mirror වෙබ් අඩවියහරහා ද මෙම සංස්කරණයේ apk එක ලබාගැනීමේ හැකියාව පවතිනවා.\n\nකෙසේ වෙතත්, ඉදිරියේදී මෙම පහසුකම සියලුම Apple Music පරිශීලකයන් වෙත ලබා දීමට Apple සමාගම කටයුතු කරනු ඇත.",
+  "category": "apple",
+  "date": "2020-09-26",
+  "extraction_timestamp": "2026-02-20T12:09:27.381176",
+  "headline": "Apple Music Android app එක සඳහා crossfade විශේෂාංගයක් ලබාදීමට Apple සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-music-for-android-adds-a-crossfade-feature/",
+  "word_count": 199
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Apple සමාගම විසින් ඔවුන්ගේ Mac පරිගණක සඳහා Intel processors වෙනුවට ARM-based chips භාවිතයට යොමුවීමට සූදානම් වෙමින් සිටින බව මින් පෙර ලිපියක් හරහා අප ඔබව දැනුවත් කළා මතක ඇති.\n\nඒ අනුව Apple සමාගමෙහි ARM-powered Mac පරිගණක 2021 වන විට එළිදක්වනු ඇතැයි අපේක්ෂා කළ නමුත්, මේ වනවිට Leakster කෙනෙකු වනJon Prosserවිසින් වාර්තා කරන ආකාරයට ARM Mac event එක නොවැම්බර් 17 වනදා පැවැත්වීමට සැලසුම් කර තිබෙනවා.\n\nTo confirm, there IS a November ARM Mac event.I’m hearing November 17th. 🗓\n\nඑමෙන්ම Apple සමාගම විසින් නොවැම්බර් 10 වනදා මෙම event එක පිළිබඳව නිළ වශයෙන් තහවුරු කරනු ඇතැයි ඔහු විසින් වැඩිදුරටත් සඳහන් කරනු ලබනවා.\n\nනිළ නොවන තොරතුරු වලට අනුව,අඟල් 12 ක MacBook එකක්ARM-based chipset එකකින් බලගැන්වෙන පළමු macOS device එක වනු ඇති අතර එයට භාවිතා වන chipset එක iPhone සහ iPad වල භාවිතා වන A14 chip එකෙහිම නවීකරණය කරන ලද version එකක් වන Apple A14X chip එකක් බව සඳහන් වෙනවා.\n\nකෙසේ වෙතත් මේ පිළිබඳව Apple සමාගම විසින් නිළ වශයෙන් තහවුරු කර නොමැති බව නැවතත් සඳහන් කළයුතු වෙනවා.\n\nMac lineup එක මුළුමනින්ම Apple සමාගමේ silicon chips වලින් බලගැන්වීමට වසර දෙකක් පමණ ගතවනු ඇතැයි Apple සමාගම විසින් අපේක්ෂා කරන බැවින් තවත් generation එකක් හෝ දෙකක් පමණ Intel-powered Macs දැකගැනීමට හැකියාව ඇති බවද වාර්තා වෙනවා.",
+  "category": "apple",
+  "date": "2020-10-17",
+  "extraction_timestamp": "2026-02-20T12:09:06.614166",
+  "headline": "Apple සමාගම විසින් නොවැම්බර් 17 වැනි දින ARM-powered Macs එළිදැක්වීමට නියමිත බව වාර්තා වෙයි",
+  "source": "technews",
+  "tags": [
+    "apple"
+  ],
+  "url": "https://technews.lk/apple-to-introduce-the-first-arm-powered-macs-on-november-17/",
+  "word_count": 196
+}

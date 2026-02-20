@@ -1,0 +1,13 @@
+{
+  "body": "Google Maps, YouTube වැනි Google සමාගමේ වෙනත් apps downloads බිලියනය පසු කර බොහෝ කාලයක් ගතවී තිබුණත් ඒ අතරින් බොහෝමයක් apps බොහෝ විට ජංගම දුරකථන වල pre-installed, එහෙමත් නැතිනම් ජංගම දුරකථන නිෂ්පාදකයා විසින්ම ඇතුලත් කිරීමට කටයුතු කරනු ලබනවා.\n\nකොහොම නමුත් Google සමාගමේ මේ Google Messages app එක, pre-installed සහ default messaging app එක ලෙස ලැබෙන්නේ Pixel සහ Android One devices සදහා පමණක් වන අතර, එම devices බිලියනයක් නොමැති බව ඕනෑම කෙනෙකු දන්නා කාරණයක් වෙනවා.\n\nමේ වන විටGoogle Message appඑක Google Play Store එක හරහා downloads බිලියනයේ සීමාව පසු කිරීමට සමත් වී තිබෙන බව වාර්ථා වෙනවා.\n\nSamsung, LG, OnePlus වැනි අනෙකුත් smartphone නිශ්පාදකයින් Google Message app එක වෙනුවට ඔවුන්ගේම text messaging app එකක් ලබාදෙන නමුත් මෙම Google Message app එකෙහි ඇති පහසු සහ clean user interface එක, dark mode එක, image markup tool එක මෙන්ම භාවිතයට පහසු web interface එකක් පැවතීම වැනි දේ නිසා බොහෝ දෙනා මෙම text messaging app එක භාවිතයට යොමු වී ඇති බව දැකගන්න පුලුවන්.\n\nඊට අමතරව Google message මගින් regions කිහිපයක සේවා සපයන්නන් කිහිපදෙනෙකු සමඟින් එකතු වී SMS වල මීළඟ සංස්කරණය වන RCS messages සඳහා support කිරීමද බොහෝ දෙනා මෙය භාවිතා කිරීමට ප්‍රධානතම හේතුවකි.",
+  "category": "android",
+  "date": "2020-05-04",
+  "extraction_timestamp": "2026-02-20T12:12:40.084400",
+  "headline": "Android ජංගම දුරකථන වල pre-install නොකරම Google Messages app එක downaloads බිලියනයේ සීමාව පසු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-messages-passes-one-billion-installs/",
+  "word_count": 186
+}

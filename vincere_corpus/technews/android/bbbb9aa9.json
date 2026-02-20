@@ -1,0 +1,13 @@
+{
+  "body": "Android Q, එහෙමත් නැතිනම් Android මෙහෙයුම් පද්ධතියේ අලුත්ම සංස්කරණයAndroid 10 යනුවෙන් හැඳින්වීමට කටයුතු කරනු ලබන බවත්, මෙය සැප්තැම්බර් 03 වැනි දින නිළ වශයෙන් Pixel ජංගම දුරකථන වලට නිකුත් කරනු ඇති බවත් අපි ඔබව මීට කලින් දැනුවත් කළා මතක ඇති.\n\nබළාපොරොත්තු වූ පරිදි Google සමාගම විසින් ඊයේ දිනයේ ඔවුන්ගේ Google Pixel ජංගම දුරකථන සියල්ලටම Android 10 වල stable සංස්කරණය නිළ වශයෙන් නිකුත් කිරීමට කටයුතු කළ අතර, සුපුරුදු පරිදි Essential සමාගමද ඔවුන්ගේ Essential Phone එකට මේ update එක එදිනම නිකුත් කිරීමට කටයුතු කළා.\n\nමීට අමතරව සියල්ලෝම පුදුම කරමින් Xiaomi ආයතනය විසින් ඔවුන්ගේ Redmi K20 Pro ජංගම දුරකථනයට ද එම දිනයේදීම Android 10 සංස්කරණය මත පදනම් වුණු MIUI 10 සංස්කරණය නිකුත් කිරීමට කටයුතු කරනු ලැබුවා.\n\nමේ අනුව Android 10 සංස්කරණය නිළ වශයෙන් නිකුත් කිරීම ආරම්භ කර ඇති අතර,මෙහි source code එකAOSP, එහෙමත් නැතිනම් Android Open Source Project එක වෙත එකතු කිරීමට ද Google සමාගම කටයුතු කර තිබෙනවා.\n\nSource code එක AOSP වෙත upload කිරීමත් සමඟින් Project Treble පහසුකම ඇති ජංගම දුරකථන වලට ඉක්මණින්ම මෙය ලබා දීමටත්, Custom ROM develop කරන්නන් හට ඒ වෙනුවෙන් වැඩකටයුතු ආරම්භ කිරීමටත් හැකියාව ලැබෙන අතර ඉදිරි මාස කිහිපය ඇතුලත බොහෝමයක් පැරණි ජංගම දුරකථන වලටත් මේ හරහා Android 10 සංස්කරණය ස්ථාපනය කිරීමේ අවස්ථාව ලැබෙනු ඇත.",
+  "category": "android",
+  "date": "2019-09-04",
+  "extraction_timestamp": "2026-02-20T12:14:17.738561",
+  "headline": "Android 10 සංස්කරණය නිළ වශයෙන් Google Pixel, Essential සහ Xiaomi ජංගම දුරකථන වලට නිකුත් කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/android-10-officially-released-for-google-pixel-essential-and-xiaomi-phones/",
+  "word_count": 195
+}

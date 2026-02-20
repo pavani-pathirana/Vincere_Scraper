@@ -1,0 +1,13 @@
+{
+  "body": "YouTube app එක හරහා දැනටමත් ඔබට home page එකේ සිට video වල preview එක නැරඹීමට හැකියාව තිබෙන අතර එහිදී video එකේ ශබ්දයත් සමඟ video එකේ preview එක නැරඹීමට හැකියාව නොමැති වෙනවා.\n\nනමුත් දැන් YouTube app එකෙහි home page එකේ සිට සම්පූර්ණ video එකම play කිරීමේ හැකියාව ලබාදෙන විශේෂාංගයක් අත්හදා බැලීමට Google සමාගම කටයුතු කරමින් සිටින අතර එහිදී, video එක ශබ්දයත් සමඟ play කිරීමේ හැකියාව මෙන්ම, subtitles on කිරීමට සහ progress bar එක access කිරීමට හැකියාවද ලැබෙන බව දැකගැනීමට හැකියාව තිබෙනවා.\n\nAndroid 12, Pixel 4A. You can play entire YouTube video from home screen without actually clicking on it. YouTube has also added an option to toggle CC and scroll through progress player (can see image preview now)@MattNavarra@wongmjane@alex193a@liahaberman@digitaliworldpic.twitter.com/JY8ehkcSUp\n\nමෙම පහසුකම දැනටමත් ඇතැම් YouTube පරිශීලකයින් සඳහා භාවිතා කිරීමේ හැකියාව ලැබී ඇති අතර, මෙහිදී නව buttons දෙකක් සහ home page එකේ videos සඳහා progress bar එකක් එක්කර තිබෙන බවද දැකගන්න පුළුවන්.\n\nනව buttons, video එකේ ඉහළ දකුණු කෙළවරේ දැකගැනීමට හැකියාව ලැබෙන අතර එමගින් home page එකේ audio සහ captions පහසුවෙන් පාලනය කිරීමට හැකියාව ලබාදී තිබෙනවා. එමෙන්ම පහළින් ඇති progress bar එක මගින් ඔබට පහසුවෙන් videos වල අවශ්‍ය ස්ථානවලට skip කිරීමටද හැකියාව ලැබෙනවා.\n\nමෙහි mute/unmute button එක අපේක්ෂිත පරිදි ක්‍රියා නොකරන බව ද වාර්තා වන බැවින් මෙම විශේෂාංගය තවමත් සංවර්ධනය වෙමින් පවතින බව අනුමාන කළ හැකි වෙනවා.",
+  "category": "google",
+  "date": "2021-06-25",
+  "extraction_timestamp": "2026-02-20T12:06:18.182599",
+  "headline": "YouTube home screen එකේ සිට සම්පූර්ණ video එකම play කිරීමේ හැකියාව ලබාදීමට Google සමාගම කටයුතු කරන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/youtube-mobile-app-tests-full-video-playback-on-your-homepage/",
+  "word_count": 213
+}

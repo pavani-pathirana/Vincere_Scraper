@@ -1,0 +1,13 @@
+{
+  "body": "Google Chrome web browser එක desktop computers භාවිතා කරන අය අතර ඉතාමත් ජනප්‍රිය web browser එකක් වන අතර Google Chrome browser එකට හොඳ තරඟයක් ලබා දීම සඳහාMicrosoft Edge browser එකද ක්‍රියා කරනවා.\n\nමේ තරඟය නිසාම Google සමාගම විසින් Microsoft Edge browser එක භාවිතයෙන් Gmail වෙත sign වන විට sign-in alert එකක් එකක් එවනු ලබන අතර, සාමාන්‍යයෙන් මෙම email පණිවිඩයේ අඩංගු වන්නේ ඔබ Gmail වෙත sign වී ඇති ස්ථානය සහ උපාංගය වැනි තොරතුරු පමණි.\n\nකෙසේ නමුත්Microsoft සමාගමේ අලුත් Edge browser එකහරහා sign වන්නන් හට විශේෂ පණිවිඩයක් එවීමට ඔවුන් කටයුතු කර ඇති අතර එය පහත පරිදි වෙනවා.\n\nTechdows වෙබ් අඩවියවාර්ථා කරන පරිදී පරිශීලකයින් හට යවන ලද මෙම නව email පණිවිඩය මගින් පැහැදිලි වන්නේ Microsoft Edge භාවිතා කරන්නන් Google සමාගම විසින් හඳුනාගෙන, එම පරිශීලකයින් හට පමණක් මෙලෙස email පණිවිඩයක් එවීම මඟින් Google Chrome download කිරීමට නිර්දේශ කිරීමක් වන අතර වෙනත් device එකකින් හෝ browser එකකින් Gmail වෙත sign වන වන විට මෙවැනි පණිවිඩයක් සඳහන් නොකිරීම ද විශේෂත්වයක් වෙනවා.\n\nGoogle සමාගම විසින් Edge පරිශීලකයින් හට Chrome ප්‍රචාරණය කිරීමට උත්සාහ කළ පළමු අවස්ථාව මෙය නොවන අතරමෑතකදී වාර්ථා වූ එවැනි සිද්ධියක් වන්නේමේ වසරේ මුලදී Microsoft Edge මගින් Gmail, Google Docs, Translate වැනි සේවාවන් භාවිතා කරන සෑම කෙනෙකුටම alerts හරහා ද Google Chrome නිර්දේශ කිරීමට කටයුතු කර තිබීමයි.",
+  "category": "microsoft",
+  "date": "2020-06-20",
+  "extraction_timestamp": "2026-02-20T12:09:19.377170",
+  "headline": "අලුත් Microsoft Edge හරහා Gmail වෙත පිවිසුනු විට Google Chrome වෙත මාරු වන ලෙස email මගින් දැනුම්දීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/google-recommends-chrome-when-users-sign-in-to-gmail-from-the-new-microsoft-edge/",
+  "word_count": 201
+}

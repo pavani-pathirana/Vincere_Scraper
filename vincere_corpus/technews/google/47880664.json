@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම තම පරිශීලකයින් ගැන බොහෝ දත්ත එක්රැස් කරනු ලබන බව මේ වන විට රහසක් නොවන නමුත් ඔවුන් විසින් තම පරිශීලකයින්ගේ privacy එක control කිරීම සඳහා ඇති හැකියාව වැඩිදියුණු කරමින් සිටිනවා.\n\nමේ අනුව පසුගිය වසරේදී මෙලෙස එකතු කරනු ලබන පරිශීලක දත්ත manually delete කිරීම, මාස තුනකින් ස්ව්‍යංක්‍රීයව delete වීම හෝ මාස 18කින් ස්ව්‍යංක්‍රීයව delete කිරීමේ හැකියාව ලබාදීමට ඔවුන් කටයුතු කළ බව අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nමේ වන විට මෙම පහසුකමෙහි අන්තර්ගත වන මාස 18කින් ඔවුන්ගේ දත්ත ස්ව්‍යංක්‍රීයව මකා දැමෙන option එක default option එකක් ලෙස අලුත් පරිශීලකයින් හට ලබාදීමට Google සමාගම තීරණය කර තිබෙනවා.\n\nමීට අමතරව Google සමාගමේ CEO වන Sundar Pichai විසින් අලුත් පරිශීලකයින්ගේ දත්ත හසුරුවන ආකාරයේ යම් වෙනස්කම් කිහිපයක් ප්‍රකාශයට පත් කළ අතර පරිශීලකයින්ගෙන් ලබාගන්නා දත්ත වඩාත් හොඳින් control කරගැනීමට උදව් කිරීම සඳහා privacy improvements කිහිපයක්ම නිවේදනය කිරීමට කටයුතු කර තිබෙනවා.\n\nමේ අනුව search history, location history, සහ voice commands මාස 18කින් ස්ව්‍යංක්‍රීයව delete වන අතර, වඩාත් හොඳ තත්ත්වයේ recommendations ලබාදීම වෙනුවෙන් YouTube search history එක වසර තුනක කාලයක් දක්වා පවත්වාගෙන යෑමට ඔවුන් තීරණය කර තිබෙනවා.\n\nකොහොම නමුත් මේ option එක දැනට සිටින පරිශීලකයින් හට default option එකක් ලෙස set නොකරන අතර, “Google Privacy Checkup” හෝ “Is my Google Account secure” යනුවෙන් search කිරීම මඟින් Google account එකෙහි privacy settings පාලනය වඩාත් පහසු කර ගැනීමට පරිශීලකයින් හට හැකියාව ලැබෙනවා.\n\nමීට අමතරව මේ වන විට ඉතාමත් පහසුවෙන් ඔබගේ පෞද්ගලිකත්වය ආරක්ෂා කර ගැනීම සඳහා Google Search, Maps, සහ YouTube වලදී profile picture එක මත long-press කරගෙන සිටිම මඟින් Incognito Mode එක වෙත පහසුවෙන්ම පිවිසීමට හැකියාව ලබා දී ති‍බෙනවා.",
+  "category": "google",
+  "date": "2020-06-28",
+  "extraction_timestamp": "2026-02-20T12:11:44.474270",
+  "headline": "අලුත් පරිශීලකයින්ගේ Web සහ App Activity, Location History සහ YouTube search history එක ස්ව්‍යංක්‍රීයව delete කිරීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-will-now-automatically-delete-web-app-activity-location-history-and-youtube-search-history-for-new-users/",
+  "word_count": 250
+}

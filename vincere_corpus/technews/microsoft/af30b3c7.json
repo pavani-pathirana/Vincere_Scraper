@@ -1,0 +1,13 @@
+{
+  "body": "Cloud Storage එකක් වර්ථමානයේ භාවිතා නොකරන අයෙක් නැති තරම්. Images, Videos, Document ඇතුළු නොයෙකුත් ආකාරයේ ගොනු Cloud Storage ආධාරයෙන් භෞතික පරිසරයේ අවකාශයක් නොගෙන Cloud සංකල්පය මත පදනම්ව ගබඩා කිරීමේ හැකියාව මේ හරහා පවතිනවා.\n\nලෝකයේ විවිධ සමාගම් මඟින් විවිධ ආකාරයේ Cloud Storage සේවා සපයනු ලබනවා. ඒ අතරින් Microsoft සමාගම විසින් හඳුන්වා දෙනු ලබන OneDrive සේවාව බෝහෝ දෙනා පොදුවේ භාවිතා කරන සේවාවක්.\n\nකෙසේ වෙතත් Microsoft සමාගමේTech Community Forumඑකෙහි පළවූ වාර්තාවකට අනුව Microsoft සමාගම විසින් Windows 7, 8 සහ 8.1 යන Windows OS Versions සඳහා 2022 මාර්තු 1 වනදා සිට OneDrive සඳහා වන සහය අවසන් කරන බව පවසා සිටිනු ලැබුවා.\n\nමෙම Windows Version භාවිතා කරන පරිශීලකයන් හට පෙර ලෙස තම Files OneDrive වෙත Desktop මෘදුකාංගය හරහා Upload කිරීමට හැකි වුවද Automatically Upload (Sync) වීමේ හැකියාව අහිමි වන ඔවුන් පවසා තිබුණා. එමෙන්ම ඉදිරියේදී OneDrive සඳහා Updates ලබාදීම ද අත්හිටුවීමට කටයුතු කරන බව ඔවුන් වැඩි දුරටත් පවසා සිටියා.\n\nMicrosoft සමාගම මෙම පරිශීලකයන් හට පවසන්නේ OneDrive කිසිඳු බාධාවක් නොමැතිව භාවිතා කිරීමට අවශ්‍ය නම් තම Windows OS එක Windows 10 හෝ 11 සඳහා Upgrade කිරීමට සිදු වන බවයි. Windows 10 හෝ 11 සදහා තම පරිගණකයේ System Requirements නොගැලපෙන්නේ නම් Microsoft සමාගම පවසන්නේ ඔවුන්ගේ OneDrive Web app එක හරහා File Upload කිරීමට හැකියාව පවතින බවයි.\n\nමීට අමතරව එළඹෙන ජනවාරි 01 වනදා සිට OneDrive සඳහා Windows 7, 8 සහ 8.1 යන ‌මෙහෙයුම් පද්ධති සඳහා සහාය ලබාදීම ද අත්හිටුවන බව Microsoft සමාගම දන්වා සිටිනවා. වඩාත් ආරක්ෂාකාරී සහ කාර්‍යක්ෂම සේවාවක් පරිශීලකයින්ට ලබා දීම සඳහා OneDrive සඳහා වන සහය මෙහෙයුම් පද්ධති වලින් ඉවත් කිරීමට මෙම පියවර අනුගමනය කළ බව ඔවුන් වැඩිදුරටත් පවසා සිටියා.",
+  "category": "microsoft",
+  "date": "2021-11-09",
+  "extraction_timestamp": "2026-02-20T12:06:59.879128",
+  "headline": "Windows 7 සහ 8 සඳහා OneDrive සහාය ලබාදීම 2022 මාර්තු මාසයෙන් අවසන් වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/onedrive-windows-7-8-stop-syncing-cloud-march/",
+  "word_count": 251
+}

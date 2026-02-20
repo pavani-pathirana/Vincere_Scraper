@@ -1,0 +1,13 @@
+{
+  "body": "ඔයා iPhone වල security එක ගැන අවධානයෙන් ඉන්න කෙනෙක් නම් GrayShift කියන සමාගමෙන් නිර්මාණය කරපුGrayKeyකියන device එක ගැන දැනටමත් අහලා ඇති. ඇමෙරිකානු රජය වගේ ප්‍රභල අංශ වුණත් iPhone එකක data ගන්න ඕන වුණාම අවසානයේ නතර වෙන්නේ මේ සමාගම ඉදිරියේ තමයි.\n\nඒ වගේම ඔයාලට මතක ඇති පසුගිය දිනක Apple සමාගම විසින් iOS 12 එක වෙනුවෙන් අලුතින් security feature එකක් හඳුන්වාදීමට කටයුතු කළා. කවුරුහරි කෙනෙක් ඔයාගේ iPhone එක lightning port එක හරහා cracking tool එකක් ආධාරයෙන්  crack කරන්න හදනවා නම් අන්න ඒ අවස්ථාව මගහැරවීම තමයි මේ feature එක වුණේ.\n\nමේකෙදි කරන්නේ අන්තිම පැය ඇතුලතදී ඔයා iPhone එක unlock කරලා නැතිනම්, lightning port එක charging only කියන mode එකට මාරු වෙන එකයි. ඉතින් මේ හරහා මම අර කලින් සඳහන් කරන ලද GrayKey වගේ devices වලටbrute-force attacksකරලා passcode එක හොරකම් කරන්න තිබෙන අවස්ථාව නැති වෙනවා. මොකද බොහෝ වෙලාවට මේ passcode එක ගොඩක් සංකීර්ණ එකක් නම්, ඒ වෙනුවෙන් පැයකට වඩා වැඩි කාලයක් ඕනම විදිහේ brute-force කරන device එකකට ඕන වෙනවා.\n\nනමුත් Apple සමාගම විසින් මොන විදිහේ දෙයක් මේ ගැන ප්‍රකාශ කලත්, මේ GrayShift ආයතනය සමත් වෙලා තියනවා මේ අභියෝගය ජයගන්න.  මේ GrayKey එකට මේ අලුත් security feature එක තිබුණත් iPhone එකක් 100%ක් ම crack කරන්න පුලුවන් බව තමයි ඔවුන් ප්‍රකාශ කරන්නේ.\n\nකොහොම නමුත් iOS 12 එක තාමත් beta කියන testing මට්ටමේ තමයි තිබෙන්නේ. Apple සමාගම විසින් එයාලාගේ අලුත් OS එක stable විදිහට නිකුත් කරන අවස්ථාව වෙනකොට තවත් මොනවාහරි වෙනස්කම් එකතු කරලා මේක සම්පූර්ණයෙන්ම නවතා දමන්නත් ඉඩ තිබෙනවා.",
+  "category": "security",
+  "date": "2018-06-15",
+  "extraction_timestamp": "2026-02-20T12:19:11.900564",
+  "headline": "iPhone එකේ අලුත් Anti-Hacking hack එකත් hackers ලා විසින් hack කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/hackers-hack-apples-new-iphone-anti-hacking-hack/",
+  "word_count": 232
+}

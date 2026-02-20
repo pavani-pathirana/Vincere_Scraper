@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින් Android මෙහෙයුම් පද්ධතියේ අලුත්ම සංස්කරණය වන Android 12 සංස්කරණය beta පරීක්ෂකයින් හට නිකුත් කිරීමට කටයුතු කළ බව මීට පෙර අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nඑමෙන්ම ඊයේ (ඔක්තෝම්බර් 4 වැනි දින) මෙම Android 12 සංස්කරණය Android Open Source Project එකට, එහෙමත් නැතිනම් AOSP එකට නිකුත් කිරීමට කටයුුතු කරනු ලැබුවා.\n\n🥳📱#Android12is live in open source!With a new UI, privacy updates, and more, there’s a lot in store for developers.Keep an eye out for Android 12 coming to a device near you ↓https://t.co/ZHiHV50HT5\n\nමේ AOSP යනු Android මෙහෙයුම් පද්ධතියේ source code එක නිදහස් ලෙස ඕනෑම කෙනෙකුට ලබාගත හැකි වන ලෙස නිකුත් කරනු ලබන repository එකයි. Google සමාගම සමඟ සෘජුවම සම්බන්ධ නොවන device නිශ්පාදකයින් තම devices සඳහා Android මෙහෙයුම් පද්ධතිය ලබාගන්නේ මෙතැනිනුයි.\n\nසාමාන්‍යයෙන් පසුගිය වසර ගණනාවක් පුරාවටම Google සමාගම විසින් Android මෙහෙයුම් පද්ධතියේ අලුත් සංස්කරණයක් AOSP වෙත නිකුත් කරනු ලබන දිනයේදීම එහි stable සංස්කරණයක් ද සාමාන්‍යය පරිශීලකයින් වෙත නිකුත් කිරීමට කටයුතු කරනු ලබනවා.\n\nකෙසේ නමුත් මෙවර එලෙස stable සංස්කරණය නිළ වශයෙන් නිකුත් කළ බව ප්‍රකාශ කලත්, තවමත් එය සැබැවින්ම නිකුත් කිරීමට කටයුතු කර නොමැති අතර, ඉදිරි සති කිහිපය ඇතුලත Google Pixel 3 සහ ඉන් පසුව නිකුත් කළ Pixel ජංගම දුරකථන සඳහා ද, මෙම වසර අවසාන වීමට පෙර Samsung Galaxy, OnePlus, Oppo, Realme, Tecno, Vivo, සහ Xiaomi devices සඳහා ද Android 12 update එක ලබාදෙනු ඇති බව ඔවුන් පෙන්වා දෙනවා.\n\nAndroid 12 beta සංස්කරණය test කිරීම සඳහා beta පරිශීලකයින් 225,000ක් පමණ සහභාගී වූ බවත්, ඒ හරහා ගැටළු 50,000කට අධික ප්‍රමාණයක් හඳුනාගෙන නිරාකරණය කිරීමට හැකියාව ලැබුණු බවත් Google සමාගම වැඩිදුරටත් පෙන්වා දෙනවා.",
+  "category": "google",
+  "date": "2021-10-05",
+  "extraction_timestamp": "2026-02-20T12:05:54.100478",
+  "headline": "Google සමාගම විසින් Android 12 සංස්කරණය නිළ වශයෙන් නිකුත් කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/android-12-releases-today-but-the-update-for-pixel-phones-comes-later/",
+  "word_count": 250
+}

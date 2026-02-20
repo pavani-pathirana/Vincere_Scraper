@@ -1,0 +1,13 @@
+{
+  "body": "Android 8, එහෙමත් නැතිනම් Android Pie සමඟින් නිකුත් කළ පහසුකමක් වනProject Trebleගැන මෙන්ම GSI, එහෙමත් නැතිනම්Generic System Image පහසුකමගැන අපි මීට පෙර කිහිප වතාවක ඔබව දැනුවත් කිරීමට කටයුතු කළා මතක ඇති.\n\nමේ පහසුකම අන්තර්ගත වන ජංගම දුරකථන වල system image එක AOSP පාදක කරගෙන නිර්මාණය කර ඇති අතර, සියළුම vendor based customizations, එහෙමත් නැතිනම් නිෂ්පාදකයා විසින් සිදු කරනු ලබන වෙනස්කම් වෙනත් partition එකක (vendor image) පවත්වාගෙන යෑමට කටයුතු කරනු ලබනවා.\n\nමේ හේතුව නිසා පෙර සඳහන් කළ ප්‍රධාන system image එක කිසිඳු බාධාවකින් තොරව වෙනත් Android සංස්කරණයකට upgrade කිරීමේ හැකියාව ලැබෙන අතර ඒ හරහා මෙහෙයුම් පද්ධතියෙහි සිදු කර ඇති customization වලට කිසිඳු වෙනසක් සිදු වන්නේ නැහැ.\n\nProject Treble යන වැඩසටහනෙහි සරළ අරමුණ මෙය වන අතර, පසුගියදා Google සමාගම Android 11 මෙහෙයුම් පද්ධතිය නිළ වශයෙන් එළිදැක්වීමට කටයුතු කිරීමත් සමඟ Pixel ජංගම දුරකථන ඇතුළුව තවත් ජංගම දුරකථන කිහිපයකටම මෙම update එක ලබාදී තිබුණා.\n\nකොහොම නමුත් මේ වන විට Android 11 සංස්කරණය නිළ වශයෙන් නොලැබෙන තවත් පැරණි ජංගම දුරකථන 22කට මේ Project Treble සහ GSI පහසුකම භාවිතා කරමින් Android 11 ස්ථාපනය කිරීමට developer කෙනෙකු සමත් වී ඇති බව වාර්ථා වෙනවා.\n\nAllview V3 Viper, ASUS ROG Phone 3, ASUS ZenFone 6, ASUS ZenFone Max M2, Chuwi Hi9 Pro, F(x)tec Pro 1, Honor View 10, Huawei Mate 9, Infinity Smart 2, K-TOUCH I9, Motorola Moto E5, Motorola One Action, Nokia 4.2, Nubia Red Magic 5G, OnePlus 6, Razer Phone, Realme X2 Pro, Redmi Go, Samsung Galaxy A51, Samsung Galaxy S9+, Xiaomi Mi 9, Xiaomi Mi Mix 3, Xiaomi Qin 2 pro, Unihertz Titan\n\nඉහත සඳහන් ජංගම දුරකථන මාදිලි සඳහා මෙලෙස සාර්ථකව Android 11 මෙහෙයුම් පද්ධතිය ස්ථාපනය කිරීමට ඔහු සමත්වී ඇති අතර, මෙයට අදාල වන source code එක GitHub හරහා නිකුත් කිරීමට ද කටයුතු කර තිබෙනවා.\n\nඑමෙන්මXDA-Developers වෙබ් අඩවියවිසින් මෙම කටයුත්ත සිදු කරගන්නා ආකාරය පිළිබඳව tutorial එකක් ද පළ කර ඇති අතර ඔබ මීට පෙර custom ROM එකක් install කර ඇත්නම් හෝ ඒ පිළිබඳව උනන්දුවක් දක්වන්නේ නම් එම කටයුත්ත තනිවම සිදු කරගැනීමට ඔබට හැකියාව තිබෙනවා.\n\nකොහොම නමුත් මෙම සංස්කරණය තවමත් alpha අවස්ථාවේ පවතින බැවින් දිනපතා භාවිතා කරන ජංගම දුරකථනයට මෙය ස්ථාපනය කිරීම එතරම් නුවණට හුරු දෙයක් නොවන බව තේරුම්ගත යුතු වෙනවා.\n\nඑමෙන්ම ඔබ මෙය ස්ථාපනය කර භාවිතා කරන්නේ නම් එහිදී මතුවන ගැටළු report කිරීමට ද හැකියාව ඇති අතර ඒ සඳහාමේ link එකභාවිතා කළ හැකි වෙනවා.",
+  "category": "android",
+  "date": "2020-09-29",
+  "extraction_timestamp": "2026-02-20T12:08:41.396395",
+  "headline": "Project Treble GSI හරහා පැරණි devices 22ක Android 11 ස්ථාපනය කිරීමට Developer කෙනෙකු සමත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/developer-boots-android-11-on-22-older-devices-with-a-project-treble-gsi/",
+  "word_count": 368
+}

@@ -1,0 +1,13 @@
+{
+  "body": "Facebook සමාගම බොහෝ විට ඔවුන්ගේ bad security ක්‍රමවේදයන් මෙන්ම messaging සහ social media platforms පිළබඳව ඇති ඒකාධිකාරය නිසාවෙන් බොහෝ විට ද්‍යෝෂාරෝපණයට ලක් වන බව TechNews.LK පාඨක ඔබ ‍මේ වන විටත් හොඳින් දන්නා කාරණයක් වෙනවා.\n\nවිශේෂයෙන්ම ඔවුන්ගේ platforms භාවිතා කරන පරිශීලකයින්ගේ privacy එක ආරක්ෂා කිරීමට අපොහොසත් වීම බොහෝ විට මේයට හේතුව වන අතර, මේ දක්වා Facebook Messenger සහ Instagram Chats භාවිතා කිරීමේදී සාමාන්‍යය messages end-to-end encrypt කිරීමක් සිදුකිරීමට Facebook සමාගම කටයුතු කරන්නේ නැහැ.\n\nFacebook Messenger සේවාව සඳහා 2016 වර්ෂයේදී Secret Conversation mode එක හරහා end-to-end encryption පහසුකම හඳුන්වාදීමට කටයුතු කලත්, සාමාන්‍යය messages යැවීමේදී එසේ encrypt කිරීමක් සිදුවන්නේ නැහැ.\n\nමේ පිළිබඳව නිවේදනයක් නිකුත් කරමින් Facebook සමාගම ප්‍රකාශ කර සිටින්නේ Messenger සහ Instagram Direct යන සේවාවන් fully end-to-end encrypted කිරීම සඳහා 2022 වර්ෂය පමණ දක්වා කාලයක් ගතවනු ඇති බවයි.\n\nමීට පෙර අපි ඔබව දැනුවත් කළ ආකාරයෙන්Facebook සමාගම විසින් WhatsApp, Messenger සහ Instagram සේවාවන් සියල්ල එකම backbone එකක් මත ක්‍රියාත්මක කිරීමට කටයුතු කරමින් සිටින අතර, මෙම encryption පහසුකම ද ඒ හරහා ලබාදීමට කටයුතු කරනු ඇති බව අනුමාන කළ හැකි වෙනවා.",
+  "category": "security",
+  "date": "2021-05-01",
+  "extraction_timestamp": "2026-02-20T12:06:05.247119",
+  "headline": "Messenger සහ Instagram chats 2022 වර්ෂය දක්වා සම්පූර්ණයෙන්ම end-to-end encrypted නොවනු ඇති බව Facebook සමාගම ප්‍රකාශ කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/facebook-messenger-and-instagram-chats-wont-be-encrypted-by-default-until-at-least-2022/",
+  "word_count": 166
+}

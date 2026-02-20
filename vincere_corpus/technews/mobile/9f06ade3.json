@@ -1,0 +1,13 @@
+{
+  "body": "Google Play Store එක හරහා බෙදාහැරෙන Android සඳහා නිර්මාණය කරන ලද විවිධ malware වර්ග ගැන මීට පෙර අවස්ථා ගණනාවකදී අපි ඔබව දැනුවත් කර ඇති බව මතක ඇති.\n\nඔන්න දැන් තවත් අලුත් Android malware එකක් පිළිබඳව වාර්තා ‍වෙන අතර මෙහි විශේෂත්වය වන්නේ මෙය පැතිරී යන්නේ WhatsApp හරහා වීමයි.\n\nප්‍රසිද්ධ සයිබර් ආරක්ෂක ආයතනයක් වන ESET ආයතනයේLukas Stefankoවිසින් පෙන්වා දෙන අන්දමට මෙම වැඩසටහන ස්ථාපනය වූ ජංගම දුරකථන වලට ලැබෙන WhatsApp messages සඳහා ස්ව්‍යංක්‍රීයවම reply වීමක් සිදු වන අතර, එලෙස යැවෙනු ලබන reply messages වල ඇත්තේ Huawei Mobile app එක ලෙසින් පෙනී සිටින එම අනතුරුදායක වැඩසටහනෙහි link එකයි.\n\nමෙය සැබෑ Huawei Mobile app එක නොවන අතර, එම link එක හරහා පරිශීලකයා ගෙනයනු ලබන්නේ ද Google Play Store එකට නොව ඒ පෙනුමට සමාන ආකාරයකින් නිර්මාණය කර ඇති වෙනත් වෙබ් අඩවියකටයි.\n\nයම් හෙයකින් මෙහි අන්තර්ගත වන app එක download කර install කරගතහොත් ඒ හරහා පරිශීලකයාව නොමඟ යවමින් notification access, draw-over-other apps permission එක මෙන්ම background එකෙන් run වීම සඳහා අවශ්‍යය permissions ද ලබාගැනීමට කටයුතු කරනු ලබනවා.\n\nඉන් පසුව අදාල ජංගම දුරකථනයට ලැබෙන WhatsApp messages වලට එහි notification හරහා reply කිරීමට පටන් ගන්නා මෙම අනතුරුදායක වැඩසටහන එම පුද්ගලයාගේ මිතුරන්ගේ ජංගම දුරකථන වලට ද පැතිර යාමට උත්සාහ කරනවා.\n\nමෙම app එකට draw over other apps permission එක ද ඇති බැවින් වෙනත් apps මත overlay එකක් ලෙස ක්‍රියාත්මක වෙමින් ඔබගේ passwords, credit-card දත්ත මෙන්ම අනෙකුත් සියළුම දෑ එකතු කරගැනීමට ද ‍හැකියාව පවතිනවා.\n\nඑමෙන්ම මෙම virus එකෙහි දැනට පවතින version එකට WhatsApp හරහා පමණක් මෙලෙස පැතිර යාමේ හැකියාව තිබුණත් ඉතාමත් ඉක්මණින්ම අනෙකුත් social media හරහා මෙන්ම chat groups/channels වැනි ක්‍රමයන් මගින් ද පැතිර යාමේ හැකියාව එකතු විය හැකි බව Stefanko පෙන්වා දෙනවා.\n\nTechNews.LK පාඨකයෙකු ලෙස ඔබ මේ වන විටත් මෙවැනි අනතුරුදායක වැඩසටහන් වලින් ආරක්ෂාවී සිටින ආකාරය පිළිබඳව දැනුවත් ඇතැයි අපි අපේක්ෂා කරන අතර මිතුරන් විසින් එවන ලද link හරහා, විශේෂයෙන්ම Google Play Store එක වැනි ප්‍රසිද්ධ store එකකින් හැරෙන්නට apk side-load කිරීමේදී අවධානයෙන් පසු වීම ඉතාමත් නුවණට හුරු ‍කටයුත්තක් වෙනවා.",
+  "category": "mobile",
+  "date": "2021-01-25",
+  "extraction_timestamp": "2026-02-20T12:06:34.719093",
+  "headline": "Huawei Mobile app එක ලෙසින් පෙනී සිටින WhatsApp හරහා පැතිරෙන අලුත් Android Malware එකක් පිළිබඳව වාර්තා වෙයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/a-new-wormable-android-malware-spreading-through-whatsapp/",
+  "word_count": 310
+}

@@ -1,0 +1,13 @@
+{
+  "body": "2019 වර්ෂයේදී පැවැත්වුණු Pwn2Own event එක අතරතුරදී Tesla මෝටර් රථයක් සහ තවත් software මෙන්ම සේවාවන් රාශියක් hack කිරීමට සමත් වූ අතර, ඒ පිළිබඳව අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nපසුගිය අප්‍රේල් 8 වැනි දින 2021 වර්ෂය සඳහා වන Pwn2Own event එක පැවැත්වීමට කටයුතු කළ අතර, එහිදී Windows 10, Ubuntu Desktop operating system එක, Apple Safari මෙන්ම Microsoft Exchange, Microsoft Teams, Zoom වැනි සේවාවන් ද හැකර්වරුන් විසින් hack කිරීමට සමත් වී තිබෙනවා.\n\nදින තුනක් තිස්සේ පැවැත්වුණු මෙම event එක අවසානයේදී හැකර්වරුන් 16 දෙනෙකු හට ඇමෙරිකානු ඩොළර් මිලියන 1.2ක මුදලක් ලබාදීමට, මෙම event එක සංවිධානය කළ Zero Day Initiative (ZDI) ආයතනය විසින් කටයුතු කර තිබෙනවා.\n\nමෙහිදී හඳුනා‍ගැනෙනු ලැබෙන දුර්වලතා patch කිරීම සඳහා අදාල සමාගම් වලට දින 90ක කාලසීමාවක් ලැබෙන අතර, ඉන් අනතුරුව ඒ පිළිබඳව වන තොරතුරු ප්‍රසිද්ධ කිරීමට මොවුන් කටයුතු කරනු ලබනවා.\n\nමීට අමතරව Pwn2Own event එකේ ඉතිහාසයේ පළමු වතාවට කාන්තා හැකර්වරියක් විසින් ජයග්‍රහණයක් ලබාගැනීමට සමත්වීම විශේෂ සිදුවීමක් වූ අතර, Alisa Esage නම් වූ මෙම කාන්තාව විසින් Parallels virtualization software එකට අදාල bug එකක් අනාවරණය කිරීමට සමත්වී තිබුණා.\n\nI can only accept it as a fact that my successful Pwn2Own participation attracted scrutiny to certain arguable and potentially outdated points in the contest rules.In the real world there is no such thing as an “arguable point”. An exploit either breaks the target system or not\n\nකොහොම නමුත් අදාල දුර්වලතාවය event එක පැවැත්වීමට පෙර ZDI ආයතනයට report කර තිබූ bug එකක් නිසාවෙන් ඇයට හිමි වූයේ අදාල ත්‍යාග මුදලින් කොටසක් පමණක් වන බවත්, ඒ සඳහා ඇය තමන්ගේ නොසතුටට පළ කර තිබෙනවා.",
+  "category": "security",
+  "date": "2021-04-13",
+  "extraction_timestamp": "2026-02-20T12:06:12.325120",
+  "headline": "Pwn2Own 2021 event එක අතරතුරදී හැකරුවරුන් විසින් Windows, Ubuntu, Zoom සහ Safari Browser එක ඇතුළු වැඩසටහන් රැසක් Hack කිරීමට සමත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/windows-ubuntu-zoom-safari-ms-exchange-hacked-at-pwn2own-2021/",
+  "word_count": 247
+}

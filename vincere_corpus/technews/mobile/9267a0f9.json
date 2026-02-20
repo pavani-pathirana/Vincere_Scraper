@@ -1,0 +1,13 @@
+{
+  "body": "Internet හරහා Android Messages බාවිතා කිරීමට හැකියාව නුදුරු අනාගතයේදීම ලබා දීමට Google සමාගම බලාපොරොත්තු වන බව මීට මාස දෙකකට පමණ ඉහත දී Android Messages APK එක නිරීක්ෂණය කිරීමෙන් දැනගන්න පුළුවන් වුණා.\n\nමේ පහසුකම එළිදැක්වෙන්නේ Google Nexus සහ Google Pixel යන මාදිලි වල phones සඳහා වන අතර එහි default messaging app එක web client එකක් අාධාරයෙන් අන්තර්ජාලය හරහා සාමාන්‍යය text message පහසුකම අත්විඳින්නට හැකි වේ.\n\nමෙම පහසුකම සෑම ප්‍රධාන Web browser එකකම වැඩ කරන අතර සම්බන්ධතාවය ආරම්භ කරන්නේ web client එක මගින් පෙන්වන QR code එක mobile device එක මගින් scan කිරීම මගිනි.\n\nපසුගිය සතිය වන විට මෙම මූලික සම්බන්ධතාව සිදු කරන කොටසෙහි වැඩකටයුතු Google සමාගම විසින් සම්පූර්ණයෙන්ම වගේ ඉවර කර තිබුණු බැවින් මෙය ලඟදීම release කිරීමට හැකියාවක් ඇති බව වඩාත් තහවුරු වේ. ඒ වගේම මේ ගැන Google සමාගමThe Vergeවෙබ් අඩවියට නිල වශයෙන් මේ ගැන ප්‍රකාශයක් ඉදිරිපත් කර තිබුණි.\n\nපහළ image එකේ දකින්න පුළුවන් විදිහට එම web client interface එක material design එක භාවිතා කරමින් නිර්මාණය කර ඇති අතර එය Gmail එකේ අළුත් design එකට වගේම Android app එකේ පෙනුමටත් ගැලපෙන විදිහට නිර්මාණය කරලා තියනවා.\n\nමේ පෙන්නලා තියන image එක බොහෝ විට Pixel device එකක විය හැකි අතර Google සමාගම විසින් මෙය Google devices වලට පමණක් සීමා කරාවිද යන සැකයක් මතු වේ. නමුත් අපට අනුමාන කරන්න පුළුවන් Android Messages web interface එක බොහෝමයක් Android devices වලට ලබා ගැනීමට හැකියාව නුදුරු අනාගතයේදී එනම් මෙම පහසුකම launch කළ පසු ලැබේවි කියා.\n\nඉහතින් දක්වා ඇති පරිදි, “messages for web” යනුවෙන් අළුත් menu item එකක් එකතු වී ඇති අතර, එය tap කිරීමෙන් පසුmessages.android.comවල ඇති QR code එකක් scan කිරීමට user ව යොමු කරනු ඇත. නමුත් තවමත් මෙම පහසුකම නිල වශයෙන් release කර නැති නිසා, මේ වන විටත් එම URL එක 404 (Page not found) error එකක් පමණක් පෙන්වයි. මේ පිළිබඳවThe Vergeවෙබ් අඩවියට Google සමාගම විසින් නිළ ප්‍රකාශයක් ඉදිරිපත් කරලා තියන නිසා, අපිට හිතන්න පුළුවන් මේ පහසුකම එළිදක්වන්න Google සමාගම තව වැඩි කාලයක් නොගන්න බව.",
+  "category": "mobile",
+  "date": "2018-04-24",
+  "extraction_timestamp": "2026-02-20T12:24:28.391235",
+  "headline": "Internet හරහා Android Messages බාවිතා කිරීමට හැකි වේ",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/internet-android-messages-use/",
+  "word_count": 309
+}

@@ -1,0 +1,13 @@
+{
+  "body": "මීට පෙර Google messages වෙත එකතු කිරීමට කටයුතු කළ නවතම විශේෂාංග කිහිපයක් ගැන අප ඔබව දැනුවත් කිරීමට කටයුතු කළා මතක ඇති.\n\nSMS සේවාව වෙනුවට ඉදිරියේදී කරලියට එනු ලබන සේවාව වන,Rich communication services, එහෙමත් නැතිනම් RCS සේවාව වෙත මේ වන විට end-to-end encryption ඵහසුකම හඳුන්වාදීමට Google සමාගම සූදානම් වන බව මේ වන විට වාර්ථා වෙනවා.\n\nමේ RCS සඳහා end-to-end encryption පහසුකම enable කිරීම සහ ඒ හා සම්බන්ධ අනෙකුත් කටයුතු වලට අදාල වන strings 12 කට අධික ප්‍රමාණයක් Google Messages app එකේ 6.2 සංස්කරණය decompile කළ විට දැකගැනීමේ හැකියාව ලැබී ඇති බව9to5google වෙබ් අඩවියපෙන්වා දෙනවා.\n\nමේ end-to-end encryption පහසුකම ක්‍රියාත්මක වීම RCS පහසුකම භාවිතා කරනු ලබන දෙපාර්ශවයටම හොඳ තත්ත්වයේ internet සම්බන්ධතාවයක් තිබිය යුතු වන අතර, එය එසේ නොවන්නේ නම්, සාමාන්‍යය SMS හෝ MMS හරහා අදාල පණිවුඩය යැවීම සඳහා පරිශීලකයාව යොමු කෙරෙනු ලැබෙන නමුත් ඒ හරහා යවනු ලබන messages encrypted නොවන නිසාවෙන් service provider හට මෙන්ම වෙනත් අතරමැදි පාර්ශවයන් හට එය බැලිය හැකි වෙනවා.\n\nකොහොම නමුත් මේ දක්වා මෙම පහසුකම පිළිබඳව නිළ වශයෙන් නිවේදනයක් නිකුත් කිරීමට Google සමාගම කටයුතු කර නොමැති වුවත්, මීට පෙර අවස්ථා කිහිපයකදීම මේ encryption method එකක් හඳුන්වාදීමේ අවශ්‍යයතාවය පිළිබඳව Google සමාගමේ අවධානය යොමු වී තිබුණා.\n\nමේ අනුව නුදුරු අනාගතයේදී මේ RCS සේවාව ද end-to-end encryption පහසුකම සමඟින් වඩාත් ආරක්ෂිත වනු ඇති බව අනුමාන කළ හැකි වෙනවා.",
+  "category": "google",
+  "date": "2020-05-26",
+  "extraction_timestamp": "2026-02-20T12:12:59.283102",
+  "headline": "Google Messages හරහා ලබාදෙන RCS සේවාව සඳහා end-to-end encryption පහසුකම එකතු කිරීමට සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-messages-preparing-end-to-end-encryption-for-rcs-messages/",
+  "word_count": 207
+}

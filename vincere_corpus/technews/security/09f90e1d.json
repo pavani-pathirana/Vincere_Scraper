@@ -1,0 +1,13 @@
+{
+  "body": "ගොඩක් අය use කරන feature එකක් තමයිGoogle Inboxකියන්නේ. ගොඩක්ම ජනප්‍රිය නැති වුණත් මේ වන විටත් ගොඩ දෙනෙක් use කරන Gmail වල ම වෙනත් client එකක්. නමුත් මේ කියන්න යන දේ නම් එච්චර හොඳ news එකක් නෙවෙයි.\n\nEli Greyකියන security researcher සමත් වෙලා තියනවා Google Inbox එකේ තියන bug එකක් හොයාගන්න. එ් Bug එක තමයි attacker කෙනෙකුට පුළුවන් user ව රවට්ටලා එයාට ඕන කරන වෙන email address එකකට email එක user ගේ මාර්ගයෙන්ම send කරවගන්න.\n\nEli Grey මේක හොයාගෙන තියෙන්නේ 2017 අවුරුද්දේ මැයි 4 වෙනිදා. ඒ වගේම එයා ඒක Google සමාගමට දැනුම් දීලත් තියනවා පෞද්ගලිකවම. නමුත් මේ අවුරුද්දේ මාර්තු මාසේ වෙනකොටත් Google එකෙන් මේකට පිළියමක් යොදලා තිබුණේ නැති නිසා ඔහු තීරණය කරලා තියනවා මේක ප්‍රසිද්ධ කරන්න.\n\nInternet use කරන වෙලාවට අපිට නිතරම වගේ දකින්න ලැබෙන දෙයක් තමයි mailto: links. ඒ කියන්නේ ඔය websites වල contact page එකේ එහෙම තියෙන email address එක උඩ click කලාම automatically email එකක් generate වෙලා අපේ mail client එකෙන් send වෙන්න සකස් කරලා තියන එක.\n\nGmail, Google Inbox වගේ email clients මේ links අඳුරගෙන ඒ link එක තුල ඇති information ඔස්සේ draft mail එකක් නිර්මාණය කරගන්න පුළුවන් වෙන්න තමයි හදලා තියෙන්නේ. උදාහරණයක් විදිහට මේ[email protected]email address එක click කලොත් එහෙම ඔයාගේ default mail client එකෙන් PayPal customer support එකට address කරලා draft mail එකක් නිර්මාණය කරනවා.\n\nඉතින් ඒක සාමන්‍යයි වගේ නේද? ඔව් ඒක එහෙමයි. නමුත් Eli Grey හොයාගෙන තියෙන්නේ ඊට වඩා භයානක දෙයක්. Attacker කෙනෙකුට පුළුවන් ඒ වගේම link එකක් හදලා email recipient කියන තැන හරි email address එක පෙන්නලා, වෙනත් email address එකකට email එක යවාගන්න.\n\nඋදාහරණයක් විදිහට ඔයා මේlinkඑක click කලොත් ඔයා හිතාගෙන ඉන්නවා (ඔයාට පේන්නේ) ඔයා[email protected]එකට email එක යවනවා කියලා, නමුත් ඇත්තටම mail එක යන්නේ[email protected]එකට.\n\nමෙහි ලබන්නා[email protected]ලෙස දිස් වුවත්, එය ඇත්තටම address වී ඇත්තේ[email protected]වෙතටයි.\n\nඅපිට මේක අඳුරගන්න පුළුවන් එකම විදිහ වෙන්නේ email එක යවන්න කලින් \"to\" කියන තැන තියන ලබන්නාගේ email address එක expand කිරීමෙන්, එහෙමත් නැත්තම් mailto link එක හොඳින් නිරීක්ෂණය කිරීමෙන් විතරයි. සාමන්‍යයෙන් ඕනෑම email client එකක, ලබන්නාගේ නම උඩ double click කලාම එයාගේ email address එක පෙන්නනවා. නමුත් මම මේ article එක ලියන අවස්ථාව වෙනකොටත් Google Inbox එකේ ඒ පහසුකම නැහැ. වාසනාවකට වගේ මේක වෙන්නේ Google Inbox mail client එකේ විතරයි. ඔයා use කරන්නේ Gmail හරි Outlook හරි වෙනත් මොකක් හරි email client එකක් නම්, ඔයාට මේ ගැන බය වෙන්න දෙයක් නෑ.",
+  "category": "security",
+  "date": "2018-04-29",
+  "extraction_timestamp": "2026-02-20T12:20:49.869865",
+  "headline": "Google Inbox use කරන්නේ බලාගෙනයි!",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/google-inbox-use/",
+  "word_count": 376
+}

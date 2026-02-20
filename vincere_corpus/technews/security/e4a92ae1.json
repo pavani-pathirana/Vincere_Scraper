@@ -1,0 +1,13 @@
+{
+  "body": "මේ වෙනකොට Android P වල beta verison 3ක් ම නිකුත් වෙලා අවසන්. ඒ වගේම Android P වල අවසන් version එක තුළ ඇතුලත් වෙන දෙවල් ගැන බොහොම ලොකු කුතුහලයක් මේ වෙනකොටත් සෑම Android fan කෙනකේගෙම වගේ හිතේ තියනවා.\n\nමේ Android P final version එකෙන් WPS එහෙමත් නැතිනම්Wi-Fi Protected Setupකියන තාක්ෂණය සම්පූර්ණයෙන්ම ඉවත් කර දමන්නට Google සමාගම කටයුතු කරනවා.\n\nමේ WPS කියන්නේ ඔයාගේ router එකේ තිබෙන WPS button එක press කිරීම මගින් ඔයාට ඕන කරන device එක wifi වලට සම්බන්ධ කර ගැනීම සඳහා යොදාගන්නා තාක්ෂණයක්. ඒ වගේම සමහර router වල මේ සඳහා Pin එකක් භාවිතා කරන්නත් සකස් කරලා තියනවා.\n\nකොහොම නමුත් මේ WPS සඳහා බාවිතා කරන තාක්ෂණය ඉතාමත් අනාරක්ෂිත ක්‍රමයක් වෙනවා. මේ ක්‍රමයේ අඩුපාඩු බාවිතා කරගෙන බොහෝ විට ඔයත් Wifi hack කරලා ඇති. එහෙමත් නැතිනම් යාළුවෝ hack කරනවා දැකලත් ඇති. මේ WPS pin එක සාමාන්‍යය WPA2 password එකකට වඩා brute-force attack එකක් කරන්න බොහොම පහසු වෙන විදිහට තමයි සැකසිලා තියෙන්නේ. මේ විදිහට ඔයාට සාමාන්‍යය Android phone එකක් බාවිතා කරලා වුණත් WPS Protected WiFi network එකක් hack කරන්න පුළුවන් වෙනවා.\n\nඉතින් මේ Update එක ගැන Google සමාගම විසින් තම developers ලා දැනුවත් කරන්නට කටයුතු කළත්, තාමත් මෙම වෙනස් කිරීම පිළිබඳව document කිරීමට ඔවුන් කටයුතු කරලා නැහැ. නමුත් අළුත් Android API එකත් සමඟ මේ WPS සඳහා වූ strings කිහිපයක් නවතා දැමීමට ඔවුන් කටයුතු කර තිබෙනවා. ඒ අනුව Android P වල සිට මෙම WPS access කිරීමේ හැකියාව ඉවත් වනු ඇති.\n\nකෙසේ වුවත් ඔයාගේ router එකේ WPS on කරලා තියනවා නම්, මේ දැන්ම ඒක off කරන තරමට ඔයාගේ wifi network එක වෙන කෙනෙකුට hack කරන්න පුළුවන් අවස්ථාව අවම කරගන්න පුළුවන් වෙනවා.",
+  "category": "security",
+  "date": "2018-07-12",
+  "extraction_timestamp": "2026-02-20T12:18:43.822869",
+  "headline": "Android P වලින්  WPS තාක්ෂණය නැවත නොඑන ලෙසින්ම ඉවත් කර දමයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/wps-disappeared-in-android-p-and-may-never-come-back/",
+  "word_count": 255
+}

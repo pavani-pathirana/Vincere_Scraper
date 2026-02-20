@@ -1,0 +1,13 @@
+{
+  "body": "COVID-19 වෛරසයලොව පුරා පැතිර යාමත් සමඟින් අන් කවරදාටත් වඩා පෞද්ගලික සෞඛ්‍යය තත්ත්වය පිළිබඳව උනන්දුවක් දැක්වීමට බොහෝ දෙනා යොමු වී තිබෙන අතර මේ සඳහා උදව් කිරීමට මේ වන විට Google සමාගම අපූරු tool එකක් හඳුන්වාදීමට කටයුතු කර තිබෙනවා.\n\nවිශේෂයෙන්ම mask එකක් පැළදීම, නිරන්තරයෙන් අත් සේදීම මෙන්ම social distancing, එකන් සමාජ දුරස්ථභාවය යන කරුණු වලින්, මේ tool එක උපකාරී වන්නේ social distancing සඳහා වන අතර, සෞඛ්‍යය අංශයේ උපදෙස් පරිදි තමා අවට මීටර් දෙකක ඉඩ ප්‍රමාණයක් ආරක්ෂා කරගෙන ඇත්දැයි දැනගැනීමට මේ Sodar නම් වූ tool එක හරහා හැකියාව ලැබෙනවා.\n\nSodar - use WebXR to help visualise social distancing guidelines in your environment. Using Sodar on supported mobile devices, create an augmented reality two meter radius ring around you.#hacktohelphttps://t.co/Bu78QrEN9fpic.twitter.com/kufatNFDQk\n\nමේ සඳහා app එකක් download කිරීම අනවශ්‍යය වන අතර ඔබ Android device එකක් භාවිතා කරන්නේ නම්Google Chrome හරහාgoo.gle/sodarයන URL එක හරහා ගොස් මේ web app එක භාවිතා කිරීමේ හැකියාව ලැබෙනවා.\n\nකොහොම වුණත් iOS වල මෙන්ම පැරණි Android devices වල මේ පහසුකම ක්‍රියාත්මක නොවන අතර, මේ සඳහා අදාල ජංගම දුරකථනය augmented reality සඳහා සහාය දැක්වීම අත්‍යවශ්‍යය වෙනවා.\n\nඔබ මින් පෙර ඔබගේ ජංගම දුරකථනය භාවිතා කරමින් Google AR projects පරිශීලනය කර ඇත්නම් බොහෝ විට මෙය ඔබගේ ජංගම දුරකථනයේ ක්‍රියාත්මක වනු ඇති අතර මේ AR හරහා දුර මැනීම බොහෝ අවස්ථා වලදී අතිශයින්ම සාර්ථක නොවූවත්, ඒ හරහා ආසන්න වශයෙන් නිවැරදි තොරතුරක් බළාපො‍රොත්තු විය හැකි වෙනවා.",
+  "category": "google",
+  "date": "2020-05-30",
+  "extraction_timestamp": "2026-02-20T12:12:52.941276",
+  "headline": "AR හරහා මීටර් දෙකක පරතරය ආරක්ෂා කරගැනීමට සඳහා Sodar නමින් අලුත් tool එකක් හඳුන්වාදීමට Google සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/googles-ar-tool-helps-you-measure-two-meters-to-maintain-proper-social-distancing/",
+  "word_count": 216
+}

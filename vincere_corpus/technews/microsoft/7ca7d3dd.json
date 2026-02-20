@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft සමාගම විසින් Google සමාගම හා එකතු වී දැනට නිර්මාණය කර ඇති Web Apps, Google Play store එක හරහා ලබාගැනීමට හැකිවන පරිදි ගෙන ඒමට වැඩ පිළිවෙලක් ක්‍රියාත්මක කිරීමට කටයුතු කර තිබෙන බව මේ වන විට වාර්ථා වෙනවා.\n\nMicrosoft සමාගම සහ Google සමාගම මේ වෙනුවෙන් මාස කිහිපයක් වෙහෙසවී ඇති අතර මේ වන විට Microsoft සමාගමේPWABuilderඑක හරහා නිර්මාණය කරන PWA (ProgressiveWeb Apps) සදහා Google සමාගමේBubblewrap libraryඑක භාවිතා කිරීමේ හැකියාව ලබා දී තිබෙනවා.\n\nමේ හරහා නිර්මාණය කරන PWA සදහා නව පහසුකම් කිහිපයක්ම එකතු වෙන අතර, ඒ අතරට Web shortcuts, push notifications සහ visual customizations ද ඇතුලත් වෙනවා.\n\nමෙම web apps හරහා පරිශීලකයන් හට native apps වලට සමාන අත්දැකීමක් ලබාදීමට සහ app developer වරුන් හට ඉතා අඩු පරිශ්‍රමයකින් apps නිර්මාණය කිරීමට හැකි වනු ඇතැයි Mircosoft ආයතනය විශ්වාස කරනු ලබනවා.\n\nමෙමගින් පරිශීලකයන්ට වඩාත් ඉක්මනින් නව පහසුකම් රැසක් සමග නව apps ලැබෙනු ඇති අතර මේ නිසා apps නිර්මාණකරුවන්ට Microsoft toolkit එක භාවිත කිරීමේ ප්‍රවණතාවය ද වැඩිවේ.\n\nඑමෙන්ම, මෙමගින් බොහෝ Android friendly web site ප්‍රමාණයක් නිර්මාණය වීම Google සමාගමටද වාසි සහගත නිසා මෙම එක්වීම Microsoft හා Google සමාගම් දෙකටම වාසිදායක තත්වයක් වනු ඇති බව බොහෝ දෙනා මත පළ කරනු ලබනවා.",
+  "category": "microsoft",
+  "date": "2020-07-12",
+  "extraction_timestamp": "2026-02-20T12:09:12.218171",
+  "headline": "PlayStore එකට වඩා ඵලදායී Web Apps ගෙන ඒම සඳහා Google සමාගම Microsoft සමාගම සමඟින් එකතු ‍වෙයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-and-google-team-up-to-make-pwas/",
+  "word_count": 183
+}

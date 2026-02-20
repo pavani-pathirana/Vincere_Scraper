@@ -1,0 +1,13 @@
+{
+  "body": "Android 11 සංස්කරණය පිළිබඳව අප ඔබව කීප වරක්ම දැනුවත් කළ අතර මේ වන විට මේ සංස්කරණයේ developer preview සංස්කරණ ද්විත්වයක් නිකුත් කිරීමට Google සමාගම කටයුතු කරනු ලැබ තිබෙනවා.\n\nමෙම නවතම සංස්කරණයේ දෙවන Developer Preview එක පසුගියදා නිකුත් කල අතර එහිදී \"Columbus\" නමින් හඳුන්වන ලද නවතම gesture එකක් අත්හදා බැලීමට කටයුතු කර තිබෙනවා.\n\nඑමඟින් පරිශීලකයින්ට ජංගම දුරකතනයක පිටුපසින් double tap කිරීමට ඉඩ සලසන අතර එමඟින් screenshot ලබා ගැනීම හා recent tabs open කිරීම වැනි කටයුතු සිදු කිරීමේ හැකියාව ලැබෙනවා.\n\nජංගම දුරකථයේaccelerometerසහgyroscopesensors ඔස්සේ දත්ත ලබාගනිමින් ක්‍රියාත්මක වන මෙම නවතම gesture එකXDA-Developers වෙබ් අඩවියවිසින් Google Pixel 3 XL හා Google Pixel 4 / 4XL යන දුරකථන මාදිලි වල සාර්ථකය අත්හදාබැලීමට කටයුතු කර තිබෙනවා.\n\nබැටරි බලය ඉතිරි කරගැනීමට හා අත්වැරදීමකින් සිදු වන tap වීම් නිසා ඇති වන අපහසුතා මඟහරවා ගැනීම වෙනුවෙන් මෙය දුරකථනය Lock වී ඇති විට සහ කැමරාව ක්‍රියාත්මක වී ඇති විට භාවිතා කල නොහැකි වන ලෙස සකසා තිබෙනවා.\n\nමීට අමතරව camera එක open කිරීම, timer එකක් dismiss කිරීම,Google Assistant launch කිරීම, music play/pause කිරීම, status bar එක collapse කිරීම, incoming calls silent කිරීම, alarms snooze කිරීම වැනි option සඳහාද මෙම gesture එක program කල හැකි ලෙස නිර්මාණය කිරීමට Google සමාගම කටයුතු කර තිබෙන අතර පරිශීලකයාට අවශ්‍යය action එකක් මේ සඳහා භාවිතා කිරීමේ හැකියාව ද තිබෙනවා.\n\nකොහොම උනත් මෙම අලුත්ම Gesture එක සඳහා දුරකථනයේ hardware සහාය ද අවශ්‍ය වන අතර වාර්තා වන පරිදි Google Pixel 2 සිට සියලු Pixel ජංගම දුරකථන මෙයට සහය දක්වනවා.",
+  "category": "android",
+  "date": "2020-03-24",
+  "extraction_timestamp": "2026-02-20T12:13:01.916097",
+  "headline": "Android 11 දෙවන Developer Preview එක සමඟින් අලුත් Double Tap Gesture එකක් අත්හදාබැලීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/new-programmable-double-tap-gesture-for-android-11/",
+  "word_count": 231
+}

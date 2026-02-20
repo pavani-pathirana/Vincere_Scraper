@@ -1,0 +1,13 @@
+{
+  "body": "LastPass සේවාව මේ වන විට ලොව පුරා පරිශීලකයන් මිලියන 16ක් පමණ සිටින ඉතාමත් ප්‍රසිද්ධ සේවාවක් වන අතර මෙම සේවාවේ තිබුණු ආරක්ෂක දුර්වලතාවයක් නිසාවෙන් එම පරිශීලකයන් අවධානමට පත්ව තිබුණු බව Google සමාගම පෙන්වා දෙනවා.\n\nGoogle සමාගමේProject Zero නම් ව්‍යාපෘතියයටතේ cyber security පිළිබඳව වන විශේෂඥයන් විසින් පසුගිය දිනකLastPass සේවාවේදුර්වලතාවයක් හඳුනාගැනීමට සමත් වී ඇති අතර මේ දුර්වලතාවය හරහා අදාල පරිශීලකයන් අවසන් වරට භාවිතා කළ Password එක LastPass Browser Extension එක හරහා ලබා ගැනීමේ හැකියාව තිබුණු බව ඔවුන් පෙන්වා දෙනවා.\n\nLastPass could leak the last used credentials due to a cache not being updated. This was because you can bypass the tab credential cache being populated by including the login form in an unexpected way!https://t.co/bfLdDzSWS5\n\nපසුගිය අගෝස්තු 29 වැනි දිනreport කළ මේ දුර්වලතාවයසැප්තැම්බර් මස 13 වැනි දින වන විට නිරාකරණය කිරීමට LastPass ආයතනය කටයුතු කර ඇති අතර මීට අදාල browser extension එක ස්ව්‍යංක්‍රීයවම update වනු ඇති බව LastPass ආයතනය ප්‍රකාශ කරනවා.\n\nකොහොම නමුත් ඔබ LastPass භාවිතා කරන්නේ නම්, ඔය භාවිතා කරන Browser extension එක4.33.0 සංස්කරණයටupdate වී ඇත්දැයි verify කරගන්නා ලෙස ඔවුන් වැඩිදුරටත් ඉල්ලා සිටිනවා.\n\nLastPass ආයතනය විසින් ඔවුන්ගේ Blog අඩවිය හරහා මේ පිළිබඳව නිළ නිවේදනයක් නිකුත් කර ඇති නමුත් Google සමාගම විසින් මෙය “High” severity, එනම් අවධානමින් වැඩි දුර්වලතාවයක් ලෙස report කලද මේ blog post එක හරහා මෙම bug එක අවතක්සේරු කිරීමට කටයුතු කර ඇති බව The Verge වෙබ් අඩවිය පෙන්වා දෙනවා.\n\nකොහොම වුණත් Password manager එකක් භාවිතා කරන්නේ නම් අදාල වෙබ් අඩවි වල two-factor authentication ක්‍රමයක් භාවිතා කරන්නට කටයුතු කිරීම ඉතාමත් නුවණට හුරු දෙයක් බව මෙයින් පෙනී යනවා.",
+  "category": "security",
+  "date": "2019-09-16",
+  "extraction_timestamp": "2026-02-20T12:10:42.139853",
+  "headline": "LastPass පරිශීලකයන්ගේ Passwords සොරාගැනීමේ හැකියාවක් තිබුණු බව Google සමාගම පෙන්වා දෙයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/google-warns-lastpass-users-were-exposed-to-last-password-credential-leak/",
+  "word_count": 245
+}

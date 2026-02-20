@@ -1,0 +1,13 @@
+{
+  "body": "Google Photosයනු images සහ gallery එක manage කිරීමට හැකි හොඳ සේවාවක් වන අතර ඔබගේ විවිධ devices වල ඇති සියලු images ඔ‍බේ Google account මාර්ගයෙන් ඕනෑම device එකකින් බැලීමට මේ හරහා හැකියාව ලැබෙනවා.\n\nප්‍රසිද්ධ reverse engineer කෙනෙකු වනJane Manchun Wongවිසින් Google Photos සේවාව සඳහා ලබාදීමට සූදානම් වන නව feature එකක් හඳුනා ගැනීමට සමත් වී ඇති අතර ඇය පවසන පරිදි Google Photos මඟින් සෘජුවම Google account එකෙහි profile picture එක set කිරීමේ හැකියාව ලබාදීමට Google සමාගම සූදානම් වෙනවා.\n\nGoogle Photos is working on the ability to set a photo as the Google Account’s profile picturepic.twitter.com/ROEqALiY1J\n\nමෙම feature එක ලබාදෙන දිනයක් තවමත් වාර්ථා වී නොමැති අතර Jane ගේ Tweet එකෙහි පෙනෙන පරිදී Google Photos app එකෙහි ඔබේ නම search කරන විට “Set Profile Picture” යනුවෙන් button එකක් දිස් වන නමුත් මෙය තවමත් සාමන්‍ය පරිශීලකයින් හට පෙන්වන්නේ නැහැ.\n\nකෙසේ වෙතත් මේ වන විට පවතින ආකාරයටද ඔ‍බේ Google account එකේ profile picture එක වෙනස් කිරීම එතරම් අපහසු දෙයක් නොවන අතර ඕනෑම Google සේවාවක් වෙත ගිය විට පෙන්වන account dropdown menu එක හරහා තමන්ට හැමති image එකක් profile photo එක ලෙස යොදාගැනීමේ හැකියාව ලැබෙනවා.",
+  "category": "google",
+  "date": "2020-06-24",
+  "extraction_timestamp": "2026-02-20T12:11:51.338853",
+  "headline": "Google Account එකේ profile picure එක Google Photos හරහා මාරු කිරීමේ හැකියාව ලබාදෙන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-photos-may-soon-be-able-to-set-your-google-account-profile-picture/",
+  "word_count": 178
+}

@@ -1,0 +1,13 @@
+{
+  "body": "අතීතයේදී ලබාගත් satelite images භාවිතා කරමින් ලොව විවිධ ස්ථාන ඒ ඒ කාලයන් වලදී තිබුණු ආකාරය බැලිය හැකි පහසුකමක් Google Earth mobile app එක වෙත එකතු කිරීමට සූදානමින් සිටින බව මේ වන විට වාර්තා වෙනවා.\n\nමෙම පහසුකම මේ වන විට Google Earth Android app එකේ source code එක තුළ ඇතුලත් වන නමුත්, එය experimental preference setting එකක් හරහා enable කරගැනීමේ හැකියාවReddit පරිශීලකයෙකු විසින් පැහැදිලි කර තිබෙනවා.\n\nඉහත video එකේ පෙන්වා ඇති ආකාරයට මේ පහසුකම හරහා San Francisco නගරයේ පෙනුම 1930 - 1940 දශක වල සිට මේ දක්වා වෙනස් වූ ආකාරය නැරඹිය හැකි අතර, කාලය ගතවෙත්ම සිදු වූ වෙනස්කම් timelapse එකක් ආකාරයෙන් නැරඹීමේ හැකියාව ද පවතිනවා.\n\n#googleearth for#android.   Here's what#SanFranciscolooked like in 1938! I enabled some experimental settings and exposed Time Machine :)RT this?pic.twitter.com/2O5aCYuN9z\n\nකොහොම නමුත් ඇමෙරිකා එකසත් ජනපදයෙන් පිටත ප්‍රදේශ වලට අයත් images බොහෝ විට මේ ආකාරයෙන් දැකගැනීමේ හැකියාව අඩු බව XDA-Developers වෙබ් අඩවිය පෙන්වා දෙනවා. මීට හේතුව වන්නේ මෙම පහසුකම හරහා නැරඹිය හැක්කේ Google servers වල satellite images ඇති ප්‍රදේශයන් පමණක් වීම බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nකෙසේ නමුත් මෙම පහසුකම පිළිබඳව හෝ, මෙය නිකුත් කිරීමට නියමිත දිනයක් පිළිබඳව Google සමාගම විසින් තවමත් නිළ වශයෙන් ප්‍රකාශයක් සිදු කර නොමැති නමුත්, දැනටමත් මෙය Android app එක තුළ අන්තර්ගත වන බැවින්, ඉතාමත් ඉක්මණින් මෙය සාමාන්‍යය ජනතාවට නිකුත් කරනු ඇති බව අපේක්ෂා කළ හැකි වෙනවා.",
+  "category": "google",
+  "date": "2021-03-16",
+  "extraction_timestamp": "2026-02-20T12:07:15.159378",
+  "headline": "අතීතය නැරඹිය හැකි Time Machine feature එකක් Google Earth වෙත එකතු කිරීමට Google සමාගම සූදානම් වෙයි",
+  "source": "technews",
+  "tags": [
+    "google"
+  ],
+  "url": "https://technews.lk/google-earth-is-preparing-a-neat-time-machine-feature-that-shows-you-the-past/",
+  "word_count": 212
+}

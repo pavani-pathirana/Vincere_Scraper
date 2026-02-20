@@ -1,0 +1,13 @@
+{
+  "body": "Xiaomi ජංගම දුරකථන වල pre-installed App Store එකෙන් හැර, Android Apps sideload කිරීම, එහෙමත් නැතිනම් APK file හරහා Android apps install කිරීමේ හැකියාව අවහිර කිරීමේ option එකක් අත්හදාබලමින් පවතිනවා.\n\nPure Mode යන නමින් හඳුන්වන මෙම option එක MIUI වෙත හඳුන්වාදීමට කටයුතු කළහොත්, එය enable කර ඇති ජංගම දුරකථන භාවිතා කරන්නන් හට apk file හරහා apps install කිරීමේ හැකියාව අහිමි වී යනවා.\n\nතම ජංගම දුරකථන පරිශීලකයින්ගේ ආරක්ෂාව උදෙසා මෙම පියවර ගැනීමට Xiaomi සමාගම තීරණය කර ඇති බව ද වාර්තා වෙනවා.\n\nXiaomi සමාගම පෙන්වා දෙන්නේ පරිශීලකයින් විසින් install කරනු ලබන apk file වලින් 40%ක පමණ ප්‍රමාණයක් security check එකෙන් fail වන බවත්, 10%ක පමණ ප්‍රමාණයක් ජංගම දුරකථන වල ස්ථාපනය කරගත නොයුතු අනාරක්ෂිත වැඩසටහන් වන බවත් ය.\n\nමෙම පහසුකම මේ වන විටත් beta පරිශීලකයින් භාවිතා කරමින් අත්හදාබලමින් සිටින නමුත් සාමාන්‍ය පරිශීලකයින් හට නිකුත් කරනු ලබන කාළ වකවානුවක් පිළිබඳව තවමත් වාර්තා වන්නේ නැහැ.",
+  "category": "security",
+  "date": "2021-09-07",
+  "extraction_timestamp": "2026-02-20T12:05:32.304551",
+  "headline": "APK file හරහා apps install කිරීම අවහිර කිරීමේ option එකක් අත්හදාබැලීමට Xiaomi සමාගම කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/xiaomi-is-testing-miui-pure-mode/",
+  "word_count": 139
+}

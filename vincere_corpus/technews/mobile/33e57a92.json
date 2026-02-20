@@ -1,0 +1,13 @@
+{
+  "body": "පෙර ලිපියකින් Android සඳහා වන Discord beta පරිශීලකයින් සඳහා screen sharing පහසුකම පරීක්ෂා කිරීමට Discord ආයතනය සූදානමින් සිටින බව අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nපරීක්ෂණ මට්ටමේ පැවති මේ පහසුකම මූලිකව Discord mobile app එක පරිශීලනය කරනන්ගෙන් 20%ක ප්‍රමාණයකට ලබාදීමට කටයුතු කර තිබුණු අතර මේ වන විට එය සියළුම Discord mobile පරිශීලකයින් හට නිකුත් කිරීමට Discord ආයතනය කටයුතු කර තිබෙනවා.\n\nඔබ ජංගම දුරකථනය භාවිතා කරමින් game එකක් play කරන අවස්ථාවකදී හෝ YouTube/TikTok වැනි video එකක් තවත් පුද්ගලයින් සමඟ එකතු වී නැරඹීමට අවශ්‍යය වූ විටෙකදී මේ mobile screen sharing පහසුකම හරහා ජංගම දුරකථනයේ screen එක තවත් පුද්ගලයින් සමඟ share කරගැනීමට හැකියාව ලැබෙන බවත්, එය screen එක මත ඉතා විශාල වශයෙන් motion එකක් තිබෙන අවස්ථාවකදී පවා ඉතාමත් හොඳින් ක්‍රියාත්මක වන ලෙස නිර්මාණය කර ඇති බවත් Discord ආයතනය පෙන්වා දෙනවා.\n\nඔබත් Discord පරිශීලකයෙක් නම් ඉහත දැක්වෙන video එකෙහි ආකාරයට, Discord voice calling interface එකෙහි පහළ ඇති toolbar එකෙහි තිබෙන නව icon එක මත tap කළ විට ලැබෙන confirmation dialog එකෙහි ඇති “Start Now” button එක tap කිරීම මගින් මෙම විශේෂාංගය භාවිතා කළ හැකි වෙනවා.",
+  "category": "mobile",
+  "date": "2020-12-19",
+  "extraction_timestamp": "2026-02-20T12:06:57.835460",
+  "headline": "Mobile screen sharing පහසුකම සියළුම පරිශීලකයින් හට නිකුත් කිරීමට Discord ආයතනය කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/discord-will-be-able-to-screen-share-from-ios-and-android-devices/",
+  "word_count": 171
+}

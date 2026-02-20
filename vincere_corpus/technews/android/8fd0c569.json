@@ -1,0 +1,13 @@
+{
+  "body": "Android 11 මෙහෙයුම් පද්ධතිය නිකුත් කර තවමත් ගත වී ඇත්තේ ඉතාම කෙටි කාලයක් වුවත් මේ වන විටත් එහි මීළඟ සංස්කරණය, එනම් Android 12 පිළිබඳව හා ඒ සමඟින් ලැබීමට නියමිත අලුත් features පිළිබඳව තොරතුරු ලැබෙමින් තිබෙනවා.\n\nHibernation feature එක එලෙස ලැබීමට නියමිත නව පහසුකමක් වන අතර, මෙම පහසුකම මඟින් ඔබේ Android ජංගම දුරකතනය තුල දී තුළදී ඔබ නිතර භාවිතා නොකරන app වල size එක තාවකාලිකව අඩු කර තබන අතර එමඟින් ඔබේ දුරකථනයේ storage එක ඉතිරිකර දීමට සමත් වෙනවා.\n\nඅප විසින් කුමන මාදිලියක Android දුරකථනයක් මිලදී ගත්තත්, ඒ සම්ඟ විශාල ප්‍රමාණයක apps pre-installed ලෙස අපට ලැබෙන අතර ඒ බොහෝමයක් app බොහෝ දෙනා භාවිතා නොකරන අතර, ඇතැම් ඒවා ඉඳහිට භාවිතා වනු දැකිය හැකියි.\n\nනමුත් භාවිතා කලත් නොකලත් එම app විසින් අත්පත් කරගෙන සිටින ඉඩ ප්‍රමාණය ඔබ එම apps unstall කරන තෙක්ම අත්පත් කරගෙන සිටින නිසා ඔබට අවශ්‍ය වෙනත් app එකක් install කරගැනීමට නොහැකි වීමේ අත්දැකීමකට ඔබ ඇතැම් විට මුහුණ දී ඇතිවාටද සැකයක් නැහැ.\n\nමේ අලුත් app hibernate කිරීමේ පහසුකම හරහා ඔබ නිතර භාවිතා නොකරන එවැනි apps හඳුනාගෙන එම apps වල cache එක ස්ව්‍යංක්‍රීයවම delete කර දැමීමේ හැකියාව ලැබෙන අතර ඉදිරියේදී cache එකට අමතරව data clear කිරීමේ හැකියාව ද එකතු වනු ඇති බව අනුමාන කෙරෙනවා.\n\nSo the first details of Android's app hibernation feature are here. If an app is hibernated for a single user, the system will clear cache. Google will add more for package-level hibernation (app is hibernated for all users).Source:https://t.co/q16Md5dKNuH/T@luca020400https://t.co/UC4JEoJI7fpic.twitter.com/9bqq1RjeBr\n\nකොහොම නමුත් මෙම පහසුකම පිළිබඳව තවමත් නිළ වශයෙන් කිසිඳු තොරතුරක් වාර්තා වී නොමැති අතර, මෙය Android Open Source Project, එහෙමත් නැතිනම් AOSP source code එකට අලුතින් එකතු කරනු ලැබූ code පිරීක්සීමේදී එහි ඇතුලත් වන Class එකක inline documentation එකකින් පමණක් සනාථ වී තිබෙනවා.\n\nමෙම නව feature එක තවමත් ආරංචියක් පමණක් වන නිසා බොහෝ තොරතුරු තවමත් අනාවරණය වී නැති අතර Android 12 පිළිබඳව වැඩි විස්තර ඉදිරියේදී නිකුත් වන විට, මෙම feature එක පිළිබඳවත් තවත් තොරතුරු දැනගැනීමට හැකියාව ලැබෙනු ඇති.",
+  "category": "android",
+  "date": "2021-01-19",
+  "extraction_timestamp": "2026-02-20T12:07:11.421208",
+  "headline": "Android 12 සංස්කරණය සමඟින් App Hibernate කළ හැකි අලුත් පහසුකමක් ලබාදීමට Google සමාගම සූදානම් වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-is-working-on-an-app-hibernation-feature-for-android/",
+  "word_count": 307
+}

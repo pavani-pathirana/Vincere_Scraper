@@ -1,0 +1,13 @@
+{
+  "body": "බොහෝ වෙලාවට මේ news එක කියවන බොහෝ දෙනෙක්Windows 95කියන මෙහෙයුම් පද්ධතිය එදිනෙදා භාවිතා කරන්නට අවස්ථාවක් නොලැබුණු අය වෙන්නට බොහෝ ඉඩක් තිබෙනවා.\n\nකොහොම නමුත් ඔන්න දැන් මේ Windows 95 OS එක Windows, Linux සහ Mac system වල install කරලා භාවිතා කරන්න පුළුවන් විදිහේ app එකක් ආකාරයට නිර්මාණය කරලා තියනවා.\n\nGitHubඑකට අයිති වෙනElectron කියන framework එකතමයි මේ app එක නිර්මාණය කරන්න භාවිතා කරලා තියෙන්නේ.Cross-platformapps, ඒ කියන්නේ එක පාරක් code කලාම, ගොඩක් platform වල භාවිතා කරන්න පුළුවන් විදිහේ apps නිර්මාණය කරන්න මේ electron framework එක හරහා අපිට අවස්ථාව ලැබෙනවා.\n\nWhatsApp, Skype වගේම Visual Studio Code වගේ ප්‍රසිද්ධ apps නිර්මාණය කරන්නත් මේ Electron framework එක භාවිතා කරලා තියනවා.\n\nඉතින් මේ app එකේ නිර්මාතෘවරයා කියන විදිහට ඔයා මොන මෙහෙයුම් පද්ධතියක් භාවිතා කලත්, මේ Electron app එක install කරගැනීමෙන් පසුව අපිට Windows 95 වල සම්පූර්ණ අත්දැකීමක් විඳගන්න පුළුවන් වෙනවා.\n\nමේ හරහා ඔයාගේ ප්‍රියතම DOS Game එක වුණත් ආයෙත් සැරයක් play කරලා බලන්න ඔයාට අවස්ථාව ලැබෙනවා.\n\nඉතින් ඔයත් කැමතියි නම් මේ Windows 95 තිබුණු කාලෙට ආපහු ගිහින් ඒ හැඟීම ආයෙත් පාරක් විඳලා බලන්න,මේ GitHub Page එකහරහා ඔයාගේ operating system එකට ගැලපෙන file එක තෝරගෙන install කරලා බලන්න.",
+  "category": "microsoft",
+  "date": "2018-08-24",
+  "extraction_timestamp": "2026-02-20T12:13:20.294100",
+  "headline": "Windows 95 දැන් app එකක් වශයෙන් Linux, Mac සහ Windows වලදී භාවිතා කළ හැකි වේ",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/windows-95-daen-app-ekk-vshyen-linux-mac-sh-windows-vldii-bhaavitaa-kll-haeki-vee/",
+  "word_count": 180
+}

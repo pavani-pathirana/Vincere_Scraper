@@ -1,0 +1,13 @@
+{
+  "body": "අද මම ඔයාලට කියන මේ Windows කාන්ඩය හදලා තියෙන්නේ සාමාන්‍යය ලැප්ටොප් වල වගේම ARM based ලැප්ටොප් සහ ටැබ් වල ධාවනය කරන්න පුළුවන් විදිහට.ඒ කියන්නේ Windows 10 in S mode තියන ARM based ලැප්ටොප් වෙළදපලට එනවා/ඇවිත් කියන එක.\n\nඉතින් මේ QUALCOMM® SNAPDRAGON™ 835 හා SNAPDRAGON™ 845 කියන චිප් සමඟින් එන පරිගණක වලින් Windows 10 in S mode කියන OS භාවිතා කරලා ගොඩාක් වැඩ කරන්න පුළුවන්. මේ අළුත් පද්ධතිය සමග HP, ASUS, Acer වගේම Microsoft Surface Laptop එකත් එනවා මේ හැම එකම ARM නොවුනත් HP envy x2 හි ARM මාදිලියක් වෙළඳපලට නිකුත් වෙලා තියනවා. මේ Windows 10 in S mode එක  Windows 10 Home in S mode හෝ  Windows 10 Pro in S mode කියල තමයි බොහෝ දුරට එන්නේ. ඒ වුනත් Microsoft සමාඟම April 2018 Update එකත් එක්කම  Windows 10 S උපකරණ  Windows 10 Pro in S mode උපකරණ බවට යාවත්කාලීන කරල තියනවා.\n\nකොහොම වුනත් තවමත් Windows 10 Pro තරම් දෙයක් මේ පද්ධතිය හරහා බලාපොරොත්තු වෙන්න නම් අපහසුයි. නුදුරු අනාගත අපේක්ශාව නම් Windows 10 S පද්ධතිය Windows 10 Pro දක්වාම යාවත්කාලීන කිරීමයි. කෙසේ වෙතත් SNAPDRAGON™ 845 සමඟින් Windows 10 Pro පරිගණක එළි දකිනු ඇත.\n\nදැනට x86 මෘදුකාංග තමයි අත්හදා බලලා තියෙන්නේ ඒ වාගේම ARM 64 bit තුළ  x86 emulate කිරීමක් තමයි මේ අළුත් ක්‍රමය.\n\nකෙසේ වෙතත් මේ සමග භාවිතා කළ හැක්කේ Microsoft සහතික කරණලද Apps පමණක් වීම ඔබ ඉතා හොඳින් සිතා බැලිය යුතු කරුණකි.\n\nනිර්දේශයක් වේද එය නම්  Windows 10 ARM පරිගණකයක් Windows 10 in S පරිගණකයකට වඩා පුද්ගලිකව මට නම් වටිනවාමොකද මම හිරවෙන්න කැමති නෑ එහෙමත් නැතිනම් ක්‍රමයක් ඇති ඇපල් හිරෙන් නිදහස් කලා වගේම මේ  Windows 10 in S එකත් නිදහස් කරන්න.\n\nARM based hp laptop එක ගැන අරන් ආයෙත් එන්නම්.",
+  "category": "microsoft",
+  "date": "2018-05-22",
+  "extraction_timestamp": "2026-02-20T12:13:46.587753",
+  "headline": "Windows 10 වල S mode ගැන දැනගනිමු",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/windows-10-s-mode/",
+  "word_count": 270
+}

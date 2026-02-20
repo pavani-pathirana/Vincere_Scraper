@@ -1,0 +1,13 @@
+{
+  "body": "Starlink යනු Elon Musk සතු SpaceX සමාගම විසින් නිර්මාණය කරන ලද satellite network එකක් වන අතර satellite තාක්ෂණය ඔස්සේ සමස්ත ලෝකයටම අඩු මිලට අන්තර්ජාල පහසුකම් ලබාදීම මෙහි අරමුණ වෙනවා.\n\nමෙම network එකට අයත්satellites 700ක් පමණ මේ වන විට පහල පෘථිවි කක්ෂයේ ස්ථානගත කර ඇති අතරලොව පුරාවට ප්‍රශස්ත ආවරණයක් සැපයීම සඳහා satellite 12,000 ක් පමණ කක්ෂගත කිරීමට ඔවුන් සැළසුම් කර තිබෙනවා.\n\nFalcon 9 launches 58 Starlink satellites and 3@planetlabsSkysats to orbit before returning to Earth and landing on a droneshippic.twitter.com/K6OjgJQZfv\n\nමේ network එක අවම තත්ත්වයෙන් ක්‍රියාත්මක කරවීම සඳහා satellite 400ක් පමණ අවශ්‍යය වන බව ඔවුන් පෙන්වාදී තිබුණු අතර අවසානයට කක්ෂගත කෙරුණු satellite ද ඇතුළුව මේ වන විට ඇති satellite 700කින් පමණ මෙහි beta පරීක්ෂණ ආරම්භ කිරීමට SpaceX ආයතනය කටයුතු කර තිබෙනවා.\n\nමේ අතර අන්තර් satellite , එහෙමත් නැතිනම් satellite - satellite අතර සම්බන්ධතාවය පවත්වාගැනීම සඳහා Space Laser තාක්ෂණය භාවිතා කරනු ලබන අතර මේ වන විට මේ හරහා 100Mbps වලට අධික internet speed එකක් ලබාගැනීමට ඔවුන් හට හැකියාව ලැබී ඇති බව වාර්ථා වෙනවා.\n\nResults from these tests have shown super low latency and download speeds greater than 100 mbps – fast enough to stream multiple HD movies at once and still have bandwidth to spare\n\nමෙහි මූලික අදියර වල දී එය 11 Mbps සිට 60 Mbps දක්වා වූ download වේගයක් හා 5 Mbps සිට 18 Mbps දක්වා වූ upload speed එකක් පමණක් වාර්තා කර තිබූ අතර ඒ නිසා මෙම නවතම වේගය සැලකිය යුතු වර්ධනයක් බව සමාගම පෙන්වා දෙනවා.\n\nකොහොම වුනත් දැනට වාර්තා කර ඇති වේගය මෙම තාක්ෂණයේ අපේක්ෂිත අන්තර්ජාලය වේගය නොවන අතර, අපේක්ෂිත වේගය 1Gbps තරම් ඉහල අගයක්, එනම් දැනට වාර්තා කර ඇති වේගය මෙන් දස ගුණයක වැඩි වේගයක් වෙනවා.\n\nමේ ආකාරයේ satellite 4,400ක් පමණ කක්ෂගත කළ පසුව එම වේගය ලබාගැනීමට හැකියාව ලැබෙනු ඇති බව ඔවුන් වැඩිදුරටත් ප්‍රකාශ කරනවා.\n\n2021 වසර අවසන් අවසන් වීමට පෙර ගෝලීය ආවරණය සම්පූර්ණ කිරීම ආසන්න වීමට SpaceX සමාගමේ අපේක්ෂා කරනු ලබන අතර පරිශීලකයන් හට කුඩා ඇන්ටනාවක් භාවිතා කරමින් මෙම අන්තර්ජාල සේවය ලබාගත හැකි වනු ඇති බව වාර්තා වෙනවා.\n\nමේ අතර ඇතැම් තාරකා විද්‍යාඥයන් මෙම ව්‍යාපෘතියට සිය අප්‍රසාදය පළකරන අතර එයට හේතුව නම් මෙලෙස කුඩා satellite දහස් ගණනක් පෘථිවියේ පහළ කක්ෂවල රැඳවීම මගින් රාත්‍රී අහස නිරීක්ෂණයට බාධා ඇතිවීමයි.",
+  "category": "technology",
+  "date": "2020-09-07",
+  "extraction_timestamp": "2026-02-20T12:10:03.798786",
+  "headline": "Starlink ව්‍යාපෘතියේ මූලික beta පරීක්ෂණ වලදී 100Mbps දක්වා වූ අන්තර්ජාල වේගයක් ලබාගැනීමට SpaceX සමාගම සමත් වෙයි",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/starlink-satellite-internet-can-download-100-megabits-per-second/",
+  "word_count": 350
+}

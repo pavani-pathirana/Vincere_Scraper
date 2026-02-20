@@ -1,0 +1,13 @@
+{
+  "body": "පසුගිය ජුනි 22 වැනි දින Apple සමාගම විසින් ඔවුන්ගේ iOS මෙහෙයුම් පද්ධතියේ අලුත්ම සංස්කරණය වන iOS 14 සංස්කරණය එළිදැක්වීමට කටයුතු කළ බව අපි ඔබව දැනුවත් කළා මතක ඇති.\n\nමේ iOS 14 වලට හඳුන්වාදුන්නව feature එකක් වනයම්කිසි app එකක් මඟින් clipboard content access කරනු ලබන විට පරිශීලකයන් හට ඒ පිළිබඳව alert එකක් මගින් දැනුවත් කිරීමට කටයුතු කරනු ලබනවා.\n\niOS 14 වෙත update කරන ලද පරිශීලකයන් හට TikTok app එක විසින් නිරන්තරයෙන්ම තමන්ගේ ජංගම දුරකතනයේ clipboard එකට ප්‍රවේශ වන බව දන්වන alert දර්ශනය වුණු අතර, TikTok app එක background එකෙන් run වන අවස්ථා වලදී පවා පරිශීලකයාගේ අනුදැනුමකින් තොරව clipboard content access කරනු ලබන බව මේ අනුව හෙළි වී තිබෙනවා.\n\nOkay so TikTok is grabbing the contents of my clipboard every 1-3 keystrokes. iOS 14 is snitching on it with the new paste notificationpic.twitter.com/OSXP43t5SZ\n\nමෙලෙස clipboard එක වෙත access කරනු ලබන්නේ පරිශීලකයින්ගේ spammy behavior එක හඳුනාගැනීමට බව Telegraph වෙබ් අඩවිය වෙත ප්‍රකාශයක් නිකුත් කරමින් TikTok ආයතනය ප්‍රකාශ කර ඇති අතර කොහොම නමුත් එම විශේෂාංගය ඉවත් කරනු ලබන බව ද ප්‍රකාශ කර සිටිනවා.\n\nවිශේෂාංගය ඉවත් කිරීම සඳහා update එකක් දැනටමත් ‌App Store වෙත ඉදිරිපත් කර ඇති අතර නව update එක download කිරීමෙන් අනතුරුව තහවුරු වන පරිදි TikTok තවදුරටත් clipboard වෙත පිවිසෙන බවක් නොපෙනෙන බව වාර්ථා වෙනවා.\n\nTikTok විසින් Android devices වලින් මෙම විශේෂාංගය ඉවත් කරනු ඇත්ද යන්න හෝ clipboard දත්ත කවදා හෝ ගබඩා කර තිබේද යන්න පිළිබඳව ප්‍රකාශයක් කර නොමැති අතර මීට අමතරව Starbucks, Overstock, AccuWeather ඇතුළු තවත් apps කිහිපයක්ද මෙලෙස clipboard content වලට ප්‍රවේශ වන බවට අනාවරණය වී ඇත.",
+  "category": "security",
+  "date": "2020-06-27",
+  "extraction_timestamp": "2026-02-20T12:08:49.425280",
+  "headline": "TikTok app එක හොර රහසේම clipboard එක access කිරීම iOS 14 හරහා අනාවරණ වීමත් සමඟින් එය නවත්වන බව ප්‍රකාශ කරයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/tiktok-says-it-will-stop-accessing-clipboard-content-on-ios-devices/",
+  "word_count": 246
+}

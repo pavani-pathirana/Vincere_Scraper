@@ -1,0 +1,13 @@
+{
+  "body": "Microsoft ආයතන​ය මඟින් ලබා දෙන Microsoft 365 සේවාවේ බිඳ වැටීමක් හේතුවෙන් ලොව පුරා පරිශීලකයන් හට Microsoft Outlook ස​හ Teams සේවා වෙත ප්‍රවේශ වීමට නොහැකි බව වාර්ථා කර තිබෙනවා. එමෙන්ම එක්සත් රාජධානියේ ප​මණක් පරිශීලකයන් 5000ක​ට Outlook වෙත පිවිසීමට නොහැකි යැයි විදෙස් මා​ධ්‍ය වාර්තා කර ​තිබු​ණා.\n\nකෙසේ වෙතත් Microsoft ආයතනය විසින් මෙම බිඳවැටීම් සම්බන්ධව නි​​ළ වශයෙන් Twitter පණිවුඩයක් නිකුත් කර තිබුණා. ඔවුන් වැඩි දුරටත් සඳහන් කර තිබුණේ ඔවුන් විසින් දෝෂයන් හඳුනාගෙන ඇති බවත් කඩිනමින් මෙම ගැටළුව නිරාකරණය කිරීමට කටයුතු යොදමින් සිටින බවත්ය.\n\nWe're investigating issues impacting multiple Microsoft 365 services. More info can be found in the admin center under MO502273.\n\nMicrosoft Outlook ස​හ Teams සේවාවලට අමතරව තවත් සේවාවන් රැසක් මේ සමඟ අකර්මණ්‍ය වී තිබෙනවා.Microsoft Service Health Statusවෙබ් පිටුවේ සඳහන් කර තිබූ ආකරයට ඉහත සඳහන් කළ සේවාවන් ඇතුළුවන් සේවාවන් 10කට අධික ප්‍රමාණයක් මේ වන විට බිඳ වැටී තිබෙනවා.\n\nවිදෙස් මාධ්‍ය විසින් වැඩි දුරටත් සඳහන් කර තිබුණේ සේවා සහ සේවක කප්පාදුව​ත් සම​ඟ බොහෝ ආයතන සහ සමාග​ම් වෙත සිය සේවාවන් කළමණාකරණය කර ගැනීමට අපහසු වී තිබෙන බවයි.",
+  "category": "microsoft",
+  "date": "2023-01-25",
+  "extraction_timestamp": "2026-02-20T12:06:39.712844",
+  "headline": "Microsoft 365 සේවාවේ බිඳවැටීම​ක් හේතුවෙ​න් Outlook ස​හ Teams සේවා අකර්මණ්‍ය ​වේ",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsoft-teams-outlook-down-outage-issues/",
+  "word_count": 163
+}

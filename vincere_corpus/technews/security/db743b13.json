@@ -1,0 +1,13 @@
+{
+  "body": "පරිශීලක දත්ත සුරකින සමාගමක් ලෙස නම් දැරූ DuckDuckGo විසින් Microsoft වෙත පරිශීලකයන් track කරන්න ඉඩ ලබාදීමේ සිදුවීමක් පසුගිය දිනෙක වාර්තා වුණා. \"the internet privacy company,\" ලෙස තමන්ව හඳුන්වා ගන්නා \"privacy-focused\" එසේ නැති නම් සේවාවන් භාවිත කරන පරිශීලකයන්ගේ දත්ත ආරක්ෂණය වෙනුවෙන් කැපවන බවට නම් දැරූ, ප්‍රකට සමාගමක් හා සෙවුම් යන්ත්‍රයක් (search engine) ලෙස DuckDuckGo අප කා අතරත් ජනප්‍රියයි. Google ඇතුළත්ව අනෙක් සෙවුම් යන්ත්‍ර මෙන් පරිශීලකයන්ගේ search සහ අන්තර්ජාල ක්‍රියාකාරකම් සටහන් කර නොගන්නා බව තමයි ඔවුන්ගේ ප්‍රධානතම තේමාව බවට මෙතෙක් පත්වුණේ.\n\nSometimes you find something so disturbing during an audit, you've gotta check/recheck because you assume that *something* must be broken in the test.But I'm confident now.The new@DuckDuckGobrowsers for iOS/Android don't block Microsoft data flows, for LinkedIn or Bing.🧵pic.twitter.com/ol7Ydfo3BJ\n\nMicrosoft සමාගම සමග ඇති යම් ගිවිසුමකට අනුව DuckDuckGo විසින් Microsoft සමාගමේ tracking scripts හරහා පරිශීලක දත්ත Bing, LinkedIn වැනි Microsoft සමාගම සමග සම්බන්ධ සේවාවන් වෙත යැවීමට හා ඒ හරහා පරිශීලකයන් track කිරීමට ඉඩ ලබාදෙන බව, Cybersecurity සහ privacy researcher Zach Edwards අනාවරණය කළා. DuckDuckGo සමාගමේ CEO Gabriel Weinberg විසින් Zach Edwards වෙත ට්විටර් මගින් මේ කාරණාව තමන් පිළිගන්නා බව තහවුරු කර තිබෙනවා. සමාගමේ නියෝජිතයන් මේ පිළිබඳව විදෙස් මාධ්‍ය කළ විමසීම් වලදී ප්‍රකාශ කර තිබෙන්නේ සමාගම මේ ගැටලුව විසඳීමට දැනටමත් ක්‍රියා කරමින් සිටිනා බවයි.",
+  "category": "security",
+  "date": "2022-06-02",
+  "extraction_timestamp": "2026-02-20T12:05:18.726922",
+  "headline": "DuckDuckGo විසින් Microsoft වෙත පරිශීලකයන් track කිරීමට ඉඩ සළසයි",
+  "source": "technews",
+  "tags": [
+    "security"
+  ],
+  "url": "https://technews.lk/duckduckgo-microsoft-tracking-blocking-limit/",
+  "word_count": 200
+}

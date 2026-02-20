@@ -1,0 +1,13 @@
+{
+  "body": "Android Wear කියලා කලින් හඳුන්වපු Wear OS එක එහෙමත් නැත්තම් ඔය smart watch වගේ devices වල run වෙන android operating system එක මේ වෙනකොට පටන් ගන්නකොට තිබුණු තැනට වඩා ගොඩාක් ඉස්සරහට ඇවිත් තියනවා. ඒ වගේම Google Assistant එකත් මිලියන සිය ගණනක smartphones, tablets වගේම Google Home වගේ විශේෂයෙන්ම නිර්මාණය කරපු devices වලත් දැන් හොඳින් run වෙනවා.\n\nගොඩ කාලෙක ඉඳන්ම මේ Google Assistant ව Wear OS එකට integrate කරන්න Google සමාගම කටයුතු කරලා තිබුණා. ඔයාලා හැමෝම දන්නවා අැති මේ Google Assistant කියන්නේ කෘතීම බුද්ධිය (artificial intelligence) මත වැඩ කරන program එකක්. එ් කියන්නේ මේක වැඩිපුර බාවිතා කරන්න කරන්න, එයාගේ හැකියාවන් වැඩිදියුණු වෙනවා (හරියට torrent වල download කරන අය වැඩිවෙන තරමට speed එක වැඩි වෙනවා වගේ).\n\nමේ smartwatch කියන දේ අපි හිතපු තරම් ජනප්‍රිය වුණේ නැති වුණත්, දැනට මේවා බාවිතා කරන අය නම් ඒවා ගැන ගොඩක් ආසාවෙන් ඉන්න බවක් තමයි පේන්න තියෙන්නේ. මෙයාලා තමන්ගේ phone එක එළියට ගන්නේ නැතුව, Google Assistant ව බාවිතා කරන පහසුකම විඳින ගමන්ම තවත් පහසුකම් කිහිපයක්ම Google සමාගමෙන් ඉල්ලලා තිබුණා. මේ අැවිල්ලා තියන update එක එ් ඉල්ලපු පහසුකම් එකතු කරලා හදපු එකක් වගේම, user experience එක තව දුරටත් වැඩි කරන්න Google ලා කටයුතු කරලා තියනවා.\n\nඋදාහරණයකට ගත්තොත්, smart suggestions කියන එකෙන්, අපි දැනට කරමින් සිටින කාර්යය පාදක කරගෙන follow up questions හරි responses හරි ලබා දෙන්නත්, එ් ඔස්සේ conversation එක දිගටම කරගෙන යන්නත් පුළුවන් වෙනවා.\n\nඑ් කියන්නේ, ඔයා weather එක ගැන අැහුවොත්, ඔයාට weather information ගැන කියලා ඉවර වුණාම එන suggestion වශයෙන්, අද රෑට, හෙට එහෙමත් නැත්තම් මේ සතිඅන්තයේදී මොන වගේ weather එකක් තියෙයිද කියලා දැනගන්න අවස්ථාව ලැබෙනවා. එ් වගේම sepaker එකක් තියන smartwatch වලදී මේ assistant ට පුළුවන් එ්ක බාවිතා කරලා ඔයාට voice වලින්ම පිළිතුරු දෙන්නත්.\n\nමේ වෙනකොට Google Assistant ට පුළුවන් වෙලා තියනවා එක එක actions මිලියනයක් පමණ කරන්න. එ් වගේම මේ update එකෙන් පස්සේ, එ් හැම action එකක්ම වගේ මේ Wear OS එකට අැතුලත් වෙනවා. මේ වගේ actions setup කර ගැනීමෙන් පස්සේ ඔයාට පුළුවන් ඔයාගේ smart watch එකට කියලා smart oven එක රත්වෙන්න දාන්න වගේ තව ගොඩක් දේවල්  කරගන්නත්.",
+  "category": "android",
+  "date": "2018-05-04",
+  "extraction_timestamp": "2026-02-20T12:22:29.110859",
+  "headline": "Wear OS එක Google Assistant සමඟින් තවත් smart වෙයි",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/wear-os-google-assistant-smart/",
+  "word_count": 324
+}

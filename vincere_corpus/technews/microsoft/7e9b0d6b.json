@@ -1,0 +1,13 @@
+{
+  "body": "මීට වසරකට පමණ ඉහත දී Microsoft සමාගම විසින් Visual Studio Online සේවාව හඳුන්වා දෙන ලද අතර එය මූලික වශයෙන් ඔබගේ Web Browser එකේ හරහා භාවිතා කළ හැකි, hosted Full Code Editor එකක් ලෙස ක්‍රියාත්මක වෙනවා.\n\nමෙමගින් ඔබගේ project එකට අවශ්‍ය කිසිදි බාහිර සැකසීමක් නොමැතිව remote location එකක තිබෙන development environment එකකට ඔබට බ්‍රව්සරය හරහා පිවිසීමේ හැකියාව ලැබෙනවා.\n\nමෙය Microsoft සමාගම විසින් Open Source IDE එකක් ලෙස නිර්මාණය කෙරුණු Visual Studio Code මත පදනම් වී ඇති අතර ඒ අනුව Visual Studio හි ඇති සියලු extensions මේ සඳහා ක්‍රියාත්මකයි.\n\nAzure web App එකක් සෑදූ විට මෙය නොමිලේම enable වෙන අතර Team එකකට වුවත් එකවර එකම Codebase එකේ development කිරීමේ පහසුකම ද, git මගින් deployment සහ Source Controlling ද ක්‍රියාත්මක කරගැනීමේ හැකියාව තිබෙනවා.\n\nMicrosoft සමාගම නිවේදනයක් නිකුත් කරමින් ප්‍රකාශ කර සිටින්නේ මෙම සේවාවේ නමVisual Studio CodeSpaceලෙස වෙනස් කරනු ලබන බවත්, ඒ සමඟම සේවාවේ මිල 50% ට වඩා පහත හෙලන අතර පැයකට ඩොලර් සත 8 (ආසන්න වශයෙන් රුපියල් 15ක් පමණ) සිට ආරම්භ වන බවත් ය.\n\nමේ නව මිල ගණන්Microsoft (මෙවර Virtual) Build Developers සමුළුවේපළමු දිනය වන මැයි 19 වැනි දින සිට ක්‍රියාත්මක වන බව ඔවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nඑමෙන්ම මේ මිල පහත වැටීම් අතර, Quad Core, 8GB RAM සහිත යන්ත්‍රයක් සඳහා පැයකට තිබූ ඩොලර් සත 45 මිල ඩොලර් සත 17 දක්වා අඩු වන අතර බොහෝ developers ලාට එතරම් powerful පරිගණක අවශ්‍ය නොවන බැවින් පැයට ඩොලර් සත 8 ක මුදලකට core එකෙකින් සහ 4 GB RAM එකක් සහිත මූලික plan එකක් හඳුන්වා දීමට ඔවුන් කටයුතු කර තිබෙනවා.",
+  "category": "microsoft",
+  "date": "2020-05-04",
+  "extraction_timestamp": "2026-02-20T12:09:47.812395",
+  "headline": "Visual Studio Online Code Editor එක දැන් Visual Studio CodeSpaces නම් වන අතර පැයට රු.15 දක්වා මිල අඩු කිරීමට කටයුතු කරයි",
+  "source": "technews",
+  "tags": [
+    "microsoft"
+  ],
+  "url": "https://technews.lk/microsofts-visual-studio-online-code-editor-is-now-visual-studio-codespaces-and-gets-a-price-drop/",
+  "word_count": 242
+}

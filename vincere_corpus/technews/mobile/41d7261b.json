@@ -1,0 +1,13 @@
+{
+  "body": "KaiOSකියන්නේ ලිනක්ස් පාදක කරගෙන, feature phone සඳහා නිර්මාණය කරන ලද මෙහෙයුම් පද්ධතියක්. මේක නිර්මාණය කරලා තියෙන්නේFirefox OSඑක නිර්මාණය කිරීමට බාවිතා කරන ලදBoot 2 Geckoව්‍යාපෘතිය පදනම් කරගෙනයි.\n\nඔන්න දැන් Google සමාගම ඔවුන්ගේ Youtube, Google Maps වගේම Google Assistant app එකත් මේ KaiOS වලට ගැලපෙන පරිදි නිර්මාණය කිරීමට සූදානම් වෙනවා. Google සමාගම මෙම KaiOS සමාගම වෙනුවෙන් මුදල් ආයෝජනය කිරීමට පසුගියදා එකඟ වුණා.\n\nමේ එකඟතාවය මත ඇති වූ අතුරු ප්‍රතිථලයක් ලෙස තමයි Google Maps, YouTube, සහ Assistant app එක මේ KaiOS devices වලට නිර්මාණය කිරීමට Google සමාගම කටයුතු කරන්නේ. ඒ අනුව ඔයාට KaiOS එක තියන feature phone එකක් තියනවා නම් ලඟදීම ඉහත සඳහන් කරන ලද apps ඔයාගේ feature phone එකෙත් බාවිතා කරන්න අවස්ථාව ලැබෙනවා.\n\nමේ KaiOS එක තිබෙන feature phones අතරින් එකක් තමයි JioPhone කියලා කියන්නේ. මේ JioPhone එකට 512MB RAM එකකුත් Qualcomm 205 කියන plaftorm එකට අදාල SoC එකකුත් තියනවා. මීට අමතරව අඟල් 2.4ක display එකකිනුත් සමන්විත වෙනවා.\n\nමේ KaiOS එකේ විශේෂත්වය වෙන්නේ මෙය සම්පූර්ණයෙන්ම වගේ නිර්මාණය කරලා තියෙන්නේ HTML5, JavaScript සහ CSS වැනි web technologies බාවිතා කරමින් වීමයි. ඉතින් මෙය බොහෝ සැහැල්ලු මෙහෙයුම් පද්ධතියක් බව ඔබට තේරුම්ගන්න පුළුවන් ඇති.\n\nඒ වගේම මේ වෙනකොටත් මේ දුරකථනයට Google Assistant app එක ලබාදීමට Google සමාගම කටයුතු කරලා තියනවා. මීට අමතරව Nokia 8110 4G කියන දුරකථනය මත ධාවනය වෙන්නෙත් මේ KaiOS එකමයි.\n\nඑමෙන්ම TCL, Nokia phones නිෂ්පාදනය කරන HMD Global සහ Micromax වගේ තවත් දුරකථන නිෂ්පාදකයන් සමඟ අළුත් devices නිෂ්පාදනය කිරීමට මෙම KaiOS Technologies කියන ආයතනය බළාපොරොත්තු වෙනවා.එමෙන්ම පාරිභෝගිකයාට දරාගතහැකි පහසු මිළකට මේ feature phones නිෂ්පාදනය කර බෙදාහැරීමට මොවුන් බළාපොරොත්තු වෙනවා.",
+  "category": "mobile",
+  "date": "2018-06-28",
+  "extraction_timestamp": "2026-02-20T12:23:13.520329",
+  "headline": "Google Maps, YouTube, සහ Assistant යන Apps KaiOS වෙනුවෙන් නිර්මාණය කිරීමට පියවර ගනියි",
+  "source": "technews",
+  "tags": [
+    "mobile"
+  ],
+  "url": "https://technews.lk/google-maps-youtube-assistant-coming-to-smart-feature-phones-running-kaios/",
+  "word_count": 246
+}

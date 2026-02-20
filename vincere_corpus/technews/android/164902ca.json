@@ -1,0 +1,13 @@
+{
+  "body": "Google Play Store හි සිදුකළ නවතම APK teardown එකක් මගින් තොරතුරු කිහිපයක් අනාවරණය කර ගැනීමට9to5Google වෙබ් අඩවියසමත් වී තිබෙන අතර ඒ අනුව දැනට පවතින “My Apps & games” section එකෙහි වෙනස්කම් කිහිපයක්ම දැකගත හැකි වෙනවා.\n\nඑහිදී මෙතෙක් පැවති “My Apps & games” section එක “Manage apps & device” ලෙස rename කර ඇති අතර එම section එකෙහි දැනට පවතින “Updates” සහ “Beta” යන tabs “Overview” සහ “Manage” යන tabs මඟින් replace කර ඇති අතර “Install” සහ “Library” යන tabs සම්පූර්ණයෙන්ම ඉවත් කර ඇති බව දැක ගැනීමට හැකියාව තිබෙනවා.\n\nඉහත screenshots වල දැක්වෙන ආකාරයට “Overview” tab එක මඟින් available updates ලැයිස්තුගත කර ඇති අතර, ඊට පහළින් storage indicator එක සහ “Your ratings & reviews” සඳහා shortcut එකක් ලබා දී තිබෙනවා.\n\nනව “Manage” tab එක මඟින් පැරණි “Library” tab එක ඉවත් කර ඇති අතර ඔබ select කල filter එක මත පදනම්ව “Installed” හෝ “Not Installed” apps පෙන්වීමට කටයුතු කරනවා.\n\nමේ tab එකෙහි “Updates available” යනුවෙන් filter එකක් ​​ද ඇතුළත් වන අතර එමඟින් updates ලැබී ඇති දැනට install කර ඇති apps පෙන්වීමට කටයුතු කිරීමට අමතරව, games සඳහා dedicated filter එකක් ​​ද ලබාදී තිබෙනවා.\n\nRedesign කරන ලද “My Apps & games” section එකට සමගාමීව, Google සමාගම විසින් peer-to-peer app sharing පහසුකමක් Play Store වෙත හඳුන්වාදීමට නියමිතව ඇති බවද වැඩිදුරටත් වාර්තා වෙනවා.\n\nGoogle සමාගම විසින් 2018 වර්ෂයේ දී මීට සමාන app sharing පහසුකමක්third-party file manager එකක් වන Files Go හරහාඅත්හදා බැලීමට ආරම්භ කල අතර Google සමාගම විසින් Play Store වෙත මෙම පහසුකම ගෙන ඒමත් සමඟ, පරිශීලකයින් හට තම මිතුරන් සමඟ apps share කර ගැනීම සඳහා third-party file managers ස්ථාපනය කිරීමේ අවශ්‍යතාවයක් ඇති වන්නේ නැහැ.\n\nකෙසේ නමුත් ඉහත සඳහන් විශේෂාංග සහ වෙනස්කම් APK teardown එකක් ඔස්සේ අනාවරණය කරගත් තොරතුරු බැවින් ඒවා වර්තමාන ස්වරූපයෙන්ම පරිශීලකයින් වෙත නිකුත් නොවනු ඇති අතර මෙම විශේෂාංග stable channel එකකට ලබාදීමට පෙර Google සමාගම විසින් තවත් වෙනස්කම් සිදු කිරීමට ඉඩ තිබෙනවා.\n\nඑමෙන්ම තවමත් මෙම නව විශේෂාංග සම්බන්ධයෙන් Google සමාගම වෙතින් නිළ තොරතුරු කිසිවක් ලැබී නොමැත.",
+  "category": "android",
+  "date": "2020-09-12",
+  "extraction_timestamp": "2026-02-20T12:09:34.601172",
+  "headline": "Peer-to-peer app sharing පහසුකම Google Play Store වෙත එකතු කිරීමට Google සමාගම කටයුතු කරන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "android"
+  ],
+  "url": "https://technews.lk/google-play-store-prepares-to-add-peer-to-peer-app-sharing/",
+  "word_count": 312
+}

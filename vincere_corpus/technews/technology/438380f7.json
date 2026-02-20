@@ -1,0 +1,13 @@
+{
+  "body": "Google සමාගම විසින් පසුගිය නොවැම්බරයේදී Fitbit Smart watch සමාගම අත්පත් කර ගත් අතර එම ගණුදෙනුවට අදාල නීතිමය කටයුතු මෙම වසර අවසන් වීමට පෙර සම්පුර්ණ වීමට නියමිතයි.\n\nමේ අතර Fitbit සමාගම Fitbit Versa 2 Smart watch එක පසුගිය වසරේ අගෝස්තුවේ නිකුත් කල අතර එහි ධාවනය වූයේ Fitbit විසින්ම නිර්මාණය කල Wear OS එකක් වන නිසා එහි ඇතුලත් වූයේ Amazon Alexa voice assistant වැඩසටහනයි.\n\nමීට හේතුව වන්නේ Google Assistant, Google Wear OS එකට මිස වෙනත් OS එකක් සඳහා සෘජුවම සහාය නොදැක්වීමයි.\n\nකොහොම නමුත් එම කාරණය වෙනස් වන්නට යන පුවතක් මේ වන විට වාර්තා වන අතර Google සමාගම මෙම Fitbit Versa 2 වෙත Google Assistant පහසුකම ඇතුලත් කිරීමට සූදානම් වන බව Fitbit Android app එකේ code එක හරහා අනාවරණය කිරීමට 9to5google වෙබ් අඩවිය කටයුතු කර තිබෙනවා.\n\nමේ ආකාරයේ Google Assistant නම සහිතව resources සහ strings කිහිපයක් අලුත් Fitbit app එකේ අන්තර්ගත වීම නිසාවෙන් මෙම පහසුකම ඉදිරියේදී Fitbit පරිශීලකයින් හට ලබාදෙනු ඇති බව මොවුන් වැඩිදුරටත් පෙන්වා දෙනවා.\n\nඇත්තටම මෙය Fitbit Versa 2 වෙත එකතු කරනවාද නැතිනම් Versa 3 වෙත එකතු කරනවා ද යන්න පැහැදිලි නැතත් යම් හෙයකින් එය Versa 2 වෙත එකතු කළහොත් පරිශීලකයින් හට Voice Assistant ලා දෙදෙනෙකු ලැබෙන්නේ ද, නැතිනම් Google සමාගම විසින් Amazon Alexa, Fitbit Varsa 2 වෙතින් ඉවත් කරනවා ද යන්න පිළිබඳව ද තවමත් වාර්ථා වන්නේ නැහැ.\n\nVersa 2 මත Alexa Voice Assistant මඟින් timer එක set කිරීම, apps open කිරීම, weather reports open කිරීම, music play කිරීම, calls connect/disconnect කිරීම, home devices control කිරීම වැනි පහසුකම් භාවිතා කල හැකි වූ අතර Google Assistant වැඩසටහන ද මෙම පහසුකම් වලට සහාය දක්වනු ඇති බව අනුමාන කෙරෙනවා.\n\nකොහොම නමුත් මේ Fitbit Versa 2 smart watch එක mic එකක් අන්තර්ගත වන නමුත් තුල speaker එකක් අන්තර්ගත නොවන බැවින් සියළු output දත්තයන් පෙන්වීම සඳහා display එක භාවිතා කිරීමට සිදු වෙනවා.\n\nGoogle සමාගම විසින් මේ Google Assistant වැඩසටහන third-party smart watch එකකට ගෙන එන පළමු අවස්ථාව මෙය වන අතර, මෙය වෙනත් Wearable OS මත ධාවනය කලහැකි ලෙස නිර්මාණය කිරීමට බොහෝ 3rd Party App Developer වරුන් උත්සාහ කරනු ලැබුවත්, මේ දක්වා එය සාර්ථක වූ බවක් වාර්ථා වන්නේ නැහැ.",
+  "category": "technology",
+  "date": "2020-06-15",
+  "extraction_timestamp": "2026-02-20T12:13:03.464098",
+  "headline": "FitBit Smartwatch වෙත Google Assistant සේවාව අන්තර්ගත කිරීමට Google සමාගම සූදානම් වන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "technology"
+  ],
+  "url": "https://technews.lk/fitbit-is-preparing-to-bring-google-assistant-support-to-fitness-watches/",
+  "word_count": 332
+}
