@@ -1,0 +1,19 @@
+{
+  "author": "Nadun nethmalaka herath",
+  "body": "Oracle VirtualBoxයනු ඉතාමත් වටිනා, පහසුවෙන් භාවිතා කළ හැකි නොමිලේ ලබාගත හැකි cross-platform virtualization software එකක් වන අතර, එය Windows, Linux, macOS වැනි විවිධ operating systems එකම පරිගණකයකින්Virtuallyවෙන්ව භාවිතා කිරීමට ඉඩ සලසයි. VirtualBox හරහා virtual machines (VMs) නිර්මාණය කරමින් වෙනත් OS එකක් දැනට පවතින OS එක මත install කළ හැකි අතර, software testing, system experimentation, legacy systems support වැනි කටයුතු සඳහා ඉතාම ප්‍රයෝජනවත් වේ.\n\nVM එකකට අවශ්‍ය වන RAM, CPU, storage, network settings වැනි hardware resources ඔබට අවශ්‍ය පරිදි configure කළ හැකි අතර, snapshots ලබා ගනිමින් pause කළ VM එකක් යළි නැවතුන තැන සිට භාවිතා කිරීමද කල හැකිවේ. මෙය මූලිකවම වැදගත් වනුයේ risky software install කිරීමේදී හෝ virus/malware වලින් ප්‍රධාන system එකට බලපෑමක් නැතිව testing කිරීමේදීය. තවද, physical OS එකක් install කිරීමේදී වගේ shutdown හෝ restart වීමක අවශ්‍යතාව නැතිව, ඔබට කැමති වේලාවක pause කර නැවතත් VM එක නැවතුන තැන සිට පවත්වාගෙන යා හැකියි.\n\nනමුත් මෙයට මෙහෙයුම් පද්ධතියක් ස්ථාපනය කර එදිනෙදා භාවිතයට යොදාගැනීම නම් එතරම් සාර්ථක නොවේ . උදාහරණයක් ලෙස ඔබට Android games පරිගණකය තුල ක්‍රිඩා කිරීමට අවශ්‍ය නම්VirtualBoxඒ සදහා භාවිතා කිරීමට අදහස් කරන්නේ නම් එය එතරම් සාර්ථක නොවේ.\n\nVirtualBox යනු open-source software එකක් වන බැවින්, personal සහ commercial භාවිතය සඳහාද බාධාවකින් තොරව නොමිලේම ලබාගත හැකිය. පරිගණක පිලිබද මූලික දැනුමක් ඇති අයෙකුට මෙම මෙවලම පහසුවෙන් භාවිතා කළ හැකි අතර, advanced users ලා සඳහා command-line interface එකක්ද දක්නට ලැබේ. VirtualBox යනු secure, customizable සහ efficient solution එකක් වන අතර, software testing, educational labs, OS compatibility checking වැනි කටයුතු සඳහා ඉතාමත් හොඳම විකල්පයකි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:38:03.095086",
+  "headline": "මොකක්ද මේ Oracle VirtualBox කියන්නෙ ?",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "learn",
+    "OS",
+    "pcguidelk",
+    "technology",
+    "virtual"
+  ],
+  "url": "https://www.pcguide.lk/lets-learn-about-oracle-virtualbox/",
+  "word_count": 239
+}

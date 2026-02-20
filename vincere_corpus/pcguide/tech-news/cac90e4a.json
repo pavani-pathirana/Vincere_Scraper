@@ -1,0 +1,18 @@
+{
+  "author": "PCG author",
+  "body": "Instagram විසින් තමන්ගෙ users ලට posts වල like count එක සඳහා වඩා හොඳ control එකක් ලබා දෙන්නයි සූදානම් වෙන්නේ. මීට දින කිහිපයකට කලින් Instagram සමාගම දැනුම් දීල තිබුන මේ feature එක test කරන්න “small global test” එකක් තමන් කරගෙන යන බවයි. මේ test එකට සම්බන්ධ වෙලා ඉන්න users ලට like count එක සම්බන්ධයෙන් options 3ක් තෝරගන්න අවස්ථාව ලබා දීල තියනවා.\n\nමේ විදිහෙම feature එකක් Facebook වෙත ලබා දෙන්නත් සූදානමක් තියනව කියල අරංචි ලැබෙනවා, ඒත් ඒකෙ options කොහොම වෙයිද කියලනම් තවම හරියටම තොරතුරක් නෑ.\n\nමේ feature එක මීට කලින් ලෝකයේ සමහර regions වලට ලබා දීල තිබුන. නමුත් වෙනසකට තිබුනෙ users ලට තෝරගන්න options ලබා දීල තිබුනෙ නෑ. Instagram විසින් default ඒ users ලගෙ like counts දර්ශනය නොවෙන ලෙස සකසා තිබුන. මේ පිලිබඳව සමාගම අදහස් දක්වල තිබුනෙ users ල තමන් දකින post එකට ලැබිල තියන likes ගණනට වඩා ඒ photo එකට හෝ videos එකට අවධානය යොමු කල යුතු බවයි.\n\nමේ පිලිබඳ හුඟක් Instagram Influencers ල අකමැත්ත පල කරල තියනවා. මොකද තමන්ට ලැබෙන engagement එක ගැන brands වලට මේ feature එකත් එක්ක අදහසක් ගන්න බැරි වෙන නිසා. නමුත් Instagram ආයතනයනම් පවසන්නෙ තමන්ට ලැබෙන engagement එක ගැන තොරතුරු තමන්ට දකින්න හැකියාව තිබෙන නිසා ඒව brands වලට ඉදිරිපත් කිරීමේ හැකියාව පවතින බවයි. මේ Instagram likes එකිනෙකාව මනින මිම්මක් බවට බටහිර රටවල පත් වෙලා තියනවා. මෙය ඒ රටවල තරුණ තරුණයින් අතර විශාල මානසික ගැටලුවක්. ඉතින් මේ විදිහට custom experience එකක් ලබා දෙන එක නිවැරදි තීරණයක් බවයි බොහෝ දෙනා පවසනවා.\n\nFacebook ආයතනයත් මේ වගේම test එකක් 2019 වර්ශයේ කරා, ඒ reaction count එක සහ video view count එක off කිරීමට option එක ලබාදෙමින්. මේ අවුරුද්දෙ කරන මේ අලුත් test එකෙන් ලැබෙන ප්‍රතිඵල අනුව Facebook සඳහාත් මේ options ලැබෙනවාද නොලැබෙනවාද කියල තීරණය කරන බව සමාගම ප්‍රකාශ කරල තියෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:40:53.137322",
+  "headline": "Instagram posts like count එක on/off කරන Update එකක්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "feature",
+    "instagram",
+    "social media",
+    "update"
+  ],
+  "url": "https://www.pcguide.lk/instagram-post-engagement-control/",
+  "word_count": 280
+}

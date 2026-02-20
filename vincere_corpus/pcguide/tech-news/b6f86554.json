@@ -1,0 +1,11 @@
+{
+  "author": "Dimuthu Madusanka",
+  "body": "Social engineering attack යන්න මේ වෙනකොට cyber අවකාශය තුල හිසරදයක් වෙලා. Social Engineering Attack එකක් කියන්නෙ සරලවම පුද්ගලයකු සමඟ කතාබහ කරන විට උපායශීලීව ඔහුගෙන් ඔබට අදාල දෙයක් ගැන තොරතුරු ලබා ගැනීමයි. ‌මෙම තොරතුරු ලබා ගැනීමේදී එය ලබා ගන්නා පුද්ගලයා කරන්නෙ සැක නොහිතෙන විදිහට මේ කරුණු ගැන වෙනත් ආකාර වලින් දැනගැනීමයි.\n\nමේ විදිහටම Computer, Phone, Social Media හරහා අපට නොදැනෙන ලෙස අපගේ රහසිගත තොරතුරු username, passwords ලබාගැනීම සරලවම Cyber – Social Engineering attack එකක් වෙනව.\n\nSocial Engineering Attack එකක් කරන පහසුම ආකාරය පහත Video එකෙන් බලන්න\n\nමේ අනුව Social engineering attacks ආකාර කීපයකට සිදුවෙන්න පුළුවන්.\n\nComputer Based Social Engineering යනු පරිගණක පද්ධතියේ ඇති දුර්වලතා out of date Drivers , BIOS vulnerability, Software vulnerability තොරතුරු ආදිය නිරීක්ෂණය කොට පරිගණක පද්ධතියට ප්‍රහාර එල්ල කිරීමයි.\n\nඋදාහරණ ලෙසTrojan Horses: ඉතා වැදගත් මෘදුකාංගයක් ලෙස පෙනී සිටිමින් හෝ පරිශීලකයාගෙ සිත් ඇ ගන්නා ආකාරයට පෙනී සිටිමින් පරිගණකයට ඇතුල් වෙි. මෙහිදී තෝරා ගත් පද්ධතිය හෝ පරිගණකය රැවටීමකට ලක් කර ඔහුට malicious file එකක් download කර ගැනීමට සලස්වයි. එම file එක open කළ පසු ඔහුගෙ පරිගණකයේ back door එකක් අදාළ හැකර්වරයාට විවෘත වේ.Trojan Horses වෙනත් වෛරසවලට පරිගණකයට ඇතුල් වීමට ඉඩ ලබා දීීම, දත්ත මකා දැමීම, විවිධ දැන්වීම් පෙන්වීම සිදු කිරිම ආදිය සිදු කරයි.\n\nතවත් Computer based social engineering attack ක්‍රමයක් ලෙසDumpster Diving: පුද්ගලයකුගේ, ආයතනයක හෝ සමාගමක ජාලයකට පහර දීමට පෙර ඔවුන් පිළිබඳ තොරතුරු සෙවීමට ඔවුන් විසින් ඉවත් කළ විවිධ දෑ භාවිත කරමින් තොරතුරු ලබා ගැනීම සිදු කරයි.විවිධ ආයතන, සමාගම්, පුද්ගලයින් විසින් භාවිතයෙන් ඉවත් කරන දෑ විනාශ නොකර තබා ගනී. ඒ අතර phone book, system manuals , මූලික login නාම, මූලික password, මුද්‍රිත source code, රජයේ වාර්තා, බිල්පත්, වාර්තා ආදිය මගින් තොරුතුරු ලබා ගනී.මෙහි ඇති විශේෂත්වය නම් මේවා ඉවත ලූ කුණු ගොඩවල්ය. මොවුන් මේවා භාවිත කර ඉතා වැදගත් තොරතුරු ලබා ගනි. ඒ තුළින් attack කරන system එක පිළිබඳ දැනුවත් භාවයක් හා වටිනා තොරතුරු ලබා ගැනීමට හැකි වේ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:20:33.577735",
+  "headline": "Social engineering attack යනු කුමක්ද ?",
+  "source": "pcguide",
+  "url": "https://www.pcguide.lk/what-is-a-social-engineering-attack/",
+  "word_count": 296
+}

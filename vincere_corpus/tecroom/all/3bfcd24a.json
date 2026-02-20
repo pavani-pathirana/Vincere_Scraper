@@ -1,0 +1,19 @@
+{
+  "author": "ByEditorDecember 23, 2024122 Mins Read",
+  "body": "o1 module එකෙන් පසු o2 නැතුව o3 ලෙස තම නව AI module එක නම් කිරීමට OpenAI සමාගමට හේතුවක් තිබුණා.\n\nපසුගියදා OpenAI සමාගම ඔවුන්ගේ නවතම AI modules වන o3 සහ o3-mini නිල වශයෙන් හඳුන්වා දුන්නා. “12 Days of OpenAI” උත්සවයේ අවසාන දිනය වන දෙසැම්බර් 20 වෙනිදා මෙය සිදු කළත්, පරිශීලකයන්ට මෙම modules භාවිතා කිරීම සඳහා යම් කාලයක් බලා සිටීමට සිදු වේවි.\n\n2024 මුල් භාගයේ හඳුන්වා දුන්o1 modulesමත ගොඩනැඟි ඇති o3 සහ o3-mini මොඩලයන්, o1 modules වලට වඩා කෙතරම් බලවත්දැයි කිව යුතුදැයි අත්‍යවශ්‍ය නැහැ. මේ modules දැනටමත් public safety testing සහ research access සඳහා විවෘතව තිබෙන අතර, OpenAI වෙතින් ඒවා නිකුත් කිරීමට පෙර දැඩි පරීක්ෂාවට ලක් කරනු ලබයි.\n\no3 modules “private chain of thought” නමින් හඳුන්වන ක්‍රමවේදයක් භාවිතා කරයි. පරිශීලකයා ඇසූ ප්‍රශ්නයකට පිළිතුරක් ලබා දීමට පෙර, module එක සියළු පිළිතුරු විශ්ලේෂණය කර, ආවරණය නොකළ ලොකු මානසික reasoning ක්‍රියාවලියක් සිදු කරයි. මේ ක්‍රියාවලිය Simulated Reasoning (SR) ලෙස හැඳින්විය හැකිය. මෙය සාම්ප්‍රදායික LLM කාර්යභාරයන් ඉක්මවා යන සුළු අදියරක් වේ.\n\nමෙම module එක “o3” නමින් නම් කිරීමට ගත් තීරණය\n\nOpenAI, o3 modules වලට මෙම නම තැබීමට තීරණය කරන්නේ, එම නාමය O2 නම භාවිතා කරන බ්‍රිතාන්‍ය තාක්‍ෂණ සමාගමක Trademark සංකෝචනයක් වලක්වීමේ අරමුණින් බව The Information වෙබ් අඩවිය වාර්තා කරයි. මේ සම්බන්ධයෙන් OpenAI සමාගමේ ප්‍රධාන විධායක නිලධාරී Sam Altman පවසන්නේ තම සමාගම නම් තැබීම් සම්ප්‍රදායන් පිළිබඳව හොඳ ප්‍රවේශයක් නොපෙන්වූ බවයි.\n\no3 modules ARC-AGI benchmark ඇතුළු විවිධ අභිමානවත් පරීක්ෂණවලදී විශිෂ්ට ලෙස කාර්යක්ෂමත්වය පෙන්වා ඇත:\n\nOpenAI සමාගමගේ o3 සහ o3-mini modules, AI අනාගතයට වෙනසක් කිරීමේ දී විශාල වටිනාකමක් ගෙන එයි. පරිශීලකයන්ට එය අත්හදා බැලීමේ කාලය පැමිණෙන තුරු බලා සිටීමට සිදුවෙනවා.\n\nSource:The Information,OpenAI,Pymnts,Reuters,TechNews.lk",
+  "category": "all",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T20:13:11.874444",
+  "headline": "XpressJobs ශ්‍රී ලංකාවේ පළමු AI-බලගැන්වූ WhatsApp බඳවා ගැනීමේ සහයකයා දියත් කරයි",
+  "source": "tecroom",
+  "tags": [
+    "all",
+    "AI",
+    "News",
+    "OpenAI",
+    "Sinhala News",
+    "Tech News"
+  ],
+  "url": "https://tecroom.lk/openai-preps-o3-reasoning-model/",
+  "word_count": 253
+}

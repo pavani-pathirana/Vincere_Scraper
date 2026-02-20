@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "WhatsApp නිකුත් කරන beta release වලදි තමයි ඔවුන් නව විශේෂාංග වගේම සමහර පැරනි විශේෂාංග ඉවත් කිරීම වගේ දේවල් සිදුකරන්නෙ. ලගදි Android සදහා WhatsApp beta version 2.23.16.17 නිකුත් වුනා. එහි navigation bar එකෙ තිබෙන මෙනු අතර swipe කර මරුවෙන්න තිබුනු හැකියාව ඉවත් කර තිබෙනව. ඒවගෙම එහි මෙනු එක ඇපල් දුරකතන වල WhatsApp තිබෙන ආකාරයටම තිරයේ පහල කොටසේයි පිහිටා තියෙන්නෙ.\n\nAndroid හි Material Design 3 මාර්ගෝපදේශ වලට අනුව nav bar එකමත swipe gestures සිදුකල නොහැකි බව WABetaInfo විසින් පවසා තිබෙනව. ඉතින් බොහෝදුරට stable update එක නිකුත් වෙන විටත් මෙම swipe කිරීමෙ හැකියාව ඉවත් වී තිබේවි.\n\nAs some users may have already noticed, WhatsApp just removed the ability to swipe between tabs with the new bottom navigation bar. Since this gesture doesn’t comply with Material Design 3 guidelines, I’m not sure if it will be available again in the future.What do you think…pic.twitter.com/iDsYBRlwDP\n\nWABetaInfo තව දුරටත් පවසා තිබුනෙ වැඩිම beta පරීක්ශයන් සංක්‍යාවකට පලමු වතාවට මෙනු එක තිරයෙ පහල තිබෙන අප්ඩේට් එක ලබාදුන් බවයි.\n\nබොහොමයක් පරිශීලකයන් මෙම swipe gestures ඉවත් කිරීම සම්බන්දයෙන් අප්‍රසාදය පළ කර තිබෙනව. මීටපෙර Chats, Calls, Communities, සහ Status tabs අතර අපට පහසුවෙන් මාරු වීමෙ හැකියාව තිබුන. ඉතින් මේ swipe gestures ඉවත් කර තිබෙන අප්ඩේට් එක සියලුම පරිශීලකයන් සදහා නිකුත් කරයිද කියල තවමත් නිශ්චිත තොරතුරක් නැහැ.\n\nඔබත් swipe gestures ඉවත් වෙනවට අකමැති නම් ඇප් අප්ඩේට් සිදු නොකර සිටින්න පුලුවන්.  නමුත් මෙය තාවකාලික විසදුමක් පමනයි. දිගු කලක් අප්ඩේට් නොකර සිටීමෙන් compatibility ගැටලු ඇතිවිමෙ හැකියාවක් තිබෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:21:10.902761",
+  "headline": "Swipe gestures ඉවත් කර දමන WhatsApp",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "meta",
+    "social media",
+    "wabetainfo",
+    "whatsapp"
+  ],
+  "url": "https://www.pcguide.lk/bye-swipe-gestures-whatsapp-android/",
+  "word_count": 233
+}

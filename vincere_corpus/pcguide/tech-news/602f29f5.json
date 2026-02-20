@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "මීට පෙර Microsoft සමාගම ප්‍රකාශ කර සිටි ආකාරයෙන් Windows 11 මෙහෙයුම් පද්ධතිය සඳහා අනුමත hardware requirements සපුරා නොමැති පැරණි පරිගණක තුළ ස්ථාපනය කිරීම නිල ලත් Windows updates නොලැබීමට හේතු වන කරුණ එසේ නොවන බවට පෙන්වන ලකුණු වාර්තා වේ.\n\nපසුගිය ඔක්තෝබර් 05 දා නිල වශයෙන් Windows 11 Version 21H2 එළිදැක්වීමෙන් පසු පළමු Windows update පැකේජය ඔක්තෝබර් 12 දින KB5006674 ලෙස Windows 11 Build 22000.258 නිකුතුව සඳහා දියත් කළ අතර එය අනුමත කළ පරිගණක සඳහා මෙන්ම අනුමත නොකළ පැරණි පරිගණක වෙත ද ලබා ගැනීමට හැකිවුණි. මෙසේ පැරණි පරිගණක සඳහා Windows update ලැබීමට හේතුවක් නම් දැනට Windows 11 සඳහා සහාය ලබා දීම වෙනුවෙන් ඇත්තේ එක් production channel එකක් පමණක් තිබීම නිසාය.\n\nපරිශීලකයන්ට තම සුදුසුකම් නොලත් පැරණි පරිගණක සඳහා ISO disc image ආධාරයෙන් Windows 11 ස්ථාපනය කිරීමට හැකියාව ඇති නමුත් එවැනි පරිගණක සඳහා යාවත්කාලීන කිරීම් නොලැබෙන බවට Microsoft සමාගම මීට පෙර සඳහන් කොට තිබිණි. එවැනි අවම hardware අවශ්‍යතා සපුරා නොමැති පරිගණක තුළ Windows 11 ස්ථාපනය කිරීම සම්බන්ධයෙන්උපදෙස් පිටුවක්Microsoft නිල වෙබ් අඩවියේ පළ කර ඇති අතර එම පිටුවේ මෙවැන්නක් පරිශීලකයන් වෙත අවධාරණය කර ඇත.\n\n“This PC doesn’t meet the minimum system requirements for running Windows 11 – these requirements help ensure a more reliable and higher quality experience. Installing Windows 11 on this PC is not recommended and may result in compatibility issues. If you proceed with installing Windows 11, your PC will no longer be supported and won’t be entitled to receive updates. Damages to your PC due to lack of compatibility aren’t covered under the manufacturer warranty.”\n\n“මෙමපරිගණකයWindows 11ක්‍රියාත්මකවීම සඳහා අවම පද්ධති අවශ්‍යතා සපුරානොමැත–මෙමඅවශ්‍යතා වඩා විශ්වාසදායි සහ උසස් තත්ත්‍වයේඅත්දැකීමක් සහතික කිරීමට උපකාරී වේ.මෙමපරිගණකයේWindows 11ස්ථාපනයකිරීම නිර්දේශ නොකරන අතර මේ නිසා අනුකූල නොවීම නිසා ඇතිවන ගැටළු(compatibility issues)ඇතිවිය හැක.කෙසේවෙතත් ඔබWindows 11ස්ථාපනයකිරීමට ඉදිරියට යන්නේ නම්,ඔබේපරිගණකයට තවදුරටත්Windowsසහායනොලැබෙන අතර යාවත්කාලීන කිරීම් ලැබීම ද අදාළ නොවේ.තවදcompatibility issuesනිසාඔබගේ පරිගණකයට වන හානිය නිෂ්පාදකයාගේ වගකීමෙන් ආවරණය නොවේ.\n\nතාක්‍ෂණික වශයෙන් අවම 1GHz clock speed සහිත dual-core 64-bit CPU සහිත පරිගණකයක Windows 11 ස්ථාපනය කළ හැකි අතර, එය single-core හෝ 32-bit CPU තුළ ක්‍රියාත්මක කළ නොහැකිය.\n\nවර්තමාන Windows 11 Version 21H2 නිකුතුවේ Home, Pro, Pro Education හා Pro for Workstations සංස්කරණ සඳහා Microsoft Windows සහාය 2023 ඔක්තෝබර් 10 වන තෙක් ද Enterprise, Education හා IoT Enterprise සංස්කරණ සඳහා 2024 ඔක්තෝබර් 08 දක්වා ලැබෙනු ඇත.\n\nවැදගත්: මෙම ලිපිය මඟින් නිල වශයෙන් සහාය නොදක්වන පරිගණක තුළ Windows 11 ස්ථාපනය කිරීම ආරක්‍ෂිත යැයි අදහස් නොකරන අතර අදාළ පරිගණක සඳහා Windows 11 යාවත්කාලීන කිරීම් ඉදිරියේදී Microsoft සමාගමේ අභිමතය පරිදි නැවැත්වීමට ද ඉඩ ඇත. එම නිසා ඔබ දැනටමත් Windows 10 භාවිතා කරන්නේ නම් තවදුරටත් එසේ රැඳී සිටීම සුදුසු වන අතර, තවද Windows 10 ඉදිරි වසර හතරක කාලය සඳහා යාවත්කාලීන කිරීම් සහතික වන නිසා එසේ කිරීම වඩා ආරක්ෂාකාරී පියවරක් වේ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:36:08.943960",
+  "headline": "පරණ PC එකටත් Windows 11 updates??",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "hardware",
+    "laptop",
+    "microsoft",
+    "old",
+    "pc"
+  ],
+  "url": "https://www.pcguide.lk/windows-11-udates-old-pc/",
+  "word_count": 429
+}

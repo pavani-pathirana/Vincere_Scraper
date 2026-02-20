@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "හෙට ඒ කියන්නෙ 2017 මාර්තු 2AMD Ryzen CPUඑක නිකුත් වෙනව. ඒ අතරෙ ඊයෙ (පෙබරවාරි 28 වෙනිද) GDC 2017 event එකේදි AMD සමාගම එයාලගෙ අලුත් GPU එකේ තොරතුරු එළිදැක්වුවා.  Radeon RX Vega කියල හැදින්වෙන මේ GPU එක මිල සහ performance කියන ප්‍රධාන කරුණු දෙකෙන්ම සිත් ඇදගන්නා GPU එකක්. ඒ වගේම අලුත් HBCC තාක්ෂණයත් මේකෙ අඩංගු වෙනව.\n\nGDC 2017 (Game Developer Conference) කියන්නෙ ලෝකයෙම game developers ල එකතු වෙලා එයාලගෙ අලුත්ම game, game engine සහ අලුත් technologies පෙන්වන, තොරතුරු බෙදාගන්න අවුරුද්දකට වතාවක් තියන event එකක්. මේ event එක gaming වලට ප්‍රධානවම බලපාන Graphics card නිපදවන Nvidia සහ AMD (Radeon) සමාගම් වලටත් ගොඩක් වැදගත්.\n\nGDC එකේ තිබුන AMD Capsaicin & Cream event එකේදි තමයි එයාල මේ අවුරුද්දෙ අග නිකුත් කරන්න නියමිත VEGA GPU එකේ demo එකක් පෙන්නුවෙ. VEGA GPU එකේ එන අලුත් feature එක තමයිHigh-Bandwidth Cache Controller (HBCC)කියන්නෙ.මේකෙන් කරන්නෙ දැනට computers වල තියෙන වේගවත් SSD, DRAM සහ Network storage කිසිම latency එකක් නැතුව GPU එකෙන් access කරල තමන්ගෙ Memory විදිහට පාවිච්චි කරන එකයි. ඒ කියන්නෙ අඩු GPU memory එකක් එක්ක එන Graphics Card එක gaming වලදි system එකේ memory අරන් performance වැඩි කරල දෙන එකයි. එහෙම කියල තේරුනේ නැත්නම් මෙන්න මෙහෙම කිව්වම හැමෝටම තේරෙයි.\n\nEvent එකේදි AMD Ryzen system එකක 2GB VEGA GPU එකක් හයි කරල Deus Ex: Mankind Divided play කරල පෙන්නුව. HBCC on කරාමAverage FPS 50%ක්වැඩි උනා වගේමminimum FPS එක 100%කින් වැඩි උනා. AMD සමාගම කිව්වෙ මේ HBCC තාක්ෂණය එක්ක එයාලට මිලෙන් අඩු high performance GPU හදන්න පුලුවන් කියල. මොකද GPU RAM එක අවශ්‍ය වෙලාවට System memory වලින් වැඩි කරගන්න පුලුවන් නිසා AMD VEGA Graphics Card වලට 2GB වගේ memory එකක් හොදටම සෑහෙන නිසයි.\n\nමේක Nvidia සමාගමට නරක ආරංචියක් උනාට Budget Gaming computers හදන අපිට නම් ඉතාමත් වැදගත් ආරංචියක්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:55:19.872315",
+  "headline": "RYZEN මදි අයට AMD VEGA….",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "gpu",
+    "vega"
+  ],
+  "url": "https://www.pcguide.lk/ryzen-%e0%b6%b8%e0%b6%af%e0%b7%92-%e0%b6%85%e0%b6%ba%e0%b6%a7-amd-vega/",
+  "word_count": 278
+}

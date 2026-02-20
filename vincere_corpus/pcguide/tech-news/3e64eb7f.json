@@ -1,0 +1,19 @@
+{
+  "author": "Minidu Shashimal Aluthge",
+  "body": "Claude AI යනු Anthropic සමාගම විසින් නිපදවන ලද දියුණු conversational ai එකකි. නවතම Claude 4 model එක මගින් Programmers ලා වෙනුවෙන්ම විශේෂාංග කිහිපයක් ඇතුලත් වී තිබේ.එනම් මෙයින් code generate කිරීම,code debugging කිරීම වැනි කටයුතු ඉතාමත් පහසුවෙන් හා නිවැරදිව සිදු කිරීමේ හැකියාව පවතී.\n\nමීට දින කිහිපයකට පෙර Anthropic සමාගම විසින් Claude Ai හි Visual Studio Code Extension(Claude code for vs code) එකක් නිකුත් කරන ලද අතර මෙමගින් Developersලාට තවත් පහසුවෙන් Claude සමග ගනුදෙනු කිරීමට ඉඩ ලැබුණී.මෙම Claude Extension එක මගින්,\n\nවැනි බොහෝ කාර්යයන් පහුවෙන් සිදු කරගත හැක.\n\nමෙම Extension එකට VS Code හි Verified Badge එක සහිත නිසා කිසිදු ගැටලුවක් නොමැතිව Install කර භාවිතා කිරීමේ හැකියාව පවතී.තවද අනෙත් conversational ai සමග සංසන්දනය කිරීමේදී මෙහි code ලිවීමේ speed එක වැඩි අතර AI suggestions නිසා bugs අඩුවේ.Claude AI extension විශේෂයෙන්ම ප්‍රයෝජනවත් වන්නේ Web development projects ,Data analysis සහ machine learning ,API development වැනි කටයුතු සදහාය.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:37:57.571311",
+  "headline": "Claude Ai , VS Code Extension එකක් ලෙස නිකුත් වෙයි !",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "artificial intelligence",
+    "claude",
+    "coding",
+    "extension"
+  ],
+  "url": "https://www.pcguide.lk/claude-code-extension-for-vs-code/",
+  "word_count": 142
+}

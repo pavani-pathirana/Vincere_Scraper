@@ -1,0 +1,18 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "GitHub වෙතින් දැන් Copilot Chat පහසුකම හදුන්වාදි තිබෙනවා. මෙය සියලුම පරිශීලකයන් සදහා දැන් නිකුත් වී තිබෙනවා. මීටපෙර මෙය ලබාදී තිබුනෙ මුදල් ගෙවන ලද සංස්කරණ ලබාගෙන සිටි පරිශීලකයන් සදහා පමනයි.\n\nමෙය GitHub වෙතින් හදුන්වාදී තිබෙන්නෙ AI coding assistance කෙනෙක් විදියටයි. ඒවගේම මෙය බලගැන්වෙන්නෙ OpenAI සමාගමේ GPT-4 model එක මගින්. මෙය භාශා ගණනාවක් සදහාම සහය දක්වනවා. මෙය දැනට Visual Studio Code සහ Visual Studio IDE සමග වැඩකරනවා. එහෙත් JetBrains සමාගමේ සොෆ්ට්වෙයා වන PyCharm හෝ IntelliJ IDEA බාවිතා කරන්නන් සදහා තවත් කාලයක් මෙම Copilot වැඩසටහන පැමිනෙන තෙක් බලා සිටීමට සිදුවෙනවා.\n\nමෙය Visual Studio හරහා බාවිතා කිරීමට කලයුත්තෙ marketplace එකෙන් GitHub Copilot Chat extension එක බාගත කර ඉන්ස්ටෝල් කරගැනීමයි. නමුත් මෙය බාවිතා කිරීමට ඔබේ පරිගණකයේ Visual Studio 17.6 සංස්කරණය හෝ ඊට වඩා අලුත් සංස්කරණයක් තිබිය යුතු වෙනවා.\n\nමෙම Copilot වැඩසටහනේ මුදල් ගෙවා ලබාගත හැකි සංස්කරණයක්ද තිබෙනවා. එය තනි පරිශීලකයෙක් සදහා මසකට $10 ලෙසත් අවුරුද්දකට $100ක් ලෙසත් දක්වා තිබෙනවා. ඒවගේම ව්‍යාපාරික පරිශීලකයන් සදහා $19කුත් අයකෙරෙනවා. මෙම මුදල් ගෙවන සංස්කරණ වලින් ලැබෙන අමතර පහසුකම් වන්නෙ code completion, chat, unit tests ලිවීම, security vulnerabilities හදුනා ගැනීම සහ තවත් කිහිපයක් තිබෙනවා.\n\nමේ වනවිට තවත් බොහොමයක් AI coding tools එළිදක්වා තිබෙනවා. ඒ අතරට CodeGPT, Amazon’s CodeWhisperer, Google’s Codey, සහ ChatGPT හදුන්වන්න පුලුවන්. ඒවගේම ඉදිරියෙදි AlphaCode 2 එළිදැක්වෙනවා. එය ගූගල් සමාගමේ Gemini AI model එක ආශ්‍රයෙන් නිපදවන ලද්දක්. ඉදිරියෙදි මේ සියල්ලක්ම සමග GitHub Copilot වැඩසටහන කෙසේ තරගකාරී ලෙස ක්‍රියාකරයිද කියා බැලිය හැකි වෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:51:50.481105",
+  "headline": "පරිගණක ක්‍රමලේකනය පහසු කරන GitHub Copilot වැඩසටහන",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "chatgpt",
+    "copilot",
+    "github"
+  ],
+  "url": "https://www.pcguide.lk/github-copilot-service/",
+  "word_count": 223
+}

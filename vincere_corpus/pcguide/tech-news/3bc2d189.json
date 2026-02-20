@@ -1,0 +1,19 @@
+{
+  "author": "Chanuka Sanesh",
+  "body": "ASRock සමාගම විසින් desktop casing එකේ side panel glass එක,LED මොනිටරයක් ලෙසට භාවිතා කළ හැකි උපාංගයක් හදුන්වා දී තිබෙනවා.අගල් 13.3ක තිරයක් සහිත මෙය side panel එක ඇතුලතින් වීදුරුවට සම්බන්ධ කළ හැකි අතර මෙය භාවිතා කරන්නන්ට අමතර Monitor එකක් ලෙස හෝ පරිගණකයේ hardware monitoring වැනි කාර්යන් සදහා තිරයක් ලෙසට භාවිතා කළ හැකියි.\n\nDisplay එකේ specifications වලට අනුව 13.3″ 1080p 60Hz IPS LED තිරයක් වන අතර 16:9 aspect ratio එකකින් යුක්ත වෙනවා.මෙය බලගන්වන්නේ eDP (embedded displayport) කනෙක්ටර් එකක් මාර්ගයෙනි.eDP port එක සාමාන්‍යයෙන් laptop පරිගණක තුළ භාවිතා කරන නමුත් සාමාන්‍ය desktop motherboards සහ graphic cards තුළ අන්තර්ගත වන්නේ නැහැ.එම නිසා සෑම motherboard එකකටම මෙය සම්බන්ධ කළ නොහැකි වනවා.ඒ අනුව Asrock motherboard පමනක් මෙම display එකට සහය දක්වන අතර ඒ eDP port එක සහිත motherboards 10ක් පමණි.( Z790 LiveMixer, Z790 Pro RS/D4, Z790M-ITX WiFi, Z790 Steel Legend WiFi, Z790 PG Lightning, Z790 Pro RS, Z790 PG Lightning/D4, H610M-ITX/eDP, B650E PG-ITX WiFi )\n\nමෙම හේතුන් නිසා යම් යම් ගැටළුකාරී තත්වයන් තිබුණත් ඉදිරියේදී තවත් සමාගම් විසින් මෙම ආකෘතිය වැඩිදියුණු කර වෙළඳපොලට හදුන්වා දීමට ඉඩකඩක් පවතිනවා.මෙම display එක මගින් අමතර ඉඩ කඩක් මේසය මත ලබානොගෙනම තවත් monitor එකක් ලෙස භාවිතා කළ හැකි වීම මෙහි ඇති වැදගත්ම වාසියයි.අවාසියකට ඇත්තේ මෙය භාවිතා කරන විට casing එක තුළ ඇති RGB lights නිවා දැමීම පමණයි.\n\nsource:-https://www.asrock.com/mb/spec/product.asp?Model=13.3%E2%80%9D%20Side%20Panel%20Kit#Overview",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:28:30.062867",
+  "headline": "ASRock සමාගමෙන් Casing එකට Display එකක්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "asrock",
+    "casing",
+    "Computer Hardware",
+    "monitor",
+    "pc"
+  ],
+  "url": "https://www.pcguide.lk/asrock-creates-a-display-for-the-casing/",
+  "word_count": 205
+}

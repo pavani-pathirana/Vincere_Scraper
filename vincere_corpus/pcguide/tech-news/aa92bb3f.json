@@ -1,0 +1,19 @@
+{
+  "author": "Chanuka Sanesh",
+  "body": "දිගු නිහැඩියාව බිද දමමින් intel ARK පළමු Flagship Desktop GPU එක ලෙස Intel Ark A770 Limited Edition මාදිලියේ එළිදැක්වීමේ දිනය ප්‍රකාශ කර තිබෙනවා.ඒ intel CEO Pat Gelsinger විසින් intel innovation 2022 වේදිකාවේ නිවේදනය කලේ ලබන ඔක්තෝම්බර් 12 වන දින මෙය එළිදක්වන බවයි.\n\nGpu specifications සැලකූ විට මෙහි 2100Mhz clock speed එකකින් සමන්විත intel ACM-G10 chip එක මගින් බලගන්වන අතර මෙහි TBP (total board power) එක 225W බව සදහන් කර ඇත.තවද 8GB GDDR6 සහ 16GB GDDR6 ලෙස මාදිලි 2කින් නිකුත් වෙනු ඇති බව දක්වන්න පුළුවන්.නමුත් limited edition මාදිලිය 16GB VRAM යටතේ පමනක් නිකුත් වන බව විශ්වාස කළ හැක.\n\nIntel පවසන ආකාරයට Ray Tracing වල්දි Nvidia RTX 3060 GPU එකට වඩා 65% performance වැඩි වීමක් නව A770 මගින් පාරිභෝගිකයට අත්විඳිය හැක.8GB මාදිලියේ මිල $329 වන අතරම,එය Rtx 3060 මාදිලියේ මිලට සමාන ලෙස නිකුත් කරන නිසා budjet gamersලා විශාල ප්‍රමාණයක් නව A770 කාඩ් එක වෙත ආකර්ෂනය විය හැකි බව ඉගි පල වේ.\n\nA750 සහ A580 GPU පිළිබද නිල තොරතුරු තවම නැතත් ඉදිරි සතිය තුළදී අපේක්ෂා කරන්න පුළුවන්.නව intel GPU,පසුගිය සතියේ නිකුත් වුන Rtx 4000 series GPU සහ ඉදිරියේදි නිකුත් වීමට නියමිත AMD RDNA3 GPU සමග GAMING GPU අවකාෂය තුළ පෙර නොවූ ලෙස විශාල තරඟයක් අත්විඳීමට හැකි අතර එය පාරිබෝගිකයන් වශයෙන් අපට සුභදායි වන බව නියතයි.\n\nsource :https://www.intel.com/content/www/us/en/newsroom/news/2022-intel-innovation-day-1-livestream-replay.html",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:30:05.436271",
+  "headline": "INTEL ARK A770 කරලියට",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "770",
+    "announced",
+    "arc",
+    "gaming",
+    "graphics"
+  ],
+  "url": "https://www.pcguide.lk/intel-arc-770-gaming-gpu-announced/",
+  "word_count": 204
+}

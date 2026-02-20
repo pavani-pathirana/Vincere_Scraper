@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Qualcomm සමාගම විසින් ඔවුන්ගේ නවතම flagship mobile chipset එක එළිදැක්වූවා. එයSnapdragon 8 Gen 2ලෙස නම් කර තිබෙනව. Qualcomm සමාගම පවසා සිටියේ Gen 1 chips වලට වඩා මෙම නව Gen 2 තුල AI තාක්ශනය වැඩිලෙස බාවිතා කර ඇති බවයි.\n\nමෙහි අඩංගු කර ඇති නව AI තාක්ශනය සහ Hexagon processor එක නිසා වේගවත් multi-language translation කිරීම සහ වැඩිදියුනු කල AI camera විශේෂාංග දක්නට ලැබෙනව. මෙහි Gen 1 චිප් වල AI ක්‍රියාකාරිත්වය මෙන් 4.35 ගුණයක් දක්වා architectural upgrades සහිත processor එකක් තිබෙනව.\n\nසමාගම පවසන ආකාරයට camera-focused විශේෂාංග කිහිපයක්ද මෙහි අන්තර්ගත කර තිබෙනව. ඒ අතර Snapdragon 8 Gen 2 මගින් photos සහ videos එසැණින් වැඩිදියුනු කරන semantic segmentation නම් තාක්ශනය ඇතුලත් කර තිබෙනව.\n\nQualcomm සමාගම මෙම chipset එක නව සංවේදක සදහාත් සහය දක්වන ලෙස නිර්මානය කර තිබෙනව. එනම් මෙය Samsung සමාගමේ 200-megapixel Isocell HP3 සංවේදකය සදහා සහය දක්වනව. ඒවගේම මෙම Gen 2 chipset එක 60fps සහ 8K HDR playback එකක් සදහා සහය දක්වන පලමු Snapdragon මාදිලිය වෙනව.\n\nඑසේම Qualcomm සමාගම දක්වා තිබුනේ මෙහි hardware-accelerated ray tracing ඇතුලත් කර ඇති බවත් ray tracing වලට සහය දක්වන ක්‍රීඩා වල visuals මෙමගින් වැඩිදියුනු වන බවත්ය. ඒවගේම මෙම Gen 2 chip, Adreno GPU සහ Kyro CPU වලට වඩා 25% වේගවත් වන අතර 40%කින් බලශක්තිය ඉතිරි කර දෙයි. සමාගම වැඩිදුරටත් දක්වා තිබුනේ දුරකතන සදහා වැඩිදියුනු කල පලමු Unreal Engine 5 Metahumans Framework එක මෙයට සහය දක්වන බවයි.\n\nඅන්තර්ජාල සම්බන්දතා වලින් ගත්විට Gen 2 තුල 5G මගින් download කිරීමේ වේගය, ප්‍රමාදය සහ බලශක්ති කාර්යක්ෂමතාව හැසිරවිය හැකි AI තාක්ශනයක් අඩංගු වෙනව. මෙය dual 5G SIM වලට සහ WiFi 7 සදහා සහය දක්වනව. එය 5.8 Gbps දක්වා උපරිම වේගයක් ලබාදෙනව.\n\nQualcomm සමාගම පවසන්නේ මේ වසර අවසානයේදී Gen 2 chipset වෙළදපොලට නිකුත් කරන බවයි. ඒ සදහා ASUS, Honor, Motorola, OnePlus, Oppo, Sharp, Sony, Xiaomi සහ ZTE යන සමාගම් දැනට මෙම Gen 2 chip ඔවුන්ගේ උපාංගවලට බාවිතා කිරීමට සැලසුම්කර තිබෙනව. ඉදිරියේදි අනෙක් සමාගම් වල දුරකතන සදහාත් මෙය නිකුත් කරන බව Qualcomm සමාගම සදහන් කර තිබෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:28:02.013644",
+  "headline": "Qualcomm සමාගමේ නවතම Snapdragon 8 Gen 2",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chipset",
+    "hardware",
+    "mobile",
+    "qualcomm",
+    "smart phone"
+  ],
+  "url": "https://www.pcguide.lk/qualcomm-new-soc-snapdragon8-gen2/",
+  "word_count": 311
+}

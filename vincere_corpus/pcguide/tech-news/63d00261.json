@@ -1,0 +1,11 @@
+{
+  "author": "Priydarshana",
+  "body": "Graphic Card වලට ඇති අධික ඉල්ලුමට සාපේක්ෂව සැපයීම අඩුවීම හේතුවෙන් ඇතිව තිබෙන තත්වය නිසා බොහෝ දෙනෙක් Used Graphic cards වෙත යොමුවෙනවා. මෙම Used Graphics Cards වලින් වැඩියෙන්ම අලෙවි වන GTX 600 / 700 (සහ ඊට පහල) Graphics Cards සදහා Nvidia සමාගම gaming Drivers නිකුත් කිරීම 2021 අගෝස්තු 31 වෙනිදා නවත්වනව.\n\nNvidia සමාගම තමන්ගෙ GTX 600 / 700 GPU නිෂ්පාදනය කල Kepler architecture එක නිර්මාණය කරන්නෙ 2012දි.  මේ වන විට Kepler Architecture එක නිකුත් කර වසර 10කට ආසන්න වෙනව. එදා සිට මේ දක්වා Nvidia සමාගම තමන්ගෙ GPU තාක්ෂණය ඉතා දියුණු කර නව තාක්ෂණික වෙනස් කම් සහ වැඩිදියුණු කිරීම් සිදුකර තිබෙනව.\n\nNvidia සමාගම කියන්නෙ තවදුරටත් අවුරුදු 10ක් පැරණි  GTX 600 / 700 වැනි Cards වලට නවතම Games සදහා Support එක ලබාදීම හරහා හොද Performance ලබාගැන්මට නොහැකි නිසා අවසන් Game ready Driver එක 2021 අගෝස්තු 31 වෙනිදා නිකුත් කරන බවයි.\n\nමේ විදිහට Game ready Drivers ලබාදීම නතර වුවත් Security Updates දිගටම ලබාදෙන බවත් එය 2024 වසර දක්වාම Supported Device එකක් ලෙස පවතිනු ඇති බවත් මෙම ප්‍රකාශයේ සදහන් වෙනව. මේ නිසා Windows 10 / 11 Desktop භාවිතා කරන අයට මෙම Kepler Based Graphic Cards පාවිච්චි කරන්න පුළුවන් උනත් සමහර Games වලදි අළුත්ම Graphics Divers නැති Errors එන්න පුළුවන්.\n\nSupport එක අත්හිටුවන GPU List එක පහතින්ග Nvidia සමාගමේ නිවේදනය –Link",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:40:00.591536",
+  "headline": "GTX 600 / 700 වල Support එක අවසන් වෙයි",
+  "source": "pcguide",
+  "url": "https://www.pcguide.lk/gtx-600-700-end-of-support-gaming/",
+  "word_count": 205
+}

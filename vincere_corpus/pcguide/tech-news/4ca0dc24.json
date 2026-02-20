@@ -1,0 +1,11 @@
+{
+  "author": "SnikeY-Nimz",
+  "body": "Advanced Micro Devices සමාගම, නැත්නම් අපි හැමෝටම හුරුපුරුදු AMD සමාගම 2024 ආරම්භයත් සමඟම ජනවාරි 31 වෙනිදා ඔවුන්ගේ අලුත්ම APU Series එක වෙන Ryzen 8000g Series එක නිකුත් කරනවා.\n\nගොඩක් අයට මේ APU කියන එක අමුතු දෙයක් වෙන්න පුළුවන්. ඇත්තටම මේක අමුතු දෙයක් නෙවෙයි. APU (Accelerated Processing Unit) එකක් කියන්නේ CPU, GPU Unit දෙකම එකතු කරලා හදපු තනි Unit එකකට. අපි පාවිච්චි කරන ගොඩක් Intel Processors (Intergraded Graphics සහිත), Portable Game Consolesවල Processors වැටෙන්නෙත් මේ APU ගොඩටම තමයි. නමුත් මෙච්චර කාලයක් යනකම් මේ APU කියන දේ එච්චරම සාර්ථක දෙයක් වුණේ නැහැ. අපි කොච්චර APU එකක් පාවිච්චි කරත් අපිට GPU එකක් අවශ්‍ය වුණා. මොන දේ වුණත් AMD සමාගම පුළුවන් තරම් උත්සාහ කරලා සාර්ථක APU Series එකක් විදිහට 8000g Series එක නිකුත් කරා.\n\nමේ APU Series එකේ පරණ Seriesවල වගේම Processors හතරක් තියෙනවා.\n\nමේ Processors හැම එකක්ම වගේ AM5 Socket එකට Compatible වෙනවා. ඒ නිසා A620, B650, X670 වගේ Motherboard තව ගොඩක් කාලයක් පාවිච්චි කරන්නත් පුලුවන්. Ryzen 7000 Series එකේ Technology එක වෙන Zen4 Technology එක වගේම 7000 Series එකේ Updated Version එකක් වෙන Zen4c Technology එක මේ 8000g Series එකේ යොදාගෙන තියෙනවා.\n\nනමුත් APUවලට CPU හා GPU එකකින් ලබා දෙන තරම් Performance එකක් ලබා දෙන්න බැහැ. ඒ වගෙම මේ APUs 229$ – 329$ වගේ මුදලක් වෙනවා. මේ APUs ලංකාවට ආවොත් රු.80,000 – රු.140,000 වගේ මුදලක් වෙයි. මේ APUsවල හොඳ පැත්තක් විදිහට TDP එක 65w (වෙනස් විය හැකිය) තරමට අඩු කරලා තියෙන එක ගන්න පුලුවන්. ඒ නිසා මේ APUs ලංකාව වගේ විදුලි බිල වැඩි රටකට හොඳ Processors වෙන්නත් පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:58:03.952966",
+  "headline": "AMD සමාගම විසින් නිකුත් කරන ලද Ryzen 8000g APUs",
+  "source": "pcguide",
+  "url": "https://www.pcguide.lk/amd-launches-ryzen-8000g-apus/",
+  "word_count": 246
+}

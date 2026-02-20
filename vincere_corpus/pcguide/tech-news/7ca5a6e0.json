@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "මීට මාස කිහිපයකට කලින් වාර්තා වුනා Google ආයතනය “Guacamole” කියල project එකක් ආරම්භ කරල තියනව කියලත් ඒකෙදි Google Assistant හට “OK Google” hot phrase එක නැතුව වුනත් විධාන දීමේ හැකියාව ගැන පරික්ශා කරමින් ඉන්නව කියන එකත්. ඒත් ඒ කාලයෙ අපිට දැනගන්න ලැබුනෙ නේ මේ පහසුකම ලැබෙන්නෙ එක්තරා commands කිහිපයකට පමණක්ද නැතිනම් smart devices වලට පමණක්ද කියන එක. නමුත් මේ වෙද්දි ඒ ගැන අලුත් තොරතුරු වාර්ත වෙනවා. මේ පහසුකම මේ වෙද්දි හඳුන්වන්නෙ “salsas” කියන නමින්.\n\nමේ “salsas” ක්‍රියාත්මක කරන්න පුලුවන් Assistant Settings page එකේ “quick phrases” කොටසෙන්. දැනට මේ පහසුකමේ ක්‍රියාත්මක කරන්න පුලුවන් වෙන්නෙ ලබාදීල තියන විධාන ලැයිස්තුවක් පමණයි. ඒ ලැයිස්තුවෙත් තියන විධාන සියල්ල මුලින්ම active වෙලා තියෙන්නෙ නෑ. අපිට ක්‍රියාත්මක වෙන්න ඕන විධාන තෝරන්න ඕන, එතකොට තමයි Google Assistant ඒ ඒ විධාන දෙනවද කියල ඇහුන්කන් දෙන්නෙ. දැනට ලැයිස්තුගත කරල තියන “salsas” වර්ග නවයකට බෙදල තියනවා, ඒ තමා Recommended, Alarms, Connect, General info, Lights, Media Controls, Timers, සහ To-Dos. අපිට කැමති විධානයන් දීල custom salsas සාදගන්න හැකියාවක් දැනට නෑ.\n\nමේ salsas ක්‍රියාත්මක කරාට පස්සෙ ඒවට පිළිතුරු දෙන්න අවශ්‍ය devices තෝරගන්නත් වෙනම section එකක් තියනවා. මේ වෙද්දි ඒ section එකනම් හරියට ක්‍රියාත්මක වෙන්නෙ නෑ. බොහෝවිට මේකෙ Google Assistant ක්‍රියාත්මක smartphones, smart displays, සහ smart speakers ලැයිස්තුගත වෙලා තියේවි. තවත් විශේෂ දෙයක් තමයි මේ salsas වලට පිළිතුරු දෙන්නෙ කලින් Google Assistant වෙත register කරපු කටහඬවල් වලට විතරයි. ඒ කියන්නෙ වෙන commands වගේ ඕනම කෙනෙක්ට මේ salsas ක්‍රියාත්මක කරන්න බෑ.\n\nකොහොම උනත් මේ පහසුකම ගැන තම පෞද්ගලිකත්වය ගැන අවධානය යොමු කරන පිරිස් කොහොම ප්‍රතිචාර දක්වයිද කියල ඉස්සරහට බලාගන්න පුළුවන් වෙයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:38:41.009489",
+  "headline": "“OK Google” අවශ්ය නැති Google Assistant",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "assistant",
+    "google",
+    "pcguidelk",
+    "voice"
+  ],
+  "url": "https://www.pcguide.lk/no-more-ok-google/",
+  "word_count": 246
+}

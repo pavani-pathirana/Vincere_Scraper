@@ -1,0 +1,19 @@
+{
+  "author": "KKTec 1",
+  "body": "Google මෑතකදී එහි Gemini AI එක භාවිතා කරමින් ඔබගේ Gmail එකට එන ලිපි ගැන ප්‍රශ්න ඇසීමට ඉඩ දීම ආරම්භ කළ අතර දැන් එම විශේෂාංගය ජංගම දුරකථන වලට පැමිණේ. ඔවුන් පවසන්නේ එහි Gmail Q&A විශේෂාංගය Android මත භාවිතා කිරීමට දැනට හැකියාව ඇති අතර එම විශේෂාංගය iOS වෙත ළඟදීම පැමිණෙනු ඇති බවයි.\n\nGmail Q&A භාවිතා කරමින්, ඔබට ඔබගේ එන ලිපි ගැන Gemini Ai හරහා ප්‍රශ්න ඇසීමට හෝ ඔබගේ Email එකේ නිශ්චිත විස්තර සෙවීම, ඔබට නොකියවූ පණිවිඩ පෙන්වීම, නිශ්චිත යවන්නාගෙන් පණිවිඩ බැලීම හෝ ඔබගේ එන ලිපි තුළ ඇති මාතෘකාවක් පිළිබඳ Email සාරාංශ කිරීම වැනි දේවල් කිරීමට හැකිය. Google මෙම වසරේ මුලදී එහි I/O සම්මන්ත්‍රණයේදී Gmail Q&A ගැන සදහන් කළේය. මේ පිළිබඳ වූGoogle Blog සටහන.\n\nGmail Q&A ඔබේ Email එකෙන් සෙවීමට හෝ ඔබේ එන ලිපිවල ගැඹුරේ තැන්පත් වී ඇති දෙයක් සොයා ගැනීමට ප්‍රයෝජනවත් විය හැකි ක්‍රමයක් විය හැකිය. නමුත් මෙම විශේෂාංගය සියලුම පරිශීලකයින්ට ලබා ගත නොහැකි බව සලකන්න. ඔබට Google One AI වාරිකයට සම්බන්ධ වීමට Gemini Business, Enterprise, Education, හෝ Education Premium add-ons සමඟ Google Workspace සැලසුමක සිටීමට අවශ්‍ය වනු ඇත.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:48:41.182255",
+  "headline": "Gmail වලට එන Gemini Q&A විශේෂාංගය",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "android",
+    "email",
+    "Gemini Ai",
+    "gmail"
+  ],
+  "url": "https://www.pcguide.lk/gmail-now-powered-with-gemini/",
+  "word_count": 167
+}

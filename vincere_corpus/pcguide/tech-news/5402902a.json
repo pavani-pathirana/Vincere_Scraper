@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Qualcomm සමාගම පසුගිය දිනෙක Snapdragon 8 Gen 3 මොබයිල් චිප් එක එළිදැක්වූවා. එයට සමගාමීව MediaTek සමාගමෙන් ඊට තරගකරුවෙක් ලෙස MediaTek Dimensity 9300 චිප් එක හදුන්වා දෙන්න සූදානම් වෙනව. ඒ නොවැම්බර් මාසයේදි පවත්වන්න සූදානම් කර තිබෙන event එකක් මගින්.\n\nSnapdragon 8 Gen 3 චිප් එක එහි කලින් පරම්පරාවේ චිප් එකට වඩා 30% පමන performance වැඩිදියුනු කර තිබෙනව. MediaTek සමාගමත් Dimensity 9300 චිප් එක ඒ හා සමාන performance සහිතව නිර්මානය කර තිබෙනව. මීටපෙර ඔවුන් වෙළදපොලට නිකුත් කල Dimensity 9200 SoC එක මේ දක්වා සාර්ථකව දුරකතන සදහා යොදාගැනුනා.\n\nමෙම නව පරම්පරාවේ චිප් එකෙ clock speed එක 3.5GHz වනු ඇති බව වාර්තා වෙනව. එය Snapdragon 8 Gen 3 චිප් එකෙ තිබෙන 3.3GHz clock speed එකට වඩා වැඩි අගයක්.\n\nMediaTek හි එක් ARM Cortex X4 Prime core සහිත ‘1+3+4’ CPU ව්‍යුහයකින් සමන්විත වනු ඇතැයි අපේක්ෂා කෙරෙනව. ඒවගේම ARM Cortex X4 කෝර් තුනක් සහ ARM Cortex A720 කෝර් හතරක් ඇති බව කියනු ලැබේ.\n\nSnapdragon 8 Gen 3 ‘1+(3+2)+2’ ව්‍යුහයක් සමඟ Cortex-X4 Prime core එකක්, Cortex-A720 cores තුනක්, Cortex-A720 cores දෙකක් සහ අවසානයේ Cortex-A520 cores දෙකක් සමඟ පැමිනෙනව. Snapdragon Gen 3 හා සසඳන විට, Dimensity 9300ට වැඩි X4 කෝර් ප්‍රමානයක් තිබෙනව.\n\nමෙම චිප් එකෙ thermal management, camera performance ඇතුලු විස්තර තවමත් නිකුත් වී නැහැ. ඒවගේම බොහෝවිට මෙම චිප් එක 4nm චිප් එකක් වනු ඇත. සියලුදෙනාම බලාසිටින්නෙ මෙම චිප් එක Qualcomm චිප් එකත් සමග performance අතින් තරග කරන්නෙ කෙසේද කියායි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:59:49.250375",
+  "headline": "MediaTek සමාගමේ නවතම Dimensity 9300 චිප්සෙට් එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chipset",
+    "CPU",
+    "mediatek",
+    "qualcomm",
+    "snapdragon"
+  ],
+  "url": "https://www.pcguide.lk/mediatek-dimensity-9300-to-challenge-snapdragon/",
+  "word_count": 222
+}

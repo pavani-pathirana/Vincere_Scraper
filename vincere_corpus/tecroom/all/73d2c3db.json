@@ -1,0 +1,18 @@
+{
+  "author": "ByEditorJanuary 6, 2023031 Min Read",
+  "body": "අපි හදන website වල performance ⁣නොමිලේම මැනගන්න පුළුවන් website 02 ක් ගැන තමයි අද ලිපියෙන් ඔයාලට අරගෙන එන්නේ. මේ website දෙකෙන්ම නොමිලේම ඔයාගේ website එකේ, එහෙමත් නැත්නම් web page එකක performance මැනගන්න වගේම තියෙන අඩුපාඩු මොනවද කියලා දැනගන්නත් පුළුවන්.\n\nඅපි හදන වෙබ් page එකක performance, accessibility සහ අපි මොනතරම් දුරට best practices පාවිච්චි කරලා තියනවද වගේ කාරනා මැනගන්න පාවිච්චි කරන්න පුළුවන් google එකෙන් හදපු online tool එකක් තමයි මේ PageSpeed Insights කියලා කියන්නේ.\n\nChrome developer tool panel එකේ තියන lighthouse tool එකේ interface එකට සමාන interface එකක් තමයි මෙතනත් තියෙන්නේ. මෙහි අපිට test කරන්න ඕන site එකේ URL එක ඇතුලත් කරලා Analyze බොත්තම ඔබන්න විතරයි තියෙන්නේ. එවිට අපිට performance, accessibility metrics වගේම අපේ page එක දියුණු කරන්න කල යුතු දේවල් ගැන tips ආදියත් මේ හරහා අපිට ලබාදෙනවා. Google එකෙන් හදපු tool එකක් නිසා අපිට මේ PageSpeed Insights website එක සම්පුර්ණයෙන්ම නොමිලේ භාවිතා කරන්න හැකියාව ලැබෙනවා.\n\nGoogle එකෙන් හදපු PageSpeed Insights website එකේ වගේම මේ GTmetrix website එකෙනුත් අපේ website එකේ performance මැනගන්න පුළුවන්. මේ website එකේ testing වලට අමතරව දීර්ග කාලීනව monitor කිරීමේ පහසුකමත් ලබාදෙනවා. කොහොම නමුත් නොමිලේ පාවිච්චි කරන්න පුළුවන් යම් යම් සීමාවන්ට යටත්ව. අමතර පහසුකම් සඳහා ගෙවීම් කරන්න සිද්ද වෙනවා.",
+  "category": "all",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T20:14:17.838566",
+  "headline": "XpressJobs ශ්‍රී ලංකාවේ පළමු AI-බලගැන්වූ WhatsApp බඳවා ගැනීමේ සහයකයා දියත් කරයි",
+  "source": "tecroom",
+  "tags": [
+    "all",
+    "GTmetrix",
+    "PageSpeed Insights",
+    "SEO Sinhala",
+    "Web Page Performance"
+  ],
+  "url": "https://tecroom.lk/02-excellent-websites-to-measure-web-page-performance/",
+  "word_count": 192
+}

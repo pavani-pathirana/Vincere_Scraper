@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Apple MacOS පරිගනක වල වසර කිහිපයක සිට තිබෙන iPhone සමග සම්බන්ද වී සිදුකරන file sharing, text massaging වැනි ක්‍රියාවන් Intel පරිගණක මගිනුත් සිදු කිරීමට දැන් හැකියාව පවතිනව. ඒ Intel සමාගම විසින් තම පරිගනක වෙත හදුන්වා දෙන Unison නම් යෙදුම මගිනි. මෙහි විශේෂත්වය වන්නේ මෙම යෙදුම Android හා iOS යන මෙහෙයුම් පද්ධති දෙකටම සහය දැක්වීමයි.\n\nIntel Windows පරිගනකවල මෙම Unison යෙදුම මගින් කාර්යයන් කිහිපයක් කරගැනීමට පුලුවන්. Text messaging, call answering වැනි ක්‍රියාවන් හැසිරවීමට මෙම යෙදුමට හැකි අතර Windows පරිගණක මගින් පණිවිඩ යැවීමට කැමති iPhone භාවිතා කරන්නන්ට මෙය ප්‍රයෝජනවත් වනු ඇත.\n\nමෙම යෙදුමේ විශේෂිතම ලක්ශනය වන්නේ file sharing පහසුකම ලබාදීමයි. මෙහි සංවර්ධකයින්ට අනුව Unison මගින් දුරකථන සහ පරිගණක අතර වේගවත් ගොනු හුවමාරුවක් ලබාදෙන බව දැක්වෙනව. Unison මගින් දුරකතනයේ ඇති ඡායාරූප පමනක් නොව වෙනත් ඕනෑම ගොනුවක් හුවමාරු කිරීමට පහසුකම් සලසනව. Unison තෝරාගත් 12th Gen Evo PC කිහිපයක් වෙත නිකුත් කරන බව Josh Newman (Intel’s VP of mobile innovation) පවසනව. මෙම යෙදුම ඉක්මනින්ම Acer, HP, සහ Lenovo පරිගණක වල දක්නට හැකිවේවි. Newman වැඩිදුරටත් පවසා ඇත්තේ Unison ලබන වසරේ මුලදී, 13th Gen Evo පද්ධති සදහාද සහය දක්වන ලෙස වැඩිදියුනු කරන බවයි.\n\nපැරණි දෘඪාංග සහිත පරිගණක සමග මෙම යෙදුම කෙසේ සහය දක්වනේදැයි සදහනක් නොමැති අතර සීමිත නව Intel පරිගණක කිහිපයක පමනක් මෙම යෙදුම දැකගත හැකිවනු ඇත.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:29:49.938683",
+  "headline": "Intel සමාගම විසින් හදුන්වා දෙන නව Unison app එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "desktop",
+    "Intel",
+    "iOS",
+    "iphone"
+  ],
+  "url": "https://www.pcguide.lk/intel-unison-app-for-seemless-intergration-of-phone-and-pc/",
+  "word_count": 200
+}

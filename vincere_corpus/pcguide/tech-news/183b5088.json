@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "intel සමාගම Onboard Graphics වෙනුවට තමන්ගෙම dedicated Graphics Chip එකක් සමග නිකුත් වන පළමු Laptop එක ගැන Asus සමාගමේ Product page එකකින් තොරතුරු වාර්ථා වෙනව.\n\nAsus සමාගමේ තවමත් නිකුත් වී නොමැතිAsus Vivobook Flip 14 Product pageඑකේ තොරතුරු තුල intel සමාගමේ අළුත්ම Discrete Graphics ගැන තොරතුරු අඩංගු වෙන බව පෙනී යනව. මෙම නව Vivobook Flip 14හි තොරතුරු අනුව intel core i7 සමග පළමු intel Discrete Graphics අඩංගු බව සදහන් වන අතර එහි Specifications page එකේදීද මෙය “Fisrt intel Discrete Graphics” ලෙස සදහන් කර තිබෙනව.\n\nමේ අනුව intel සමාගමේ Dedicated graphics සහිත නිෂ්පාදන වෙළදපොලට පැමිණීම මේ වනවිට ආරම්භ වී තිබෙන බව තහවුරු කර ගැනීමට හැකිවෙනවා. ඒ වගේම මෙහි 4GB VRAM ලෙස සදහන් වීම හරහා මෙම Discrete intel GPU එකට 4GB Dedicated VRAM එකක් ලබාදී ඇති බව අනුමාන කල හැකි වෙනවා.\n\nමෙය intel සමාගමේ DG1 Discrete GPU ලෙස හදුන්වන intel iris XE GPU එක බවත් cores 768ක් සහිත මෙහි GDDR6 4GB VRAM එකක් අඩංගු විය හැකි බවටත් මත ප්‍රකාශ වී තිබෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:45:04.774681",
+  "headline": "හිස ඔසවන intel Graphics",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "graphics",
+    "Intel",
+    "tech news",
+    "updates"
+  ],
+  "url": "https://www.pcguide.lk/intel-discrete-graphics-card-in-asus-laptop/",
+  "word_count": 158
+}

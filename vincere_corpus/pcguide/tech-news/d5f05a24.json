@@ -1,0 +1,18 @@
+{
+  "author": "PCG author",
+  "body": "Windows 10 මෙහෙයුම් පද්ධතියේ ඇති bug එකක් හේතුවෙන් ඇතැම් පරිගණක වල ඇති NTFS ලෙස format කර ඇති storage drives වල ඇති දත්ත විනාශ වීමේ අවදානමක් ගැන පරිගණක දෝෂ ගවේෂණය සම්බන්ධ වෙබ් අඩවියක් වන BleepingComputer විසින් පසුගිය මස හෙළිදරව් කරන ලදී. කිසියම් path එකක් තුළින් ප්‍රවේශ වීමේදී හෝ යම්කිසි file එකක් විවෘත කිරීමට යාමේදී මෙම දෝෂය ක්‍රියාත්මක විය හැකි බවටත් එම වෙබ් අඩවිය තවදුරටත් සඳහන් කරයි.\n\nBleepingComputer හි එම වාර්තාවට අනුව අඩු වරප්‍රසාද සහිත පරිශීලකයෙකුට (low-priviledged users) වුවද Command Prompt හරහා ක්‍රියා කරවිය හැකි තනි command line පෙළක් පමණක් භාවිත කර NTFS ආකාරයෙන් format කර ඇති දෘඩ තැටි වල ඇති දත්ත corrupt කරවීමට මෙම bug එක හේතු විය හැකි බව වාර්තා වේ. එම command line එක .zip හෝ .bat ලෙස පවතින files තුළ සැඟවී පැවතීමටද හැකියාව ඇත.\n\nමෙම දෝෂය ක්‍රියාත්මක වූ පසු, Windows මෙහෙයුම් පද්ධතිය අදාළ file එකට අයත් path එක තුළින් පිවිසීමට යාමේදී “The file or directory is corrupted and unreadable” ලෙස error message එකක් ලැබෙන අතර ඊට අදාළ drive එක corrupted ලෙස සලකුණු කරයි. මේ නිසා Windows මෙහෙයුම් පද්ධතිය පරිශීලකයා ගෙන් පරිගණකය restart කරchkdskවිධානය run කර අදාළ drive එක repair කරන ලෙස ඉල්ලයි.\n\nමේ සම්බන්ධව Microsoft සමාගම පවසන ආකාරයටchkdskමඟින් මෙම ගැටළුව විසඳිය හැකි බවට ප්‍රකාශ කළ ද, BleepingComputer හි අධ්‍යනයන්ට අනුව මෙම bug එක වරක් ක්‍රියාත්මක වූ පසු Windows නැවත reboot නොවීම එය එලෙස සිදුකිරීමට නොහැකි බව සඳහන් කර තිබේ.\n\nකෙසේ වෙතත් Microsoft සමාගම විසින් පසුගිය පෙබරවාරි මාසයේ දී මෙම දෝෂය සඳහා පිළියමක් ලබා දීමට නියමිතව තිබූ බවට වාර්තා පළ වී තිබූ නමුත් එය Windows 10 Insider build හි පරිශීලකයින් සඳහා පමණක් නිකුත් කර ඇති බවට වාර්තා වේ. Windows 10 Insider build 21322 හි “The directory name is invalid” හා NTFS drives corrupted ලෙස සලකුණු කිරීම වැනි ගැටළු සඳහා ලේඛනගත නොවූ විසඳුමක් ඇතුළත් වේ. එම නිසා ඉදිරියේදී Microsoft සමාගම සියලුම Windows 10 පරිශීලකයන් සඳහා විසඳුමක් නිකුත් කරනු ඇතැයි අපේක්ෂා කෙරේ.\n\nපසුගිය මාසයේදී Microsoft සමාගම නව හදිසි update එකක් දියත් කරන ලද්දේ ඇතැම් Windows 10 පරිගණක වල Wi-Fi ජාල වෙත සම්බන්ධ වීමේදී BSoD (Blue Screen of Death) ඇතිවීමේ දෝෂයකට පිළියමක් ලෙසය. විශේෂයෙන් Wi-Fi ජාල සඳහා නිකුත් කළ නවතම WPA3 ආරක්ෂක සංස්කරණය ස්ථාපිත කළ පරිගණක ආශ්‍රිතව මෙම ගැටළුව ඇති වී තිබූ නමුත් ඉන් බලපෑමට ලක්වූයේ සුළු පරිශීලකයන් සංඛ්‍යාවක් පමණි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:41:49.891963",
+  "headline": "Windows 10 හි bug එකක් නිසා NTFS drives වෙත අවදානමක්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "bug",
+    "OS",
+    "windows",
+    "windows 10"
+  ],
+  "url": "https://www.pcguide.lk/windows-10-bug-corrupt-ntfs-drive/",
+  "word_count": 358
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Microsoft සමාගම තමන්ගෙ Windows 7 සහ 8 / 8.1 Operating systems අලුත්ම intel සහ AMD processor වලට Support කරන්නෙ නැහැ කියල 2016 ප්‍රකාශ කරා. මේ තමන්ගෙ ඒකාධිපති බලය පාවිච්චි කරල  වැඩි දෙනෙක් අතර Windows 10 ප්‍රචලිත කරන්න Microsoft සමාගම උත්සහ කරපු පළවෙනි වතාව නෙමෙයි.\n\nකොහොම උනත් අලුත්ම 7 generation intel CPU එකක් නැත්නම් AMD RYZEN CPU එකක් පැවිච්චි කරල System එකක් හැදුවොත් ඒකට Windows 7 /8 දාන්න පුලුවන්. ඒත් Updates block වෙනව. මෙතනදි වෙන්නෙ processor එකට Windows 7 Support කරන්නෙ නැති එක නෙමෙයි. Microsoft සමාගම Update එකක් හරහා මේ Error message එක පෙන්නන එකයි.\n\nමේක ගැන හොයල බලපු Github එකේ Zeffy කියන user Microsoft සමාගම කරපු මේ වැඩේ නවත්තල ආයෙත් updates ගන්න පුලුවන් විදිහෙ Patch එකක් නිකුත් කරල තියෙනව. පහත ලින්ක් එකෙන් මේ Patch එක Download කරගන්න පුලුවන්\n\nhttps://github.com/zeffy/kb4012218-19",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:54:21.075252",
+  "headline": "Kaby Lake සහ Ryzenට බැරි Windows 7 වලට විසදුම",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "7",
+    "AMD",
+    "Intel",
+    "microsoft",
+    "RYZEN"
+  ],
+  "url": "https://www.pcguide.lk/kaby-lake-%e0%b7%83%e0%b7%84-ryzen%e0%b6%a7-%e0%b6%b6%e0%b7%90%e0%b6%bb%e0%b7%92-windows-7-%e0%b7%80%e0%b6%bd%e0%b6%a7-%e0%b7%80%e0%b7%92%e0%b7%83%e0%b6%af%e0%b7%94%e0%b6%b8/",
+  "word_count": 129
+}

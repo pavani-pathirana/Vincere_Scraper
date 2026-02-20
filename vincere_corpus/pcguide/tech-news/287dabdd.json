@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "CES 2025 event එකේදි Nvidia සමාගම විසින් අලුත් DLSS 4 තාක්ශනය හදුන්වා දුන්නා. DLSS කියන්නෙ Nvidia සමාගමෙන් නිර්මානය කරපු image upscale කිරීමේ තාක්ශනයක්. මේ DLSS 4 තාක්ශනය සියලුම RTX කාඩ් වල පැමිනෙනවා. ඒත් RTX 20 series එකෙ කාඩ් වලට මෙහි සියලුම විශේෂාංග ලැබෙන්නෙ නැහැ.\n\nඅලුත්ම RTX 50 series එකෙ කාඩ් වලට multi frame generation කියන විශේෂාංගය මේත් සමග එනවා. මෙමගින් render වෙන සෑම ෆ්‍රේම් එකකටම තවත් ෆ්‍රේම් දෙකක් එනම් ෆ්‍රේම් තුනකින් සමන්විතවයි render වෙන්නෙ. මේ විදියට තුන්ගුණයකින් ෆ්‍රේම්ස් එකතුවන නිසා 4K 240fps වලින් පරිගණක ක්‍රීඩා කරන්න හැකියාව ලැබෙනවා.\n\nNvidia සමාගම පවසන විදියට DLSS 4 කියන්නෙ DLSS 2 නිකුත් උනාට පස්සෙ ඔවුන් නිකුත් වැඩිම upgrade සහිත තාක්ෂණය බවයි.\n\nDLSS 4 තාක්ෂණය නිකුත් වන පළමු දිනයේ සිටම පරිගණක ක්‍රීඩා 75 මේ තාක්ෂණයට සහය දක්වනවා. RTX 50 කාඩ් නිකුත් උනාට පස්සෙ Cyberpunk 2077 සහ Alan Wake ක්‍රීඩා වලට අප්ඩේට් මගින් DLSS 4 සහය සහ high frame rate සහය ලැබෙනවා. අනෙක් ක්‍රීඩා වෙන Black Myth: Wukong සහ නිකුත් වෙන්න තියන ක්‍රීඩා වෙන Doom: The Dark Ages සහ Dune: Awakening යන ක්‍රීඩාවලට ඉදිරියෙදි DLSS 4 සහය ලැබෙන බව සදහන් කර තිබෙනවා.\n\nRTX 40 series එකෙ කාඩ් වලට Multi Frame Generation පහසුකම ලැබෙන්නෙ නැහැ. නමුත් frame generation, enhanced ray reconstruction, super resolution සහ deep learning anti-aliasing යන තාක්ශනයන් ලැබෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:43:07.786271",
+  "headline": "NVIDIA සමාගමෙන් DLSS 4 තාක්ෂණය නිකුත් කරයි",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "graphic cards",
+    "new release",
+    "Nvidia",
+    "rtx"
+  ],
+  "url": "https://www.pcguide.lk/nvidia-releases-new-dlss-4-technology/",
+  "word_count": 203
+}

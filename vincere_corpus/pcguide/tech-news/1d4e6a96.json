@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "ළුත් Software එකක් test කරගන්න, email එකට ඇවිත් තියෙන සැක කටයුතු email attachment එකක් පරික්ෂා කරන්න ඕන නම් දැන් Windows 10 වල තියෙන sandbox Feature එක හරහා ඒක කරගන්න පුළුවන්.\n\nWindows sandbox කියන්නෙ 2019 මැයි මාසේ නිකුත් කල Windows update එකේ ආපු Feature එකක්. මේක තියෙන්නෙ Windows 10 pro සහ Enterprise Editions වල. මේ හරහා Windows මත Run වෙන, ප්‍රධාන OS එකෙන් වෙන් කරපු Virtual Windows 10 version එකක් අපට ලැබෙනව.\n\nSandbox එකක් කියන දේ ඔයාට අදහසක් ගන්න ඉහත රූපය වැදගත් වෙනව. මෙතනදි මේ වැලි තියෙන පෙට්ටිය තුල සෙල්ලම් කලාට ඒකෙන් පිටතට වැලි එන්නෙ නැහැ. මේ වගේම දෙයක් තමයි Sandbox Software environment එකකදි සරලවම වෙන්නෙ.\n\nWindows Sandbox සහ අනෙක් Virtual machines\n\nVirtual Box වගේ තවත් නොමිලේ දෙන Virtual PC Software තිබුනට මේ Windows Sandbox එකේ තියෙන වෙනස තමයි බොහොම පහසුවෙන් මේක Activate කරගන්න පුළුවන් වෙන එක. ඒ වගේම අළුතින් OS එක install කරන්න වෙන්නෙ නැහැ. එක වරක් අත්හදා බැළුවට පස්සෙ Close කරද්දි අපි කරපු හැම දෙයක්ම Reset වෙනව.\n\nWindows sandbox හොදින් Run කරන්න පහත දේවල් අවශ්‍ය වෙනව\n\nමේ දේවල් ඔයාගේ System එකේ තියෙනවනම් ඔයාට Sandbox එක අත්හදා බලන්න පුළුවන්. දැන් අපි බලමු මේ Feature එක Enable කරගන්නෙ කොහොමද කියල.\n\nCommand Prompt එකට යන්න. මේක Search එකේ CMD කියල type කරාම එනව.\n\nදැන් systeminfo.exe කියල type කරල enter කරන්න.\n\nදැන් එන තොරතුරු වල Hyper-V Requirements කියන කොටසේ Virtualization Enabled in Firmware කියන එක YES ද කියල බලන්න. එහෙම නැත්නම් PC එක Restart කරල BIOS වලට ගිහින් Virtualization On කරගන්න. (මේක Motherboard එක අනුව වෙනස් වෙන්න පුළුවන් නිසා Google කරල බලන්න)\n\nමේ විදිහට Check කරගත්තට පස්සෙ කරන්න තියෙන්නෙ සාමානයෙන් Disable කරල තියෙන Feature එක Enable කරන එක. Start Menu එකේTurn Windows features on or off, කියල type කරන්න.\n\nදැන් මේකෙ පහලටම scroll කරල Windows sandbox එකට tick කරල OK කරන්න. මේක Enable වෙන්න Internet එක අවශ්‍ය වෙනව සමහර වෙලාවට.\n\nදැන් System එක Restart කරාට පස්සෙ Start එකේ Windows sandbox කියල type කරාම ඔයාට මේ Windows Sandbox එක on කරගන්න පුළුවන් වෙයි.\n\nමේ ගැන පැහැදිලි නැත්නම් Video එක බලන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:35:29.833731",
+  "headline": "අනතුරුදායක වැඩවලට Windows Sandbox",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "feature",
+    "newsletter",
+    "pc",
+    "test",
+    "virtual"
+  ],
+  "url": "https://www.pcguide.lk/test-dangerous-things-inside-windows-sandbox/",
+  "word_count": 326
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "Data Saver ලෙස මුලින් හැඳින්වූ Google Chrome Android app එකෙහි Lite Mode පහසුකම මුලින්ම හඳුන්වාදුන්නේ 2014 වසරේදී. මේ වෙද්දි Google ආයතනය එම පහසුකම ඉවත් කරන්න සූදානම් වෙනවා, ඒ මේ මාසයේ අන්තිම නිකුත් කිරීමට නියමිත Chrome 100 release එකත් සමගයි.\n\n“2022 මාර්තු 29 නිකුත් කිරීමට නියමිත Chrome M100 stable release එකත් සමග Lite Mode පහසුකම Android app එකෙන් ඉවත් වේවී. 2014 දී Lite Mode පහසුකම මුලින්ම හඳුනවාදෙනු ලැබුවේ data අඩුවෙන් පාවිච්චි කිරීමට අවශ්‍ය පරිශීලකයන් හට එම පහසුකම ලබාදීමටයි.” යනුවෙන් පවසා සිටියේ Chrome හි සහය කළමනාකරු වෙන Craig Tumblison විසිනි.\n\nLite Mode තුලින් බලාපොරොත්තු වෙන්නෙ mobile devices මත වේගවත් වෙබ් අත්දැකීමක් ලබාදීමයි. නමුත් මේ වෙද්දි හුඟක් රටවල් වල mobile data ලාභදායී වගේම Google AMP වගේ තාක්ෂණයන් නිසා mobile devices වල වෙබ් පිටු වේගයෙන් load වීම පහසු කරවනවා. මේ හේතු නිසා තමයි Google ආයතනය Lite Mode ඉවත් කිරීමට තීරණය කරල තියෙන්නෙ.\n\nLite Mode පහසුකම දැන් Google Chrome app එකේ Settings පිටුවෙ Advanced කොටසෙන් සක්‍රීය කරගන්න පුලුවන්. Lite Mode සක්‍රීයව පවතින විට වෙබ් පිටු load වීම වේගවත් වී mobile data ඉතුරු කිරීම සිදු කරනවා. මොකක් හරි වෙබ් පිටුවක් load වීමට වෙලා ගතවෙනවනම් ඒක Google servers වෙත යවල ඒ වෙබ් පිටුව compress සහ සරල ලෙස user ට පෙන්වීම Lite Mode මගින් සිදු වෙනවා.\n\nGoogle විසින් මේ වෙනකොටත් Lite Mode පහසුකම Chrome Canary සංස්කරණයෙන් ඉවත් කරලයි තියෙන්නෙ. ඉදිරි සති වලදි Chrome Beta සහ Chrome Stable සංස්කරණ තුලිනුත් මේ පහසුකම ඉවත් වේවී.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:32:52.995906",
+  "headline": "මේ මස අවසානයේ සිට Google Chrome ‘Lite Mode’ පහසුකම ඉවතට",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "cgrome",
+    "data",
+    "google",
+    "internet",
+    "saver"
+  ],
+  "url": "https://www.pcguide.lk/chrome-for-android-to-end-data-saver-mode/",
+  "word_count": 225
+}

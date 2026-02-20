@@ -1,0 +1,18 @@
+{
+  "author": "PCG author",
+  "body": "Google Assistant කියන්නෙ අපි හුඟ දෙනෙක් වැඩ පහසු කරගන්නත් විනෝදයටත් පාවිච්චි කරන පහසුකමක්. කොච්චර Virtual Assistant ල එක එක company හඳුන්වල දුන්නත් Google Assistant ඒ ඔක්කොටම වඩා smart කියල කවුරුත් පිලිගන්න දෙයක්. මේ කාලයේ Google ආයතනය තමන්ගෙ Voice assistant ට upgrades හුඟක් කරගෙන යනවා. පසුගිය දිනක Google Assistant වෙත තමන්ගෙ contatct list එකේ ඉන්න අයගෙ නම් කොහොමද හරියට උච්චාරණය කරන්නෙ කියල train කරන්නත් පහසුකම ලබා දෙන බව Google ආයතනය ප්‍රකාශ කරල තිබුනා. ඒ වගේ කරගෙන යනව කියන තව upgrade එකක් තමා Google Assistant සඳහා “Voice Shortcuts” හඳුන්වාදීම.\n\nදැන් තියන විදිහට Google Assistant ට විධානයක් දෙන්න ඕනනම් අපි “Hey Google” කියන trigger phrase එක කියන්න ඕන. හැම පොඩි වැඩක් කරන්නම “Hey Google” කියන එක එච්චර ප්‍රායෝගික වැඩක් නෙවෙයි. ඒ හින්ඳ මේ “Voice Shortcut” පහසුකමෙන් පොඩි පොඩි වැඩ අපිට trigger phrase එකක් නැතුවම Google Assistant හරහා කරවගන්න පුලුවන්. මේ project එක Google හඳුන්වන්නෙ “Guacamole” කියන codename එකෙන්.\n\nඋදාහරණයක් විදිහට මේ “Voice Shortcuts” භාවිතයෙන් අපිට එන call එකක් කෙලින්ම “pick up” වගේ දෙයක් කියල answer කරන්න පුලුවන් වෙනවා. ඒ වගේම alarm එකක් play වෙන වෙලාවක “snooze” වගේ විධානයක් පහසුවෙන් ක්‍රියාත්මක කරන්නත් මෙමගින් හැකියාව ලැබෙනවා. මේ “Voice Shortcuts” හැම වෙලේම trigger වෙන්නෙ නැතිවෙයි කියලයි මේ feature එක තිබුණ APK file පරික්ශා කරපු පිරිස්නම් කියන්නෙ, ඒ වෙනුවට තෝරාගත් අවස්ථාවල මේ “Voice Shortcuts” පාවිච්චි කරන්න පුලුවන් වේවි.\n\nමේ එක්කම Google Assistant වෙත tasks කීපයක් කරන්න විධානයන් දීල පසුව එක එක task, user විසින් හඳුන්වන ආකාරය වඩාත් හොඳින් තේරුම් ගන්නත් හැකියාව ලබාදෙන්න මේ වෙද්දි Google ආයතනය කටයුතු කරන් යනවා. මේ හා සමාන පහසුකම් තියෙන Lamda Ai Chat bot එක Google සමාගම තමන්ගේ Google Io 2021දි හදුන්වාදීමත් එක්ක මේ නව පහසුකම් Assistant වෙත ඉක්මනින්ම ඒවි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:40:57.326588",
+  "headline": "Google Assistant සඳහා එන අලුත් Upgrades",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "2021",
+    "google",
+    "update",
+    "voice"
+  ],
+  "url": "https://www.pcguide.lk/google-voice-shortcuts-assitant-upgrade/",
+  "word_count": 267
+}

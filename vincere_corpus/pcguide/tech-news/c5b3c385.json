@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Windows installකරගන්න හැටි ගැන පියවරෙන් පියවර මේ ලිපියෙන් විස්තර වෙනව. මේ ලිපිය අවශ්‍ය නම් bookmark කරගන්න, නැත්නම් දකුණු පැත්තෙ උඩින් තියෙන Search එකෙන් install Windows කියල Search කරන්නත් පුලුවන්.\n\nWindows 10 install කරගන්න නම් ඔයාට Windows installation Media එකක් ඒ කියන්නෙ DVD එකක් හරි USB එකක් හරි අවශ්‍ය වෙනව. මේක පහසුවෙන්ම microsoft site එකේ මේlinkඑක හරහා download කරගන්න පුලුවන්.\n\nමේ link එකෙන් download වෙන්නෙ tool එකක්. මේක හරහා කෙලින්ම Windows image එකක් DVD එකකට එහෙමත් නැත්නම් Bootable USB stick එකක් විදිහට හදාගන්න පහසුකම් තියෙනව. පහතින් දැක්වෙන විදිහට ඔයාලට අවශ්‍ය කරන Image එක මේ විදිහට ලබාගන්න පුලුවන්.\n\nමේ විදිහට Installation Media එක හදාගත්තට පස්සෙ Windows install කරන්න අවශ්‍ය PC එකේ BIOS වලින් Boot device order එක වෙනස් කරගන්න ඕන වෙනව. මේක  DVD එකෙන් නම් DVD drive එක මුලින්ම විදිහටත් USB drive එකක් නම් USB drive එක Boot order එකේ මුලට එන විදිහටත් හදාගන්න අවශ්‍ය වෙනව. මේකට PC එක on වෙද්දිම “delete” “F2” “F10” වගේ key හරහා Setup එකට ගිහින් කරන්න පුලුවන්. මේක ඔයාලගෙ System Bootup එකේදි Screen එකේ පෙන්නනව.\n\nමේ විදිහට Boot order එක හදාගත්තට පස්සෙ Windows DVD / USB එක හරහා System එක boot කරගන්න. මේකෙදි එන පලවෙනි Dialog Box එකෙන් මෙතනින් ඉදිරියට Installation process එක කරගෙන යන්න අවශ්‍ය කරන Settings ටික අහනව. මේකෙදි මේ තියෙන Settings දීල Ok කරන්න. මේව අවශ්‍ය නම් පස්සෙ Control panel එකෙනුත් අපට වෙනස් කරන්න පුලුවන්.\n\nමීලගට අපේ Windows licence key එකක් තියෙනව නම් ඒක දෙන්න පුලුවන්. license Key එකක් නැතුවත් Windows install කරන්න පුලුවන්. මේ විදිහට trial version එකක් install කලොත් දවස් 30ක් ඒක පාවිච්චි කරන්න පුලුවන්.\n\nමිලගට මේ Windows installation එක කරන්නෙ තියෙන Version එකක් Upgrade කරන්නද නැත්නම් අපට අවශ්‍ය විදිහට අලුතින් install කරන්නද කියන Dialog Box එක එනව. මෙතනදි අපි තෝරගන්න ඕන දෙවෙනි option එක.\n\nමේකෙන් පස්සෙ අපට තියෙන ඒ වගේම මේ instalaltion process එකේ තියෙන වැදගත්ම කොටස වෙන්නෙ Hard disk partition කරන එකයි. මෙතනදි ඔයාගෙ Hard Drive එක 1TB / 2TB වගේ නම් ඒකෙන් 100 GB / 200GB වගේ ඉඩක් C Drive එකට ගන්න පුලුවන්. මේක Windows සහ අනෙක් Software install කරන්න තියාගන්න. games වගේ දේවල් වෙනම install කරන්න. 2018 වෙද්දි  C Drive එකට 200GB වගේ ඉඩක් තියන එක හොදයි. ඒ වගේම SSD / M2 එකක් නම් ඒ මුලු Space එකම C drive එකට හදාගන්න.\n\nමෙතනදි ඔයාගෙ අලුත් HDD එක පෙන්න්නෙ unallocated Space විදිහට, මේක select කරල පහලි තියෙන option වලින් new යටතේ අවශ්‍ය කරන size එක දීල apply කරන්න. මෙතනදි C Drive එක වගේම තවත් partition 2ක් විතර හැදෙනවත මේව System partition විදිහට Windows වලින් පාවිච්චි කරන්න තමයි හදාගන්නෙ. C drive එක හදාගත්තට පස්සෙ අනෙක් partition මේ වගේම හදන්න පුලුවන් වගේම ඕන නම් Windows installකරාට පස්සෙත් හදාගන්න පුලුවන්.\n\nමේ විදිහට Partitions වෙන්කරගත්තට පස්සෙ Windwos installation process එකට සාමානයෙන් විනාඩි 20 – 40ක් වගේ කාලයක් ගතවෙනව ඔයාග‍ෙ PC එකේ Speed එක අනුව.  මෙතනින් පස්සෙ තියෙන Settings ඔයාගෙ කැමැත්ත අනුව හදාගන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:51:45.661528",
+  "headline": "Windows 10 install කරන හැටි",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "guide",
+    "how",
+    "install",
+    "to",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/how-to-install-windows-10/",
+  "word_count": 459
+}

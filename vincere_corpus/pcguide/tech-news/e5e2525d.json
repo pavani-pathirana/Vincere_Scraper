@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Microsoft සමාගමෙන් Muse AI නමින් අලුත් වැඩසටහනක් හදුන්වා දී තිබෙනවා. මේ වැඩසටහන සාර්තකව වැඩ කලොත් ඉදිරියෙදි පරිගණක ක්‍රීඩා සංවර්ධකයන්ගෙ වැඩ තවත් පහසු වේවි. මේ AI මොඩ්ල් එක හදුන්වන්නෙ ලොව පලමු World and Human Action Model (WHAM) කියන නමින්.\n\nමේ Muse AI එකෙන් පුලුවන් පරිගණක ක්‍රීඩාවල visuals වගේම Controller actions generate කරන්න. Muse AI එකට පරිගණක ක්‍රීඩාවක 3d පරිසරය හදුනගෙන ඒ අනුව visual සහ effects නිර්මානය කරන්න පුලුවන්. Muse AI නිර්මානය වෙන්නෙ Microsoft සමාගම සහ Ninja Theory studio අතර එකමුතුවෙන්. මේ මොඩ්ල් එක දත්ත ලබාගන්නෙ Ninja Theory studio වෙතින් නිර්මානය කරල තියන 4v4 shooter, Bleeding Edge යන ක්‍රීඩා වලිනුයි.\n\nMuse මගින් පරිගණක ක්‍රීඩයකයන්ට prompt එකක් මගින් visual elements වගේම gameplay generate කරන්නත් ඉඩ ලබාදෙනවා. කොහොමවුනත් මේ AI වැඩසටහන මගින් visual generate කිරීම වගේ දේවල් සිදුකලත් Microsoft සමාගම පවසන්නෙ පරිගණක ක්‍රීඩා සංවර්ධකයන්ට මෙමගින් කිසිම බලපෑමක් සිදුනොවන බවයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:41:48.166600",
+  "headline": "Microsoft සමාගමෙන් එන Muse AI වැඩසටහන",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "artificial intelligence",
+    "gaming",
+    "microsoft",
+    "muse"
+  ],
+  "url": "https://www.pcguide.lk/microsoft-muse-ai/",
+  "word_count": 135
+}

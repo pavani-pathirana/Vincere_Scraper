@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "අලුතින් PC එකක් ගන්නකොට CPU එකත් එක්ක Stock cooler එකක් අඩංගු වෙන නිසා After market Cooling ගැන ගොඩ දෙනෙක් සැලකිලිමත් වෙන්නෙ නැහැ. මේ Review එක Budget friendly After market Air Coller එකක් වෙන Cooler Master Hyper 212X එක ගැන.\n\nStock Cooler එකක් සහ Aftermarket Air Cooler එකක් අතර තියෙන ප්‍රධාන වෙනස්කම් වෙන්නෙ තඹ ලෝහය භාවිතා කිරීම, ප්‍රමාණයෙන් විශාල වීම, විශාල Fan තිබීම වගේ කරුණු. මේ හැම එකක්ම කාර්යක්ෂමව CPU එක සිසිලනය කරන්න උපකාරී වෙනව.\n\nතඹ කියන්නෙ Stock cooler එකේ තියෙන Aluminum වලට වඩා ඉක්මනින් තාපය සන්නයනය කරන ලෝහයක්. මේ නිසා රත් වෙච්ච CPU එකේ ඉදල එලියට තාපය ඉක්මනින් රැගෙන යාමක් සිදුවෙනව.\n\nHeatsink එක ප්‍රමාණයෙන් විශාල වෙන එක තඹ හරහා පිටතට අරගෙන එන තාපය වැඩි පෘෂ්ඨ වර්ගඵලයක පැතිරිලා ඉක්මනින් ඒ තාපය වාතය හරහා මුදාහරින්න හේතුවෙනව.\n\nමේ නිසා අඩු වේගයකදි වැඩි හුලං ප්‍රමාණයක් Heatsink එකට ලබා දෙන්න පුලුවන් වෙනව. මේ නිසා අඩු ශබ්දයක් සහ කාර්යක්ෂම සිසිලනයක් සිදුවෙනව.\n\nCooler Master Hyper 212X Cooler එක intel සහ AMD system වලට පාවිච්චි කරන්න පුලුවන්. නමුත් AMD Ryzen system වල එන Wraith Cooler එක intel Stock cooler එකට වඩා හොදින් CPU එක Cool කරනව.\n\nපහත තියෙන Test Results හරහා intel Stock Cooler එකක් සහ Hyper 212x Cooler එකක සිසිලනය කිරීම සංසන්දනය කරල තියෙනව.(ඔබගේ Stock cooler උෂ්ණත්වය කාමර උෂ්ණත්වය අනුඩ සහ ඔබ සිටින ප්‍රදේශය අනුව වෙනස් විය හැක)\n\nමේ Cooler එක nanotek.lk එකෙන් ගන්න මෙමlinkඑක පාවිච්චි කරන්න\n\nTemp Monitor Software එකDownloadකරගන්න\n\nමේ Chart එක අනුව ලිපියෙන් විස්තර කිරීමක් අවශ්‍ය වෙන්නෙ නැහැ. නමුත් මෙතනදි කියන්න තියෙන වැදගත්ම දේ තමයි Casual Gaming කරන කෙනෙකුට ඒ කියන්නෙ පැය 5-6ක් එක දිගට Gaming කරන කෙනෙකුට intel Stock cooler එක ප්‍රමාණවත්. මොකද Gaming වලදි හැමවෙලේම CPU එක 100%ක් stress වෙන්නෙ නැති නිසා.\n\nනමුත් Video rendering, 3D Rendering Compiling වගේ CPu Cores එක දිගටම 100%ක Stress වෙන System වලට After market Cooling එකක් ගන්න එක CPU එක Turbo Boost වෙන්න වගේම දිගු කාලයක් පාවිච්චි කිරීමටත් හොද ආයෝජනයක් වෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:51:10.940771",
+  "headline": "Cooler Master Hyper 212X Review",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "cooler master",
+    "cooling",
+    "CPU",
+    "Intel"
+  ],
+  "url": "https://www.pcguide.lk/cooler-master-hyper-212x-review/",
+  "word_count": 305
+}

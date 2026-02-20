@@ -1,0 +1,18 @@
+{
+  "author": "ByEditorNovember 30, 20220102 Mins Read",
+  "body": "ලොව පුරා බිලියන 2කට අධික සක්‍රීය පරිශීලකයන් ප්‍රමාණයක් භාවිතා කරන Instant Messaging App එකක් ලෙස WhatsApp සේවාව අපට හඳුන්වන්න පුළුවන්.\n\nWhatsApp සේවාව භාවිත කරන පරිශීලකයන්ගේ දත්ත වල ආරක්ෂාව එහෙමත් නැත්නම් මව් සමාගම වන Meta සමාගම විසින් පරිශීලකයන්ගේ දත්ත වෙනත් කාර්‍යන් සඳහා යොදා ගන්නවාද යන වග පිළිබඳ විවිධ කතිකාවන් පැවතුනත් WhatsApp ආයතනය පවසන ආකාරයට, End-to-End Encrypted සේවාවක් තමයි ඔවුන් විසින් ලබා දෙනු ලබන්නේ.\n\nකෙසේ වෙතත් පසුගිය නොවැම්බර් 16 වෙනිදා කවුරුත් හොඳින් හඳුනන hacking community forum එකක් හරහා මිලියන 487ක් වූ WhatsApp පරිශීලකයන්ගේ ජංගම දුරකථන අංක ඇතුළත් Database එකක් ප්‍රසිද්ධියේ විකිණීමට දමා තිබෙනු දැක ගත හැකිවුනා.\n\nඑය විකිණීම සඳහා ඉදිරිපත් කර තිබූ පුද්ගලයා විසින් වැඩි දුරටත් සඳහන් කර තිබුණේ රටවල් 84 ට අයත් WhatsApp පරිශීලකයන්ගේ දත්ත මෙම Database එක සතුව පවතින බවයි. ඒ අනුව USA (32 million), Egypt (45 million), Italy (35 million), Saudi Arabia (29 million), France (20 million), Turkey (20 million), Russia (10 million), UK (11 million) ආදී වශයෙන් වූ විශාල user records ප්‍රමාණයක් මෙම පුද්ගලයා සතු වනවා.\n\nCyberNews වෙබ් අඩවියේ පිරිසක් විසින් ඉහත WhatsApp Database එක මිලදී ගැනීම සඳහා පෙනී සිටිමින් එහි Sample Data Collection එකක් ලබා ගෙන තිබෙනවා. එහිදී ඔවුන්ට අනාවරණය වී ඇත්තේ එම database එක සතුව පවතින user data සත්‍ය වන බවත් එම ජංගම දුරකතන අංක පරීක්ෂා කළ පසු ඒවා සක්‍රීය පරිශීලකයන්ගේ දත්ත බවත්ය.\n\nකෙසේ වෙතත් එම පුද්ගලයා විසින් මෙම පරිශීලක දත්ත ලබා ගත් ආකාරය සඳහන් කර නොතිබූ අතර විදෙස් වෙබ් අඩවි මඟින් වාර්ථා කර තිබුණේ ඔහු විසින් WhatsApp’s Terms of Services උල්ලංගණය කරමින් scraping එසේත් නොමැති නම් harvesting ආකාරයට මෙම දත්ත ලබා ගෙන ඇති බවයි.\n\nCyberNews වෙබ් අඩවිය වැඩි දුරටත් සඳහන් කර තිබුණේ ඔවුන් විසින් Meta සමාගම සම්බන්ධ කර ගත්තද ඔවුන්ගෙන් යහපත් ප්‍රතිචාරයක් නොලැබුනු බවටයි. කෙසේ වෙතත් තවමත් මෙම Data Leak එක සම්බන්ධයෙන් WhatsApp ආයතනය විසින් නිළ නිවේදනයක් නිකුත් කර නොමැත.\n\nSource:CyberNews,TheStandard,TechNews.LK",
+  "category": "all",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T20:13:53.111184",
+  "headline": "XpressJobs ශ්‍රී ලංකාවේ පළමු AI-බලගැන්වූ WhatsApp බඳවා ගැනීමේ සහයකයා දියත් කරයි",
+  "source": "tecroom",
+  "tags": [
+    "all",
+    "Data Leaked",
+    "News",
+    "WhatsApp",
+    "WhatsApp Data Leaked"
+  ],
+  "url": "https://tecroom.lk/whatsapp-data-leak/",
+  "word_count": 286
+}

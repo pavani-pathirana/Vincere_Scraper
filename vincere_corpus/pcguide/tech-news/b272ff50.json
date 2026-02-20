@@ -1,0 +1,18 @@
+{
+  "author": "Anjula Wiraj Rathnayaka",
+  "body": "ගූගල් සියVeoසහImagen 3generative-AI මාදිලි සඳහා private access ලබා දීම ආරම්භ කර ඇත. 2024/12/04  සිට, සමාගමේ Vertex AI Google Cloud පැකේජයේ පාරිභෝගිකයින්ට text prompts සහ images වලින් වීඩියෝ ජනනය කිරීමට Veo භාවිතා කිරීම ආරම්භ කළ හැක. ඊළඟ සතිය වන විට, Google විසින් Imagen 3, එහි නවතම text to image framework එක එම පරිශීලකයින්ටම ලබා ගත හැකි වනු ඇත.\n\nVeo සමඟින්, Google පවසන්නේ එය රූපයෙන් වීඩියෝ ආකෘතියක් ලබා දෙන පළමු hyperscale cloud provider බවයි. එම අවස්ථාව දක්වා, OpenAI හි Sora ආකෘතිය තවමත් ලබා ගත හැක්කේ තෝරාගත් artists, academics and researchersලා සඳහා පමණි.\n\nGoogle පවසන්නේ මෙම model එක 1080p footage  නිර්මාණය කරන බවයි “එය ස්ථාවර සහ සුසංයෝගී” සහ “විනාඩියකට වඩා” ධාවනය කළ හැකි බව. මෙයට text prompts and images යන දෙකම සමඟ වැඩ කිරීමේ හැකියාව ඇත. වීඩියෝවක් සඳහා ආරම්භක ලෙස AI-generated කළ හෝ human made පින්තූර භාවිතා කළ හැකිය.\n\nImagen 3 සම්බන්ධයෙන් ගත් කල, Google පවසන්නේ මෙම ආකෘතිය “සරල text prompts වලින් වඩාත් realistic  සහ ඉහළම ගුණාත්මක images generate කරන අතර, details , lighting සහ artifact reduction  කිරීම වැනි Imagen හි පෙර versions අභිබවා යමින්” බවයි.\n\nතවමත්, Google generative  AI භාවිතා කරමින් තම enterprise පාරිභෝගිකයින් වැඩි ප්‍රමාණයක් ලබා ගැනීමට උනන්දු වෙයි. තමන්ගේම පර්යේෂණ උපුටා දක්වමින්, google  පවසන්නේ නිෂ්පාදනයේදී generative  AI භාවිතා කරන සමාගම් අතර, සියයට 86 ක් ආදායමේ වැඩිවීමක් වාර්තා කරන බවයි. කෙසේ වෙතත්, මෑත කාලීන Appen survey එකෙන් හෙළි වූයේ AI ව්‍යාපෘතිවල ආයෝජනයේ ප්‍රතිලාභ 2023 සිට 2024 දක්වා 4.6% කින් පහත වැටී ඇති බවයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:44:00.710688",
+  "headline": "AI වීඩියො හදන Google Veo",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "artificial intelligence",
+    "google",
+    "video"
+  ],
+  "url": "https://www.pcguide.lk/google-text-to-video-ai/",
+  "word_count": 232
+}

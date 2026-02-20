@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "AMD සමාගම තමන්ගෙ අළුත්ම zen CPU එක 2016 දෙසැම්බර් 13 වෙනිද පැවැත්වුන Horizen මාධ්‍ය හමුවකදි එලිදැක්වුනා. Zen කියන code name එකෙන් හදුන්වපු මේ CPU එකේ වෙළදපල නාමය රයි සෙන් (RYZEN), මීට කලින් AMD සමාගම මේ වගේ සම්පූර්නයෙන්ම අළුත් cpu core architechture එකක් launch කලේ 2011   දි. Bulldozer ලෙස එලිදැක්වුන එම platform එක තමයි විවිධ සංස්කරණ වලට ලක් වෙවී 2016 වෙනකම් වසර 5ක්ම වෙළදපොලට ආවෙ.\n\n1975 ඉදන්ම CPU   නිෂ්පාදනය කරන සහ CPU ලෝකයේ දැවැන්තයා වන intel සමාගම එක්ක කරට කර සටනක් කරන Advanced Micro Devices සමාගම මෙම RYZEN CPU එක 2017 පළමු කාර්තුවෙදි නිකුත් කරන්නයි යන්නෙ.\n\nනවRYZEN 8 CORE CPUඑක අයත් වෙන්නෙAMD summit ridgeකියනhigh performanceගණයටයි. 8core 16 thread cpuඑකක් වන මෙහිbase clock frequencyඑක 3.4Ghzවෙනව. ඒ වගේම පද්ධතියෙ අවශ්‍යතාව අනුව ඉහල නැංවිය හැකිturbo boostගුණාංගයක් තිබුනත් මෙම මාධ්‍ය හමුවෙදි ඒ ගැන සදහනක් කලේ නැහැ.\n\nAMD Horizen eventඑකේදි මෙම8core RYZEN CPUඑකintel core i7 6900k CPUඑකත් සමග විවිදsoftwareපාවිච්චි කරමින් සංසන්දනය කිරීමක් සිදුවුනා. ඒ හැමbenchmarkඑකකදිමRYZEN CPUඑකintel core i7 CPUඑකට සමාන හෝ ඊට වඩා කෙටි කාලයකින් ඒbenchmarkඉවර කිරීමත්, ඒ හැම වෙලේමAMD RYZEN CPUඑකturbo boostපහසුකම පායිච්චි නොකර (locked down)ක්‍රියා කරවීමත්AMDසමාගම තමන්ගෙ නවතමCPUඑක ගැන තිබෙන විශ්වාසය හොදින් පැහැදිලි කරනව.\n\nRYZEN CPU නිෂ්පාදනය කරන්නෙ AM4 socket එකටයි. අලුත්ම motherboard එකක් සමග RYZEN CPU එක්ක සම්බන්ධ කරාම USB 3.1 Gen 2 , pcie Gen 3 සහ DDR 4 RAM යන පහසුකම් සැලසෙනව.\n\nRYZEN CPU වලට එක් කරල තියෙන SenseMI කියන්නෙ CPU එක කාරයක්ෂමව ක්‍රියාත්මක වෙන්න ඒ තුලම අන්තර්ගත කරල තියෙන sensor සහ machine learning neural network එකක්. AMD සමාගම කියන්නෙ තමන් ගැනම ඉගෙන ගනිමින් කාර්්‍යක්ෂමව කටයුතු කරන්න හැඩගැහෙන තාක්ෂණික පද්ධතියක් මෙහි අඩංගු වෙනව කියලයි.\n\nමෙමHorizen eventඑකේදි මිල ගණන් ගැන හෙලි කිරීමක් සිදුවුනේ නැතත්RYZEN CPUවල මිල ඉතාමත් තරගකාරි එකක් වෙයි කියන අදහස ඉස්මතු උනා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:57:18.170721",
+  "headline": "AMD RYZEN – HORIZEN සමුළුව",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "hardware",
+    "Intel"
+  ],
+  "url": "https://www.pcguide.lk/amd-ryzen-horizen-%e0%b7%83%e0%b6%b8%e0%b7%94%e0%b7%85%e0%b7%94%e0%b7%80/",
+  "word_count": 272
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "අලුත් PC එකක් Assemble කරාම, එහෙමත් නැත්නම් තියෙන PC එකක් Format කරාට පස්සෙ දැනට තියෙන අලුත්ම Windows 10 සංස්කරණය Install කිරීමෙන් වාසි ගොඩක් ලබාගන්න පුලුවන්.\n\nමින් ප්‍රධානම දේ තමයි පරණ OS version එකක් දැම්මම Updates විශාල ප්‍රමාණයක් Download වීම. අනික් දේ තමයි අලුත්ම OS version එක හරහා ලැබෙන අලුත්ම Features සහ ආරක්ෂාව. මේ ලිපියෙන් පැහැදිලිව පියවරෙන් පියවර  අලුත්ම Windows ISO file එක Download කරගන්න හැටි විස්තර වෙනව.\n\n1. Micosoft Download page එකට යමු\n\nමෙන්න මේLinkඑක හරහා Windows 10 Download page එකට යන්න.\n\n2. මෙතනින් Download Tool තෝරන්න. දැන් 20MB විතර වෙන Media creation Tool නම් exe file එකක් Download වෙනව.\n\n3. මේක Download වෙලා ඉවර උනාම ඒ exe file එක Double click කරල ISO file එක Download කරන්න පටන් ගන්න පුලුවන්.\n\n3. පළමුව එන Agreement එක Accept කරන්න.\n\n4. මීලගට Create installation media තෝරන්න\n\n5. මීලගට එන්නෙ ඔබට අවශ්‍ය වෙන Windows 10 version එක තෝරගන්නයි. මෙතනදි\n\n6. දැන් ISO තෝරන්න. මීලගට මේ 4GB විතර වෙන ISO file එක Save කරන්න location එක දෙන්න. මේ ISO එක දැන් USB boot drive එකක් හෝ Bootable DVD එකක් හදාගන්න පාවිච්චි කරන්න පුලුවන්.\n\nISO එකෙන් Bootable USB එකක් හදාගන්න හැටි පහත Video එකෙන් විස්තර කෙරෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:49:53.047365",
+  "headline": "Windows 10 Download කරමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "10",
+    "bootable",
+    "download",
+    "dvd",
+    "iso"
+  ],
+  "url": "https://www.pcguide.lk/how-to-download-windows-10-iso/",
+  "word_count": 191
+}

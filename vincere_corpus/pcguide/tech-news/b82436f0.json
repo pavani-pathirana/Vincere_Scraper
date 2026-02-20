@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "චීනයේ නිෂ්පාදිත CPU එකක් වන Zhaoxin Kaixian CHIP එක සහිත Mini PC එකක් එරට සමාගමක් වන Ruijie Networks විසින් එලිදක්වල. මේත් එක්කම Chinese CPU එක හැමෝටම ගන්න පුළුවන් මට්ටමකට නිෂ්පාදනය වෙන බවක් පේන්න තියෙනව.\n\nචීනයෙන් වාර්ථා වෙන අළුත්ම තොරතුරු අනුව චීනය තුල දැන් මේ CPU එක සහිත Mini PC එකක් මිලදී ගැනීමේ හැකියාව නුදුරේදීම ලැබෙයි. Ruijie සමාගෙමේ RG – CT7800 කියන මේ Model Launch එකත් එක්කම Linux OS එකක් එක්ක Office වඩ කටයුතු කරන්න පුළුවන් Mini PC එකේ පහත Configuration එක අඩංගු වෙනව.\n\nමෙම CPU එක Cores 8ක් තියෙන 16nm තාක්ෂණයෙන් නිමාවූවක්. ඒ වගේම 2.7 GHz speed එකක් (Turbo mode එකක් නැහැ) වගේම 8MB Cache එකක් අඩංගු වෙනව.\n\nCPU එක නිර්මාණය වෙලා තියෙන්නෙ Ball Grid Array කියන Type එකටයි. මෙහිදී CPU එක Motherboard එකටම පාස්සල තමයි නිකුත් කරන්නෙ.\n\nමේ දේවල් වලින් පස්සෙ තියෙන වැදගත්ම දේ තමයි මේ Mini PC එකට නිකුත් කරන්නෙ UOS (Unity Operating System) කියන Linux OS එක. මෙතනදි Windows OS එක Run කරන්නත් මේ X86 CPu එකට හැකියාව තියෙනව.\n\nකොහොම වෙතත් මේ CPU එකේ 2.7 GHz 8 Core performance එක අළුත්ම intel / AMD CPU එක්ක තරගකාරී මට්ටමක නැති වෙයි කියල තමයි සදහන් වෙන්නෙ. නමුත් දැනට පවතින AMD / intel තරගයට චීනයෙන් එකතු වෙන CPU එකක් විදිහට මේක ඉතාමත් වැදගත් පියවරක් වෙයි.\n\nමේ අළුත්ම Chinese CPU එක සහ ඒකේ විස්තර ගැන කරපු Video එක මෙතනින් බලන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:47:16.170533",
+  "headline": "චීන CPU එක සහිත පළමු Mini PC එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "china",
+    "CPU",
+    "newsletter",
+    "pcguidelk",
+    "sinhala"
+  ],
+  "url": "https://www.pcguide.lk/china-launch-first-minipc-with-own-cpu/",
+  "word_count": 219
+}

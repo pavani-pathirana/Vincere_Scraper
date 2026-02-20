@@ -1,0 +1,11 @@
+{
+  "author": "Priydarshana",
+  "body": "PC එකක් හදාගෙන gaming කරන්න ගත්තම අපිට System එකේ ගැටළුවක් තියෙනව කියල දැනගන්න වෙන්නෙ එක්කො Game එක lag වෙන්න ගත්තම, එහෙමත් නැත්නම් Blue Screen එකක් එන්න ගත්තම. මේ වගේ දේවල් වලට හේතුව ලේසියෙන්ම දැනගන්න පුලුවන් Tool එකක් තමයි MSI After burner කියන්නෙ.\n\nමේ වගේ ගැටළු වලට හේතුව වෙන්නෙ එක්කො Temp හරිහැටි පාලනය නොකිරීම, නැත්නම් System bottlenecks වගේ දේවල්. මේ හැමදෙයක්ම SYSTEM එක උපරිමයට Stress වෙන Gaming session වලදිම බලාගන්න පුලුවන් Tool එකක් තමයි MSI සමාගමෙන් නොමිලේම දෙන Afterburner Software එක.\n\nපළමු පියවර මෙන්න මේ Link එකෙන්MSI Afterburner downloadකරගන්න එක.\n\nInstall කරගත්තට පස්සෙ කරන්න තියෙන පළවෙනි දේ තමයි තමන්ට පහසු SKIN එකක් මේකට දාගන්න එක. ඒකට Settings හරහා User interface කියන Tab එක තෝරගන්න.\n\nමෙතන User interface skinning properties හරහා කැමති Skin එකක් දාගන්න.\n\nමේ Tool එකේ වැදගත්ම කාරණය වෙන්නෙ SYSTEM එකේ තොරතුරු Display කරන්න පුලුවන්කම. මේ සදහා Settings වල 3වෙනියට තිබෙන Monitoring Tab එක තෝරගන්න. මේ tab එකේ තිබෙන තේරීම් වලින් CPU usage / RAM usage, GPU usage, temp වගේ අවශ්‍ය දේවල් තෝරගන්න. තෝරාගත් දත්ත Game එක මොහොතෙදි Screen එකට දාගන්න නම් පහතින් තියෙන Show in On-Screen Display කියන Tick එක දාගන්න.\n\nදැන් මේ Game එක මත Display වෙන තොරතුරු අවශ්‍ය වෙලාවට පහසුවෙන්ම On OFF කරගන්න Toggle key එකක් හදාගන්න අවශ්‍ය වෙනව. මේකට 4වෙනි Tab එක (On Screen Display) තෝරගෙන එහි Toggle On Screen Display කියන පළමු යෙදුමට කැමති KEy Combination එකක් දෙන්න.\n\nමේ පියවර අවසන් කරගත්තම Apply කරල OK කරගන්න. දැන් Game එකක් Play කරන්න කලින් MSI Afterburner එක ක්‍රියාත්මක කරල තියාගන්න මතක තියාගන්න – ඒ හරහා Game එක Play කරන ගමන් තෝරගත්ත තොරතුරු Display වෙනව.\n\nමේ ගැන වඩාත් පැහැදිලිිව දැනගන්න Video එක පහතින් තියෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:49:41.052354",
+  "headline": "Gaming කරන ගමන් SYSTEM තොරතුරු දැනගමු",
+  "source": "pcguide",
+  "url": "https://www.pcguide.lk/msi-afterburner-tutorial/",
+  "word_count": 266
+}

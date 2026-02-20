@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "2019දි Samsung සමාගම AMD සමාගම සමග එකතු වෙලා AMD Graphics තමන්ගේ Exynos SOC එකට අරන් එනව කියල නවේදනය කලා. එම  නිවේදනයෙන් වසර 2කට පස්සෙ තමන්ගෙ Exynos 2200 Chipset එක 2022 ජනවාරි 19 වනදා Samsung සමාගම unveil කලා.\n\n4nm තාක්ෂණයෙන් නිර්මාණය වන Exynos 2200හි නවතම Armv9 CPU Cores වගේම Upgraded NPU එකක් ඇතුලත් වනවා. මෙහි විශේෂම දෙය වන්නේ දැනට ඇති Gaming Console හා සමකල හැකි Raytracing සහිත Graphics Output එකක් ලබාදීමට හැකි GPU එකයි. AMD සමාගමේ නවතම Radeon Graphics සදහා යොදාගන්නා RDNA 2 තාක්ෂණයෙන් තමයි Exynox 2200හි Xclipse GPU එක නිර්මාණය වෙන්නෙ.\n\nනවතම Armv9 CPU Cores 8ක් Samsung Exynos 2200 SOC එකෙහි අඩංගු වෙනව. Powerful Arm Cortex-X2 Core එකක් Performance සහ Efficiency Balanced Cortex-A710 Cores  3ක් සහ Cortex A510 Power Efficient Cores 4ක් මෙම Cores 8 තුල අඩංගු වෙනව.\n\nExynox 2200 SOC එක තුල upgraded Dual core NPU එකක් අඩංගු වෙනව. මේ හරහා මින් පෙර Exynos හා සැසදීමේදී දෙගුණයක Ai Performance වෙනසක් දැකගත හැකි බවට තොරතුරු ලැබී තිබෙනව.\n\nExynos 2200 තුල අඩංගු වෙන නවතම ISP එක හරහා 200MP දක්වා Image sensor වලට සහය දැක්වීම වගේම එකවර Image sensors 4ක් දක්වා සහය දීමටත් Sensors 7ක් දක්වා Support කිරීමටත් හැකියාව පවතිනව.\n\n2021 පෙබරවාරි මාසයේExynos ගැනලිපියක් හරහා තොරතුරු අපි අරගෙන ආවා. දැනට ප්‍රධානවම Mobile Phones වල භාවිතා වෙන SOC (system on a chip) වර්ග වෙන්නෙ Qualcomm – Mediatek සහ Exynos. මේ දේවල් අතරට Huawei සමාගමේ Kirin SOC එකත් ගන්න පුළුවන්.\n\nAMD RDNA 2 තාක්ෂණයෙන් පණගැන්වෙන Xclipse GPU එක ගැන නිල වශයෙන් තවමත් Samsung සමාගම තොරතුරු එලිදක්වා නැහැ. කෙසේ වෙතත් Raytracing සහිත Console Gaming Graphics තත්වයක් තමයි මේ හරහා සහතික කරන්නෙ. මේ දේවල් එක්කම Variable Rate Shading තාක්ෂණය වගේම  Samsung – Multi-IP Governer (AMIGO) තාක්ෂණය හරහා  උපරිම කාර්යක්ෂමතාවයකින් GPU Acceleration සිදු කිරීමටත් හැකියාව ගැන සදහන් වෙනව.\n\nපහතින් සදහන් වෙන්නෙ දැනට Leak වෙච්ච Geekbench 5 Compute Benchmark Results සැසදීමක්. මෙය නිල වශයෙන් ප්‍රකාශයට පත් නොකල එකක් නිසා අගයන් වැරදි වෙන්න විශාල ඉඩකඩක් තියෙන බව අමතක කරන්නෙපා. මෙම අගයන් නිවැරදි නම් දැනට ඇති බලවත්ම Snapdragon SOC එකට වඩා Graphics අතින් ඉදිරියෙන් ඉන්න නව Exynos 2200 එකට පුළුවන් වේවි. නමුත් Benchmark එකක් කියන්නෙ Real world Performance Use case scenario එකක් නොවෙන නිසා මෙම අගයන් හා 100% එකග වීමක් දැනට කරන්න බැහැ.\n\nSamsung සමාගම තමන්ගේ Flagship Smartphones වලදි US/ Canada වලට Snapdragon සහිත Version එකක් සහ Europe / UK Asia සදහා Exynos SOC අඩංගු Version එකක් මුදා හැරීම නිසා දැඩි දෝෂාරෝපණයට ලක්වූ සමාගමක් බවත් මෙහිදී මතක් කල යුතුයි. මෙයට හේතුව Battery Usage, Performance වැනි දේවල්වලින් Snapdragon SOC එක සහිත Smartphones ඉදිරියෙන් සිටීමයි. කොහොම වෙතත් Exynos 2200 සමග මෙය අනෙක් අතට පෙරලෙන බවක් දකින්න පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:34:16.672368",
+  "headline": "AMD Graphics සමගින් Exynos 2200 කරලියට",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "exynos",
+    "galaxy",
+    "samsung",
+    "smart phone",
+    "soc"
+  ],
+  "url": "https://www.pcguide.lk/samsung-launches-exynos-2200-with-rdna2-graphics/",
+  "word_count": 415
+}

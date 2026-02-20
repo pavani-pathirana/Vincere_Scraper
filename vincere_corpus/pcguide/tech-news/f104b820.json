@@ -1,0 +1,19 @@
+{
+  "author": "Chanuka Sanesh",
+  "body": "Motherboard එක පිටුපසට connectors සම්බන්ධ කිරීම අලුත් දෙයක් නොවේ,මීට පෙර Gigabyte සමාගමේ Stealth Project එක හරහා වැඩිදියුණු කරන ලද Cable management system එකක් හදුන්වා දී තිබුණි,නමුත් මෙය Gigabyte සමාගම සතු තාක්ෂණයක් නිසා එය සියලුම Hardware components සදහා සහය දැක්වූයේ නැහැ.එමනිසා Asus සමාගම තවත් සමාගම් කිහිපයක් සමග එකතු වී Cable management සදහා ecosystem එකක් නිර්මාණය කිරීමට සමත් වි තිබෙනවා.\n\n“DIY-APE revolution” ලෙස Asus සමාගම මෙය හදුන්වා දී ඇති අතර Intel සහ AMD motherboards සදහා ඉදිරියේදී නිෂ්පාදනයට සූදානමින් සිටිනවා. Power connectors,Sata,usb,fan headers සහ front panel connectors වැනි සියලුම Connectors motherboard එක පිටුපස ස්ථානගත කර තිබෙනවා.මෙම නව සංකල්පය Intel B660,B760 සහ H610 සමග සහ AMD B650 සමග ඉදිරියේදී අපිට බලාපොරොත්තු වෙන්න පුළුවන්.මෙය Gigabyte stealth project එකට වඩා පුළුල් සහ මේ සදහා Asus සමාගම Sama,LianLi,Cooler master,Cougar,phanteks සහ Jonbo වැනි casing නිෂ්පාදන සමාගම් සමග සම්බන්ධ වී තිබෙනවා.\n\nමෙය තාමත් පරීක්ෂණ මට්ටමේ පවතින අතර,ඉදිරියේදී වෙළඳපොලට සීමිත ලෙස හෝ පැමිණීමට විශාල ඉඩකඩක් පවතිනවා. කෙසේවෙතත් RGB කලාව මෙන් මෙයද PC ලෝකයේ තවත් එක් විප්ලවයක ආරම්භයක් විය හැකිය.\n\nsource:-https://videocardz.com/newz/asus-diy-ape-revolution-project-is-an-attempt-to-improve-pc-cable-management",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:29:28.712802",
+  "headline": "කේබල් වදයෙන් නිදහස් කරන ASUS DIY – APE Revolution",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "Asus",
+    "cabel management",
+    "casing",
+    "gaming",
+    "pc"
+  ],
+  "url": "https://www.pcguide.lk/asus-diy-ape-revolution-no-cables/",
+  "word_count": 160
+}

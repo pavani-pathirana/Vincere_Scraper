@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Internet Archive යන නම සමහරවිට ඔබ අසා ඇති. එය තමයි ලොව විශාලම digital library එක ලෙස හදුන්වන්නෙ. මෙම වෙබ් අඩවියෙන් ඔබට අවශ්‍ය ඕනෑම website එකක්, software application, music, audio, සහ print materials සොයාගන්න පුලුවන්. මෙය ආදායම් නොලබන සංවිධානයකින් පවත්වාගෙන යන්නක්. මෙහි digital files වලට අමතරව Wayback Machine නමින් තවත් විශේෂාංගයක් තිබෙනවා. මෙමගින් ඔබට දීර්ඝ කාලයක් තිස්සෙ පවත්වාගෙන ආ වෙබ් අඩවි වල පැරනි ස්වරූපයන් බලන්න පුලුවන්.\n\nඉතින් මේ Internet Archive වෙබ් අඩවිය ගැන අහන්න ලැබෙන්නෙ කනගාටුදායක පුවතක්. ඒ තමයි මේ වනවිට මේ වෙබ් අඩවිය හැක්වීමකට ලක්වෙලා තිබෙනවා. එයටත් වඩා ප්‍රධාන ගැටලුවක් වී තිබෙන්නෙ මේ වෙබ් අඩවියේ ලියාපදිංචි වී සිටි මිලියන 31ක පරිශීලකයන්ගේ දත්ත හැකර්කරුවන් අතට පත්වී තිබීමයි.\n\nපසුගිය ඔක්තෝම්බර් 9 වැනිදා සිට මේ ආකාරයට මෙම වෙබ් අඩවියට පිවිසි පරිශීලකයන්ට දැකගන්න ලැබුනෙ මෙවන් පනිවිඩයක්. “Have you ever felt like the Internet Archive runs on sticks and is constantly on the verge of suffering a catastrophic security breach? It just happened. See 31 million of you on HIBP!” මෙහි සදහන් වනHIBPයනුHave I Been Pwned?වෙබ් අඩවියයි. මෙම වෙබ් අඩවියෙන් ඔබට ඔබේ email ලිපිනයක් ලබාදී එහි දත්ත ලීක් වී තිබේදැයි පරීක්ශා කර බලන්න පුලුවන්. එනම් එම email ලිපිනයට අදාල යම්කිසි තොරතුරක් මේ වනවිටත් dark web එකට නිකුත් වී තිබේදැයි පෙන්වනවා.\n\nNew breach: Internet Archive had 31M records breached last month including email address, screen name and bcrypt password hash. 54% were already in@haveibeenpwned. Read more:https://t.co/1d9Mxv97Ac\n\nමෙම හැක්කිරීම සිදුකර තිබෙන්නෙBlackMeta hacktivist groupඑක මගිනුයි. ඒDDoS attackඑකක් ලෙසයි. මෙම කණ්ඩායම ඔවුන්ගේ X ගිණුමේ සටහනක් තබමින් මේ හැකින් ප්‍රහාරයේ වගකීම බාරගෙන තිබෙනවා. ඔවුන් මෙම ප්‍රහාරයට හේතුව ලෙස දන්වා තිබුනෙ මෙම වෙබ් අඩවිය ඇමරිකානු වෙබ් අඩවියක් වීම සහ ඇමරිකාව විසින් ඊශ්‍රායල රජයට සහය දක්වනවා යන්නයි. ඒ වගේම මෙම ප්‍රහාරයේ දෙවන වටයකුත් තිබෙන බව ඔවුන් එහි සදහන් කර තිබෙනවා. මෙම හැකින් කණ්ඩායම මීට පෙර මේ වසරේ ජූලි මාසයේදී UAE Bank එක හැක් කර තිබුනා.\n\nThe Internet archive has and is suffering from a devastating attack We have been launching several highly successful attacks for five long hours and, to this moment, all their systems are completely down.second round | New attack09/10/2024 Duration 6 hours…pic.twitter.com/SL9lz4gSld\n\nHIBPසමාගමේ සාමාජිකයෙකු සදහන් කර තිබුනේ මේ වනවිටBlackMetaකණ්ඩායම විසින් ඔවුන්ට Internet Archive’s authentication database එක ලබාදී ඇති බවයි. එහි දත්ත සොරාගෙන ඇති පරිශීලකයන් ගැන විස්තර අඩංගු වෙන නිසා එම පරිශීලකයන්ට මේ පිලිබදව දැන්වීම මේ වනවිට සිදුකෙරෙමින් පවතිනවා.\n\nWhat we know: DDOS attack–fended off for now; defacement of our website via JS library; breach of usernames/email/salted-encrypted passwords.What we’ve done: Disabled the JS library, scrubbing systems, upgrading security.Will share more as we know it.\n\nමේ ප්‍රහාරයට එරෙහිව සිදුකෙරෙමින් පවතින ක්‍රියාමාර්ග ගැන මෙම Internet Archive හි නිර්මානකරු වන Brewster Kale විසින් ඔහුගේ X ගිනුමේ යාවත්කාලීන සිදුකරමින් සිටිනවා. මෙවන් ප්‍රහාර වලින් පැන නගින ප්‍රශ්නය වන්නෙ ඉතාමත් ආරක්ශිත ක්‍රමවේදයක් ලෙස සැලකෙන 2FA එහෙමත් නැතිනම් 2 factor authentication පහසුකම ක්‍රියාත්මක තිබුනත් අපගේ දත්ත ඇත්තටම ආරක්ශිතද යන්නයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:45:55.728745",
+  "headline": "පරිශීලකයන් මිලියන 31ක දත්ත සමග හැක්වුනු Internet Archive",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "cyber security",
+    "cyberattack",
+    "hack",
+    "hacked",
+    "internet"
+  ],
+  "url": "https://www.pcguide.lk/internet-archive-hacked-with-31-million-users-data/",
+  "word_count": 452
+}

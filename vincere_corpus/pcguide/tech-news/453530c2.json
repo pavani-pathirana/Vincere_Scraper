@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "අන්තර්ජාලය භාවිතා කිරීමේදී පරිශීලකයන්ගෙ දත්ත රහස්‍යතාව සහ ආරක්ෂාව ගැන පසුගිය වසර කිහිපය තුල වැඩි අවධානයක් යොමු වෙලා තියනවා. විශේෂයෙන් ලෝකයේ විශාලතම Tech සමාගම් මේ දත්ත භාවිතා කරන හැටි ගැන ලොකු කතාබහක් යනවා. ඒ අතර TikTok සේවාව මේ දත්ත හසුරවන ආකාරය ගැන දැඩි විවේචනයක් එල්ල වෙමින් පවතින කාලයක ඒ සේවාව වෙත තවත් චෝදනාවක් එල්ල වෙලා තියනවා, ඒ TikTok app එකේ භාවිතා වන in-app browser එක සම්බන්ධවයි.\n\nඔයාල දැනටමත් අත්විඳල ඇති සමහර ප්‍රසිද්ධ apps ඒ app එක තුල link එකක් click කරාම phone එකේ තිබෙන browser එකෙන් වෙනුවට ඒ app එක තුලම ඇති browser එකකින් අදාල link එක විවෘත කරන ආකාරය. ඉතින් මේ in-app browser එකෙන් links open කිරීමෙන් මේ apps වලට පරිශීලකයන් track කිරීමට හැකියාව ලබාදෙනවා. In-app browser එකෙන් links open කරද්දි ඒ app එකට අවශ්‍ය JavaScript code කොටසක් හෝ HTML element එකක් අදාල open වෙන වෙබ් අඩවියේ code එකට inject කරන්න පුලුවන්. හුඟක් ප්‍රසිද්ධ apps මේ දේ කරල පරිශීලකයන් track කරත් ඒක එතරම් කලබල වෙන්න දෙයක් නෙවේ.\n\n🔥 New Post: Announcing InAppBrowser – see what JavaScript commands get injected through an in-app browser👀 TikTok, when opening any website in their app, injects tracking code that can monitor all keystrokes, including passwords, and all taps.https://t.co/TxN1ezZX71pic.twitter.com/pQcX5vrEXc\n\nනමුත් අන්තර්ජාල ආරක්ෂාව පිලිබඳ researcher කෙනෙක් වෙන Felix Krause විසින් iOS apps භාවිතා කරල කරපු පරීක්ෂණයකින් හෙලි වෙලා තියනවා TikTok සේවාව in-app browser එක භාවිතා කරල සාමාන්‍ය තත්වයෙන් එහා යන track කිරීමක් සිදු කරන බව. Krause ප්‍රකාශ කරන ආකාරයට යම්කිසි පරිශීලකයෙක් මේ in-app browser එක තුල සිදු කරන සියලු keyboard inputs සහ taps වල දත්ත TikTok විසින් track කරනවා, ඒ කියන්නෙ මේ in-app browser එකේදි ඔයා card payment එකක් කරොත් ඒ credit card දත්ත TikTok වලට ලබාගන්න පුලුවන්. ඒ වගේම Krause විසින් පරික්ෂා කරපු සියලුම apps වලින් TikTok වල පමණක් in-app browser එක භාවිතා කරන්නෙ නැතුව phone එකේ app එකෙන් links open කිරීම සැකසීමට පහසුකමක් ලබා දීලා නෑ, ඒ කියන්නෙ TikTok වල තියන link එකක් open කරන්න ඕනනම් තියන එකම විසඳුම තමයි in-app browser එක පාවිච්චි කරන එක, එහෙම නැතිනම් link එක copy කරගෙන phone එකේ browser එකෙන් link එක open කරන එක.\n\nමේ සොයා ගැනීමෙන් කියවෙන්නෙ නෑ TikTok විසින් මේ දත්ත භාවිතා කරනව කියල, නමුත් ඕනනම් ඔවුන්ට හැකියාව තියනව ඒ දේ කරන්න. මේ සම්බන්ධයෙන් TikTok සේවාව ප්‍රකාශයක් නිකුත් කරල කියල තියෙන්නෙ ඔවුන් මේ විදිහට පරිශීලකයන්ගෙ keystroke හෝ text inputs record කර නොගන්නා බවත් ඒ code එකෙන් debugging, troubleshooting, සහ performance නිරීක්ෂණය පමණක් සිදු කරන බවත් ය.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:29:04.512589",
+  "headline": "Type කරන දේවල් හොරෙන් බලන TikTok",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "browser",
+    "security",
+    "tiktok",
+    "tracking",
+    "user data"
+  ],
+  "url": "https://www.pcguide.lk/tiktok-in-app-browser-tracks-user-input/",
+  "word_count": 391
+}

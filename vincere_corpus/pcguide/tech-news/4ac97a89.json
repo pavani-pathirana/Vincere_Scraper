@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "AMD සමාගමේ RYZEN 9000 CPU දැන් AM5 Platform එක සදහා නිකුත් වී තිබෙනව. නවතම 4nm තාක්ෂණයෙන් නිපදවෙන RYZEN 9000 Desktop CPU වැඩි කාර්යක්ෂමතාවයක් අඩු බලයක් භාවිතා කරමින් ලබා දෙන්න කටයුතු කරන අතරම Gamers ලට වගේම Content Creators ල සදහාත් මේ වෙනස ඉතා වාසිදායක වෙනව.\n\n2024 අගෝස්තු මස තුලදී නිකුත් කරන RYZEN 9000 Processors පිළිවෙලින්\n\nලෙස නිකුත් වී ඇති අතර CPU වල Cores 32ක් Threads 16ක උපරිමයක් සහ 5.7GHz උපරිම වේගයක් මෙන්ම 64MB L3 Cache එකක්ද අඩංගු වෙනව.\n\nRYZEN 9000 CPU වලදී නවතම PCIe Gen 5.0 වේගයන් ඔස්සේ Graphic Cards සහ NVMe වලට සහය දක්වන අතර DDR5 Memory සදහාත් වැඩි වේග යටතේ Support කරනව. මේ සියළු Features දැනට මිලදී ගත හැකි AMD 600 Series motherboards (B650 | X670) සදහා නවතම BIOS Update එකෙන් පසුව Support කරන අතර MSI වෙබ් අඩවිය හරහා ඔබගේ MSI Motherboard එකටත් නවතම updates ලබාගන්න පුළුවන්.\n\nමෙවර තායිවානයේ පැවති Computex 2024දී MSI සමාගම AMD RYZEN 9000 සදහා නව Motherboards 2ක් හදුන්වා දුන්නා.\n\nමේ නව Motherboards වල DIY PC Build කිරීම පහසු කරන්න එකතු වූ නවතම Features අතරට\n\nEZ M.2 Shield Frozr II සහ EZ M.2 Clip II Features අඩංගු වූ අතර MSI MPG Series එක සහ MEG Series එක හරහා නවතම Motherboards සහ Features ඉදිරියේදී හදුන්වා දෙන්න නියමිතයි.\n\nMSi සමාගමේ Motherboards වල පමණක් ඇති Performance Switch Overclocking Function එක RYZEN 9000 CPU සදහා මේ වනවිට සූදානම්. AMD සමාගමේ PBO (Precision Boost Overdrive) තාක්ෂණය MSI සමාගමේ Overclocking Settings සමග එක් කර පහසුවෙන් CPU එක Overclock කිරීම හරහා Performance වැඩි කරගැනීම සිදු කල හැකියි.\n\nAMD සමාගම ඔවුන්ගෙ RYZEN 9000 Series CPU සමග නිකුත් කර ඇති Optimized Performance Profile (OPP) හරහා RAM එකේ දැනට පවතින EXPO Profile එක CPU එකේ වේගයත් සමග සසදා හොදම Stable RAM Overclock එකක් ලබාදීමට කටුයුතු කරනව.\n\nමේ සමගම RAM වලින් උපරිම performance එකක් සහ හොදම Stability එකක් ලබාගැනීමට MSI Motherboards වලදී ලැබෙන තවත් Options දෙකක් වනුයේ\n\nOC OTF යනු RAM එක Overlock කිරීම ඉතාමත් පහසු කරන AMD සමාගමේ අළුත්ම Feature එකයි.  BIOS හරහා OC OTF enable කරගත් පසු Windows තුලදී Ryzen Master Software එක හරහා RAM OC Profile අතර මාරුවීම සිදු කරන්න මේ හරහා පුළුවන්.\n\nවඩාත් Stable Performance එකක් අවශ්‍ය වැඩ සදහා industry-standard JEDEC timings පාවිච්චි කරන්නත් Gaming සදහා Overclocking Profiles තෝරගන්නත් ඕනෑම කෙනෙකුට BIOS වලට යන්නෙ නැතුවම කරන්න හැකි වෙනව.\n\nAMD සමාගම RYZEN 7000 Series එකෙදී හදුන්වා දුන් Curve Shaper Feature එක හරහා ඉතාමත් පහසුවෙන් RYZEN 9000 CPU සදහාත් ලබාදන බලය පාලනය කරන්න හැකියාව තියෙනව. මේ හරහා Enthusiast Users ලට ඔවුන්ගේ system හරහා උපරිම performance එකක් ලබාගන්න පුළුවන්.\n\nඉහත සදහන් සියළුම Features සමගින් MSI සමාගම AMD 600 series Motherboards වලටත් පෙර සදහන් කල පරිදිම BIOS Updates ලබාදීම හරහා නවතම RYZEN 9000 CPU Support එක ලබාදී තිබෙන බව මතක් කල යුතුම අතර ඔබගේ Motherboard එකේ Webpage එක හරහා මෙය ලබාගන්න පුළුවන්.\n\nමේ සියළුම අංග සමගින් MSI සමාගම හොදම Performance සහ Features ඔබට ලබාදීමට නිරන්තරයෙන් කටයුතු කරන  බවත් මතක් කල යුතුයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:50:40.701309",
+  "headline": "RYZEN 9000 වලට MSI Motherboards!",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "hardware",
+    "motherboards",
+    "msi",
+    "RYZEN"
+  ],
+  "url": "https://www.pcguide.lk/msi-motherboards-for-ryzen-9000-series-launched-features/",
+  "word_count": 464
+}

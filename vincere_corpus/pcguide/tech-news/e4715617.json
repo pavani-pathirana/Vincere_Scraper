@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "මේ ලිපිය වැදගත් වෙන්නෙ Desktop Computer එකක් Assemble (එකලස්) කරන අයටයි. Computer එකට ඕන කරන හැම Part එක ගැනම හොයල මිල ගණන් සසදල තීරණ ගත්තත් Power Supply එකට ආපුවම තමයි ගොඩක් අය අතරමං වෙන්නෙ. මේ තියෙන්නෙ ඒකට විසදුමක්.\n\nඔයාට ඕන කරන Parts ටික ඒ කියන්නෙ CPU, RAM, HDD, SSD VGA වගේ දේවල් වගේම Water Cooling වගේ දේවල් ඔක්කොම තීරණය කරාට පස්සෙ මෙන්න මේ ලින්ක් එකට යන්න.power Supply Calculator\n\nමේ සයිට් එකේ තියෙන Basic / Expert mode දෙකෙන් එකක්(ගොඩක් වෙලාවට Basic mode එක ගොඩක් අයට හරියනව)තෝරගෙන ඔයාගෙ Parts ටික  input කරන්න. දැන් දකුණු පැත්තෙ තියෙන “Calculate” button එක press කරාම ඔයාගෙ parts වලට අවශ්‍ය වෙන Watt ගාන පෙනන්නනව. ඉතින් මේ Watt ගානට වඩා ටිකක් වැඩි Power Supply එකක් ඔයාලට ගන්න පුලුවන්.\n\nඋදාහරණයක් විදිහට 412Watt වගේ ප්‍රමාණයක් ආවොත් 450 Watt power Supply එකක් හොදටම ප්‍රමාණවත්. මෙතනදි ඉස්සරහට ඕගොල්ලො Upgrade කරන්න හිතන් ඉන්නවනම් ඒ ගැනත් බලන්න අමතක කරන්නෙපා. ඒ වගේම වැඩි හොදට කියල දෙගුණයක් විතර Wattage එකක් තියෙන Power supply එකක් ගන්නත් එපා.\n\nහැමවෙලේම ගන්න Power Supply එකේ සදහන් power output එක stable ද කියල බලන්න. සමහර power supply වල “Max power” “Peak power” කියල තියෙන්නෙ ඒ power supply එක හැමවෙලේම දෙන output එක නෙමෙයි. එ් ගැනත් සැලකිලිමත් වෙන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:54:06.189821",
+  "headline": "System එකට ගැලපෙන Power Supply එක තෝරමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "explained",
+    "Power Supply",
+    "tips"
+  ],
+  "url": "https://www.pcguide.lk/how-to-choose-a-power-supply/",
+  "word_count": 196
+}

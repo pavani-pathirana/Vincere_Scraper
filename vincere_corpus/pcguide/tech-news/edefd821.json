@@ -1,0 +1,18 @@
+{
+  "author": "Sasindu Dilshan",
+  "body": "වසරින් වසර Graphic card වල තාක්ශණය මෙන්ම ප්‍රමාණයද විශාල වන අතර NVIDIA RTX 4090 Ti මේ වන විට පරීක්ශණ මට්ටමේ පවතින බව අළුත්ම Leaks අනුව දැනගන්න ලැබෙනව. NVIDIA හි Green room testing එකක් අතරතුරදී GPU නිශ්පාදකයින් පවසා ඇත්තේ මෙම GPU එක ලබාගන්නා power එක නිසා සැබවින්ම (melting) උනු වීමකට ලක් වන බවත් මෙහිදී PC එකේ Power supply එක විනාශ වී යන බවත්ය.එම නිසාවෙන් මෙය වෙලදපලට නිකුත් කිරීම අදහස තාවකාලිකව අත්හිටුවා ඇති බව වාර්තා වේ.\n\nදැනට Leak වී තිබෙන තොරතුරු අනුව RTX 4090 Ti විසින් 600W ත් 700W ක් පමණ Power එකක් භාවිත කල බවත් මෙහිදී 16-pin PCIe connectors දෙකක් අවශය වූ බවත් වාර්තා වේ. Ada Lovelace Architecture එක මත නිපදවෙන RTX 4090Ti හි 24GB VRAM  එකක් සහ GDDR6x Memory type එකකින්ද 3GHz දක්වා වූ clock speed එකකින්ද යුක්ත වනු ඇති බවත්, RTX 4090 හා සසදන විට 20% ක පමණ performance improvement එකක් ලබා දෙනු ඇති බව පැවසේ.\n\nTechSpot වාර්තා කර ඇත්තේ NVIDIA විසින් මෙය අනාගතයේ නිකුත් කල හැකි බවත් Power එක විශාල ලෙස භාවිතා වුවද මෙය Users ලා අතරේ බොහෝ සෙයින් ජනප්‍රිය වීමට ඉඩ ඇති බවත්ය.කෙසේ වෙතත් NVIDIA හට RTX 4090 Ti වෙළඳපොළට ගෙන ඒමට තවත් ඕනෑ තරම් කාලය තිබේ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:29:09.169485",
+  "headline": "දිය වී ගිය Nvidia RTX 4090 Ti",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "4090ti",
+    "Nvidia",
+    "rtx",
+    "specs"
+  ],
+  "url": "https://www.pcguide.lk/melting-issues-with-nvidia-rtx-4090-ti/",
+  "word_count": 190
+}

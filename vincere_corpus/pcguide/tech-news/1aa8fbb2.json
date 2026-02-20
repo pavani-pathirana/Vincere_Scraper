@@ -1,0 +1,17 @@
+{
+  "author": "Anjula Wiraj Rathnayaka",
+  "body": "ඔබ WhatsApp පරිශීලකයෙක් නම්, ඔබේ ගිණුම ආරක්ෂා කිරීමට විවිධ ක්‍රම තිබේ . එනම් සාම්ප්‍රදායික password එකක් එක් කිරීම සහ two-factor authentication එක් කිරීමයි.නුදුරේදීම, පරිශීලකයින්ට ඔවුන්ගේ ගිණුමේ සුරක්ෂිත බව වැඩි කිරීම සඳහා තවත් විකල්පයක් ලැබෙනු ඇත.\n\npasskey සහාය දැනටමත් ප්‍රකාශයට පත් කර ඇති බොහෝ app සහ web sites ඇති අතර WhatsApp මීළඟ app එක විය හැකිය. Meta එය තවමත් කිසිවක් ප්‍රකාශ කර නොමැති අතර, WABetaInfo විසින් Android සඳහා WhatsApp හි නවතම beta update එක මගින් සැඟවුණු මුරපද සැකසුම් මෙනුවක් සොයාගෙන ඇත.\n\nමෙම feature එක සක්‍රීය කිරීමට ක්‍රමයක් නොමැතිව තවමත් සංවර්ධනය වෙමින් පවතින බව පෙනේ, නමුත් මෙය WhatsApp භාවිතා කරන්නන්ට සම්ප්‍රදායික password වෙනුවට passkey එකක් මගින් ද තම ගිණුම ආරක්ෂා කර ගැනීමේ විකල්පය ඉක්මනින් ලැබෙනු ඇති බවට මෙය ප්‍රබල ඉඟියකි.\n\npasskey යනු වඩාත් ආරක්ෂිත පද්ධතියක් නිර්මාණය කිරීමට දැරූ උත්සහයක ප්‍රථිඵලයකි. සාම්ප්‍රදායික password වෙනුවට, පරිශීලකයින්ට දැන් සාමාන්‍ය passkey සාදා ටයිප් කිරීමකින් තොරව facial recognition හෝ biometrics සමඟ sign in විය හැක. මෙම තාක්‍ෂණය FIDO Alliance විසින් Apple, Google, සහ Microsoft සමඟ හවුල්කාරිත්වයෙන් වැඩි දියුණු කරන ලදී.\n\niOS 17, iPadOS 17, සහ macOS Sonoma හි භාවිතා කරන්නන් සඳහා Apple ID ගිණුම් වෙත ස්වයංක්‍රීයව මුරපදයක් පවරන බව Apple ජුනි මාසයේදී නිවේදනය කළේය. මෙයින් අදහස් කරන්නේ පරිශීලකයින්ට මුරපදයක් ඇතුළත් කිරීම වෙනුවට ඔවුන්ගේ මුරපදය credential ලෙස භාවිතා කරමින් Apple.com, iCloud.com හෝ වෙනත් Apple-ආශ්‍රිත වෙබ් අඩවි වෙත authenticate කළ හැකි බවයි.\n\nකෙසේ වෙතත් WhatsApp update කිරීම සඳහා එය පරිශීලකයින්ට ලබා ගත හැක්කේ කවදාද යන්න පිළිබඳ තවමත් ප්‍රකාශයට පත් කර නැත.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:20:44.340525",
+  "headline": "WhatsApp වලට අලුතින් එන security feature එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "security",
+    "update",
+    "whatsapp"
+  ],
+  "url": "https://www.pcguide.lk/whatsapp-new-security-feature/",
+  "word_count": 232
+}

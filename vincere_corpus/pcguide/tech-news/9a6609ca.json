@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Chrome වලට තිත තියන්න සැරසෙන නව Edge ගැන දැනගමු. Internet Explorer අති ජනප්‍රියව පැවතුන 90 දශකයෙන් පස්සෙ නැවතත් ඒ ජනප්‍රියත්වය ලබාගන්න දැන් Microsoft සමාගම තවත් ජනප්‍රිය Browser එකක් වෙන Chrome වෙතට යොමුවෙලා.\n\nInternet Explorer වල වෙනස්කම් සමග IE 11 – IE 12 විදිහට නව සංස්කරණ නිකුත් උනත් මේ Internet Explorer එක පාවිච්චි උනේ Firefox / chrome වැනි වෙනත් Browser එකක් Download කරගැනීමට විතරයි.\n\nMicrosoft සමාගමේ IE සහ Edge වලට ඉහලින් Google Chrome සහ Apple සමාගමේ Safari තිබීම ලෝකයේ 95% කට වඩා භාවිතා වන Windows සමග නොමිලේ ලබාදුන්නත් එහි භාවිතය මෙතරම් අඩු අගයක තිබීම තමන්ගෙ Bing Search Engine එක වගේම MSN News වල ජනප්‍රියත්වයටත් හානියක් බව Microsoft සමාගමට වැටහෙන්න පටන් අරන්.\n\nමෙයට පිළිතුරක් විදිහට තමයි තමන්ගෙම Web Browser එකක් නිර්මාණය කිරීම පැත්තකින් තියල Microsoft සමාගම කාටත් නොමිලේ ලබාගෙන වැඩිදියුණු කරන්න පුළුවන් Chromium Project එක වෙත යොමු වෙන්නෙ.\n\nChromium Source Code එක Modify කිරීම තුලින් තමයි New Edge Browser එක නිර්මාණය වෙන්නෙ. මේ නිසා Chrome වල තිබෙන පහසුකම් ගොඩක් ලැබෙනව වගේම Chrome වල තියෙන අපේ online ක්‍රියාකාරකම් හැම එකක්ම වගේ Track කිරීම නැති Web browser එකක් අපට ලැබෙනව.\n\nමේ පහසුකම් එක්ක මුළු ලෝකයේම විද්වතුන්ගෙන් Update වෙන Chromium Open Source Project එක නිසා microsoft සමාගමට පැවරෙන්නෙ තමන්ගෙ New Edge Browser එක නිවැරදිව පවත්වාගැනීමයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:47:41.042449",
+  "headline": "Chromium මතින් කරලියට එන New Microsoft Edge",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "browser",
+    "chrome",
+    "edge",
+    "internet explorer",
+    "new edge"
+  ],
+  "url": "https://www.pcguide.lk/chromium-based-new-microsoft-edge/",
+  "word_count": 200
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "Windows 10 වලට අලුතින් features එකතු කරන Microsoft සමාගම තමන්ගෙ Windows insider ring එකට Windows Game mode එක හදුන්වා දුන්නා. මේ මෝඩ් එකෙන් Computer එකේ CPU & GPU priority එක game එකට ලබා දීල වැඩි frame rates ලබාගැනීමයි අරමුණ වෙන්නෙ.ctrl + Gවලින් Activate කරන්න පුලුවන් game bar එකෙන් ගේම් එකේ screenshots ගන්න, ගේම් එක record කරන්න වගේම Microsoft ලගෙ Beam service එක හරහා live stream කරන්නත් පුලුවන්.\n\nදැනට Windows Insider program එකේ fast ring එකට විතරක් release වෙලා තියෙන මේ feature එක Windows 10 Creators Update එකත් එක්ක හැම Windows 10 user කෙනෙකුටම ලැබෙනව.මේupdateඑකෙන් පස්සෙWindows settingsවලGame Modeකියල අලුත්optionඑකක්Activateවෙනව. මේGame modeඑක සමහර අලුත්gameවලටAutomatically enableඋනත් සමහරgamesවලටmanually activateකරගන්න වෙයි කියලMicrosoftසමාගම ප්‍රකාශ කලා.මේmodeඑක3D modeling, programming, Video renderingවගේ වැඩවලදිත් යොදාගන්න පුලුවන් උනොත් ඒක තවත් ප්‍රයෝජනවත් වෙයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:56:36.455236",
+  "headline": "Windows 10 වල අලුත් Gaming features",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "games",
+    "microsoft",
+    "software",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/windows-10-%e0%b7%80%e0%b6%bd-%e0%b6%85%e0%b6%bd%e0%b7%94%e0%b6%ad%e0%b7%8a-gaming-features/",
+  "word_count": 121
+}

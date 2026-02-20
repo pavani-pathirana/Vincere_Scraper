@@ -1,0 +1,18 @@
+{
+  "author": "ByEditorFebruary 22, 20230102 Mins Read",
+  "body": "Domain name registrar සහ web hosting සමාගමක් වන Namecheap, එහි email server hijack කර DHL සහ MetaMask යන මුවාවෙන් ගනුදෙනුකරුවන්ට scam email සිය ගණනක් යවා ඇත. Namecheap හි e-mail platform එක SendGrid එහි API keys පසුගිය වසරේ දෙසැම්බර් මාසයේදී leak විය. මෙම ප්‍රහාරය එහි අඛණ්ඩ පැවැත්මක් බවට සැක කෙරේ. Namecheap සමාගමේ support team එක මේ ගැටලුව පිළිබඳ යාවත්කාලීනයක් බෙදා ගත්තේය.\n\nBeware of phishing emails coming out of@Namecheap’s@SendGridaccount. DHL, MetaMask, digitally signed with DKIM. Looks like low level hackers were able to get into their systems. PII looks to be exposed.pic.twitter.com/IuLE8mo2w6\n\nNamecheap හි e-mail platform එක වන SendGrid hack කිරීමෙන් පසුව, DHL සහ MetaMask වෙතින් නීත්‍යානුකූල emails ලෙස පෙනී සිට, සිය ගණනක් පරිශීලකයින්ට scam email යවා ඇත. DHL e-mails නොගෙවූ ගාස්තු හේතුවෙන් තම package එක එවිය නොහැකි බව පරිශීලකයාට දැනුම් දීමෙන් mail delivery service එකක් ලෙස පෙනී සිටි අතර MetaMask scam emails පරිශීලකයින්ට ඔවුන්ගේ Secret Recovery Phrase ඇතුළු නොවන පරිදි ඔවුන්ගේ wallets අත්හිටුවීම ගැන අනතුරු ඇඟවීය. මෙම නීත්‍යානුකූල පෙනුමැති scam වෙබ් අඩවි දෙකම පරිශීලක තොරතුරු ලබා ගත් පසු, හැකර්වරුන්ට ඒවා තමන්ගේම ලෙස භාවිත කළ හැක.\n\n⚠️MetaMask does not collect KYC info and will never email you about your account!Do not enter your Secret Recovery Phrase on a website EVER.If you got an email today from MetaMask or Namecheap or anyone else like this, ignore it & do not click its links!https://t.co/EP0HGZFOfopic.twitter.com/4CDtne24OK\n\nNamecheap සමාගමේ support team එක විසින් මේ email scam එක සත්‍ය බව තහවුරු කළ අතර, මේ ගැටලුව සම්බන්ධයෙන් ප්‍රකාශයක් නිකුත් කරන ලදී. ඔවුන් නිවේදනය කළේ:\n\n“කරුණාකර එවැනි email නොසලකා හරින්න සහ කිසිදු link එකක් click නොකරන්න. අපි සියලුම emails නවතා ඇති අතර (ඒ තුළ Auth codes බෙදා හැරීම, Trusted Devices’ verification, සහ Password Reset emails, යනාදිය ඇතුළත් වේ.) සහ ගැටලුව විසඳීමට අපගේ upstream provider සම්බන්ධ කර ගත්තෙමු.”යනුවෙනි.\n\nNamecheap පැය 2 කට පසුව ඔවුන්ගේ ප්‍රකාශයට යාවත්කාලීනයක් එක් කළේ mail delivery කිරීම restore කර ඇති බවත්, අනවශ්‍ය emails mail කිරීමේ ගැටලුව ඔවුන් දිගටම විමර්ශනය කරන බවත් පවසමිනි.\n\nSource:Cloud7 News,Tech Target,Information Security Buzz,Bleeping Computer,Hack Read",
+  "category": "all",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T20:13:50.407374",
+  "headline": "XpressJobs ශ්‍රී ලංකාවේ පළමු AI-බලගැන්වූ WhatsApp බඳවා ගැනීමේ සහයකයා දියත් කරයි",
+  "source": "tecroom",
+  "tags": [
+    "all",
+    "Hackers",
+    "Namecheap",
+    "Namecheap Hacked",
+    "News"
+  ],
+  "url": "https://tecroom.lk/namecheap-hacked-and-used-to-send-scam-e-mails/",
+  "word_count": 322
+}

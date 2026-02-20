@@ -1,0 +1,19 @@
+{
+  "author": "ByEditorAugust 28, 2022032 Mins Read",
+  "body": "Password management සමාගමක් වන LastPass සති දෙකකට පෙර හැක් වී තිබෙන අතර, සමාගමේ source code සහ හිමිකාර තාක්ෂණික තොරතුරු සොරකම් කිරීමට මේ හැකර්වරුන්ට හැකි වී තිබෙනවා.\n\nආරංචි මාර්ග Bleeping Computer වෙත පවසා තිබෙන්නේ LastPass බිඳ දැමීමෙන් පසු ප්‍රහාරය පාලනය කිරීමට සේවකයින් පොරකමින් සිටින බවයි. මේ අතර Bleeping Computer විසින් ප්‍රහාරය පිළිබඳව ප්‍රශ්න ඇසීමෙන් පසු, LastPass සමාගම විසින් ආරක්ෂක උපදේශනයක් නිකුත් කර ඇති අතර, එමගින් සමාගමේ developer environment එකට ප්‍රවේශ වීමට හැකර්වරුන් භාවිතා කළ සම්මුතියකට ලක් වූ developer account එකක් හරහා එය සිදුකල බව තහවුරු කරයි.\n\nLastPass සමාගම පවසන්නේ පාරිභෝගික දත්ත හෝ encrypted password vaults අවදානමට ලක් වූ බවට කිසිදු සාක්ෂියක් නොමැති බවයි, හැකර්වරුන් විසින් ඔවුන්ගේ source code එකේ කොටස් සහ හිමිකාර LastPass තාක්ෂණික තොරතුරු සොරකම් කර ඇත.\n\n“සිද්ධියට ප්‍රතිචාර වශයෙන්, අපි සීමා කිරීම් සහ අවම කිරීමේ ක්‍රියාමාර්ග යොදවා ඇති අතර ප්‍රමුඛ පෙළේ සයිබර් ආරක්ෂණ සහ අධිකරණ වෛද්‍ය ආයතනයක නිරත වී සිටිමු” යනුවෙන් LastPass advisory පවසා තිබෙනවා.\n\n“අපගේ විමර්ශනය සිදුවෙමින් පවතින අතර, අපි පාලනය කිරීමේ තත්වයක් අත්කර ගෙන ඇත, අතිරේක වැඩිදියුණු කළ ආරක්ෂක පියවරයන් ක්‍රියාත්මක කර ඇත, සහ අනවසර ක්‍රියාකාරකම් පිළිබඳ වැඩිදුර සාක්ෂි කිසිවක් නොපෙනේ.” යන්න LastPass සමාගම වැඩිදුරටත් ප්‍රකාශ කර තිබෙනවා. කෙසේ නමුත් හැකර්වරුන් developer account compromised කළේ කෙසේද සහ කුමන source code සොරකම් කළේද යන්න පිළිබඳව LastPass සමාගම විසින් වැඩිදුර විස්තර සපයා නැත.\n\nLastPass පාරිභෝගිකයින්ට email හරහා යවන ලද සම්පූර්ණ ආරක්ෂක උපදේශනය පහතින් බලාගත හැකිය.\n\nLastPass යනු මිලියන 33 කට අධික ජනතාවක් සහ 100,000 ව්‍යාපාර විසින් භාවිතා කරන බව පවසන ලොව විශාලතම password management සමාගමකි. පාරිභෝගිකයින් සහ ව්‍යාපාර ඔවුන්ගේ passwords සුරක්ෂිතව ගබඩා කිරීමට සමාගමේ software භාවිතා කරන බැවින්, සමාගම හැක් කරනු ලැබුවහොත් එය හැකර්වරුන්ට ගබඩා කර ඇති passwords වෙත ප්‍රවේශ වීමට ඉඩ දිය හැකි බවට චෝදනා කර තිබුණා.\n\nකෙසේ වෙතත්, LastPass සමාගම විසින් පාරිභෝගිකයාගේ master password භාවිතයෙන් පමණක් decrypted කළ හැකි ‘encrypted vaults’ තුළ passwords ගබඩා කරන අතර, මෙම සයිබර් ප්‍රහාරයේදී එය අවදානමකට ලක් නොවූ බව LastPass සමාගම පවසයි.\n\nපසුගිය වසරේ, LastPass විසින් credential stuffing attack එකකට ලක් වූ අතර එමඟින් පරිශීලකයාගේ master password තහවුරු කිරීමට හැකර්වරුන්ට ඉඩ ලබා දුන්නේය. RedLine password-stealing malware එක බෙදාහරින හැකර්වරුන් විසින් LastPass master password සොරකම් කර ඇති බව ද අනාවරණය විය.\n\nමේ හේතුවෙන්, ඔබගේ LastPass ගිණුම් වල multi-factor authentication සක්‍රීය කිරීම අත්‍යවශ්‍ය වන අතර එමඟින් ඔබගේ passwords අවදානමට ලක්වුවද හැකර්වරුන්ට ඔබගේ ගිණුමට ප්‍රවේශ වීමට නොහැකි වනු ඇත.\n\nSource:Bleeping Computer,Bloomberg,Forbes",
+  "category": "all",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T20:13:58.823606",
+  "headline": "XpressJobs ශ්‍රී ලංකාවේ පළමු AI-බලගැන්වූ WhatsApp බඳවා ගැනීමේ සහයකයා දියත් කරයි",
+  "source": "tecroom",
+  "tags": [
+    "all",
+    "LastPass",
+    "LastPass Hacked",
+    "LastPass Password Generator",
+    "Password Leaked",
+    "Password Manager"
+  ],
+  "url": "https://tecroom.lk/lastpass-developer-systems-hacked-to-steal-source-code/",
+  "word_count": 366
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Windows 11 කියන්නෙ microsoft සමාගමේ අළුත්ම OS එක. Windows 10 වලින් Windows 11 වලට කරල තියෙන UI (User interface) Changes එක්ක ගොඩක් අය මේකට මාරුවෙන්න කැමතියි. නමුත් මේ මාරුවට කලින් ඔයාගෙ PC එකට Windows 11 හරියටම දාගන්න පුළුවන්ද කියල දැනගන්න එක වැදගත් වෙනව.\n\nWindows 11 වල System Requirements දැනගෙන සිටීම වඩාත් වැදගත් වෙන්නෙ මින් පෙර නිකුත් කල Windows Versions වලට වඩා Windows 11 වලට Officially Support කරන CPU, Motherboard Features කිහිපයක්ම තියෙන නිසා. මේ නිසා අනාගතයේ Update එක්ක ආරක්ෂිතව වැඩ කරන්න ඔයාගෙ PC එකට පුළුවන්ද? නැත්නම් Windows 11 දාගත්තට කිසිම Update එකක් එන්නෙ නැති වෙයිද (Unofficial) කියන එක ගැන දැනුවත් වෙන්න පහත දේවල් හරියටම දැනගන්න.\n\nWindows 11 දාගන්න සහ Updates හැම දෙයක්ම එක්ක වැඩ කරන්න නම් ඔයාගෙ CPU එක Microsoft සමාගම දීල තියෙන Compatible CPU List එකේ තියෙන්න ඕන. මේකAMDනම් RYZEN 2000 series එක සහ ඉන් උඩත්intelනම් 8th gen සහ ඉන් උඩ වෙන්නත් ඕන.ෙ\n\nමෙහි දක්වා ඇත්තේ බහුලව භාවිතා වෙන CPU List එක පමණයි. සම්පූර්ණ ඛසිඑ එක බලන්න –මෙතනින්.\n\nTrusted Platform module කියන්නෙ මෑතකදි ආපු හැම Laptop එකක් වගේම Desktop වලත් අන්තර්ගත අංගයක්. සමහරවිට ඉහත CPU කසිඑ එකේ Thdf.a CPU එක තිබුනට TPM එක BIOS වලින් OFF වෙලා තියෙන්න පුළුවන්. මේ නිසා AMD නම් fTPM විදිහටත් intel වලදිනම් Intel Platform Trust Technology (IPTT) කියන Setting එක යටතේ මේක Enable කරගන්න පුළුවන්.\n\nමෙතනදි Discrete TPM වෙනුවට CPU හරි Firmware TPM කියන එක තෝරන්නත් අමතක කරන්නෙපා.\n\nඉහත දේවල් ගැලපෙනව නම් ඔයාගේ System එකට අවම 4GB RAM එකක් සහ Graphics (Onboard උනත් කමක් නැහැ) වගේම 64GB Free Space එකක් HDD එකට අවශ්‍ය වෙනව.\n\nmicrosoft Official Windows 11 pageඑකට ගියාම Windows 11 දාගන්න ක්‍රම කීපයක්ම තියෙනව. පළමු ක්‍රමය තමයි\n\nWindows 11 Installation Assistant– මේ හරහා ඔයාග‍ෙ PC එක Windows 11 දාගන්න පුළුවන්ද කියල Check කරල Online Download එකක් විදිහට Windows 11 Install කරනව. මේක කරන්න Internet Connection එකක් සහ GB කීපයක DATA අවශ්‍ය වෙනව.\n\nDownload Windows 11 Disk Image – ISO– මේ හරහා ඔයාට Windows 11 ISO File එක ලබාගෙන ඒක Bootable USB එකක් විදිහට පහසුවෙන්ම හදාගන්න පුළුවන්.\n\nඉහත දේවල් නැති උනත් Windows 11 ISO එක Download කරගෙන ඔයාගෙ පරණ PC එකට (Desktop / Laptop) – Windows 11 දාන්න පුළුවන්. නමුත් මේ වගේ Unsupported CPU තියෙන PC වලට Drivers වගේම Security updates ලැබෙන්නෙ නැහැ කියල Microsoft සමාගම ප්‍රකාශ කරල තියෙනව.\n\nWindows 11 කියන්නෙ ඕනම OS එකක් වගේම නිකුත් වෙච්ච ගමන් ගොඩක් Bugs තියෙන OS එකක් බව දැන් ඔප්පු වෙලා තියෙනව. මේ නිසා හැමදාම වැඩ කරන PC එකක් නම් මේ හරහා ඔයාගෙ රැකියාව සහ ඉතාමත් වැදගත් වැඩකටයුතු වෙනවනම් 2022 ජනවාරි වගේ වෙද්දි Windows 11 වලට යන එක ඉතාමත් හොදයි. මොකද මේ වෙනකොටත් Windows 11 වල මින් පෙර නොදැකපු (Beta testing කාලය තුල) Bugs විශාල ගණනක් වාර්ථා වෙනව. මේ නිසා මේ Bugs ඉවත් වෙලා වඩාත් Stable OS Build එකක් එන්න ටිකක් කල් බලන් ඉන්න වෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:36:59.130521",
+  "headline": "Windows 11 දාගන්න කලින් දැනගත යුතු දේ",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "download",
+    "installation",
+    "Intel",
+    "iso"
+  ],
+  "url": "https://www.pcguide.lk/windows-11-system-requirements-explained/",
+  "word_count": 449
+}

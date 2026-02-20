@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Internet Explorer වලින් Edge වලට මාරු වෙලා දැන් Chrome වලට මාරු වෙන Microsoft සමාගමේ Web Browser කතන්දරේ..\n\nGoogle Chrome Web Browser එක නිර්මාණය කරන Chromium Open Source Code එක මත පදනම්ව නිපදවා ඇති Microsoft සමාගමේ නවතම Web Browser එකේ පරීක්ෂණ පිටපත් දැන් Windows 10 පරිගණක වලටDownloadකරගන්න පුලුවන්.\n\nමේ හරහා Google Chrome වැනිම එහෙත් Google සමාගමේ ඇති සේවා නොමැති වඩාත් සැහැල්ලු Web Browser එකක් අත්විදීමට දැන් හැමෝටම පුලුවන්.\n\nBeta Channel Dev Channel සහ Canary Channel ලෙස පරීක්ෂණ සංස්කරණ 3ක් හරහා ලබාගතහැකි මේ පිටපත් වලින් Beta Channel එක වඩාත් ස්ථායී (stable) සංස්කරණය ලෙස හැදින්විය හැකියි. Dev Channel එක සතියකට වතාවක් ලෙසත් Canary Channel එක දිනපතාම ලෙසත් Update වෙනවා.\n\nCrash වීම වැඩි එහෙත් අලුත්ම Features ඇති සංස්කරණයක් අවශ්‍ය අයට Canary Channel එකත්, වඩාත් stable සහ තම ප්‍රධාන browser එක ලෙස මෙම පරීක්ෂණ සංස්කරණය භාවිතා කිරීමට නම් Dev හෝ beta Channel එකත් සුදුසු වෙනවා. මෙහි ප්‍රධානම වෙනස්කම වන්නෙ Search Engine එක ලෙස Microsoft Bing භාවිතා වීමයි.\n\nමේ අනුව ලෝකයේ විශාල වෙනසක් කරමින් අන්තර්ජාලය නිවසට හුරු කල Microsoft සමාගමේ internet Explorer වල අවසානයට සූදානම ඇරඹෙනවා.\n\nInternet Explorer කියන්නෙ අන්තර්ජාලය ව්‍යාප්ත වෙන මුල් අවධියේ මුලු පරිගණක ලෝකයෙම ජනප්‍රියතම Web browser එකයි. Windows 95 මෙහෙයුම් පද්ධතිය සමග නොමිලේ ලබාදුන්න නිසා වේගයෙන් ජනප්‍රිය වෙච්ච මේ Web Browser එක එවකට ජනප්‍රියව තිබුන Netscape navigator කියන Web Browser එක ලෝකයෙන්ම අමතක කරල දාන්න තරම් ලොකු වෙනසක් ඇති කලා.\n\nනමුත් මේ ජනප්‍රියභාවයේ කිරුළ Microsoft සමාගමට දිගටම පවත්වාගෙන යාමට නොහැකි උනේ FireFox සහ Google Chrome වල ආගමනයත් සමගයි. Firefox මගින් හොද තරගයක් ලබාදුන්නත් Google Chrome වලින් Microsoft IE වලට දැඩි තරගයක් එල්ල උනා. මේ දැඩි තරගයට පිළිතුරු ලෙස Microsoft සමාගම වැඩිදියුණු කල Web Engine එකක් හරහා Microsoft Edge හදුන්වා දුන්නත් එය Windows 10 පරිගණක වලදි භාවිතා වෙන්නෙ Google Chrome හෝ Firefox Download කරගැනීමට පමණක් බව ප්‍රකට කරුණක්.\n\nමේ නිසාම වෙනම Web Browser එකක් නිර්මාණය කිරීමට වඩා Google  සමාගමේ Open Source සහ හොදින් වැඩිදියුණු වී ඇති Web browser එකක් වන Chromium Framework එක මත තම නවතම Web browser එක නිෂ්පාදනය කිරීමට Microsoft සමාගම සූදානම් බව 2018 නොවැම්බරයේදී කරුනු වාර්තා උනා. මේ කරුණු සනාථ කරමින් දැන් Chromium මත පදනම්ව නිකුත් වන පළමු Edge Browser පරීක්ෂණ පිටපත නිකුත් වී තිබෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:49:36.219781",
+  "headline": "Chrome වලට මාරු වෙන Microsoft Edge",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "browser",
+    "chrome",
+    "edge",
+    "firefox",
+    "microsoft"
+  ],
+  "url": "https://www.pcguide.lk/microsoft-edge-changes-to-chrome/",
+  "word_count": 345
+}

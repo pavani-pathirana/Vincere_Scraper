@@ -1,0 +1,18 @@
+{
+  "author": "PCG author",
+  "body": "‘Barcode Scanner’ යන නාමයෙන් ඇති Google Play Store වෙතින් ලබා ගත හැකි යෙදවුමක් විනාශකාරී Malware එකක් ලෙස ක්‍රියා කරන බවට ප්‍රකට MalwareBytes සමාගමේ පර්යේෂකයින් විසින් පසුගියදා අනාවරණය කරන ලදී.\n\nLavabird සමාගම විසින් සංවර්ධනය කරන මෙම යෙදවුම තම Android දුරකථනයේ කැමරාව භාවිතා කර Barcode හා QR code scan කිරීම සකසා ඇති අතර දැනට මිලියන 10ක් පමණ පරිශීලකයන් Play Store හරහා download කර භාවිතා කරන බවට සැලවේ.\n\nමෙම යෙදවුමේ නවතම යාවත්කාලීන සංස්කරණය ස්මාට් ජංගම දුරකථනය තුළ install කළ පසු අනුදැනුමකින් තොරව ස්වයංක්රීයව විශාල වශයෙන් දැන්වීම් එවීම හා අනාරක්ෂිත වෙබ් අඩවි වෙත පරිශීලකයා යොමු කරන ආකාරයට සකසා ඇත.\n\nMalwareBytes පර්යේෂකයන් වාර්තා කරන ආකාරයට මෙම යෙදවුම සඳහා පසුගිය දෙසැම්බර් මස දී නිකුත් කළ යාවත්කාලීන සංස්කරණය තුළ පෙර දක්නට නොලැබුණු malicious codes අන්තර්ගත වන බවයි. Google හි Play Protect ආරක්ෂක සැකසුමට හඳුනා ගැනීමට නොහැකි වන ආකාරයට එම කේත අපැහැදිලි ආකාරයෙන් පවතින බවට පර්යේෂකයන් ප්රකාශ කරයි.\n\nGoogle සමාගම මේ සම්බන්ධයෙන් නිවේදනයක් දැනට නිකුත් කර නොමැති බවත් වාර්තා වේ.\n\nඔබගේ දුරකථනය තුළ දැනටමත් Barcode Scanner එකක් install කර ඇත්නම්, දුරකථනය අසාමාන්ය ලෙස කරන ලෙසට හැඟෙන්නේ නම්, Android හි App Settings වෙත ගොස් එම යෙදවුමට අදාල package name එක පරීක්ෂා කරන්න. එය ‘com.qrcodescanner.barcodescanner’ ලෙස ඇත්නම් වහාම ඊට අදාළ යෙදවුම uninstall කර දමන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:43:38.764215",
+  "headline": "Malware පතුරුවන Android Bar Code Scanner",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "malware",
+    "smart phone",
+    "virus"
+  ],
+  "url": "https://www.pcguide.lk/android-bar-code-scanner-turns-to-mlaware/",
+  "word_count": 194
+}

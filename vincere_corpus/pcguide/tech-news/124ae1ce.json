@@ -1,0 +1,19 @@
+{
+  "author": "Nadun nethmalaka herath",
+  "body": "Google සමාගම විසින් සංවර්ධනය කර නිකුත් කරන මෙය, open-source භාවිතා කල හැකි AI CLI Assistant මෙවලමකි. Apache 2.0 license එක යටතේ තියෙන නිසා community එකට contribute කරන්නත් මෙමගින් පුළුවන්. Google එකට login වීමෙන් Gemini 2.5 Pro සහ 1 million token context window එකක් යටතේ භාවිතය ලබා ගන්න පුළුවන්.\n\nGemini CLI එක coding සඳහා optimized උනාට පසුව, එය content generation, video production (Google Veo 3 ඔස්සේ), research reports, සහ real-time search integration වැනි දේවල් වෙනුවෙන්ද භාවිත කළ හැකි වේ. තවද එයට Model Context Protocol (MCP) එකත් support කරනු ලැබේ , workflows automate කිරීමේදී මෙය ඉතා ප්‍රයෝජනවත් වෙනවා.\n\nමෙහිදී prompts customize කරන්න, extensions add කරන්න, database එක්ක integrate කරන්නත් පහසුකම ලැබෙනවා. මෙය Codex CLI, Claude Code වගේ tools වලට තරඟයක් දෙන, terminal-native සහ fully agentic assistant කෙනෙක්. Google සමාගමේ අරමුණ වන්නෙ මේකෙන් developer community එකත් එක්ක මුසුවීමට සහ Copilot වගේ third-party tools වලට අභියෝගයක් ලබා දීමටත් ය .",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:37:48.452598",
+  "headline": "මොකද්ද මේ Gemini CLI ?",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "artificial intelligence",
+    "assistant",
+    "coding",
+    "Gemini Ai"
+  ],
+  "url": "https://www.pcguide.lk/what-is-google-gemini-cli/",
+  "word_count": 146
+}

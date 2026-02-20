@@ -1,0 +1,17 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Intel සමාගම ඔවුන්ගේ නවතම Arc A580 graphics card නිකුත් කරනු ලැබුවා. මෙම graphics card දැන් වෙළදපොලෙන් මිලදී ගැනීමට පුලුවන්.\n\nමෙම කාඩ් එකෙ 24 Xe cores සහ ray tracing units තිබෙනව. ඒවගේම මෙහි clock speed එක 1700MHz වෙනව. කාඩ් එක overclock කිරීමෙන් එහි clock speed එක 2000MHz දක්වා වැඩි කරගන්න පුලුවන්. මෙය නිකුත් වෙන්නෙ 8GB GDDR6 මතකයක් සමගයි. එහි 512GB/s memory bandwidth එකක් තිබෙනව.\n\nඑසේම මෙමගින් 185W බලයක් ලබාගන්නව. මෙම කාඩ් එකෙ specifications ගත්විට එය බොහෝදුරට A750 කාඩ් එකට සමානයි. A580 කාඩ් එක ගැන මුලින්ම සමාගම නිවේදනය කලේ පසුගිය වසරේ ඔවුන්ගේ Arc A-series graphics cards පිලිබද නිවේදනය කරන අවස්තාවේදීයි. පසුගිය වසරේදී ඔවුන් වෙනත් කාඩ් කිහිපයක්ම වෙළදපොලට නිකුත් කලත් මෙම A580 කාඩ් එක පිලිබදව මේ වනතෙක් අසන්නට ලැබුනෙ නැහැ.\n\nමෙම A580 කාඩ් එක ඔවුන්ගේ A750 සහ A770 කාඩ් වල cutdown version එක ලෙස හදුන්වන්න පුලුවන්. A750 කාඩ් එකට සමාන specs මෙම කාඩ් එකෙත් තිබෙන නිසා performance අතින් ගත්විටත් A750 කාඩ් එකට සමාන performance තිබෙනව.\n\nමෙම කාඩ් එකෙන් 1080p වීඩියො පහසුකම වගේම high refresh rate එකක් ලබාගැනීමෙ හැකියාවත් තිබෙනව. ඒ සදහා ඔවුන් ඔවුන්ගේම XeSS නම් AI-based image upscaling තාක්ශනය බාවිතා කර තිබෙනව.\n\nදැනට මෙම කාඩ් නිශ්පාදනය කර අලෙවි කරන්නෙ ASRock, Gunnir, සහ Sparkle යන සමාගම් වලින්. මෙහි මිල $179 වන අතර දැනට Intel Arc කාඩ් විකුණන සියලුම රටවල් වලින් A580 කාඩ් එක මිලදී ගැනීමට හැකිවෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:00:33.858249",
+  "headline": "වසරක කාලයකට පසු Intel සමාගම Arc A580 graphics card එළිදක්වයි",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "arc",
+    "graphic cards",
+    "Intel"
+  ],
+  "url": "https://www.pcguide.lk/intel-breaks-the-gpu-silance-with-arc-a580-launch/",
+  "word_count": 212
+}

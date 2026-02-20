@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Google සමාගම අලුත්ම Pixel 8 සහ Pixel 8 Pro දුරකතන පිලිබද නිවේදනය කරන විට පැවසූ නවාංගයක් තමයි මෙම දුරකතන වලට එක්කර තිබෙන අලුත්ම Tensor G3 SoC එක. මුලින්ම Pixel 6 දුරකතනය සමග පැමිනි Tensor hardware, Pixel දුරකතන මාදිලියෙ විශාල වෙනසක් සිදුකරා. දැන් මෙම අලුත් Tensor G3 චිප් එක තුල AI විශේෂාංගත් එක්කර තිබෙනව.\n\nTensor G3 chip එක G2 චිප් එකට වඩා වේගවත්. මෙවර spam calls සදහා වැඩිදියුනු කල Call Screen විශේෂාංගයක් එක්කර තිබෙනව. ඒවගේම පෙර චිප් එකට වඩා හොද  audio සහ video quality එකක් මෙහි තිබෙන බව Google සමාගම පවසා තිබෙනව. Audio Magic Eraser එක බාවිතා කර ඔබේ වීඩියෝවලින් කරදරකාරී ශබ්ද ඉවත් කරගන්න පුලුවන්.\n\nGoogle Pixel 8 මගින් දැන් screen reading පහසුකම ගෙන ඒමට හැකි වන්නේ Tensor G3 ට ස්තුති වන්නටයි. මෙය power button මත දිගු වෙලාවක් press කිරීමෙන් screen reading පහසුකම ක්‍රියාරම්භ වෙනව. ඔබට දිගු ලිපියක් කියවීමට අවශ්‍ය නම් එය ප්‍රයෝජනවත් වෙනව. ඔබට වේගය සඳහා playback controls මෙන්ම, ධාවන භාෂාව වෙනස් කිරීමේ හැකියාවද ලැබෙනව.\n\nTensor G3 පිලිබදව Google සමාගම තවමත් තාක්ෂණික තොරතුරු හෙළි කර නැහැ. නමුත් මෑත සිදුවුනු benchmark leak එකකට අනුව, එහි 2.91GHz ධාවන වේගයක් සහිත වන අතර Cortex-X3 core එකක් සහිත 9-core CPU වටා ගොඩනගා තිබෙනව. ඒවගේම G3 එකේ 12GB RAM එකකුත් Mali-G715 GPU එකකුත් තියෙනවා. එය සැම්සුන් හි නවතම 4nm ක්‍රියාවලිය මත ගොඩනගා ඇති බැවින් එය Tensor G2 ට වඩා බොහෝ කාර්යක්ෂම වෙනව.\n\nගූගල් මුලින් පික්සෙල් දුරකථන දියත් කළේ AI කෙරෙහි අවධානය යොමු කරමින්. එහි AI මගින් බලගැන්වෙන Night Sight වැනි පෙරළිකාර විශේෂාංගද තිබෙනව. දැන් Pixel 8 සහ Pixel 8 Pro මත Tensor G3 සමඟින්, Google හට එහි AI මගින් තවත් ඉදිරියට ගෙන යා හැක.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:00:38.800372",
+  "headline": "Google සමාගමේ Tensor G3 chip එක ගැන දැනගමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "CPU",
+    "google",
+    "gpu",
+    "hardware"
+  ],
+  "url": "https://www.pcguide.lk/what-we-know-about-tensor-3-chip-from-google/",
+  "word_count": 259
+}

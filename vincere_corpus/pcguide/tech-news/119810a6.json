@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "Google Chrome browser එක අපි කවුරුත් පාවිච්චි කරන browser එකක්. දැන් වෙනකන් අපි browser එකේ address bar එකේ address එකක් ටයිප් කරල enter කරාම user ඒ address එකට යන පල්වෙනි වතාවනම් Chrome browser එක default ඒ address එක “http://example.com” කියල තමා load කරන්නේ. ඒ කියන්නෙ ඉස්සර ඉඳන් භාවිතා උන HTTP කියන protocol එක භාවිතා කරල. දෙවෙනුව තමා වඩා ආරක්ශාකාරී HTTPS වලට සහය දක්වනවද පරීක්ශා කරල ඒ protocol එක භාවිතා කරන්න පටන් ගන්නේ. ඒත් අලුතින් හඳුන්වා දෙන්න යන Chrome 90 update එකත් එක්ක ඒක වෙනස් වෙන්නයි යන්නේ.\n\nමේ විදිහට default http භාවිතා කිරීම කාලෙකට කලින් ප්‍රායෝගික තත්වයක් උනා, මොකද ඒ වෙද්දි අන්තර්ජාල තාක්ෂණය වැඩිය දියුණු නොවීමත් හුඟක් වෙබ් අඩවි HTTPS (Hypertext Transfer Protocol Secure) වලට සහය නොදැක්වීමත් යන කාරනා උඩ. ඒත් දැන් ඒක වෙනස් වෙලා අන්තර්ජාලය හුගක් දියුණු වෙලා වගේම හුගක් වෙබ් අඩවි තමන්ගෙ usersලට වැඩි ආරක්ශාවක් ලබා දෙන්න HTTPS වලට සහය දක්වන්න පටන් ඇරන් තියනවා. ඉතින් මේ තත්ව එක්ක Google Chrome 90 update එකෙන් පස්සෙ Chrome විශේෂයෙන් සඳහන් කරල තිබ්බෙ නැතිනම් default, HTTPS තාක්ශණය පාවිච්චි කරාවි. ඒ කියන්නෙ ඔයාල පලවෙනි පාරට example.com වලට යනවනම් Chrome ඒ Address එක ලෝඩ් කරන්නෙ “https://example.com” විදිහට.\n\nමේ ක්‍රමය භාවිතා කිරීමෙන් usersලට හොඳ privacy එකක්, ආරක්ෂාවක් වගේම වැඩි දියුණු වුන වේගයක් බලාගන්නත් පුළුවන් වේවි කියලයි Google ආයතනය සඳහන් කරන්නේ. වෙබ් සයිට් එකට එන traffic එක encrypt කිරීම, userල තමන්ගෙ පෞද්ගලික දත්ත වෙබ් අඩවියකට ලබාදෙද්දි ඒ දත්ත encrypt කරල ආරක්ශා කිරීම වගේ ඉතා වැදගත් කාර්‍යයන් රැසක් මේ HTTPS කියන protocol එක සිද්ද කරනවා. කොහොම උනත් මොකක් හරි සයිට් එකක් මේ HTTPS තාක්ශණය භාවිතා නොකර පරණ HTTP තාක්ශණය භාවිතා කරල තියේනම් ඒ අවස්ථාවෙ ස්වයංක්‍රීයව HTTP වලට මාරු වෙලා සුපුරුදු පරිදි සයිට් එක ලෝඩ් කරන්න Google Chrome වලට හැකියාව ලැබෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:41:27.531292",
+  "headline": "ආරක්ෂාව ගැන හිතන Google Chrome – 90 Update එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "browser",
+    "chrome",
+    "google",
+    "internet",
+    "safety"
+  ],
+  "url": "https://www.pcguide.lk/google-chrome-90-update-security/",
+  "word_count": 272
+}

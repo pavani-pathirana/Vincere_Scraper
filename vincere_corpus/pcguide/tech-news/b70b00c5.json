@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "අළුතින්ම එන email එකකින් Corona virus එකෙන් ගැලවෙන්න කරන්න පුළුවන් දේවල් සහ තොරතුරු දැනගන්න Attachment එකක් Download කරන්න කිව්වොත් වහාම ඒක Delete කරල දාන්න.\n\nCorona Virus එක මේ වෙනකොට මුළු ලෝකයේම ප්‍රධාන මාතෘකාවක්. මේ මහා ව්‍යසනය අතරෙ පරිගණක වලටත් වයිරස් බෝ කරන්න මේ Virus ය පාවිච්චි කරන්න පටන් අරන් තියෙනව.\n\nලංකාවේ Email වැඩිපුර භාවිතා නොවුනත් දියුණු රටවල් තමන්ගෙ රට වැසියන් දැනුවත් කරන්න Email යොදාගැනීම සාමාන්‍ය දෙයක්. මෙන්න මේ අවස්ථාව උපයෝගී කරගෙන Corona virus එකෙන් පරිස්සම් වෙන්න කරන්න පුළුවන් දේවල් සහ අළුත්ම තොරතුරු සදහන් කරල හුවමාරු වෙන Email වල එවන Attachment හරහා Emotet වර්ගයේ Trojan Attack වලින් ආසාධිත පරිගණක වෙත Malware පැතිරෙන්න පටන් අරන් තියෙනව.\n\nEmail එකේ Attachment එක Open කරන්න උත්සහ කරාම Office 365 වලින් මේක බලන්න නම් “enable content” විදිහට Message එකක් එනව.\n\nමේ විදිහට අළුත්ම කරුණු දැනගන්න හදිස්සියෙන් මේක Enable කරාම වෙන්නෙ Macro එකක් හරහා Windows වලට Trojan Downloader එකක්  install වීමයි. මෙතනින් පස්සෙ අන්තර්ජාලය හරහා අළුත්ම malware PC එකට එන්න පටන් ගන්නව.\n\nමෙතන තියෙන විශේෂත්වය වෙන්නෙ මෙය දැනට ජපානයේ ප්‍රදේශ කිහිපයක් ඉලක්ක කරගෙන පැතිරීමයි. මේ විදිහටම Coronavirus අවධානම තිබෙන අනෙක් ආසියාතික රටවල් වලටත් මේ වර්ගයේ Targeted attacks නුදුරෙදිම එන්න පුළුවන් නිසා මේ ගැන අවධානයෙන් පසුවීම වැදගත් වේවි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:47:43.839970",
+  "headline": "Computer වලටත් බෝවෙන Corona Virus එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "attack",
+    "corona",
+    "downloader",
+    "email",
+    "emotet"
+  ],
+  "url": "https://www.pcguide.lk/coronavirus-campaigns-spreading-emotet-malware/",
+  "word_count": 190
+}

@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "Windows computer එකක් කොච්චර පරිස්සම්න් වයිරස් ගාඩ් දාගෙන පාවිච්චි කරත් ටික කාලයක් යද්දි slow down වීමක් දකින්න පුලුවන්. මේකට හේතුව computer එකේ සිද්දවෙන හැම දෙයක්ම log files, memory dumps, unused extensions සිස්ටම් එකේ save වෙන එකයි. සමහර විට මේ files එකතු වෙලා GB ගණන් Hard Disk පිරෙනව. ඒ වගේම අපි install කරලා  uninstall කරපු programs වල දිගු (extensions) වගේ දේවලුත්  computer එකේ තියනවා. අපි භාවිතා නොකරට මෙි හැම දේම startup එකේදි load වෙනවා . මෙය computer slow down වීමට ප්‍රධාන හේතුවක් වෙනවා.\n\nWindows Operating system එක තුලම මේ සදහා Disk cleanup කියන tool එක තිබුනත් ඒක එතරම්ම user friendly විදිහට ඉදිරිපත් කරල නැහැ. CCleaner කියන්නෙ temporary files සහ registry errors fix කරන්න සහ ඕන කෙනෙකුට ලෙහෙසියෙන්ම පාවිච්චි කරන්න පුළුවන් විදිහට නිපදවල තියෙන software එකක්.\n\nCCleaner software එකේ තියෙන user friendly interface එක සහ කිසිම දැනුමක් නැති කෙනෙකුට උනත් පහසුවෙන් ක්‍රියාත්මක කරන්න පුළුවන් විදිහට (Advanced settings disable කරල) process එක ඉදිරිපත් කරල තියෙනව.\n\nPiriform.com එකෙන් නොමිලේම Download කරගන්න පුළුවන්. මේ software එක install කරාට පස්සෙ ඒක නිතරම computer එකේ errors සහ temporary files අවධානයෙන් ඉදල Clean කරන්න මතක් කරනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:57:12.193912",
+  "headline": "CCleaner එක්ක Windows speed up කරමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "software",
+    "tips",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/ccleaner-%e0%b6%91%e0%b6%9a%e0%b7%8a%e0%b6%9a-windows-speed-up-%e0%b6%9a%e0%b6%bb%e0%b6%b8%e0%b7%94/",
+  "word_count": 178
+}

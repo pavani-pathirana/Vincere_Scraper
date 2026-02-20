@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "ගීතයක් නිර්මාණය කිරීමේදී එහි සංගීතය නිර්මාණය කිරීම කලාත්මක වගේම නිර්මාණාත්මක හැකියාවක් සහිත පුද්ගලයකු විසින් සිදු කල යුතු කාර්යයක් ලෙසයි සැලකෙන්නෙ. අළුත් Ai Boom එකත් එක්ක හැමදේම Ai හරහා සිදු කරන්නට වෙර දරන සමාගම් අතරින් Meta (Facebook) සමාගම ඔවුන්ගෙ Music Gen Ai – Generative Music Tool එක නිකුත් කරල තියෙනව.\n\nWe present MusicGen: A simple and controllable music generation model. MusicGen can be prompted by both text and melody.We release code (MIT) and models (CC-BY NC) for open research, reproducibility, and for the music community:https://t.co/OkYjL4xDN7pic.twitter.com/h1l4LGzYgf\n\nOpen Source විදිහට නිකුත් වෙන මේ Ai Tool එකට පැය 20,000 කට ආසන්න සංගීතයන් ලබාදීල ඒ හරහා පුහුණු කරල තියෙනව කියන meta සමාගම – මෙය Open Source යටතේ ලබාදීම හරහා ඕනෑම පුද්ගලයකුට ආයතනයකට මෙය වැඩිදියුණු කරන්න වගේම ඔවුන්ගේ වෙනත් Projects සදහා ලබාදීමේ හැකියාවත් මේ හරහා ලබාදී තියෙනව.\n\nදැනට මේ Music Gen Ai tool එක හරහා Text input එකක් ලබාදීම තුලින් තත්පර 12ක වගේ සංගීත ඛන්ඩයක් නිර්මාණය කරන්න පුළුවන්. මේක අත්හදා බලන්නhugging Face Websiteඑකට යන්න. Text input වගේම ඔයාට අවශය අයත් ගීතයක් ලබාදීම හරහා එයට සමාන සංගීත ඛන්ඩයක් ලබාගන්නත් හැකියාවක් තියෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:24:17.169011",
+  "headline": "නොමිලේ Music හදන Meta Music Gen",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "facebook",
+    "generative",
+    "meta",
+    "music"
+  ],
+  "url": "https://www.pcguide.lk/free-music-generation-with-meta-music-gen/",
+  "word_count": 174
+}

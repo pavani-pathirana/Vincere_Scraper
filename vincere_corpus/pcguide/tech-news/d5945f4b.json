@@ -1,0 +1,19 @@
+{
+  "author": "Kaveesha_Heshan",
+  "body": "Samsung එක්ක AMD Radeon Graphics එකතු වෙලා දැනටමත් වැඩකරන මට්ටමේ Chips නිෂ්පාදනය කරන්න පටන් අරගෙන කියල වාර්ථා වෙනව.\n\nSamsung සමාගමේ Exynos Chip තුල භාවිතා වෙච්ච Mali Mobile GPU එක වෙනුවට AMD සමාගමේ Radeon GPU එකේ Mobile Version එකක් යොදාගෙන 2021 දි Phone වලට අරන් එන්න සූදානම් වෙනව කියල 2019දි අපට දැනගන්න ලැබුන.\n\nAdreno වලට වගේම Apple GPU වලටත් තරගයක් දෙන්න තමා දැන් Samsung ලා ලක ලැස්ති වෙන්නේ. ඒ තමා Samsung ලා විසින් 2021 දි Mali GPU වලින් ඉවත් වෙලා AMD GPU සමග එයාලාගේ Device එලි දක්වන බව. Samsung-AMD collaboration මේ කරුනු මුලින්ම එලියට දුන්නේ AMD CEO Lisa Su විසින්. AMD ලා ගැන අමුතුවෙන් කියන්න දෙයක් නැති තරම් PC Gamers ලා නම් හොදටම දන්නවා Intel වලට යන එනමක් නැති කරමින් AMD ලා ගහන සුපිරිම ගේම. ඒ නිසා AMD ගැන අලුතෙන් හදුන්වා දෙන්න යන්නේ නැ.\n\nකරුනු කාරනා ඔහොම වෙද්දී Qualcomm සහ AMD ලා එයාලාගේ දැනට පවතින හොදම GPU වල Early Test වගයක් කරලා ත්බෙනවා High Performance Benchmark Test කරන්න ඉතින් ඔහොම කරපු පලවෙනි Test එකෙදිම AMD GPU එක සමත් වෙලා තිබෙනවා Qualcomm Adreno 650 GPU එක Frame Rates වලින් පරදවන්න. AMD සහා Samsung ලා පවසන ආකාරයට ඔවුන්ගේ පලවෙනි AMD GPU එක තවමත් Test මට්ටමේ පවතින බවත් මේ දවස් වල Optimizing වලට වැඩි අවදානයක් යොමු කරන බවත් සදහන් කර තිබෙනවා. Early Test වලට වඩා Release වෙන්න ලං වෙනකොට ගොඩක් Optimize වෙලා තමා SOC එකක් හෝ GPU එකක් පැමිනෙන්නේ. අපිට මෙතනදි පෙන්නුම් කරන්නේ මේ GPU එකේ උපරිමය නෙමේ. අනිවාරෙන් මීට එහා ගිය සුපිරි Result එකක් අපිට ඉස්සරහදි තවත් බලා ගන්න පුලුවන් වෙයි. ඒ ගැන තොරතුරු ලැබුන විගස දැන්වත් කරන්නම්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:46:34.336666",
+  "headline": "AMD සමගින් පොර පිටියට එන SAMSUNG",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "gpu",
+    "news",
+    "newsletter",
+    "pcguidelk"
+  ],
+  "url": "https://www.pcguide.lk/amd-enters-mobile-market-with-samsung/",
+  "word_count": 255
+}

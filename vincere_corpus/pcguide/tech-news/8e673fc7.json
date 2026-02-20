@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Anthropic සමාගම Claude Opus 4 කියන නවතම AI මොඩ්ල් එක හඳුන්වා දීලා තියෙනවා. ඒක සාමාන්‍ය AI බොට් එකක් නෙවෙයි. මේක දිනපතා මිනිස්සු කරන වැඩ, එහෙමත් නැත්තං වැඩ දිනයක් පුරා පැය 6-8ක් වගේ කාලයක් ස්වයංක්‍රීයවම ක්‍රියාත්මක විය හැකි තරම් ශක්තිමත් AI එකක්.\n\nපසුගිය පරීක්ෂණ වලදි මේ AI මොඩ්ල් එකෙන් Rakuten කියන සමාගමකට උදව් කරපු විදිය තමයි හොඳ උදාහරණයක් විදියට දක්වන්න පුලුවන්. Open source ව්‍යාපෘතියක් refactor කරන එක පැය 7ක් පුරාම මේ මොඩ්ල් එකෙන් කරලා තියෙනවා මිනිස් මැදිහත්වීමක් නැතුවම.\n\nමේ Claude Opus 4 එක GPT-4 ට වඩාත් ඉහළ performance එකක් තිබෙනවා. SWE-bench කියන coding benchmark එකේ 72.5% ලකුණු ලබාගන්න Opus 4 සමත් වෙලා තියනවා. ඒත් GPT-4.1 සදහා ඇත්තෙ 54.6% පමනයි.\n\nපැය ගානක් වැඩ කරද්දී step-by-step හිතලා, out-of-the-box හැකියාවෙන් ඇතුව මිනිසුන් වගේ plan එකක් හදාගෙන වැඩ කරන්න Opus 4 හට පුලුවන්. Claude Opus 4 දැන් Anthropic API එකෙන්, Google Vertex AI හරහා සහ Amazon Bedrock හරහා භාවිතා කරන්න පුලුවන්. මිල ගණන් සාමාන්‍යයි. ඒ million input token එකට $15 වගේම, output tokens එකට $75 වැයවෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:39:02.916619",
+  "headline": "දින ගණන් ස්වයංක්‍රීයව coding වැඩ කරන්න Opus 4",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "anthropic",
+    "artificial intelligence",
+    "claude",
+    "coding"
+  ],
+  "url": "https://www.pcguide.lk/new-coding-ai-claude-opus-4/",
+  "word_count": 161
+}

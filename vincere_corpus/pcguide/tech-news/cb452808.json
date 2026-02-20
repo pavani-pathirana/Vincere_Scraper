@@ -1,0 +1,19 @@
+{
+  "author": "Kanishka Pathirana",
+  "body": "අද කියන්න හදන්නෙ ගොඩක් දෙනා අමතක කරන PC එකේ CPU එක වගේම ගොඩක්ම වැදගත් කොටසක් ගැන. ඒ තමයි Power Supply Unit එක\n\nPower Supply Unit ගැන කතා කරද්දි ගොඩක් දෙනාගෙ ලඟ තියෙන වැරදි මතයක් තමයි Watt ගාන වැඩි PSU එක තමයි හොඳ කියන එක. ඒක සම්පූර්ණයෙන්ම වැරදි මතයක්. PSU එකක Watt ගාන වගේම ඒ PSU එකේ අභ්‍යන්තර උපාංග වල තත්වය (Internal Components Quality) ඉතාමත්ම වැදගත් වෙනවා.\n\nගොඩක් අය අඩුවට ගන්න චයිනීස්, කොරියන් PSU වල Quality එකක් කියලා දෙයක් අහලකවත් නැහැ. Watt ගාන විතරක් ගොඩක් වැඩියි. ඒත් Capacitors, Voltage regulators අන්තිම බාලයි.\n\nඅද ගොඩක් දෙනාගේ PC වල හිතාගන්න බැරි ලෙඩ එන්නෙ PSU එක නිසා කියලා කවුරුත් හිතන්නෙ නැහැ. මොකද බාල PSU එකකින් වුණත් ඔයාගේ PC එක වැඩ කරයි. ඒත් ඒ PSU එක හෙමීට ඔයාගේ ඇස් දෙක වගේ Graphic card එක, Motherboard එක මරණය කරා ගෙන යනවා. එක පාර ඒ දේ වෙන්නේ නැති නිසා අපිට ඒක ලොකුවට දැනෙන්නෙ නැහැ. ඒ ගැන හිතන්නෙත් නැහැ. (CPU සහ RAM ගැන කියන්නෙ නැත්තෙ ඒවාට ලොකු හානියක් වෙන්නෙ නැති නිසා. මොකද ඒවාට power එක දෙන්නෙ motherboard එකෙන් නිසා motherboard එකේ voltage regulator වලින් ගොඩක් වෙලාවට හානිය දරාගන්නවා. ගොඩක් අය ඉතින් හොඳ motherboard දානවනෙ PSU එක ගැන අන්තිමට හිතුවට. හොඳ Power delivery එකක් තියෙන motherboard එකක වටිනාකමත් තේරෙනවනේ)\n\nPSU වල 80+ certified standard එක ගැන දැන් ගොඩක් දෙනා දන්නවා. පහළ උදාහරණය බලන්න.\n\nඋඩ chart එකෙන් පේන්නෙ PC එක load එකේදි PSU එකෙන් 10%, 20%, 50%, 100% load එකේද efficiency එක. ඒ කියන්නෙ\n\nහොඳ branded 500W 80 Plus GOLD PSU එකක් 50% ක load එකකදි ඒ කිව්වෙ 250W ගන්න අවස්ථාවකදි wall socket එකෙන් power එක ගන්නෙ 275W. *\n\nඒත් ඔයාලා ළඟ තියෙන්නෙ unbranded හරි, branded budget series PSU එකක් නම් efficiency එක 50%-40% වෙන්න පුළුවන්. ඒ කියන්නෙ unbranded 500W PSU එකක් 100% load එකකින් වැඩ කරද්දි  750W වගේ power එකක් wall socket එකෙන් ගන්නවා. *\n\n*මෙම ගණනය කිරීම් 100% ක් නිවැරදි නොවන අතර ආසන්න වශයෙන් දක්වා ඇත.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:49:25.728721",
+  "headline": "Power Supply Unit – PART I (පරිගණක බල සැපයුම් පද්ධතිය – 1 කොටස)",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "80 plus",
+    "pcguidelk",
+    "Power Supply",
+    "psu",
+    "rating"
+  ],
+  "url": "https://www.pcguide.lk/power-supply-unit-part-1/",
+  "word_count": 308
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "500GB එහෙමත් නැත්නම් 1TB කියල සදහන් කරල තියෙන Hard Disk එකක් Windows වලදි ඊට වඩා අඩු Capacity එකක් පෙන්නන්නෙ ඇයි කියල දන්නවද? මේ ලිපිය ඒ ගැනයි.\n\nලෝකයේ මැනුම් වලට සම්මත කරගත්ත ඒකක ගොඩක් අතරෙ වැඩිපුරම පාවිච්චි වෙන්නෙ Decimal (දහයෙ ගුණාකාර) සම්මතයයි . ඒ කියන්නෙ Kilo කියන්නෙ කොටස් 1000ක් කියන සම්මතය.\n\nඒ උනාට Computer වලදි පාවිච්චි වෙන්නෙ Binary සම්මතය (2 ගුණාකාර). ඉතින් මෙන්න මේ සම්මත වල ප්‍රශ්නයක් තමයි මේ වෙනසට හේතුව වෙන්නෙ.\n\nHDD manufacturers ල එයාලගෙ Hard Drive වල capacity එක දක්වන්න පාවිච්චි කරන්නෙ Decimal standard එකයි. එතකොට 500GB කියල තියෙන Hard Disk එකක තියෙන bytes ගාන වෙන්නෙ\n\n500(1000 x 1000 x 1000) = 500,000,000,000 bytes\n\nඒත් Windows OS එකේදි 500GB hard disk එකක් වෙන්න ඕන bytes ගාන\n\n500 x (1024 x 1024 x 1024) = 536,870,912,000 bytes\n\nඉතින් මේ වෙනස හරියටම බලාගන්න අපිට පුලුවන් Decimal system එකේ එන bytes ගාන binary system එකෙන් බෙදන්න\n\n500,000,000,000 bytes / (1024 x 1024 x 1024) = 465.6612873077393 GB\n\nමේ තියෙන්නෙ Hard Disk capacity වල වෙනස",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:54:42.474658",
+  "headline": "Hard Disk වල Capacity වෙනස",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "capcity",
+    "explained",
+    "HDD",
+    "memory"
+  ],
+  "url": "https://www.pcguide.lk/hard-disk-%e0%b7%80%e0%b6%bd-capacity-%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%83/",
+  "word_count": 162
+}

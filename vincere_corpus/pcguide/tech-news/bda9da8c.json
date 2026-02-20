@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "WhatsApp ආයතනය cloud backups සඳහා end-to-end encryption පහසුකම ලබාදීමේ කටයුතු දැන් අවුරුද්දක විතර ඉදන් කරගෙන එනවා. ඒ ගැන අපි කලින් ලිපි වලින්කතා කරා. මේ පහසුකම මේ අවුරුද්දෙ ජූලි මාසයේ beta testers ලට හඳුන්වලා දුන් අතර මේ වෙද්දි stable release එකක් විදිහට සියලුම WhatsApp users ලට ලබා දෙන්න කටයුතු කරන් ‍යනවා.\n\nWhatsApp වෙබ් අඩවියේ කරපුදැනුම්දීමකින්මේ පහසුකම Android සහ iOS දුරකථන සඳහා නිල වශයෙන් නිකුත් කරපු බව දැනගන්න ලැබුනා. මේ අලුත් පහසුකමත් සමග WhatsApp chats වඩාත් ආරක්ශිත 64-digit encryption key එකක් යොදාගෙන backup කරගන්න පුලුවන්. end-to-end encrypted වුන chat backups, ඒ encryption keys ගබඩා කරගැනීම සඳහා අලුත්ම ක්‍රම කිහිපයක් iOS සහ Android මෙහෙයුම් පද්ධති දෙකේම භාවිතා කරනවා. Chat backups encrypt වෙන්නෙ එකිනෙකට වෙනස් අහඹු ලෙස සෑදෙන යතුරකින්, මේ යතුර ඔයාට manually හරි password එකකින් හරි ආරක්ශා කරල ගබඩා කරගන්න පුලුවන්.\n\nඔයා chat backup කරගන්න password එකක් තෝරගත්තොත් option එකක් හම්බෙනවා Backup Key Vault එකක් හරහා encryption key එක ලබාගෙන backup එක decrypt කරගන්න. Vault එක password එක අහන අවස්ථවල කිහිප විටක්ම වැරදි password ලබාදුන්නොත් vault එක decrypt කරන key එක ලබාගන්න තියන හැකියාව සම්පූර්ණයෙන් අයින් කරල දානවා. මේක brute-force attack වලක්වන්න ගත්ත ක්‍රියාමාර්ගයක් විදිහට සලකන්න පුලුවන්. නිවැරදි password එක ඇතුලත් කරාම vault එක encryption key එක WhatsApp client එකට යවන අතර, client එකට ඒ key එක තියන නිසා backup එක decrypt කරල chats වලට access ලබාගන්න පුලුවන්.\n\n64-digit encryption key තේරීම කරල තිබුනොත් ඔයාට manually ඒ key එක ගඩබා කරගන්න වෙනව සහ key එක ඇතුලත් කරන්න වෙනවා backup කරපු chats වලට access ලබාගන්න. ඉහත කීව මොන අවස්තාව පාවිච්චි කරත් WhatsApp වලටවත් chat backup කරන Google Drive හෝ iCloud වලටවත් හැකියාව නෑ ඔයාගෙ backup වල තියන දේවල් කියවන්න හෝ ඒව decrypt කිරීමට අවශ්‍ය keys ලබාගන්න.\n\nමේ end-to-end encrypted backups පහසුකම සක්‍රීය කරගන්න WhatsApp settings වලට ගිහින්Chats > Chat Backups > End-to-End Encrypted Backupයන්න. ඊට පස්සෙ continue ගිහින් එන උපදෙස් වලට අනුව password එකක් හෝ key එකක් හදාගන්න පුලුවන්. අන්තිමට done දුන්නට පස්සෙ ටික වෙලාවකින් WhatsApp විසින් encrypt වුන backup එක සකස් කරලා දේවී.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:37:05.694137",
+  "headline": "WhatsApp සඳහා chat backups encryption කිරීමේ පහසුකම ලබාදේ.",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "app",
+    "encryption",
+    "iOS",
+    "news"
+  ],
+  "url": "https://www.pcguide.lk/whatsapp-encrypted-backups-more-security/",
+  "word_count": 320
+}

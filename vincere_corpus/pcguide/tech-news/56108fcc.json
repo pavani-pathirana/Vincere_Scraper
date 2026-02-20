@@ -1,0 +1,11 @@
+{
+  "author": "Sasindu Dilshan",
+  "body": "Meta ආයතනය විසින් Facebook පරිශීලකයින් මිලියන 1 කට පමණ අනතුරු අගවමින් පවසා ඇත්තේ Facebook පරිශීලකයින් විසින් App store හා Google play store මගින් Download කරන Malicious App හේතුවෙන් ඔවුන්ගේ Account වල ආරක්ෂාවට විශාල බලපෑමක් ඇති වී ඇති බවයි.\n\nමෙහිදී  Facebook පරිශීලකයින්ගේ login details, personal information වැනි දෑ ඉලක්ක කර ගනිමින් නිර්මාණය වූ Android හා ios Apps 400 කට වැඩි ප්‍රමාණයක් Meta ආයතනය විසින් හදුනාගෙන තියෙනවා. Meta විසින් මෙම apps පිලිබදව Google ආයතනය හා Apple ආයතනය දැනුවත් කර ඇති බවද වාර්තා වී තිබෙනවා.\n\nමෙහිදී උදාහරණයක් ලෙස Facebook user විසින් මෙවැනි App එකක් Download කිරීමෙන් පසු සාමන්‍ය Log screen එකෙන් ඔබ්බට ගොස් Facebook හරහා log වීමට අවශය බව පරිශීලකයාට දැනුන් දෙනවා.මෙමගින් පරිශීලකයාට තමන්ගේ User name, password ලබා දීමට පොළඹවනවා. මෙහිදී User විසින් Facebook හරහා Log වුවහොත් ඔවුන් නොදැනුවත්වම ඔවුන්ගේ Login details මෙම App එක අයිති සයිබර් අපරාදකරුවන් අතට පත්වෙනවා.\n\nMeta වාර්තා කරන්නේ මෙම apps වලින් බොහෝ ප්‍රමාණයක් Mobile games, photo editor, Health tracker වැනි category වලට අයත් වන බවයි. මෙවැනි apps users ලා අතර කෙතරම් ජනප්‍රියද යන්න සයිබර් අපරාදකරුවන් හොදින්ම දන්නා අතර ඔවුන් ඔවුන්ගේ ග්‍රහනයට මිනිසුන්ව හසු කරවා ගැනීමට මෙවැනි උපක්‍රම යොදා ගනී.කෙසේවෙතත් මෙම ගැටලුව සම්බන්දයෙන් Apple ආයතනය පැවසුවේ මෙම apps 400 න් 45 ක් පමණ දැනටමත් ඉවත් කරගෙන ඇති බවයි.එසේම Google ආයතනයද මෙම apps සියල්ල ඉවත් කරමින් සිටින බව වාර්තා වේ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:28:33.182853",
+  "headline": "Android, Apple Apps නිසා Facebook පරිශීලකයන් මිලියනයක් අනතුරේ",
+  "source": "pcguide",
+  "url": "https://www.pcguide.lk/million-facebook-sers-in-danger/",
+  "word_count": 210
+}

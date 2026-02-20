@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "පසුගිය දවසක පැවැත්වුනු Microsoft සමාගම විසින් පවත්වන Ignite 2024 event එකේදි ඔවුන් අලුතෙන් mini PC එකක් හදුන්වා දුන්නා. ඒක නම් කරල තියෙන්නෙ Windows 365 Link ලෙසයි. මේ mini PC එකෙ විශේෂත්වය වෙන්නෙ මේකෙ තියන OS එක වන Windows 11 තියෙන්නෙ ක්ලවුඩ් OS එකක් විදියට.\n\nමේ පරිගණකයෙ මිල වෙන්නෙ $349ක මුදලක්. එය ලගදි නිකුත් උනු Apple Mac Mini පරිගණකයට වඩා මිලෙන් අඩුයි. කොහොමවුනත් මෙ Windows mini පරිගණකය වැඩ කරන්නෙ Windows OS එක ක්ලවුඩ් වලින් stream කිරීම මගින්. අවශ්‍ය අනෙක් උපාංග ටික සම්බන්ධ කරගත්තට පස්සෙ සාමාන්‍ය විදියට අන්තර්ජාලයට සම්බන්ධ වෙලා අපිට මෙ පරිගණකය භාවිතා කරන්න පුලුවන්. මුලින්ම ක්‍රියාත්මක කලවිට මෙහි කිසිම ඇප් එකක්වත් කිසිම Admin user කෙනෙක්වත් නැහැ. එනිසා මේ පරිගණක ඉතාමත් ආරක්ශිත වෙනව වගේම විශාල සමාගම් වලට සහ සෞඛ්‍ය අංශ වලට පහසුවෙන් භාවිතා කරන්න පුලුවන්.\n\nඅමතරව ආරක්ශාවක් සදහා මේ mini PC එකෙ multifactor authentication පහසුකම වගේම TPM, Secure Boot සහ BitLocker encryption පහසුකමත් අඩංගු වෙනව. ඒ වගේම මේවා කිසිවක් disable හෝ bypass කරන්න බැහැ. Microsoft සමාගම පවසන විදියට Intel processor එකකින් මේ පරිගණකය බලගැන්වෙනව. නමුත් ඒ Intel processor එක ගැන වැඩි විස්තර තවමත් නිකුත් කර නැහැ.\n\nමීට අමතරව mini PC පරිගණකයෙ 8GB RAM එකකුත් 64GB storage එකකුත් තියනව. ඒවගේම I/O ports විදියට 1 x USB 3.2 Type-C port, 2 x USB-A 3.2 ports, 1 x HDMI, Ethernet, සහ Display Port එකක් තියනවා.\n\nWireless connection විදියට මේ පරිගණකයෙ Wi-Fi 6E සහ Bluetooth 5.3 තියනවා. කොහොමවුනත් මෙහි ඇතුලත ෆෑන් අඩංගු නොවීමත් ඇතුලත් කර තිබෙන hardware ඒ තරන් powerful නොවීමත් නිසා Apple Mac Mini පරිගණකය තරන් මෙය කාර්යක්ශම නොවන බවයි පෙනෙන්නෙ. තවද මේක cloud subscription-based උපාංගයක් නිසා $349 මුදල තරමක් වැඩි බවයි බොහෝදෙනාගේ මතය වෙන්නෙ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:44:31.078115",
+  "headline": "Microsoft සමාගමේ අලුත්ම Windows 365 Link පරිගණකය",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "microsoft",
+    "new release",
+    "office",
+    "pc",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/microsoft-windows-365-link-mini-computer/",
+  "word_count": 261
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "පසුගියදා Google නිවේදනය කරා iOS සහ Android වල Gmail app එකට One-on-one voice සහ video calls පහසුකම මේ වෙද්දි අදියර වශයෙන් නිකුත් කෙරෙමින් තිබෙන බව. මේ අලුත් පහසුම පිලිබඳ ප්‍රථමයෙන් දැනුම් දුන්නෙ සැප්තැම්බර් මාසයේ වුනත් නිකුත් කරේ පසුගිය දෙසැම්බර් 6 වනදා. මෙය Google Workspace, G Suite හෝ පුද්ගලික ගිණුම් තිබෙන ඕනම කෙනෙක්ට භාවිතා කරන්න හැකියාව තියනවා.\n\nමීට පෙර සිටත් Gmail හරහා calls ගන්න හැකියාව තිබුනත් ඒ සඳහා invitation link එකක් යැවිය යුතු වුනා. one-to-one සංවාදයක් ආරම්භ කිරීමට එවැනි දෙයක් සිදු කිරීමට වීම තරමක් අමුතු දෙයක්. ඒ නිසා මේ අලුත් පහසුකමත් සමග සියලුම one-to-one chat වල ඉහල දකුණු කෙලවරේ phone සහ video icons දෙකකින් අවශ්‍ය වෙලාවක ලේසියෙන්ම call එකක් ගන්න පුලුවන්.\n\nමෙසේ call එකක් ගැනීමට Gmail app එකෙන් “Google Chat” පහසුකම සක්‍රීය කරල තියෙන්න ඕනා. ඒක කරන්න app එකේ settings වලට යන්න. ඊට පස්සෙ එන පිටුවෙන් අවශ්‍ය Google account එක තෝරගන්න පුලුවන්. ඊට පස්සෙ General යටතෙ තියන “Chat-Show the Chat and Spaces tabs” කියන option එකට tick එකක් දාන්න. එතකොට ඔයාගේ Gmail app එකේ යටින් අලුතින් “Chat” සහ “Spaces” කියල tab දෙකක් දකින්න ලැබේවී. ඊට පස්සෙ Chat tab එකට ගිහින් ඕනම chat එකක් open කරන්න. දැන් ඔයාට ඉහලින් දැකගන්න පුලුවන් වේවී audio සහ video calls ගන්න options දෙකක්.\n\nඅපිට සරල පහසුමක් වගේ පෙනුනත් ඇත්තටම මේක Gmail app එක Google ආයතනයේ සියලුම සන්නිවේදන සේවා වල central hub එක කිරීමේ ඉලක්කයේ පියවරක් වශයෙන් දකින්න පුලුවන්. මේ පහසුකම නිවේදනය කරපු ලිපියෙ සඳහන් වෙන විදිහට මින් ඉදිරියට Google Chat app එකෙන් ඔයා call එකක් ගත්තත් ඒක Gmail app එකට redirect වීම සිදු වෙනවා. මේ අනුව Gmail app එකේ යට අපිට සම්පූර්ණ වශයෙන් tabs 4ක් දකින්න පුලුවන්, ඒ Mail, Chat, Spaces සහ Meet වශයෙනුයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:35:28.670198",
+  "headline": "Gmail app එකෙන් voice සහ video calls ලබා ගැනීමට පහසුකමක්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "calls",
+    "gmail",
+    "google",
+    "iOS"
+  ],
+  "url": "https://www.pcguide.lk/gmail-on-mobile-offer-voice-and-video-calls/",
+  "word_count": 268
+}

@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "HP විසින් තම පරිගණක models 200කට අධික සංඛ්‍යාවකට ඇතිවෙලා තියන Kernel මට්ටමෙන් අනිසි කේත ක්‍රියාත්මක කරන්න පුලුවන් ආරක්ෂක අවදානමක් වසා දමන්න BIOS update එකක් මේ වෙනකොට නිකුත් කරල තියනවා. මේ වගේ අවදානමකින්  hacker කෙනෙක්ට පරිගණකයේ BIOS වලට ඇතුල් වෙලා malware එකක් plant කරන්න හැකියාව තියනවා, මේ වගේ malware සාමාන්‍ය antivirus software එකකින් හෝ මෙහෙයුම් පද්ධතිය සම්පූර්ණයෙන්ම reinstall කිරීමෙන් හෝ ඉවත් කරන්න හැකියාවක් නෑ.\n\nමේ අවදානම 8.8ක ලකුණු ප්‍රමාණයක් සහිත ඉහළ බරපතල තත්වයකින් යුක්තයි. CVE-2021-3808 සහ CVE-2021-3809 යන නමින් මේ අවදානම් නම් කරල තියනවා. HP විසින් මේ දුර්වලතාවල තාක්ෂණික තොරතුරු තවමත් හෙළි කරලා නෑ. මේ ආරක්ෂක අවදානම සොයාගෙන තියෙන්නෙ security researcher කෙනෙක් වන Nicholas Starke විසින්. මේක භාවිතයෙන් hacker කෙනෙක්ට kernel-level එකෙන් System Management Mode (SMM) එකට access එකක් ඇතිකරගෙන ප්‍රහාර දියත් කරන්න හැකියාව ඇති වෙනවා. මෙහෙම SMM access එක තියන ප්‍රහාරකයෙක්ට ඒ device එක පූර්ණ ලෙස පාලනය කරන්න පුලුවන්.\n\nමේ දුර්වලතාවය සහිත devices අතර Elite Dragonfly වගේ business notebook PCs වගේම EliteBooks සහ ProBooks models කිහිපයකුත් ඇතුලත්. EliteDesk සහ EliteOne වගේ business desktop PCs කිහිපයකුත් ඇතුලත්. මීට අමතරව desktop workstation PCs models පවා මේ list එකේ තියනවා. මෙසේ බලපෑමට ලක්වුණු devices සම්පූර්ණ list එකHP වෙබ් අඩවියේසඳහන් කරල තියනවා සියලුම devices වලට තවමත් BIOS update එක ලැබිල නැති වෙන්න පුලුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:41:54.065448",
+  "headline": "ආරක්ෂක අවදානම් සහිත models සඳහා HP විසින් BIOS update නිකුත් කරයි",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "bios",
+    "hp",
+    "patch",
+    "risk",
+    "security"
+  ],
+  "url": "https://www.pcguide.lk/hp-releases-firmware-updates-to-vulnerable-products/",
+  "word_count": 199
+}

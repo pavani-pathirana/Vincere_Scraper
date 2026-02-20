@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "intel සමාගම එයාලගෙ අලුත්ම 8th generation core CPU line up එක නිකුත් කරේ intel 300 chipset එකත් එක්කයි. මේ නිසා මේ අවුරුද්දෙ 7th gen CPU / Motherboard ගත්ත අයට CPU එක විතරක් upgrade කරන්න බැරි වෙනව.\n\nමේකට හේතු විදිහට දක්වල තියෙන්නෙ අලුත් i5 / i7 CPU වල cores ගාන වැඩි නිසා (6ක්) නිසා වැඩිපුර power එකක් motherboard එකෙන් ගෙනියන්න අවශය විදිහට වෙනස් කරන්න වෙච්ච එකයි , සාමාන්‍ය 2400 Mhz RAM Spedd එක වෙනුවට 2666Mhz RAM speed එක හදුන්වල දීපු නිසා වෙන වෙනස්කම් නිසා කියලයි.\n\nintel 8th gen coffee lake CPU එක්ක අලුත්ම intel 300 series motherboard එකකටත් මේ නිසා මුදල් වෙන් කරන්න වෙනව. intel skylake විදිහට ආපු 6th gen CPU එකේ මූලික සැලැස්මම තමයි වැඩිදියුණු කිරීම් එක්ක intel kaby lake විදිහට 7th gen CPU series එකෙන් intel සමාගම නිකුත් කරේ.මේ නිසා තමයි 7th gen motherboard වලට 6th gen CPU සහ 6th gen motherboard වලට 7th gen CPU විදිහටත් පාවිච්චි කරන්න පුලුවන් උනේ.\n\nඉතින් මේ මූලික සැලැස්ම (Architecture) එකම තමයි intel 8th gen CPU එකටත් පාවිච්චි කරල තියෙන්නෙ. හැබැයි මෙතනදි දැනට තියෙන 7th gen intel 200 series motherboards අලුත්ම 8th Gen CPU එක්ක වැඩ කරන්නෙ නැහැ කියල intel සමාගම නිල නිවේදනයක් මගින් දන්වල තියෙනව.\n\nහැබැයි මෙතනදි දැනට තියෙන intel Z270 chipset එකවත් අලුත් CPU වලට  Support කරයිද කියල අහපු ප්‍රශ්නෙටත් intel සමාගම දුන්නෙ කලින් පිලිතුරමයි. Core count එක වැඩි උනාට 8th gen CPU වල TDP දාල තියෙන්නෙ 7th gen CPU වල තියෙන 95W මයි. ඒ වගේම 7th gen motherboards වලට 2666Mhz වලට වඩා වැඩි speed වල RAM වලට support කරන්නත් පුලුවන්. මෙතනදි intel සමාගමට ඕන වෙලා තියෙන්නෙ අලුත් CPU එක්ක අලුත් motherboard විකුණල තමන්ට ලැබෙන මුදල වැඩි කරගන්න පටු අරමුණක් කියන එක පැහැදිලියි.\n\nහැබැයි AMD සමාගම නම් තමන්ගෙ AM4 platform එක වෙනස් කරන්නෙ නැති බව ryzen launch කරද්දිම කිව්ව. ඒ වගේම AMD සමාගම තමන්ගෙ CPU / motherboard compatibility එක වෙනස් කරන්නෙ නොකරම බැරි නම් විතරයි.\n\nකොහොම උනත් එකම CPU socket එක / එකම Architecture එක මත හදපු 8th gen එකකට යනව කියන්නෙ අලුතින්ම ප්‍රධාන කොටස් මාරු කරන්න වෙනව කියන එකයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:52:47.093967",
+  "headline": "upgrade බැරි intel 8th gen",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "8th generation",
+    "Intel",
+    "upgrade"
+  ],
+  "url": "https://www.pcguide.lk/no-upgrade-to-intel-8th-gen/",
+  "word_count": 329
+}

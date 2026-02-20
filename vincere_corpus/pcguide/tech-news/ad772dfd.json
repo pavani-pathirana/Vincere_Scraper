@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Microsoft විසින් OpenAI හි Sora AI ආකෘතිය භාවිතා කරන Bing Video Creator සදහා නව මෙවලමක් හඳුන්වා දීලා තිබෙනවා. මෙම මෙවලම මඟින් පරිශීලකයන්ට text prompts භාවිතයෙන් AI වීඩියෝ නිර්මාණය කිරීමට හැකියාව ලැබෙනවා. මෙය Bing වෙබ් අඩවිය හරහා සහ Android හා iOS සඳහා Bing ජංගම යෙදුම මඟින් ලබා ගන්න පුලුවන්.\n\nBing Video Creator භාවිතා කිරීම සඳහා Microsoft ගිණුමක් අවශ්‍ය වන අතර, පරිශීලකයන්ට Microsoft Rewards ලකුණු භාවිතයෙන් වේගවත්ව වීඩියෝ නිර්මාණය කර ගැනීමට හැකියාව තිබෙනවා. මෙම මෙවලම මඟින් නිර්මාණය කරන AI වීඩියෝවලට C2PA මෙටාඩේටා ඇතුළත් වන අතර, අනිසි අන්තර්ගතය වැළැක්වීම සඳහා Microsoft විසින් ස්වයංක්‍රීය පාලන ක්‍රම ක්‍රියාත්මක කර තිබෙනවා.\n\nBing Video Creator හි දැනට පරිශීලකයන්ට රූප upload කිරීමේ හැකියාව නොමැති අතර, පවතින සීමාවන් අතර 9:16 අනුපාතය, 480p resolution එක සහ තත්පර 5ක කාලයක් ඇතුළත් වෙනවා. මෙම මෙවලම මඟින් පරිශීලකයන්ට නොමිලේ AI වීඩියෝ නිර්මාණය කිරීමට හැකියාව ලබා දීම, AI වීඩියෝ නිර්මාණ ක්ෂේත්‍රයේ නව අවස්ථා විවෘත කරනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:39:10.920335",
+  "headline": "Bing වෙතින් දැන් නොමිලේ video generate කිරීමේ හැකියාව",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "app",
+    "artificial intelligence",
+    "bing",
+    "generative"
+  ],
+  "url": "https://www.pcguide.lk/bing-ai-video-creator-free/",
+  "word_count": 141
+}

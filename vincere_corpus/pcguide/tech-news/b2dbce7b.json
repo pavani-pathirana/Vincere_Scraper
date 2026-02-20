@@ -1,0 +1,17 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Google සමාගම විසින්නිවේදනයක්නිකුත් කරමින් පවසා තිබෙන්නේ ලබන වසරේ මුල සිට Windows 7 සහ Windows 8.1 සදහා Chrome support එක නවත්වන බවයි. ලබන වසරේ පෙබරවාරි 07 වන දින නිකුත් කිරීමට නියමිත Chrome 110 එක මෙම මෙහෙයුම් පද්ධති දෙකටම සහය දක්වන්නෙ නැහැ. නමුත් පරිශීලකයන්ට Chrome පැරනි සංස්කරණයන් දිගටම බාවිතා කරන්න පුලුවන් වුනත් ඒවාට නව විශේෂාංග හෝ security updates ලැබෙන්නේ නැහැ.\n\nGoogle සමාගම විසින් පවසා තිබුනේ දිගටම Chrome updates ලබාගැනීමට නම් Windows 10 හෝ Windows 11 වලට තම පරිගණක upgrade කරගන්නා ලෙසයි. කෙසේ වුවත් බොහොමයක් සමාගම් වල ඇති පැරනි පරිගණක සදහා මෙම නව මෙහෙයුම් පද්ධති සහය නොදැක්වීමත් නව පරිගණක මිලදී ගැනීමට අපහසු පිරිසටත් මෙය තරමක් අසීරු දෙයක් වෙනව.\n\nGoogle සමාගම තවදුරටත් පැවසුවේ Microsoft සමාගම විසින් ජනවාරි 10 දක්වා දීර්ඝ කර තිබුනු Windows 7 සහ Windows 8.1 support එක නවත්වනවත් සමගම මේ ආකාරයට Chrome support එකත් නවත්වන බවයි.\n\nකෙසේ හෝ Google සමාගම කලින් නිවේදනය කර තිබුනාට වඩා දීර්ඝ කාලයක් Chrome Windows 7 සදහා සහය දැක්වූවා. 2021 වසරේ එම සහය නවත්වන බව පැවසුවත් 2023 ජනවාරි දක්වා එය පැවතෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:28:25.860523",
+  "headline": "Windows 7 සහ Windows 8.1 සදහා Chrome සහය නවතී",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chrome",
+    "software",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/chrome-stops-support-for-windows7-and-windows8-1/",
+  "word_count": 163
+}

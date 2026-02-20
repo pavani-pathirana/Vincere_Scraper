@@ -1,0 +1,19 @@
+{
+  "author": "ByEditorDecember 2, 20230492 Mins Read",
+  "body": "WhatsApp හි විශාලතම update වලින් එකක් වූයේ නව channels විශේෂාංගයයි. එක් admin කෙනෙකුට (owner) පමණක් එය manage කළ හැකි වුවද, එය දැන් platforms දෙක සඳහාම සෙමින් වෙනස් වෙමින් පවතී. WhatsApp channel සඳහා management policies ප්‍රතිසංස්කරණය කරමින් WhatsApp ළඟදීම නව update එකක් හඳුන්වා දෙයි.\n\nTestFlightbeta වැඩසටහනට හඳුන්වා දුන් නවතම WhatsApp beta update එක (iOS 23.25.10.70) මෙම පහසු විශේෂාංගය ලබා දී ඇත. එමගින් ඔබට තවත් channel admins එක් කළ හැක! Channel එකේ සිටින users තෝරාගෙන admin status එකට promote කිරීමට එමගින් හැකියාව ලැබේ.\n\nWABetaInfo මීට පෙර Android beta update එකේ ස්වරූපයෙන් මෙම විශේෂාංගයේ වැඩ වාර්තා කර ඇත. කෙසේ වෙතත්, මෙම විශේෂාංගය දැන් ක්‍රමයෙන් iOS භාවිතා කරන්නන් වෙත ද නිකුත් වෙමින් පවතී. WABetaInfo හරහා සපයා ඇති image එක සමඟ දැකිය හැකි පරිදි, channel admins ට දැන් ඔවුන්ගේ channel සඳහා admins search කිරීමට සහ invite කිරීමට හැකි වනු ඇත. මෙම ක්‍රියාවලියට ඕනෑම වේලාවක සහාය වීමට owner ට තවත් admins ලා එක් කළ හැකි බැවින් මෙය නිසැකවම විශාල channel manage කිරීම වඩාත් පහසු කරයි.\n\nMeta සමාගම හඳුන්වාදීමේ සිට මෙම විශේෂාංගය විකාශනය කර ඇති අතර, එය දිගටම පවතිනු ඇති බව පෙනේ. Messaging app කුඩා කණ්ඩායම් සඳහා විය. නමුත් දැන්, මෙම නව විශේෂාංගය සමඟ, WhatsApp විසින් අසීමිත පුද්ගලයින් සංඛ්‍යාවක් සමඟ සන්නිවේදනය හඳුන්වා දී ඇත. ඒ හා සමානව, Mete සමාගම විසින් කලින් beta update කිරීමකදී members 128ක් දක්වා Discord-වැනි voice chats එක් කළේය.",
+  "category": "all",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T20:13:28.055845",
+  "headline": "XpressJobs ශ්‍රී ලංකාවේ පළමු AI-බලගැන්වූ WhatsApp බඳවා ගැනීමේ සහයකයා දියත් කරයි",
+  "source": "tecroom",
+  "tags": [
+    "all",
+    "News",
+    "Sinhala News",
+    "Tech News",
+    "Tech Sinhala",
+    "WhatsApp"
+  ],
+  "url": "https://tecroom.lk/whatsapp-beta-update-add-channel-admins/",
+  "word_count": 215
+}

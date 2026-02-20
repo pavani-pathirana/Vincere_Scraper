@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "පසුගිය දින තිබුනු ඇපල් ඉවෙන්ට් එකෙදි ඔවුන් එලිදක්වපු iPad Air සහ iPad Pro සමග හදුන්වාදුන් තවත් එක් දෙයක් තමයි ඔවුන්ගෙ නවතම M4 chip එක. iPad Air සදහා M2 chip එක යොදා ඇති අතර iPad Pro සදහා මෙම නව M4 chip එක යොදාගෙන තිබෙනවා.\n\nමෙම M4 chip එක නිශ්පාදනය කර තිබෙන්නෙ දෙවන පරම්පරාවේ 3nm ක්‍රියාවලියට අනුවයි. ඒවගේම එය නිර්මානය කර තිබෙන්නෙ නවතම Tandem OLED Display එක සදහාත් සහය දක්වන ලෙසයි. මෙහි performance cores හතරක් සහ efficiency cores හයක් අඩංගු වෙනවා. ඒවගේම 10-core GPU එකක්ද තිබෙනවා. එයත් සමගම ray-tracing එක්කර තිබීමත් විශේෂත්වයක්. කලින් තිබුනු චිප් එකට වඩා 4 ගුණයක් වේගවත් GPU performance මෙමගින් ලබාගත හැකි බව ඇපල් සමාගම පවසා තිබෙනව.\n\nමෙම චිප් එක AI කාර්යයන් සිදු කිරීමට නිර්මානය කර ඇති අතර ඒ සදහා 16-core neural engine එකක් සහ ML accelerators (Machine Learning Accelerators) අඩංගු කර තිබෙනවා. ඒ නිසා කලින් නිකුත් කල චිප් එකට වඩා 1.5x faster CPU performance මෙමගින් ලබාගන්න පුලුවන්.\n\nඇපල් සමාගම පවසන ආකාරයට මෙම චිප් එකට තත්පරයකට ගණනය කිරීම් ට්‍රිලියන 38 සිදුකිරීමේ හැකියාව තිබෙනවා. එය ඔවුන්ගේ A11 Bionic chip එකට වඩා 60 ගුණයක් වේගවත්.එනිසා iPadOS සමඟ සම්බන්ධ වූ M4 චිපයට generative AI models, cloud-based solutions සහ Microsoft Copilot සහ Adobe Firefly වැනි බලවත් AI යෙදුම් ධාවනය කිරීමේ හැකියාව තිබෙනවා.\n\nනව M4 චිපය සහිත iPad Pro අඟල් 11 මාදිලිය ඩොලර් 999 කින්ද අඟල් 13 මාදිලිය ඩොලර් 1299 කින්ද ආරම්භ වෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:52:37.589071",
+  "headline": "AI විශේෂාංග සහිත ඇපල් සමාගමේ නවතම M4 Chip",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "apple",
+    "chipset",
+    "CPU",
+    "gpu"
+  ],
+  "url": "https://www.pcguide.lk/apple-new-powerful-m4-chip/",
+  "word_count": 219
+}

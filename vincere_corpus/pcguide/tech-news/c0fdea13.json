@@ -1,0 +1,19 @@
+{
+  "author": "Lakshan-PCguide.lk",
+  "body": "Nvidia Graphic Card භාවිතා කිරීමේදී එන ගැටළු සහ ඒවාට පිළියම් යෙදිය හැකි ආකාර ගැන මේ ලිපියෙන් පැහැදිලි කරනව.\n\nThis NVidia graphics driver is not compatible with this version of Windows\n\nඅලුත්ම Graphic Driver ලබාගැනීම පරිගණකයේ Graphic Performance වලට වැදගත්, එහෙත් Nvidia graphic Card සදහා නිකුත් වන නවතම Driver update කරන්නට උත්සහ කරනවිට  “This NVidia graphics driver is not compatible with this version of Windows”, යන දෝශය පරිශීලකයන් බොහෝ දෙනෙක්ට පැමින තිබෙනවා.\n\nමේ ගැටළුව ඇති උවහොත් පහත සදහන් කරුණක් නිසා මෙය සිදුවිය හැකියි.\n\nමෙහිදී Windows Key+ R හරහා RUN විධානය ලබාගෙන එහි DXDIAG ලෙස Type කර පහත ආකාරයට DirectX Diagnostic tool එක ලබාගෙන ඔබගේ Windows සංස්කරණය සහ නවතම Update එක හරහා Version එක update වී ඇතිදැයි පරික්ෂා කරගන්න.\n\nමේ ආකාරයට වගේම My Computer – File-Help-About Windows හරහා පහත ආකාරයටත් Windows Version එක පරික්ෂා කරගත හැකියි.\n\nමෙම ගැටළුවෙන් ඉවත්වී Drivers පිහිටුවා ගැනීමට නම්",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:49:00.671726",
+  "headline": "Nvidia Graphic ගැටළු ගැන කතා කරමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "driver",
+    "graphics",
+    "issues",
+    "Nvidia",
+    "pcguidelk"
+  ],
+  "url": "https://www.pcguide.lk/nvidia-graphic-driver-issues/",
+  "word_count": 141
+}

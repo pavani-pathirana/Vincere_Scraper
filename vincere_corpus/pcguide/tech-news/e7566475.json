@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "අපේ System එකේ තියෙන Storage Device එකක Partitions හදන්න, Resize කරන්න වගේම සමහර upgrades වලදි MBR – GPT වගේ Convert කරගන්න අවශ්‍ය වෙනව. මේ වැඩවලදි සාමානයෙන් Technical දැනුමක් තියෙන කෙනෙකුට මේක Command Prompt එක හරහා කරගන්න පුළුවන් උනත් පහසුවෙන්ම UI එකක් හරහා Click කරල කරගන්න වගේම තවත් වැඩ ගොඩක් පුළුවන් Tool එකක් තමයි minitool Partition Manager කියන්නෙ.\n\nWindows Operating System එක තුලදි අළුතින් සම්බන්ධ කරගත්ත වගේම දැනට තියෙන HDD / SSD එකක Partitions හදන්න – Resize කරන්න – Format කරන්න සහ Partition එකක් MBR -GPT වලට වගේම NTFS / FAT32 වලට පහසුවෙන්ම මාරු කරගන්න Minitool Partition wizard හරහා හැකියාව ලැබෙනව.\n\nMinitool Partition wizard එක හරහා ඉහත දේවල් කරගන්න ඉතාමත් පහසු Visual interface එකක් තියෙනව. මේ හරහා පහුසවෙන් තමන්ට අවශ්‍ය Disk එක හොයාගන්නල Resize කරන්න වගේම ඒව Apply කරන්නත් පුළුවන්.\n\nDisk Clone Tool – අළුත් SSD එකට OS එක Copy කරන්න\n\nSystem එකට අළුත් SSD එකක් ගත්තම – ගොඩක් දෙනෙකුට තියෙන ගැටළුව තමයි කොහොමද මේ තමන්ගේ තියෙන OS එක Software Files හැම එකක්ම C Partition එකෙන් ඒ විදිහටම Copy කරන්නෙ කියල. Mini Tool Partition wizard එකෙන් පරණ HDD එකෙන් අළුත් එකට Clone කරන එක පහසුවෙන් කරගන්න පුළුවන්. ඒ වගේම Hard drive එකක් Upgrade කරද්දි අළුත් Drive එකට පරණ Drive එක සම්පූර්ණයෙන්ම Partitions එක්කම Clone කරගන්නත් මෙයින් පුළුවන්.\n\nඅළුතින් ගත්ත HDD එකක Partition හදාගන්න වගේම දැනට තියෙන Partition එකක් කිසිම Data Loss එකක් නැතුව Resize කරන්න වගේම MBR Hard disk එකක් GPT වලට Convert කරන්න සහ NTFS සිට FAT32 වගේම Dynamic Disk එකක් Basic Disk එකක් විදිහට කරගන්න පුළුවන්.\n\nMiniTool Partition Manager එකෙන් HDD වල lost Partition Recover කරන්න වගේම Delete කරපු Files Recover කරන්නත් පුළුවන්. මේ File Recovery option එක FAT – NTFS – exFAT Drives වලට Support කරන නිසා ලොකු Range එකක HDD වගේම portable HDD සහ USB flash drive recovery වලදිත් ප්‍රෙයා්ජනවත් වෙන්න පුළුවන්.\n\nMiniTool Partition Wizard හරහා Hard drive එකක Health එක ගැන පහසුවෙන්ම Report එකක් ගන්න පුළුවන්. Drive එකේ Read Write Speeds, Disk usage, File System intergrity ගැන බලන්න වගේම සමහර Errors fix කරගන්නත් පුළුවන්. HDD එකේ Bad sectors ඇවිත් නම් ඒ ගැන දැනගන්නත් පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:33:47.921129",
+  "headline": "Hard Disk වැඩවලට MiniTool partition wizard Tool එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "data",
+    "HDD",
+    "recovery",
+    "software"
+  ],
+  "url": "https://www.pcguide.lk/minitool-partition-wizard-tool/",
+  "word_count": 338
+}

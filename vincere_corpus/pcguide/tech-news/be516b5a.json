@@ -1,0 +1,19 @@
+{
+  "author": "Dilan Siriwardhana",
+  "body": "ඉන්දියානු තාක්ෂණික සමාගමක් වන Mindgrove Technologies ආයතනයSecure IoTනමින් නවතම 28 nm SoC (System on Chip) එළිදක්වා ඇති අතර මෙය ඉන්දියාව තුළ දේශීයව නිපදවූ ප්‍රථම මයික්‍රොකොන්ට්‍රෝලරය බව සඳහන් වේ.\n\nඉන්දියාව තුළ නිපදවූ Shakti නම් Sigle Core මයික්‍රොප්‍රොසෙසරය මත පදනම් වී ඇති Secure IoT එකට මේ අනුව ලැබෙන්නෙ 700 MHz Clock Speed එකකි. RISC – V Architecture පදනම් කරගත් මෙහි කිලෝබයිට් 128 ක Static RAM එකක් පවතී. තවද මෙහි Input Output Pins 96 ක් පවතින අතර SPI, I2C, UART වැනි ශ්‍රේණිගත සන්නිවේදන (Serial Communication) ක්‍රම සඳහා පහසුකම් සලසයි.\n\nMindgrove Technologies සමාගම පවසන ආකාරයට මෙම චිපය දැනට වෙළෙඳපොළ තුළ පවතින අනෙකුත් සමාන මයික්‍රොකොන්ට්‍රෝලර වලට සාපේක්ෂව 30% පමණ මිලෙන් අඩු වේ. එසේම මෙම චිප ඉදිරියේදී ඉන්දියාව තුළ නිපදවන ඉලෙක්ට්‍රොනික උපාංග උදාහරණ ලෙස Smart watch, Smart Locks, Themo Printers ආදිය තුළ බහුලව දැකගත හැකිවනු ඇති බවද පැවසේ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:55:43.810897",
+  "headline": "ඉන්දියාවේ හදපු – Mindgrove Secure IoT",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "india",
+    "iot",
+    "pcguidelk",
+    "soc",
+    "tech"
+  ],
+  "url": "https://www.pcguide.lk/made-in-india-first-microcontroller/",
+  "word_count": 132
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "මාස කිහිපයක සිට අන්තර්ජාලයේ leak වෙච්ච Google Pixel 6 සහ Pixel 6 Pro වල විස්තර සැබෑ කරමින් Google ආයතනය පසුගිය දවසක තමන්ගෙ අලුත්ම දුරකථන පෙල හඳුන්වා දුන්නා. Google ආයතනය ප්‍රධාන වශයෙන් මේ smartphones වල performance, smart පහසුකම් සහ ඡායාරූපකරණය කියන පැති සංවර්ධනයට ලොකු අවධානයක් දීලා තියනවා. මේ හේතුව නිසා වෙන්න ඇති මේ අලුත් smartphones models දෙකම Google ආයතනයේම custom develop කරපු Tensor නමැති System on a Chip(SoC) එකකින් බලගැන්වෙන්නේ. මේ 5nm SoC එකට core 8ක් සහිත processor එකක් ඇතුලත් වෙනව වගේම බලවත් Cortex-X1 cores දෙකකුත් ඇතුලත් වෙනවා. තවත් mid-level cores දෙකක් සහ විදුලිය කාර්‍යක්ෂමව පාවිච්චි කරන්න පුලුවන් cores හතරකුත් මේ දුරකථන වල අන්තර්ගත වෙනවා.\n\nPixel 6 සතුව 90Hz refresh rate එකකින් එන අඟල් 6.4ක FHD+ OLED display එකක් සතුයි, ඒ වගේම Pixel 6 Pro දුරකථනයේ 120Hz refresh rate එකකින් යුක්ත අඟල් 6.7ක Quad HD+ OLED display එකක් සමන්විතයි. මේ models දෙකම එන්නේ අලුත්ම Android 12 සංස්කරණයත් එක්කයි. Google ආයතනය තහවුරු කරල තියනව මේ දුරකථන දෙකටම අවුරුදු 5ක් යනකන් security updates ලැබෙනව කියලත්, නමුත් OS updates ලැබෙන්නෙ අවුරුදු 3ක් යනකන් විතරයි.\n\nමේ smartphones දෙකටම අලුත් megapixel 50ක බලයක් ඇති Samsung GN1 sensor එකක් සහිත cameras ඇතුලත්. මේ cameras වලට Pixel 5 වලට වඩා 150%ක් වැඩියෙන් ආලෝකය හසුකරගන්න පුලුවන්. තවත් megapixel 12ක ultrawide lens එකක් මේ දුරකථන දෙකේම දකින්න පුලුවන්. Pixel 6 Pro වල megapixel 48ක telephoto camera එකක් අමතරව ඇතුලත් වෙනවා, මේකට 4x optical zoom හැකියාවක් තියනවා.\n\nPixel 6 දුරකථනයේ 4614mAh ක battery එකක් සමන්විතයි, Pixel 6 Pro battery එකේ බලය 5000mAhක්. Google ආයතනය ප්‍රකාශ කරනවා Pixel 6 Pro දුරකථනය 5G සක්‍රීයව තිබුනත් පැය 24කට වඩා පාවිච්චි කරන්න හැකියාව තියනව කියලා. Pixel models දෙකම 30W wired charging වලට සහය දක්වනවා, මේකෙන් විනාඩි 30ක පමණ කාලයකින් battery එක 50%ක් පමණ ආරෝපණය කරගන්න පුලුවන්.\n\nPixel 6 වර්ණ 3කින් නිකුත් වෙලා තියනවා. ඒ Stormy Black, Kinda Coral, සහ Sorta Seafoam වශයෙන්. මේ model එකේ 8GB + 128GB version එක $599ක් මිල වෙන අතර 8GB + 256GB version එකේ මිල වෙන්නෙ $699ක්.\n\nPixel 6 Pro ලබාගන්න පුලුවන් Stormy Black, Sorta Sunny, සහ Cloudy White කියන වර්ණ තුනෙන්. මේ model එකේ 12GB + 128GB version එක $899 ක් වෙනවා, 12GB + 256GB version එකේ මිල වෙන්නෙ $999 සහ අන්තිම option එක වෙන 12GB + 512GB version එක $1099ක් මිල වෙනවා. මේ models දෙකම ලංකාවට එද්දිනම් මීට වඩා මිල වැඩි වෙන එක කියන්න ඕන නෑනෙ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:36:51.007440",
+  "headline": "අලුත්ම Google Pixel 6 සහ Pixel 6 Pro විස්තරය.",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "google",
+    "launch",
+    "OS",
+    "pixel"
+  ],
+  "url": "https://www.pcguide.lk/google-pixel-6-pixel-6-pro-released/",
+  "word_count": 378
+}

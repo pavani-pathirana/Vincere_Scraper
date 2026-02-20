@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "මීට සති කිහිපයකට කලින් Microsoft තමන්ගෙ අලුත්ම cloud සේවාව හඳුන්වලා දුන්නා, ඒWindows 365. මේ අලුත්ම සේවාව භාවිතයෙන් ඕනම modern web browser එකක් ක්‍රියාත්මක වෙන device එකකින් සම්පූර්ණ Windows අත්දැකීමක් ලබාගන්න පුලුවන් වෙනවා. ආරම්භයේදී මේ සේවාව ලබාගන්න හැකිවෙන්නෙ ව්‍යාපාර වලට පමණයි. නමුත් Microsoft සමාගම වසර කිහිපයක සිට cloud සේවා වලට දක්වන නැඹුරුව නිසා මේ සේවාවත් ලඟදිම සාමාන්‍ය පාරිභෝගිකයන්ටත් ලබා ගන්න හැකි වේවි කියල විශ්වාස කරන්න පුලුවන්. මේ Windows 365 සේවාව තනි ව්‍යාපාර සිට මහා පරිමාණ ව්‍යාපාර වෙනතෙක් ඕනම මට්ටමේ ව්‍යාපාරයකට ලබාගන්න හැකියාව දීල තියනවා. මේකට browser එකකින් access කරන නිසා iPad හෝ Mac පරිගණකයකින් පවා මේ Windows අත්දැකීම ලබන්න පුලුවන්.\n\nMicrosoft සමාගමේ Xbox cloud streaming සේවාවේදී සෑදෙන virtual Xbox එක වගේ මේ Windows 365 සේවාවේදි හැදෙන්නෙ virtual PC එකක්. මේ cloud PC එක තමන්ට ඕන විදිහට හදාගන්න users ලට පුලුවන්. Physical PC එකක් වගේම මේ Windows 365 වලදිත් තමන්ට ආවශ්‍ය storage ප්‍රමාණය, Ram ප්‍රමාණය සහ processor එකට අවශ්‍ය cores ගණන අපිට තෝරගන්න පුලුවන්. Microsoft වෙබ් අඩවියේ සඳහන් වෙන විදිහට මේ සේවාවෙන් ව්‍යාපාරවලට 16 GB සිට 512 GB වගේ විශාල ප්‍රමාණයක් වෙනකන් Ram මතකයක් තෝරගන්න පුලුවන්.\n\nWindows 365 සේවාව පාවිච්චි කරන අයට “instant-on boot experience” එකක් ලබාගන්න පුලුවන් වෙනව කියල Microsoft ආයතනය සඳහන් කරනවා. Cloud එකේ run වෙන ඔබේ පරිගණකයේ එක device එකකින් කරන වැඩ වලට ඒ විදිහටම තවත් device එකකින් ඒ PC එකට access කරන්න පුලුවන් කිසිම ප්‍රමාදයකින් තොරව. මේ Cloud PC වල ආරක්ෂාවට Microsoft විශේෂ පියවර කිහිපයක්ම ඇරගෙන තියනවා. Windows 365 හරහා මේ Cloud PC එකකට sign in වෙන්න multi-factor authentication එක අනිවාර්‍ය කරල තියනවා. ඒ වගේම මේ විදිහට Virtual PC එකක් පාවිච්චි කරද්දි cloud එකේ ගබඩා වෙන දත්ත සම්පූර්ණයෙන්ම encrypt වෙලයි තියෙන්නෙ.\n\nVirtual PC රාශියක් එක්ක වැඩ කරන ව්‍යාපාර වලට ඒක එක ලේසි කරන්නත් Microsoft ආයතනය විවිධ tools හඳුන්වලා දීලා තියනවා. ආරම්භයේදී Windows 365 තුල Windows 10 run වුනත් පසුව Windows 11 වලට upgrade කරන්නත් හැකියාල ලබාදෙන්න Microsoft ආයතනය සූදානමින් ඉන්නෙ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:38:36.201833",
+  "headline": "Web Browser මත Windows",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "browser",
+    "cloud",
+    "pc",
+    "service",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/windows-365/",
+  "word_count": 302
+}

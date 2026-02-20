@@ -1,0 +1,19 @@
+{
+  "author": "Nadun nethmalaka herath",
+  "body": "Windows Safe Mode කියන්නේ පරිගණකය මූලික drivers සහ Services පමණක් භාවිතා කරමින් පරිගණකය ක්‍රියාත්මක වන  ක්‍රමයකි. මෙය  සාමාන්‍යයෙන්  භාවිතා කරන්නේ system එකේ ඇති software වල ගැටළු troubleshoot කිරීමට සහ  ඒවා fix කිරීම සඳහාය. සාමාන්‍යයෙන් Windows  ආරම්භ වන විට ක්‍රියාත්මක වන third-party software, antivirus, drivers වැනි දේවල් Safe Mode එකේදී ක්‍රියාත්මක නොවන නිසා, ගැටළුවක් හඳුනා ගැනීමට මෙය ඉතාමත් ප්‍රයෝජනවත්  වේ.\n\nමෙම Safe Mode එකට පිවිසෙන්න ආකාර කීපයක් තියෙනවා.Windows 10 සහ 11 වලදී Safe Mode එකට පිවිසෙන්නේ  Settings > Update & Security > Recovery යන මාර්ගය හරහා Restart now යන්න තෝරා Advanced startup menu එකට යන්න පුළුවන්. එහි Troubleshoot > Advanced options > Startup Settings යන්න තෝරා Restart කිරීමෙන් පසු, F4 (Safe Mode), F5 (Safe Mode with Networking), F6 (Safe Mode with Command Prompt) යන විකල්ප ඔබට තෝරාගත හැක. ඔබට Windows වලට සාමාන්‍ය ලෙස log වීමට නොහැකි නම්Windows Installation USBධාවකයක් මගින්  Windows Setup එක Load කරගෙන එහිදී CMD prompt එකක් මගින්ද Safe mode වෙත පිවිසිය හැක. සමහරක් පරණ Windows version වලදී  බොහෝ විට පරිගණකය ආරම්භ වන විට F8 වැනි key එක ඔබා Safe Mode menu එකට පිවිසෙන්නත් පුළුවන්.\n\nSafe Mode එක භාවිතයේ දී ඇති වාසි කීපයක් ම තිබෙනවා. Safe Mode භාවිතා කරමින් virus/malware වැනි දෑ  remove කිරීම, corrupted drivers & updates uninstall කිරීම, system restore කිරීම වැනි troubleshooting පහසුවෙන් මෙහිදී සිදු කල හැකිය. මෙය system එකේ root-level ගැටළු හඳුනා ගැනීමට සහ repair කිරීමට ඉතාමත් ප්‍රයෝජනවත් වේ. නමුත් Safe Mode එකේදී resolution අඩු වීම, sound/video drivers ක්‍රියා නොකිරීම වැනි සීමාවන්ද ඇත. ඒත් troubleshooting වැඩ වලට , මේක ඉතා වැදගත් විශේෂාංගයක් කියලා කියන්නත් පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:37:53.109618",
+  "headline": "Windows Safe Mode ගැන ඉගෙනගමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "learn",
+    "pcguidelk",
+    "troubleshoot",
+    "windows",
+    "windows 10"
+  ],
+  "url": "https://www.pcguide.lk/what-is-safe-mode-in-windows/",
+  "word_count": 250
+}

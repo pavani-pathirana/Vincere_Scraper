@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "2018 මුලදි nvidia සමාගම තමන්ගෙ graphic Driver වල 32 bit සංස්කරණය නිකුත් කිරීම නවතා දැම්ම. මේ වෙනකොට AMD සමාගමත් තමන්ගෙ Radeon Graphics Driver වලට 32 bit සංස්කරණ නිකුත් කිරීම නවත්තල තියෙනව. මේ එක්කම 32bit Windows පාවිච්චි කරන අයට අලුත්ම graphics Driver Updates ලැබෙන්නෙ නැහැ.\n\nAMD සමාගම 64 bit architecture එක හදුන්වල දීපු 2004න් පස්සෙ Windows Vista එක්ක වෙනම 64 bit DVD එකක් නිකුත් කරපු Windows සමාගම වගේම 2018 වෙද්දි ගොඩක් Software සමාගම් 64 bit වලට පරිවර්තනය වෙලා තියෙනව. 64 bit Architecture එක යටතේ 4GB වලට වඩා RAM පාවිච්චි කිරීමේ හැකියාව වගේම CPU IPC එකකදි වැඩිපුර වැඩ කොටසක් කරගැනීමේ හැකියාව නිසා තවමත් 32 Bit වල ඉන්න අයට 64 bit වලට යන එක වඩාත් වැදගත් වෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:50:33.000969",
+  "headline": "32 bit වලට තිත තියන AMD",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "driver",
+    "graphics",
+    "radeon"
+  ],
+  "url": "https://www.pcguide.lk/amd-stops-32-bit-support-for-radeon-drivers/",
+  "word_count": 114
+}

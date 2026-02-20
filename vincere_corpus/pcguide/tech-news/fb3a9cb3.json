@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "අපි කවුරුත් අපෙ දුරකතන වලින් screenshot ලබාගන්නවා. මේ ලබාගන්න screenshot වල ගුණාත්මක බව ඒ තරම් ඉහල මට්ටමක නෑ. නමුත් ඔන්න දැන් Android 16 beta සංස්කරණයට එක්කර තිබෙනවා HDR screenshot ලබාගැනීමේ හැකියාව. මේ වනවිට නිකුත් කර තිබෙන Android beta 2 සංස්කරණයෙ මේ විශේෂාංගය තිබෙනවා.\n\nමීට කලින් නිකුත් උනු Android 16 සංස්කරණයෙ තිබුනෙ SDR (Standard Dynamic Range) format එකෙන් screenshot ලබාගැනීමේ හැකියාවයි. අලුත් බීටා සංස්කරණයෙදි එය upgrade කර තිබෙනවා. මේ HDR format එක නිසා screenshot වල colors සහ brightness SDR screenshot වලට වඩා ගුණාත්මක බවකින් යුක්තව තියනවා. මේ නිසා document එකක උනත් පැහැදිලි ලෙස screenshot ලබාගෙන යවන්න පුලුවන්.\n\nHDR screenshot පිළිබඳ පළමු ඉඟිය Android 15 වලදි Google සමාගමෙන් ලබාදුන්නා. මෙම රූප බොහෝ විට SDR ලෙස save වෙන නමුත් Android 16 වලදි එය වෙනස් කරන්න පුලුවන්.\n\nAndroid 16 බීටා 2 සංස්කරණයෙ save වෙන screenshot HDR ආකෘතියෙන් සුරැකෙන බව ආදානවලින් දැකගන්න පුලුවන්. Android Authority වෙබ් අඩවියෙ Google Photos යෙදුමේ සමහර sample ඡායාරූප පලකර තිබුනා. කොහොමවුනත් HDR screenshot බැලීමට ඔබට HDR සහාය දක්වන දුරකථනයක් තිබිය යුතු වෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:41:47.279473",
+  "headline": "HDR Screenshot ඉදිරියෙදි Android 16 වෙතින්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "HDR",
+    "new feature",
+    "screen",
+    "tech news"
+  ],
+  "url": "https://www.pcguide.lk/android-16-introduces-hdr-screenshot-capturing/",
+  "word_count": 162
+}

@@ -286,6 +286,10 @@ class BaseScraper(ABC):
                     response = self.session_manager.get(list_url)
                     response.raise_for_status()
                     
+                    # Fix encoding if scraper specifies RESPONSE_ENCODING
+                    if hasattr(self, 'RESPONSE_ENCODING'):
+                        response.encoding = self.RESPONSE_ENCODING
+                    
                     # Parse article list
                     articles = self.parse_article_list_page(response.text, category)
                     
@@ -393,8 +397,10 @@ class BaseScraper(ABC):
             # Fetch article page
             response = self.session_manager.get(url)
             response.raise_for_status()
-            
-            # Parse article
+                        # Fix encoding if scraper specifies RESPONSE_ENCODING
+            if hasattr(self, 'RESPONSE_ENCODING'):
+                response.encoding = self.RESPONSE_ENCODING
+                        # Parse article
             article = self.parse_article_page(response.text, metadata)
             
             # Generate article ID

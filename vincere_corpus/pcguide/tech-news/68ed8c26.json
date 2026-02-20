@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "පසුගියදා පැවති Google I/O 2021 developer conference එකෙහිදී Google විසින් Android 12 beta version එක released කළා.මේ වන විට එය pixel 3 සහ ඉන් ඉදිරියට පැමිණි pixel phone සහ වෙනත් සමාගම් වල phone කිහිපයකටද මෙම beta version එක ලබාගැනීමේ පහසුකම් සලසා දී තිබෙනවා.\n\nAndroid 12 stable version එක මෙම වසරේ සැප්තැම්බර් මාසය පමණ  වන විට pixel phone සඳහා ලැබෙනු ඇති බවත් සඳහන් වෙනවා.Android 12 වල වෙනස්කම් ගැන සලකා බැලීමේදී මෙවර UI design එක ප්‍රධාන වශයෙන් වෙනස් වී තිබෙ­නවා. Google විසින් මෙය “Material You” ලෙස නම්කර ඇති අතර එමඟින් Notification panel, Icons, buttons සහ widgets වල colors අපට අවශ්‍ය ආකාරයට customize කර ගැනීමට හැකි වෙනවා වගේම අවශ්‍ය නම් Wallpapers වලට සරිලන ආකාරයට auto customise කිරීමේ හැකියාවක් පවතිනවා.\n\nIOS පරිශීලකයන් බොහෝ විට Android හි දුර්වලතාවයක් ලෙස සලකන Privacy and security වලටද මෙවර Google විසින් ප්‍රමුඛස්ථානයක් ලබාදී තිබෙනවා.එහිදී අලුත් Privacy dashboard එකක් හඳුන්වා දී ඇති අතර එමඟින් Apps වලට ලබාදී ඇති permissions පැහැදිලිව පෙන්නුම් කරනවා.උදාහරණයක් ලෙස Facebook app එකෙන් mic හෝ camera access කරන විට indicator එකක් pop-up වන අතර එමඟින් තාවකාලිකව ලබාදී ඇති permissions ඉවත් කිරීමේ හැකියාව පවතිනවා.එමෙන්ම Android 12 මඟින් අත්‍යවශ්‍යම නොවන අවස්ථාවකදී හරිම location එක ලබානොදී approximate location ලබා දීමේ හැකියාව ලබාදී තියෙනවා.තවද chromebook එක unlock කිරීමට Android 12 වලට හැකි වෙනවා.\n\nAndroid 12 සඳහා නව photo format එකක් වන “AVIF” support එක ලබාදී ඇති අතර එය JPEG හා සමාන compression එකක් වන නමුත් එමඟින් JPEG වඩා හොඳ quality එකක් තිබෙනවා.Google පවසන පරිදි Android 12 හි Core system services සඳහා අවශ්‍ය වන cpu time එක 22% කින් පමණ අඩුවන අතර system server සඳහා භාවිත වන big cores 15% කින් අඩු කර තිබෙනවා.එමඟින් පැහැදිලි වන්නේ Android 12 මඟින් දිගු බැටරි ආයු කාලයක් ලබා ගත හැකි වනු බවයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:40:05.134941",
+  "headline": "Android 12 ගැන අළුත්ම තොරතුරු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "2021",
+    "android 12",
+    "google",
+    "mobile",
+    "operating system"
+  ],
+  "url": "https://www.pcguide.lk/android-12-new-features/",
+  "word_count": 276
+}

@@ -1,0 +1,18 @@
+{
+  "author": "PCG author",
+  "body": "කාලෙක ඉඳන් Users ල ඉල්ලපු feature එකක් වෙන Google Home page එකේ නැතිනම් Search Page එකේ Dark mode එක මේ වෙද්දි Google ආයතනය Alpha සහ Beta මට්ටම්වලින් කරගෙන යනව කියලයි ආරංචි වෙන්නෙ. සමහර users ලට මේ වෙද්දි මේක එයාලගෙ Search page එකේ දකින්න පුලුවන් වෙනව.\n\nමීට කලින් මෙහෙම Google ආයතනය Desktop search page එක සඳහා Dark Mode එක Test කරත් ඒක ටික දවසකින් නවත්තල දැම්ම, නමුත් මේ සැරේ Testing, Users ල ගොඩක් දෙනෙක් යොදාගෙන කරන බවක් තමයි පේන්නෙ. ඒ හින්ද ලඟදිම Google ආයතනය public release එකක් කරයි කියල විශ්වාස කරන්න පුළුවන්. Google android mobile search සඳහා දැනටමත් dark mode එක හඳුන්වාදීලයි තියෙන්නෙ.\n\nGoogle ආයතනය පසුගිය කාලය පුරාම ඔවුන්ගෙ විවිධ service වලට Dark mode හඳුන්වා දෙනු ලැබුවා. Google Play Store, Google Translate සහ Google Chrome ඒවගෙන් කීපයක්. ඊලඟට Dark mode හඳුන්වාදෙන එයාලගෙ ලොකුම service එක Google search වෙන්න පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:42:32.924581",
+  "headline": "Google Search සඳහා Dark Mode",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "dark",
+    "dark mode",
+    "google",
+    "search"
+  ],
+  "url": "https://www.pcguide.lk/chrome-dark-mode-for-desktop-test/",
+  "word_count": 138
+}

@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "පරිගණක පද්ධතියක් On කල විගස පළමුව ක්‍රියාත්මක වන Code එක තමයි එහා OS එක Boot වීම ක්‍රියාත්මක වීම තීරණය කරන්නෙ. මේ Code එක සදහා ප්‍රහාරයක් එල්ල කලහොත් පරිගණකයේ පාලනය OS එකටත් නොදැනිම තමන් අතට ගන්නට Hacker කෙනෙකුට පුළුවන්.\n\nCPU නිපදවන සමාගම් මේ වගේ ප්‍රහාරයක් එල්ල විය හැකි තැන් වැසීමට තමන්ගේ pre plan වල සිටම ක්‍රියාත්මක වෙනවා. අළුත්ම ආරංචියේ හැටියට AMD සමාගම ඔවුන්ගෙ CPU වල මේ වගේ Vulnerability එකක් 2006 සිටම තිබිල තියෙනවා. එයSinkcloseලෙස නම් කරල තියෙනවා.\n\n2024 වසරේ Hack කිරීම සදහා වසරක් පාසා පවත්වන Def con සමුළුවේදී මේ ගැන අනාරණය කිරීම සිදු කලත් මීට වසරකට පෙරAMD සමාගම මේ ගැනදැනුවත් කරල තියෙනවා. මේ නිසා 2024 වසරේ මුලදීම මේ සදහා patches නිකුත් කරල තියෙනවා කියල AMD සමාගම ප්‍රකාශ කරල.\n\nකොහොම වෙතත් Desktop / Laptop CPU වල RYZEN 3000 series එකට මෙතනදි patch එකක් ලබාදීම ගැන AMD සමාගම සදහන් කරල නැහැ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:50:46.698436",
+  "headline": "AMD Chips බිලියනයක් අනතුරට පත්කල Sinkclose",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "CPU",
+    "security"
+  ],
+  "url": "https://www.pcguide.lk/amd-chips-in-danger-with-sinkclose/",
+  "word_count": 138
+}

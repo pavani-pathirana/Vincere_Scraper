@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Google සමාගම විසින් Chrome browser එක සදහා නව විශේෂාංග සමග වැඩිදියුණු කිරීම් කිහිපයක්ම සිදුකර තිබෙනව. පරිගණක වල මතකය අවම ලෙස බාවිතා කිරීමටත් ලැප්ටොප් පරිගණක වලදී අඩුවෙන් බැටරිය බාවිතා වන ආකාරයටත් මෙම නව වැඩිදියුණු කිරීම් සිදුකර තිබෙනව.\n\nමෙම Energy Saver සහ Memory Saver modes පිලිබදව පසුගිය දෙසැම්බර් මාසයේදී Google සමාගම නිවේදනය කල අතර එය දැන් සියලු දෙනාට බාවිතා කල හැකි ලෙස අප්ඩේට් එකක් මගින් Mac, Windows, සහ Chromebooks සදහා ලබාදෙන්න සූදානම්.\n\nමෙම නව Memory Saver mode එක මගින් සිදුවන්නෙ බාවිතා නොකරන ටැබ්ස් snoozes කිරීමට ලක්කර පරිගණකයේ මතකය ඉතිරි කිරීමයි. එමගින් වඩාත් කාර්යක්ශම browsing අත්දැකීමක් ලබාදෙනව. මෙමගින් ටැබ්ස් snoozes කලද ඒවා එසේම තිබෙන අතර උවමනා විටදි රීලෝඩ් කර නැවත එම ටැබ් වෙත පිවිසෙන්න පුලුවන්. ඔබ වැඩියෙන්ම බාවිතා කරන වෙබ්සයිට් සහිත ටැබ්ස් mark කර තැබීමෙන් ඒවා snoozes වීමෙන් වළක්වා ගන්න පුලුවන්.\n\nEnergy Saver mode එක මගින් අනවශ්‍ය පසුබිම් වෙබ් අඩවි ක්‍රියාකාරකම් එනම්, visual effects, animations හෝ videos වැනි දේ නවත්වනව. පරිගණකයේ බැටරිය 20% ප්‍රමානකයට පමන අඩු නම් හෝ විදුලියට සම්බන්ද කර නැති විටෙක වැනි ඕනෑම අවස්තාවක මෙම Energy Saver mode එක බාවිතා කරන්න පුලුවන්.\n\nChrome 110 ධාවනය වන උපාංග මත Memory Saver සහ Energy Saver යන modes දෙකම default ලෙස ක්‍රියාත්මක වී ඇති අතර ඕනෑම විටෙක system settings වල Performance tab එකට ගොස් මෙය disable කල හැක.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:26:36.027946",
+  "headline": "ඉදිරියේදී වඩාත් කාර්යක්ෂම වෙන Google Chrome",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chrome",
+    "computer",
+    "google",
+    "new feature",
+    "software"
+  ],
+  "url": "https://www.pcguide.lk/google-chrome-memory-saver-mode/",
+  "word_count": 204
+}

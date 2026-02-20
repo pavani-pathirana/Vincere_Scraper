@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "අද තිබෙන පරිගණක වලට හානි කරන malware අතරින් ඉතාම වේගයෙන් පැතිරෙන්නෙ ransomware. අපේ Computer එකට නොයෙක් ආකාරයෙන් පැමිණෙන මෙම Ransomware එහි පැතිරී Operating system එක තුලදීම Files Encrypt කිරීම මගින් ඒවා Lock කිරීම සිදුකරනව. මෙහි තිබෙන විශේෂත්වය වන්නෙ මෙම ransomware වැඩසටහන නිර්මානය කල පුද්ගලයා / පිරිස විසින් පරිගණකයේ Files නැවත ලබාදීම (Decrypt) සදහා කප්පම් ඉල්ලීමයි.\n\nමෑතකදි නිකුත් කරනලද වාර්තාවකින් පෙන්නුම් කරන්නෙ දැනට පවතින වෙළද ව්‍යාපාර අතරින් 71%ක් පමන ransomware ප්‍රහාර වලට ලක්ව තිබෙන බවයි. ransomware පරිගණක වලට පැමින තැන්පත් වෙන්නෙ සාමාන්‍ය virus විදියටමයි.\n\nමේවා පරිගණකයෙ තැන්පත් වී කප්පම් ඉල්ලන ක්‍රම කිහිපයක් තිබෙනව.\n\nසරලම ක්‍රමය නම් ව්‍යාජ නමුත් සැබෑ සේ පෙනෙන අවවාදාත්මක පණිවුඩ එවීමයි. එනම් පරිගණකයේ අසැබි දේ තිබෙනව කියා ආරක්ෂක අංශ වෙතින් එවන්නාක් සේ පණිවුඩ එවීමයි. අනවසර මෘදුකාංග පරිගණකයේ තිබේය කියා පණිවුඩ එවීම තවත් ක්‍රමයක්. මෙහිදී දින වකවානුවක් ලබා දෙනව. එදිනට කලින් ඉල්ලන කප්පම නොගෙව්වොත් පරිගණකය අකර්මන්‍ය කරන බවට හැකර්කරුවා පවසනව.\n\nනරකම විදිය, රැන්සම්වෙයා වැඩසටහන මඟින් පරිගණකයේ අත්‍යවශ්‍ය ෆයිල් එන්ක්‍රිප්ට් කිරීමයි. විශේෂයෙන්ම හාඩ්ඩිස්ක් එකෙ ඇති සිස්ටම් ෆයිල් එස්ක්‍රිප්ට් (cryptoviral extortion) කිරීමය. මෙය යථා තත්වයට ගෙන එන්නට කිසිම විශේෂඥයෙක්ට නොහැකිය. කළ යුතු එකම දෙය රැන්සම්වෙයා වැඩසටහන තැනූ තැනැත්තා පමණක් දන්නා යථා තත්වයට ගෙන ඒමේ කේතය (encryption key) ලබා ගැනීම පමණයි. එතනදී කප්පම ගෙවිය යුතු වෙනව.\n\n2015දි US වල Tewksbury වල police Server මෙසේransomware attackඑකකට ලක්වුනා. පොලීසියත් එය බේරා ගත්තේ කප්පම ගෙවීමෙන් පසුවයි. රැන්සම්වෙයා තනන්නන් විසින් මෙසේ රැස් කර ගන්නා කප්පම් මුදල්ද සුළුපටු වන්නෙ නැහැ.\n\n#Ransomwareis the top threat for organisations. The top 10 biggestransomware attacks of 2021 totalled $320 million in demands. 📄https://t.co/6yV5O5gctw▶️  Cyberseer's Annual Review recommends mitigation techniques.#cyberattack#cybersecurity#infosec#threatdetectionpic.twitter.com/udRTjVuIoi\n\nRansomware ගැන දැනුවත් වීම වගේම Cracked, Pirated Software / Plugins වැනි දේවල් භාවිතයෙන් ඉවත් වීමත් තමන් කරන Profession / වෘත්තිය අනුව Data backup කිරීමත් ඉතාමත් වැදගත් වෙන්නෙ – බොහෝ විට Ransomware Attack එකකදි අදාල මුදල් ගෙවීම හැර වෙනත් විකල්පයක් නැති වීම නිසයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:23:32.827301",
+  "headline": "කප්පම් ඉල්ලන Ransomware",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "antivirus",
+    "cyber security",
+    "malware",
+    "ransomeware",
+    "virus"
+  ],
+  "url": "https://www.pcguide.lk/why-you-mut-know-about-ransomware/",
+  "word_count": 290
+}

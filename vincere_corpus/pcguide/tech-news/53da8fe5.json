@@ -1,0 +1,19 @@
+{
+  "author": "Nadeeja Bandara",
+  "body": "අද වන විට ලංකාවෙ වගේම ලෝකයේ Google Chrome Web Browser එක පාවිච්චි නොකරන කෙනෙක් නැතිතරම් කියලා අපි හමෝම දන්නවා. Chromeහි desktop version එක සදහා Gemini බලයෙන් ක්‍රියාත්මක වන features කිහිපයක්ම ඉදිරියේදී හදුන්වා දෙන බව Google සමාගම විසින් පසුගිය දිනක පැවසුවා. ඔවුන් පැවසූ ආකාරයටLens for desktop, tab compare for shopping assistanceසහාnatural language integration for search historyයන features තමයි සදහන් වෙන්නේ.\n\nLens for desktopකියන feature එක ගැන කතා කරොත් මෙච්චර කාලයක් ඔයාලා mobile phone එකෙන් use කරපු Google Lens තවත් නොබෝ දිනකින් Chrome desktop version එක තුලින්ද access කිරීමේ හැකියාව පවතිනවා කියලා තමයි Googleලා කියන්නෙ. Googleලා කියන විදිහට ඉදිරියේදී address bar එකේ වගේම three-dot menu එක තුලද Lens දැකබලාගන්න පුලුවන් වෙයි. Lens icon එක click කිරිමෙන් පසුව page එකක අවශ්‍ය part එක select කිරීමෙන් search results ලබා ගන්න වගේම තවත් ප්‍රශ්න ඇසීමේ හැකියාව පවතිනවා.\n\nබෑගයක් වැනි පින්තූරවල ඇති වස්තූන් මත tap කිරීමෙන් විවිධ වර්ණ හෝ වෙළඳ නාමවල සමාන භාන්ඩ සොයා ගැනීමට multi-search හරහා ප්‍රශ්න ඇසීමේ හැකියාව පවතිනවා වගේම පිළිතුරු තුළ AI-generated සාරාංශ‍යක් ද ලබා දෙනවා. ඒවගේම මේ AI powered Lens එකේ තියෙන තවත් coolම features දෙකක් තමයි මිලදී ගත හැකි භාන්ඩ සෙවීමට අමතරව, ශාකයකට කොපමණ හිරු එළියක් අවශ්‍යද යන්න ආදිය සොයා ගැනීමටත් හැකියාව තියෙනවා සහ ගණිත සමීකරණයක් වැනි දෑ තේරුම් ගැනීමට උපකාර ලබා ගැනීමටත් හැකියාව තියෙනවා.\n\nඊලග feature එක තමයිtab compare for shopping assistanceකියන feature එක. ඉදිරියේදී ඔබ විවිධ tabs හරහා සොයන සමාන  items සදහා AI බලයෙන් ක්‍රියාත්මක වන සාරාංශයක් Chrome විසින් ලබාදෙනවා කියලා තමයි සදහන් වෙන්නෙ. උදාහරණයක් විදිහට, අලුත්  Bluetooth speaker එකක් සොයනවා නම්, ඔබ විවිධ pages හරහා මෙම විස්තර දෙස බලන විට product specs, features, මිල ගනන් සහ ratings වැනි විස්තර එක තැනක පෙන්වනවා කියල තමයි වැඩි දුරටත් සදහන් වෙන්නේ.\n\nමෙම features වලින් most useful feature එකක් තමයි natural language queries (ස්වභාවික භාෂා විමසුම්) මගින් browsing history එක සෙවීමේ හැකියාව. දවස් කිහිපයක් ගියාට පස්සෙ ඊට කලින් search කරපු දෙයක විස්තර කිහිපයක් හැර, ගිය page එක මොකක්ද කියල මතක නැති වෙන එක අපි කාටත් පොදු දෙයක් විදිහට තමයි මමනම් දකින්නෙ. ඔන්න මේපාර Googleලා ඒකට solution එකක් දීලා තියෙනවා.ඒ තමයි මෙන්න මේnatural language integration for search historyකියලා කියන්නෙ.\n\nඋදාහරනයක් විදිහට ගත්තොත් “What was that ice cream shop I looked at last week?”  ලෙස address bar එකෙහි search කර පසු ඉහත ආකාරයට දැකගන්න පුලුවන්. මෙලෙස search results පෙන්වීම සදහා Google page එකෙහි URL එක, title එක සහ content (අන්තර්ගතයේ) එකෙහි එකතුවක් භාවිතා කරනවා කියලා තමයි වැඩිදුරටත් සදහන් වෙන්නේ.\n\nඒවගේම Gemini train කිරීම සදහා මෙම දත්ත භාවිතා නොකරන බවත් මෙමගින් පරිශීලකයන්හට අතුරු ප්‍රතිපල මතු නොවන බවත් Google සමාගම වැඩිදුරටත් සදහන් කරනවා. මේවන විට Google හට පරිශීලකයින්ගේ devices මත locally AI-powered search historyය සැකසීමට නොහැකි අතර search results generate කිරීමට සහ ආපසු ලබා දීම සදහා cloud computing resources භාවිතා කරන බවයි සදහන් වෙන්නෙ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:50:00.595357",
+  "headline": "Geminiගෙන් බලගැන්වුනු නව Google Chrome විශේෂාංග",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "browser",
+    "chrome",
+    "google",
+    "search"
+  ],
+  "url": "https://www.pcguide.lk/gemini-ai-powered-google-chrome-new-features/",
+  "word_count": 438
+}

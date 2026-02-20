@@ -1,0 +1,17 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Microsoft සමාගම විසින්Copilot Proවැඩසටහන එනම් Copilot වැඩසටහනේ මිලදීගත හැකි සංස්කරණය නිකුත් කර තිබෙනව. මෙම වැඩසටහන සදහා $20ක මුදලක් මසකට අය කරන අතර GPT-4 සහ GPT-4 Turbo බාවිතා කිරීමට මෙමගින් අවස්තාව ලැබෙනව.\n\nමෙම නව GPT-4 සහ GPT-4 Turbo මගින් ඉක්මනින් පිලිතුරු ලබාගැනීමේ හැකියාව තිබෙනව. Microsoft සමාගම විසින් කෙටි කාලයකට GPT-4 model එක නොමිලේ බාවිතා කිරීමට ඉඩ ලබාදුන්න. නමුත් දැන් මිලදී ගැනීමේ සංස්කරණය හදුන්වා දීමෙන් පසු GPT-4 සහ GPT-4 Turbo සංස්කරණය නොමිලේ ලබාගත හැක්කෙ non-peak වෙලාවල් වලදි පමනයි.\n\nමෙම Copilot Pro වැඩසටහන Microsoft 365 වැඩසටහනේ MS Word, Excel, සහ PowerPoint මගින් බාවිතා කරන්න පුලුවන්.\n\nදත්ත විශ්ලේෂණය සහ ප්‍රස්තාර ජනනය කිරීම සඳහා Excel හි Copilot තවමත් පරීක්ශන මට්ටමේ පවතින්නෙ. සම්පූර්ණ PowerPoint ඉදිරිපත් කිරීමක් නිර්මානය කිරීමට ඔබට Word ලේඛනයක් භාවිතා කළ නොහැක. කෙසේ වෙතත්, ඔබට Copilot භාවිතයෙන් ස්වභාවික භාෂා විමසීම් භාවිතයෙන් presentation නිර්මානය කළ හැක. ඊට අමතරව, ඔබට Outlook හි ඊමේල් සාරාංශ කිරීමට සහ OneNote යෙදුම තුල බාවිතා කිරීමට Copilot වෙතින් ප්‍රවේශය ලැබෙනව.\n\nමීළඟට, Copilot Pro ඔබට OpenAI GPT වලට සමාන Copilot GPT නිර්මාණය කිරීමට ඉඩ සලසනව. කෙසේ වෙතත් එම විශේෂාංගය තවම ලබා ගත නොහැකි අතර, එය පසුව එකතු කරනු ඇත. Image generate කිරීමට, මිලදී ගන්නා සංස්කරණය මගින් ඔබට Dall-E 3 භාවිතයෙන් රූප නිර්මාණය කිරීමට ඉඩ ලබා දෙන අතර landscape image සඳහා ද සහාය දක්වනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:56:33.870414",
+  "headline": "මුදල් ගෙවා ගතයුතු Copilot Pro",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "copilot",
+    "microsoft"
+  ],
+  "url": "https://www.pcguide.lk/microsoft-introduces-paid-version-of-copilot/",
+  "word_count": 201
+}

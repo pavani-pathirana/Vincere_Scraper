@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "මේ දවස්වල Graphic card ලෝකයේ කියවෙන වචන වලින් වඩාත්ම උණුසුම් වචනය තමා Ray Tracing! Nvidia සමාගම තමන්ගෙ RTX හරහා මේ උණුසුම පාරිභෝගිකයන්ට අත්විදින්න සලස්වද්දි AMD සමාගම දැන් කියන විදිහට Direct X 12 Support කරන හැම AMD Card එකකටම Real Time Ray Tracing කරන්න හැකියාව තියෙනවලු!\n\nAccording to AMD themselves, their current stack does support the fallback layer.pic.twitter.com/qryLXjNKEi\n\n— coreteks (@coreteks)February 20, 2019\n\nAMD සමාගම කියන විදිහට Microsoft සමාගමේ DXR Fallback layer එක හරහා තමන්ගෙ Direct X 12 තියෙන හැම Radeon Card එකක් හරහාම Real Time Ray tracing පහසුකම ලබාගන්න පුලුවන් කියල කිව්වත් ඒ සදහා මේ Microsoft’s DXR fallback layer එකට Support කරන Driver එකක් නම් නිකුත් කරල නැහැ.\n\nදැනට මේ Real Time Ray Tracing එක RTX නොවන Card  එකක් විදිහට ඉහත සදහන් කරපු DXR Fallback layer එක හරහා Support කරන්නෙ Nvidia සමාගමේ Titan V card එකට පමණයි.\n\nකොහොම වෙතත් මේ DXR Fallback layer එක හරහා Real-Time Ray Tracing පාවිච්චි කරන්න පුලුවන් විදිහට AMD සමාගම ඉදිරියෙදි තමන්ගෙ Drivers නිකුත් කලත් ඒවල Ray Tracing Performance ගැන නම් සතුටු දායක වෙන්නෙ නැති වෙයි කියලයි Online ආරංචි මාර්ග වලින් දැනගන්න ලැබෙන්නෙ.\n\nමේකට ප්‍රධාන හේතුවක් විදිහට Ray Tracing වලට අවශ්‍ය වෙන මූලික Hardware සැලැස්ම Nvidia සමාගම තමන්ගෙ RTX Card වලට ඇතුලත් කරල තිබුනත් AMD Card වලට මේක කරන්න වෙන්නෙ Software/Emulation ක්‍රමයක් හරහා වීමයි.\n\nසරලවම කිව්වොත් න්‍යායක් හැටියට AMD Card වලට Real-time Ray Tracing හැකියාව ලබාගන්න පුළුවන් උනත් මේ Performance Nvidia සමාගමට තරගයක් දෙන්න පුලුවන් මට්ටමේ තියෙන එකක් නැහැ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:50:05.183642",
+  "headline": "AMD සමාගමේ සියළුම DX 12 Card වලට real-time ray tracing පුළුවන්ලු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "computer",
+    "dx 12",
+    "graphics",
+    "microsoft"
+  ],
+  "url": "https://www.pcguide.lk/amd-says-any-dx12-card-supports-real-time-ray-tracing/",
+  "word_count": 233
+}

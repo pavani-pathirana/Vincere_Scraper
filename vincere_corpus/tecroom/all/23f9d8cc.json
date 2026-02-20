@@ -1,0 +1,19 @@
+{
+  "author": "ByEditorJanuary 31, 20240101 Min Read",
+  "body": "කෘතීම බුද්ධිය එහෙමත් නැත්නම් Artificial Intelligence මේ වන විට සමාජය තුළ වැඩි කතාබහට ළක් වන මාතෘකාවක් බවට පත් වී තිබෙනවා. තාක්ෂණික සමාගම් අතර දැවැන්තයෙක් වෙන Google සමාගමද ඔවුන්ගේ AI තාක්ෂණය අතරට නැවුම් ඇරඹුමක් එක් කිරීමට නවතම නිර්මාණය​ක් ගෙන ඒමට කටයුතු කර තිබෙනවා.\n\nLumiere නැමැති කෘතීම බුද්ධි වැඩසටහන හරහා prompt එකක් භාවිතා කරමින් realistic videos නිර්මාණය කර ගැනීමේ හැකියාව AI ලෝකය වෙත ගෙන ඒමට Google සමාග​ම කටයුතු කර තිබෙනවා. Space-Time-U-Net මෙන්​ම STUNet යන diffusion models භාවිතා කරමින් නිමැවී ඇති Lumiere, කුඩා frames ගණනාවක් එක් කරමින් චලනයන්ද සමඟින් realistic videos නිර්මාණය කිරීමට සමත් වෙනවා.\n\nඅප විසින් ලබාදෙන prompt එක පාදක කරගනිමින් නිර්මාණය කෙරෙන based frame එක තු​ළ සිට STUNet framework එක භාවිතා කරමි​න් විවිධ වර්ගයේ කුඩා obejcts සහ frames සාදමි​න් මෙම Lumiere මඟින් seamless motion එකක් නිර්මාණය කෙරෙනවා. Stable Video Diffusion හි frames 25 හා සසඳන විටදී Lumiere මඟින් frames 80කට ආසන්න ප්‍රමාණයක් නිර්මාණය කරනු ලබනවා.\n\nText-to-Video නැතහොත් ලබාදෙන prompt එකක් හරහා video ​නිර්මාණය කිරීමේ තාක්ෂණයට එහා ගොසින්, Image-to-Video, Stylized Generation, Cinemagraphs, Video Inpainting ඇතුළු විශේෂාංග ගණනාවකින් මෙම Lumiere කෘතීම බුද්ධි වැඩසටහන සමන්විත වන අතර මේ වන විට පවතින Video Generating AI පරදවමින් ඉදිරියට පැමිණීමටද සමත් වෙනවා.\n\nSource:The Verge,Toms Guide,TechNews.LK",
+  "category": "all",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T20:14:04.971730",
+  "headline": "XpressJobs ශ්‍රී ලංකාවේ පළමු AI-බලගැන්වූ WhatsApp බඳවා ගැනීමේ සහයකයා දියත් කරයි",
+  "source": "tecroom",
+  "tags": [
+    "all",
+    "AI",
+    "AI Tools",
+    "Google",
+    "Google AI",
+    "Lumiere"
+  ],
+  "url": "https://tecroom.lk/google-lumiere-ai-video-generation-runway-pika/",
+  "word_count": 188
+}

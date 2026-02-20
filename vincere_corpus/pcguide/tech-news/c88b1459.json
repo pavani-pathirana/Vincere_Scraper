@@ -1,0 +1,17 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "WhatsApp සමාගම වසර කිහිපයක ඉදන් සංවර්ධනය කර පරීක්ශා කරමින් පැමිනි විශේෂාංගයක් දැන් එලිදක්වා තිබෙනව. ඒ තමයි අපෙ WhatsApp ගිණුම තවත් දුරකතන හතරක් තුල බාවිතා කරන්න පුලුවන්. මෙය multi-device functionality ලෙස හදුන්වනව.\n\nමෙම විශේෂාංගය සදහා access ඇති විට ඔබට දුරකතනයකට WhatsApp install කල විට link to existing account ලෙස නව option එකක් දැකගන්න ලැබෙනව. එම option එක මත ක්ලික් කිරීමෙන් පසු WhatsApp මගින් QR කේතයක් ස්කෑන් කිරීමට පෙන්වන අතර ඔබෙ පැරනි දුරකතනයේ Linked Devices තුලින් මෙම කේතය ස්කෑන් කර නව දුරකතනයට එම ගිණුම sync කරගන්න පුලුවන්.\n\nමෙම ක්‍රමය තරමක් සංකීර්න නිසා WhatsApp සමාගම විසින් ඉදිරියෙදි මීට වඩා පහසු ක්‍රමයක් මේ සදහා නිර්මානය කර ඉදිරිපත් කරන බව පවසා තිබුන. බොහෝවිට ඒ one-time code එකක් අපට ලින්ක් කිරීමට අවශ්‍ය දුරකතනයට යැවීම මගින් විය හැකියි.\n\nමෙම නව syncing ක්‍රමය යටතේ secondary දුරකතනයට messages සහ calls ලැබීමට ඔබේ primary දුරකතනය ලග තිබීම හෝ එහි WhatsApp ඕපෙන් කරගෙන සිටීමට අවශ්‍ය වෙන්නෙ නැහැ. කොහොමවුනත් ඔබෙ primary දුරකතනයෙන් WhatsApp වෙත දින 14කින් ලොග් වී නොමැති වුනොත් ස්වයංක්‍රීයව අනෙක් දුරකතන වලින් ඔබෙ ගිණුම logout වීමක් සිදුවෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:24:51.496603",
+  "headline": "එකම ගිණුම දුරකතන කිහිපයක බාවිතා කලහැකි WhatsApp Multi Device Support",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "meta",
+    "updates",
+    "whatsapp"
+  ],
+  "url": "https://www.pcguide.lk/whatsapp-multi-device-support-2023/",
+  "word_count": 167
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Sasindu Dilshan",
+  "body": "මැද පෙරදිග රජයන් ඉලක්ක කර ගනිමින් Malware එකක් බෙදා හරින හැකර්වරුන් කණ්ඩායමක් පිලිබද වාර්තා වේ.Witchetty නමින් හදුන්වන මෙම හැකර් කණ්ඩායම විසින් ඔවුන්ගේ Malware එක බෙදා හැරීම සදහා භාවිත කර ඇත්තේ පැරණි Windows logo එක සහිත Photo එකකි. මෙම හැකර් කණ්ඩායම ප්‍රථම වරට 2022 අප්‍රේල් මාසයේදී ESET විසින් සොයා ගන්නා ලදී.\n\nමෙවර ඔවුන් ඔවුන්ගේ Malware එක Anti virus software මගහරවා යෑමට Steganography නම් ක්‍රමවේදයක් භාවිත කර ඇත. Steganography  යනු Photos, Audio files වැනි මාධ්‍ය තුල Malicious codes වැනි දෑ සගවා තැබීමට හැකර්ස්ලා විසින් භාවිත කරන ක්‍රමවේදයකි. Bitmap ආකාරයේ  extension එකකින් යුක්ත වන පැරණි  Windows logo එක සහිත මෙම Photo එක තුලට Witchetty විසින් ඉතා සූක්ශම ලෙස Steganography ක්‍රමවේදය භාවිත කරමින් ඔවුන්ගේ  Malware එක සගවා ඇත.\n\nඉන්පසු ඔවුන් එම Photo එක GitHub හි host කර තිබේ. කෙසේ වෙතත් Symantec වාර්තා කර ඇත්තේ මෙම Malware එක දැනටමත් මැද පෙරදිග රාජ්‍ය ආයතන දෙකක හා අප්‍රිකාවේ Stock market එකක භාවිතා කර ඇති බවයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:29:24.021858",
+  "headline": "Windows Logo  එකේ සැගවී එන Malware",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "alert",
+    "security",
+    "spyware",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/malicious-code-inside-windows-logo/",
+  "word_count": 148
+}

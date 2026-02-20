@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "අපි පාවිච්චි කරන LCD Monitors / phone display වල රූප හැදෙන්නෙ පුංචි pixel එකතු වෙලා. මේව කාලයක් යද්දි හරියට වැඩ කරන්නෙ නැතුව යන්න පුලුවන්. මේවට තමයි Dead pixels කියන්නෙ. එක pixel එකක් ඇතුලෙ රතු කොළ නිල් (R G B) කියන මූලික වර්ණ වලින් Sub-pixel3ක් තියෙනව. මේව සම්පූර්ණයෙන්ම ON උනාම සුදු පාටත්, OFF උනාම කලු පාටත් Pixel එක එක තීව්රතාවලින් ON වෙලා අපට පේන පාට බොහොමයක් හදන්නත් පුලුවන් වෙනව. Pixel වැඩි වෙන්න වෙන්න Screen Resolution එක වැඩි වෙනව, ඒ නිසා තමයි resolution වැඩි Screen වල පේන පින්තූර වල පැහැදිලිබව වැඩිවෙන්නෙ.\n\nLCD / LED තාක්ෂණයෙන් එන Screen එකක රූප හැදෙන්නෙ pixel වල තියෙන R G B වර්ණ on off වීම මගින්. මේ pixel වලටත් on off වෙන්න පුලුවන් වාර ගණනක් තියෙනව. ඒක තමයි Lifetime එක විදිහට හදුන්වන්නෙ. සමහර pixel (විතරක් නෙමෙයි ඕනම උපකරණයක්) මේ කාලයට කලින් දෝෂ සහිත වීම තමයි අපි Dead pixel එකක් විදිහට හදුන්වන්නෙ. සාමාන්‍යෙයන් මේ විදිහට දෝෂ සහිත වෙන pixel ආකාර 3ක් තියෙනව. ]\n\nDead pixelpixel එකක් සම්පූර්ණයෙන්ම OFF තත්වයට පත්වීම තමයි Dead pixel කියන්නෙ.\n\nHot Pixelpixel එක හැමවෙලේම ON වෙලා තියෙන එක තමයි Hot pixel එකක් කියනනෙ. මේක Screen එකේ තනි සුදු dot එකක් වගේ පේනව මොකද Full ON state එකේ තමයි මේක තියෙන්නෙ.\n\nStuck pixelpixel එකක Sub pixels RGB පාට වලින් එකක හිර වෙලා එතනින් එහාට යන්නැති එක මේ විදිහට හදුන්වනව.\n\nDead pixel / Hot pixel / Stuck pixel හදන්න පුලුවන්ද?\n\nමේකට හරි උත්තරයක් දෙන්න බැහැ. හැබැයි ගොඩක් වෙලාවට මේව ඉබේම හරියන අවස්තා වගේම විවිධ ක්‍රම වලින් හදාගන්න try කරන්නත් පුලුවන්.\n\nFlashing methodමේ ක්‍රමයෙදි Screen එකේ වේදයෙන් පාට මාරු වෙලා හැම pixel එකක්ම වැඩ කරන Video එකක් play කරන එක තමයි කරන්නෙ. මේකෙන් හැම pixel එකම අධික වේගයෙන් on off වෙන්න හදන නිසා ගොඩක් වෙලාවට Stuck . Hot pixel වැඩ කරන තත්වයට පත්කරගන්න පුලුවන්.\n\nWindows xp වල ඉදන් Windows 10 වෙනකම් support කරන මේFree softwareඑකෙන් Dead pixel එක තියෙන තැන තෝරල එතන වේගයෙන් පාට සහ රූප flash කරන්න පහසුකම් ලබාදෙනව. Settings ටික හදල start flashing කියන විධානය දුන්නම විනාඩි 30ක් විතර ඒ process එක වෙනව. මේකෙන් Dead / stuck pixel ආයෙත් වැඩ කරන්න පුලුවන්.\n\nඒ වගේම තමයි Screen එකේ දෝෂ තියෙනවද කියල බලන්න පුලුවන්injured pixels Softwareඑක. මේකත් Windows වලට විතරයි තියෙන්නෙ. මේකෙන් Screen එක පාට කීපයකින් test කරල dead / stuck pixel තියෙන තැන් Screen එක හීරුන තැන් වගේම පාට fade වේගෙන යන තැන් හොයාගන්න පුලුවන්.\n\nmac එකක iphone එකක වගේ Software එක install කරන්න බැරි අවස්තාවක් නම්, (windows වලටත් පුලුවන්)Jscreen Fixකියන web based pixel healeing tool එක පාවිච්චි කරන්න පුලුවන්. මෙතනින් website එකට ගිහින් launch JscreenFix කියන button එක click කරාම එන Window එක screen එකේ Dead / stuck pixel තියෙන තැනට ඇදල විනාඩි 30ක් විතර play කරන්නයි තියෙන්නෙ.\n\nAndroid Phone App එකAndroid 2.3 ඉදන් Support කරන Dead pixel detect & fix කියන App එක මෙතනින්Downloadකරගන්න. මේකෙන් Screen එක පාට 6කින් වේගයෙන් Flash කරල Dead pixels fix කරන්න try කරන්නත් පුලුවන්.\n\nපීඩන ක්‍රමය pressure methodපොඩි පෑන් ක්ලිප් එකක් වගේ සුමට මතුපිටක් තියෙන කෑල්ලකින් දෝෂ සහිත pixel එකට පුංචි පීඩනයක් යෙදීම මගින් සමහර වෙලාවට මේක හදාගන්න පුලුවන්. හැබැයි වැඩිපුර pressure උනොත් අනික් pixel ටිකත් Dead වෙන්න පුලුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:53:12.266617",
+  "headline": "මොනාද මේ Dead pixel …",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "apple",
+    "fix",
+    "imac",
+    "mac",
+    "screen"
+  ],
+  "url": "https://www.pcguide.lk/dead-pixels-how-to-fix-them/",
+  "word_count": 500
+}

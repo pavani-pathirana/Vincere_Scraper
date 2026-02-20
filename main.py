@@ -42,6 +42,13 @@ from scrapers.lankapuvath_scraper import LankapuvathScraper
 from scrapers.sarasaviya_scraper import SarasaviyaScraper
 from scrapers.mawratanews_scraper import MawrataNewsScraper
 from scrapers.vidusara_scraper import VidusaraScraper
+# Tech news scrapers
+from scrapers.aluthsl_scraper import AluthSLScraper
+from scrapers.pcguide_scraper import PCGuideScraper
+from scrapers.tecroom_scraper import TecroomScraper
+from scrapers.androidwedakarayo_scraper import AndroidWedakarayoScraper
+from scrapers.techcyclone_scraper import TechCycloneScraper
+from scrapers.techsayura_scraper import TechSayuraScraper
 
 
 # Global flag for graceful shutdown
@@ -161,6 +168,13 @@ def get_scraper_class(site_name: str) -> Type[BaseScraper]:
         'sarasaviya': SarasaviyaScraper,
         'mawratanews': MawrataNewsScraper,
         'vidusara': VidusaraScraper,
+        # Tech news scrapers
+        'aluthsl': AluthSLScraper,
+        'pcguide': PCGuideScraper,
+        'tecroom': TecroomScraper,
+        'androidwedakarayo': AndroidWedakarayoScraper,
+        'techcyclone': TechCycloneScraper,
+        'techsayura': TechSayuraScraper,
     }
     
     site_name_lower = site_name.lower()

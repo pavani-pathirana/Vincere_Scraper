@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "2008 පළමු නිකුතුවෙන් වසර 14කට පස්සෙ Google ආයතනයේ Chrome Web browser එක Version 100 ‌update ඒක ලබාදී තිබෙනව. 2022 මාර්තු මස 29 වෙනිදින මෙම update එක නිකුත් උනා. ඒ වගේම 2014න් පස්සෙ Chrome වල Logo change එකකුත් මේ අවුරුද්දෙ සිදුඋනා. මේ සමගම Shades නැති simple Look එකක් crome logo ඒකට ලැබෙනව.\n\nනවතමMulti Screen Window Placement APIඒක හරහා දැන් Screen කීපයක් භාවිතා කරන ඔබට Chrome හරහා මෙම Multi Screen භාවිත කිරීමේ පහසුකම ලබාගන්න පුළුවන්. මින් පෙර Native Apps වලට පමණක් හැකිවූ මෙය Web browser ඒකකට ලැබීම හරහා Multi task කිරීම පහසු වෙනව.\n\nUser Agent Strings APIකියන්නෙ අපි භාවිතා කරන OS එක සහ Device එක ගැන Websites වලට තොරතුරු දෙන්න තියෙන ක්‍රමයක්. මෙය භාවිතා වන අවසන් Chrome version ඒක වෙන්නෙ Chrome 100. එ වෙනුවට සීමිත තොරුතුරු ලබාදෙන user Agent String Hints API එකක් මීලගට ක්‍රියාත්මක වෙනු ඇති.\n\nOne Click Tab Mute– කියන්නෙ 2018 දි Chrome වල තිබුන Feature එකක්. ඉන් පසුව මේක Chrome වලින් ඉවත් කරල. නමුත් නැවතත් මෙය හදුන්වා දෙන්න Chrome කටයුතු කරල තියෙනව. මේ Feature ඒක Default On නැති උනත් පහසුවෙන්ම මේ Link කඒට ගිහින් ඒය Enable කරගන්න පුළුවන්.\n\nWeb Browser Market share වෙනස් කල Chrome\n\nGoogle ආයතනය Chrome Web Browser එක නිකුත් කරල වසර 14ක් වෙනකොට Web Browser Market share එක සහමුලින්ම වෙනස් වෙලා. 2008දි ජනප්‍රියම web browser අතර තිබුනු Internet Explorer, Firefox වැනි Web browsers වල නම් දැන් ඇහෙන්නෙම නැති තරම්. 2008 දැවැන්තයෙක් වූ Internet Explorer නිල වශයෙන් තම අවසන් සේවය 2022 ජුනි 15 වෙනිදින අවසන් කරනව.\n\nමේ හා සමගම Android, iPhone, iPad වලට Chrome හරහා ලැබුනු Lite Mode පහසුකම ඉවත් කිරීම ගැන තොරතුරුත් අපි ඔබට අරගෙන ආව –https://www.pcguide.lk/chrome-for-android-to-end-data-saver-mode/මේ නිසා Lite Mode භාවිතා කිරීමේදි වෙනම Google Compression Server එකක් හරහා Data ලැබෙන්නෙ නැහැ. මෙයට හේතුව මේ වනවිට Data වලට යන වියදම අඩුවීම සහ බොහෝ වෙබ් අඩවි Mobile වලට optimize කිරීම බවත් Google සමාගම පවසා තිබුන.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:32:05.232965",
+  "headline": "Chrome ශතකය වාර්ථා කරයි.",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "100",
+    "chrome",
+    "features",
+    "google"
+  ],
+  "url": "https://www.pcguide.lk/chrome-scores-100/",
+  "word_count": 297
+}

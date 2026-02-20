@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "පහුගිය සිකුරාදා ඉදන් ලෝකය පුරාවටම පැතිරුන wanacry, wannacrypt, cryme විදිහෙ නම් වලින් හදුන්වපු Computer ransom ware එකේ පැතිරීම දැනට නැවතිල තියෙනව. මේ පැතිරීම නවත්තන්න පුලුවන් උනේ අහම්බෙන් සොයාගත්ත විසදුමකින්.\n\nතමන්ගෙ රටේ රෝහල් ගණනක් Ransom ware attack එකකට ගොදුරු වෙලා කියල දැනගත්ත තවමත් 22වෙනි වියේ පසුවන UK වල පදිංචි Security resercher කෙනෙක් තමයි මේ ප්‍රතිකර්මය අහම්බෙන් හොයාගෙන තියෙන්නෙ. මේ Software එකේ Code එක විශ්ලේෂණය කරද්දි ඒකෙ තිබුන විදිහට පරිගණකයක් infect කරන්න කලින් කිසියම් වෙබ් ලිපිනයක් check කරන්න තමයි තිබිල තියෙන්නෙ. මේ ලිපිනය හොයාගන්න බැරි උනාම පරිගණකය infect වෙනව.\n\nhttps://twitter.com/MalwareTechBlog/status/863187104716685312\n\nඉතින් මේ පැතිරීම නවත්තන්න තියෙන Kill switch එක විදිහට මේක අදුනගත්ත malwaretech කරේ අදාල වෙබ් සයිට් එක සුලු මුදලක් දීල register කරන එකයි. මේ එක්කම Ransomware එක පැතිරෙන එක නැවතිලා කියල වාර්තා වෙනව. ඒ උනත් intenet එකට කෙලින්ම සම්බන්ධ වෙන්න බැරි ලොකු ආයතන වල තියෙන පරිගණක තාමත් අනතුරේ. මොකද infect වෙච්ච Computer එකක් තිබ්බොත් ඒකෙන් අනික් ඒවත් infect වෙද්දි internet එකට සම්බන්ධ වෙන්න බැරි උනාම කොහොමත් Virus එක වැඩ කරන නිසා.\n\nඒ වගේම තාම online line map එකේ පෙන්නන විදිහට ලෙඩ වෙන computer ගාන ඒ විදිහටම ඉහල යනව.\n\nමේකෙ ලා දුඹුරු පාටින් පෙන්නන අලුතෙන් infect වෙන පරිගණක ගණන අද (2017-5-14) වෙනිදත් අඩු වෙලා නැහැ.live map එක මෙතනින් බලන්න\n\nතාමත් update කරගන්න බැරි අයට මේකෙන් තාවකාලිකව ගැලවෙන්න මේ විදිහට අදාල service එක දැනට disable කරන්න පුලුවන්\n\n#WannaCry#ransomwareIf you can't patch, disable SMBv1 –Microsoft support:https://t.co/5hYgOfGzUGpic.twitter.com/dld06sYQDn\n\n— Patrick Coomans 🚀 (@patrickcoomans)May 13, 2017",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:53:58.460849",
+  "headline": "අහම්බෙන් හොයාගත්ත wannacry rasomware එකේ kill switch එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "attack",
+    "virus",
+    "wannacry",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/wannacry-ransomeware-killswitch-halts-wide-spread/",
+  "word_count": 228
+}

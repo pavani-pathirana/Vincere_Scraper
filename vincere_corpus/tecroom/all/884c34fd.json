@@ -1,0 +1,19 @@
+{
+  "author": "ByEditorFebruary 4, 20240122 Mins Read",
+  "body": "Google සමාගම විසින් search results වලින් ‘cached’ button එක ඉවත් කරන බව නිල වශයෙන් තහවුරු කර ඇත. මෙම විශේෂාංගය මඟින් Google විසින් අවසන් වරට visit කරන ලද සහ indexed කළ pages වල versions බැලීමට පරිශීලකයින්ට ඉඩ ලබා දී ඇති අතර page loading කරගැනීමට නොහැකි වූ විට විකල්පයක් ලෙස බොහෝ විට භාවිතා කරන ලදී.\n\nX (කලින් Twitter) හි post එකකට ප්‍රතිචාර වශයෙන්, Google Search liaison Danny Sullivan තහවුරු කළේ දේවල් බෙහෙවින් දියුණු වී ඇති නිසා search results වලින් විශේෂාංගය ඉවත් කර ඇති බවයි. කෙසේ වෙතත්, ක්‍රියාකාරීත්වය විශ්‍රාම යැවීමට හේතුව ඔහු සඳහන් කර නැත.\n\nදැන් සෑහෙන කාලයක සිට පවතින ‘cached’ button එක, කලින් සියලුම search results අසල දිස් වූ නමුත් පසුව ‘About This Result’ යන option යටතේ නැවත ස්ථානගත කරන ලදී. ඔබට web page එකක outdated version එකක් බැලීමට අවශ්‍ය නම් හෝ අක්‍රිය වූ (down) හෝ ක්‍රියා නොකරන website එකකට visit කිරීම⁣ට අවශ්‍ය නම් එය ප්‍රයෝජනවත් විය.\n\nHey, catching up. Yes, it's been removed. I know, it's sad. I'm sad too. It's one of our oldest features. But it was meant for helping people access pages when way back, you often couldn't depend on a page loading. These days, things have greatly improved. So, it was decided to…\n\nපරිශීලකයින්ට website එකක වලංගුභාවය පරීක්ෂා කිරීමට අවශ්‍ය නම් සහ SEO managers ලට ඔවුන්ගේ pages වල දෝෂ පරීක්ෂා කිරීමට අවශ්‍ය නම් මේ විශේෂාංගය ප්‍රයෝජනවත් විය. සමහරු geo-blocked websites වෙත access කිරීමට පවා cached button එක භාවිතා කළහ.\n\nSearch results වලින් cached button එක ඉවත් වී ඇති අතර, පරිශීලකයින්ට Google Search link එකට prefix එකක් ලෙස ‘cache:’ ලෙස එකතු කිරීමෙන් webpage එකක cached version එකට access කල හැක. කෙසේ වෙතත්, Google විසින් මේ විශේෂාංගය ඉක්මනින් ඉවත් කරන බව තහවුරු කර ඇත, නමුත් එය ඉවත් කරන්නේ කවදාද යන්න පිළිබඳව කිසිදු තොරතුරක් දැනට ප්‍රකාශ කර නැත.\n\nSource:Indian Express,9to5google",
+  "category": "all",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T20:13:19.019948",
+  "headline": "XpressJobs ශ්‍රී ලංකාවේ පළමු AI-බලගැන්වූ WhatsApp බඳවා ගැනීමේ සහයකයා දියත් කරයි",
+  "source": "tecroom",
+  "tags": [
+    "all",
+    "Cached",
+    "Google",
+    "Google Search",
+    "News",
+    "Sinhala News"
+  ],
+  "url": "https://tecroom.lk/google-search-will-no-longer-show-cached-web-pages/",
+  "word_count": 290
+}

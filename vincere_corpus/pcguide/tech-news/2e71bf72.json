@@ -1,0 +1,19 @@
+{
+  "author": "Kanishka Pathirana",
+  "body": "PART Iබලලම PART II බලන්න කියලා ඉල්ලා සිටිනවා.\n\nගොඩක් අය කියනවා PC එක Current බොනවා කියලා. ඒකට ගොඩක් වෙලාවට දොස් කියන්නෙ Graphic Card එකට. ඒත් ඇත්තටම ඒකේ වැරැද්ද Graphic card එකේමද කියලා පොඩ්ඩක් හිතල බලන්න වෙනවා.\n\nඔයා ළඟ තියෙනවා කියලා හිතමුකො Geforce GTX 660 Graphic card එකක් (ඒ GPU එක ගොඩක් අය ළඟ තියෙන නිසයි උදාහරණෙකට ගත්තෙ) ඒක ගන්නෙ 140 W (Peak power) Recommended PSU එක 450W. ඒකෙන් කියන්නෙ Graphic card එක 450W ගන්නවා කියන එක නෙවෙයි. එයාලා කියන්නෙ එයාලගෙ සම්මත පර්යේෂණ තත්වය යටතේ, ඒ කිව්වෙ ගොඩක් වෙලාවට GTX 660 එක වෙළඳපොළට ආපු කාලේ තිබ්බ Core i7‍ වගේ high end processor එකක්, 8 GB වගේ RAM එක්ක Peak Power (උපරිම බලයෙන් system එක වැඩ කරද්දි) ගන්න Power එක තමයි 450 W තමයි එයාලා Recommended PSU Wattage කියලා දාන්නෙ. (GTX 1080Ti එකවත් එච්චර Power එකක් ගන්නෙ නැහැ OC කලත්) ඒත් ඇත්තටම GTX 660 එක use කරන්නෙ 140-150W අතර ප්‍රමාණයක් (high stress test වලදි වුණත්) ඒත් current බොනවා කියලා කියන්න හේතුව තමයි Power supply එක efficient නැහැ.\n\nUnbranded හරි, Branded වුණාට Budget series PSU වල advertise කරලා තියෙන්නෙ Peak power මිසක්, continuous power එක (එක දිගට දෙන්න පුළුන් power එක) නෙවෙයි. 500W peak power එකක් දෙන්න පුළුවන් කියලා කියල තිබුණට Efficiency එක වගේ සාධක මත 200-250 W වගේ තමයි continues power එක. Voltage එකත් උස් පහත් වෙනවා. ඒක එහෙම වෙනවයි කියලා අපිට Monitor කරන්න විදිහක් සාමාන්‍ය PC එකක් Use කරන කෙනෙක් ළඟ නැහැ.\n\nහැබැයි හොඳ power supply එකක් කවදාවත් අඩුවට ගන්න බැහැ. හොඳ Power Supply එකක් බොහෝ විට රු. 20,000 කට වැඩි.\n\nඅනෙක් එක මොන මොන parts ඔයා 2ndHand ගත්තත් Power Supply එක Brand New ගන්න එක ඔයාගේ ඇඟට ගුණයි.\n\nඔයාලා හොඳ branded parts ගොඩාක් PC එකට තෝරගෙන අන්තිමට පොඩි ගානක් වෙන් කරනවා power Supply එකට. මීට පස්සෙ එහෙම නොකරන්න හිතා ගන්න. ඒක ඔයාගේ PC එකේ හදවත කියල කිව්වොත් නිවැරදියි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:49:08.507540",
+  "headline": "Power Supply Unit – PART II (පරිගණක බල සැපයුම් පද්ධතිය – 2 කොටස)",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "80 plus",
+    "computer",
+    "pcguidelk",
+    "Power Supply",
+    "psu"
+  ],
+  "url": "https://www.pcguide.lk/power-supply-unit-part-2/",
+  "word_count": 298
+}

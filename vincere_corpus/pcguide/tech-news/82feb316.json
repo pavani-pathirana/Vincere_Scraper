@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "intel 12thgen Alder Lake cpu වල තොරතුරු මේ වන විට නිකුත් වී තිබෙනවා.ඒ අනුව 12thgen සඳහා නැවතත් ඔවුන්ගේ cpu architecture එක වෙනස් කර ඇති අතර එය Golden cove core නම් (big.LITTLE architecture) ආකෘතියට නිපදවා ඇත.මෙය Apple M1 chip සඳහාද මූලික වුන ආකෘතිය වෙනවා.මෙහිදී small high-efficiency සහිත cores සහ big high-performance සහිත cores වල එකතුවක් ලෙස cpu නිර්මාණය වී තිබෙනවා.කුඩා කාර්යයන් සඳහා මෙහි small high-efficiency cores භාවිත කරන අතර Gaming,Editing විශාල කාර්යයන් සඳහා big high -performance යුත් cores භාවිත කරනවා.ඒ අනුව කලින් generation වලට වඩා 20% single-tjread performance වැඩි වීමක් 12thgen වල ලබාගත හැකි බව පැවසෙනවා.    (මෙයට පාදක කර ගෙන ඇත්තෙ Rocket lake ද Tiger Lake ද යන්න තහවුරු කර නොමැත.)\n\nඒ වගේම intel වල විශාල අඩුපාඩුවක් මඟහරවා ගනිමින් 12thgen cpu සඳහා 10nm lithography එකක් භාවිත කිරීමට intel සමාගම කටයුතු කරලා තිබෙනවා.එමෙන්ම PCI Express Gen 5 සහ Gen 4 සඳහා support කරන අතර DDR 5 හා DDR 4 සඳහා මෙන්ම mobile processors LPDDR 5 සහ LPDDR 4 සඳහාද support කරන බව සඳහන් වෙනවා.Desktop Processor dual-channel DDR 5 4800MHz දක්වා support කරන අතර DDR 4 3200MHz දක්වා support කරන බව සඳහන්.එහෙත් 4800MHz high-end motherboard වල පමණක් දැකගත හැකි වේ යැයි පැවසෙනවා.එමෙන්ම cpu socket type එකද වෙනස් වී ඇති අතර එය LGA1700 ලෙස හඳුන්වයි.මේ සදහා 600-series motherboards ද ඉදිරියේදී නිකුත් වීමට නියමිතයි.CPU එකේ හැඩයද තරමක් වෙනස් වී ඇති අතර ඒ සමඟම LGA115X සහ LGA1200 Socket සියලුම cooling solution මේ සඳහා යොදා ගත නොහැකි වෙනවා.\n\nමේ වසර අවසානයට පෙර intel 12thgen Alder Lake cpu නිකුත්කරන බව Intel සමාගම නිල වශෙයන් ප්‍රකාශ කර තිබෙන නමුත් එලෙස නිකුත් කරන්නේ desktop cpu ද mobile cpu ද යන්න තවමත් නිල වශයෙන් ප්‍රකාශ කර නෑ.කොහොම වුනත් 11thgen නිකුත් වෙලා මාස 9 ක් වැනි කෙටි කාලයකින් 12thgen නිකුත් වෙන නිසා 11thgen cpu එකක් ගන්න ඉන්වනන් දෙපාරක් හිතලා බලන්න වෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:41:34.871650",
+  "headline": "Apple M1 අඩි පාරේ යන intel 12th generation",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "12th gen",
+    "alder lake",
+    "apple",
+    "CPU",
+    "Intel"
+  ],
+  "url": "https://www.pcguide.lk/intel-alder-lake-design-leaked/",
+  "word_count": 289
+}

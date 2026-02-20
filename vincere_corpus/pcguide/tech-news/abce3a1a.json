@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "Galaxy S21 flagship smartphone එළිදක්වන්න දින කීපයක් ඉතිරිව තිබියදී Samsung සමාගම Exynos 2100 chip එක පිළිබඳ කරුණු ඉදිරිපත් කලා. ඔවුන් එය දකුණු කොරියානු දැවැන්තයාගේ නැවත පැමිණීම ලෙස සනිටුහන් කරමින් “Exynos is back” ලෙස නම් කර තිබුනා.\n\nSamsung සමාගම මෙලෙස සනිටුහන් කලේ තම Exynos Chips තුල AMD Graphics ස්ථාපනය කිරීමයි. AMD සමාගමේ video accelerators පිළිබඳ samsung සමාගම කල අත්හදාබැලීම් ගැන පසුගිය කාලයේ කතාබහක් ඇතිවුවද , පසුගියදා සමාගමේ වයාපාර කළමනාකරු AMD Graphics පදනම් කරගත් flagship එකක් නිපදවීම ගැන නිවේදනයක් නිකුත් කරන තෙක් ඒ ගැන නිල වාර්තාවක් පළවූයේ නැහැ.\n\nSamsung Exynos 2100 SOC එක එළිදක්වන දිනයක් තවමත් සදහන් නොවූවද Galaxy Z fold 3 සමගින් එය නිකුත් වනු ඇති බවට මේ වනවිට මත පලවී තිබෙනවා.මේ සමගම Samsung ආයතනකේ පලමු 5G integrated mobile chipset එක Exynos 2100 වනු ඇති. මෙම 5nm chip එක දැනට ඇති 7nm ඒවාට වඩා 20% අඩු බලයක් (power consumption) ලබාගන්නා අතර එහි performance 10% කින් වැඩිවී තිබෙනවා.\n\nදැනට Galaxy S21 series එක පළමුවෙන් මෙම Exynos 2100 chipset (Mali G78 GPU සමග) නිකුත් වෙන අතර ඉදිරියේදී AMD Graphics සමග නිකුත් වෙනු ඇති.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:43:51.592313",
+  "headline": "AMD Graphics සමගින් එන Samsung Exynos 2100",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "exynos",
+    "graphics",
+    "radeon",
+    "samsung",
+    "soc"
+  ],
+  "url": "https://www.pcguide.lk/samsung-exynos-2100-amd-graphics/",
+  "word_count": 170
+}

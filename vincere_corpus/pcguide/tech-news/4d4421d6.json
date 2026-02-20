@@ -1,0 +1,17 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "Microsoft Visual Studio Code කියන්නෙ දැනට තියන හොඳම code editor එකක්. ඒක සම්පූර්ණයෙන්ම free සහ open source, ඒ වගේම සියලුම desktop platforms වල වැඩ කරනව සහ VS Code සඳහා තියන විශාල extension library එක විවිධ වැඩ පහසු කරගන්න ඉතා වැදගත්. මේ සියලුම හේතු නිසා VS Code, ලෝකයේ programmers ල අතර ඉතා ජනප්‍රියයි. මෙච්චර කල් අපි කවුරුත් ආදරය කරපු VS code editor එක web app එකක් විදිහටත් හඳුන්වාදෙන්න මේ වෙද්දි Microsoft ආයතනය කටයුතු කරල තියනවා.\n\nමේ VS Code web app එකටvscode.devකියන link එකෙන් යන්න පුලුවන්. Web app එකෙත් පෙනුම desktop app එක වගේමයි. මේකෙදිත් ඔයාට extensions install කරන්න හැකියාව ලැබෙනව වගේම desktop app එකේදි යොදාගත්ත GitHub account එක හරි Microsoft account එකෙන් හරි sign in වෙලා desktop එකේ තිබ්බ settings sync කරගන්නත් පුලුවන්. මේකට remote repository එකකින් හෝ files upload කරල හෝ edit කිරීමට files එකතු කරගන්න හැකියාව තියනවා.\n\nමේක හඳුන්වාදීමේ blog post එකේදි VS Code development team එක කියල තියනව මේ විදිහට Web browser එකක් මත ක්‍රියාකරන සම්පූර්ණ code editor එකක් සංවර්ධනය කිරීමලු ඔවුන්ගෙ මුල්ම ඉලක්කය උනෙත්. විශේෂයෙන් මේ හේතුවෙන් desktop apps ක්‍රියාකරවන්න බැරි iPads සහ Android tablets වගේ පද්ධති වල පවා මේ විදිහට VS Code web app එකෙන් කිසිම ප්‍රශ්නයක් නැතුව වැඩ කරන්න පුලුවන්.\n\nDesktop app එකේ තියන සියලුම පහසුකම් තවම VS Code web app එකේ ක්‍රියාත්මක වෙන්නෙ නෑ. ඒකට ප්‍රධානම හේතුව තමයි desktop app එකට හදපු extensions බොහෝමයක් web app එකේ ක්‍රියාත්මක නොවීමයි. ඒව ඉදිරියට web app එකෙත් ක්‍රියාත්මක වෙන්න පුලුවන් විදිහට update වේවී. Microsoft ආයතනය ලේසියෙන්ම test කරන්න පුලුවන් themes පහසුකමත් මේ web app එකට ඇතුලත් කරල තියනවා. උදාහරණයක් විදිහටvscode.dev/theme/sdras.night-owlකියන link එකෙන් Night Owl theme එක install උන VS Code සංස්කරණයක් බලාගන්න පුලුවන්.\n\nMicrosoft ආයතනය මේ VS Code web app එකට ඉක්මනින්ම updates කිහිපයක්ම නිකුත් කරන්න සූදානම් වෙනවා. මේ web app එක, browser එකක් ක්‍රියාත්මක වෙන internet connection එකක් තියන ඕන device එකක ක්‍රියාත්මක කරන්න පුලුවන් තාවකාලික, වේගවත්, සම්පූර්ණ code editor එකක් බවට පත් කිරීම ඔවුන්ගෙ අරමුණ කියල මේකෙ developing team එක ප්‍රකාශ කරල තියනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:34:12.111274",
+  "headline": "Web browser එක මත Visual Studio Code.",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "coding",
+    "internet",
+    "software"
+  ],
+  "url": "https://www.pcguide.lk/visual-studio-code-on-web-browser/",
+  "word_count": 318
+}

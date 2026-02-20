@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "Linux කියන්නෙ මොකක්ද කියල අපි මීට කලින්ලිපියකින්කතා කරා. ඒ ලිපියෙදි පොරොන්දු උන විදිහට Linux Distro එකක් කියන්නෙ මොකක්ද කියල සාකච්චා කරන්නයි මේ ලිපියන් අපි සූදානම් වෙන්නේ. Linux Distributions කියන එක කෙටි කරල තමයි Linux Distro කියන එක හැදෙන්නෙ. සමහර අය හිතන් ඉන්නෙ Linux කියන්නෙ Ubuntu කියලයි. ඒත් ඇත්තටම හුඟක් වැරදියි. Ubuntu කියන්නෙත් Linux Distros රාශියක් අතරෙන් එකක් විතරයි.\n\nLinux ඇත්තටම Windows හරි Mac OS X හරි වගේ නෙවෙයි. Microsoft විසින් Windows හැම version එකක්ම හදන්නෙ තමන්ගෙ ආ‍යතනය ඇතුලෙ, ඒ වගේම Windows ලබා දෙන්නෙ එක package එකක් විදිහට. කාටහරි Windows තමන්ගෙ OS එක විදිහට තෝරගන්න අවශ්‍ය නම් එයාලට Microsoft විසින් නිකුත් කරපු version එකක් තෝරගන්නම වෙනවා.\n\nLinux ඒ අතින් ගොඩක් වෙනස්, Linux සංවර්ධනය වෙන්නෙ එක ආයතනයක් හෝ පුද්ගලයෙක් මගින් නෙවෙයි. විව්ධ පුද්ගලයන් සහ විවිධ සංවිධාන රාශියක් Linux වල විවිධ කොටස් සංවර්ධනය කරනවා. ඒ අතර Linux kernel එක (මෙහෙයුම් පද්ධතියෙ මූලිකම කොටස), GNU shell utilities (Linux මත භාවිතා වෙන Terminal interface එක සහ commands), X server එක (graphical desktop එක සාදන කොටස), desktop environment එක (X server එක මත run වෙලා graphical UI එක සපයන කොටස) සහ තවත් කොටස් ඇතුලත් වෙනවා. System services, graphical programs සහ terminal commands වගේ ගොඩක් දේවල් එකිනෙකට නිදහස්ව තමයි සංවර්ධනය වෙන්නෙ. නිදහස් කේත ම්ෘදුකාංග යටතෙ ඒ ඔක්කොමගෙම source codes ඕන කෙනෙක්ට බලන්න සහ පාවිච්චි කරන්න පුලුවන්.\n\nඔයාලට අවශ්‍යනම් Linux kernel එක, GNU shell utilities, X server සහ අනෙකුත් Linux පද්ධතියෙ program වල source codes ඇරන් තමන්ටම OS එකක් එකලස් කරගන්න පුලුවන්. කොහොම උනත් මේ ඔක්කොම software compile වෙන්න ලොකු වෙලාවක් යනවා. ඒ විතරක් නෙවේ විවිධ programs හරියට වැඩ කරන්න හදා ගන්නත් කට්ටක් කන්න ඕනා.\n\nමේ අමාරු කාර්‍යය Linux Distributions විසින් ඔයාලට කරල දෙනවා. එක එක තැන් වල තියන codes ඇරගෙන compile කරල සම්පූර්ණ OS එකක් විදිහට ලබාදෙන්න මේ Linux Distros වලට පුලුවන්. මීට අමතරව default desktop environment එක, browser එක වගේ software එහෙමත් මේ OS එකත් එක්ක එකතු කරල ලබාදෙන්න මේ Distros වලට හැකියාව තියනවා. හුඟක් Linux Distros තමන්ට ආවේණික themes සහ custom software වගේ දේවලුත් එකතු කරල තියනවා.\n\nමේ Linux Distros වලදි අලුතෙන් software එකක් install කරන්න හරි software එකක් update කරන්න හරි අවශ්‍යනම් ඒ Distro එක ඒ දේ ලේසියෙන් කරන්න පුලුවන් package manager එකක් ලබා දෙනවා. ඒ මගින් compile කරපු package ලේසියෙන් සහ ඉක්මනින් install කරන්න, update කරන්න සහ remove කරන්න පුලුවන්. මේක Linux වල තියෙන සුවිශේෂී වාසියක්.\n\nLinux Distros විශාල සංඛ්‍යාවක් තියනවා, ඒ වගේම ඒව සංවධනය වෙලා තියෙන්නෙ විවිධ දර්ශනයන්ට අනුව. උදාහරණයක් කීවොත් Fedora කියන Distro එකේ closed-source software ඒ කියන්නෙ code එක නිදහස් ලෙස පාවිච්චි කරන්න බැරි software ඇතුලත් වෙන්නෙ නෑ. ඒ අතර Mint කියන Distro එක users ලට පහසුවක් එක් කිරීම සඳහා closed-source software ඇතුලත් කරල තියනවා. Ubuntu තමන්ම සංවර්ධනය කරපු Unity desktop environment එක පාවිච්චි කරත් Ubuntu මත සංවර්ධනය කරපු වෙනත් Distros වෙනස් desktop environments පාවිච්චි කරල තියනවා.\n\nවිවිධ Linux Distros වෙනස් වෙනස් package managers, configuration utilities, සහ software පාවිච්චි කරනවා. සමහර Distros අලුතෙන්ම එන software පාවිච්චි කරත් ලොකු කාලයක් support කරන්නෙ නෑ, ඒ අතර Ubuntu LTS සහ Red Hat Enterprise Linux වගේ Distros හදල තියෙන්න අවුරුදු ගාණකට support එක, security updates සහ bug fixes ලැබෙන විදිහට. තවත් සමහර Distros හදල තියෙන්නෙ desktop computers මත ක්‍රියා කරන්න, ඒ අතර graphical interface එකක් නැති සමහර Distros තියනව servers මත ක්‍රියා කරන, මේවට අමතරව home theater වල වගේ විශේෂ අවස්ථාවල ක්‍රියා කරන්නත් Distros සංවර්ධනය කරල තියනවා.\n\nLinux Distros කොච්චර තියනවද කියල දළ අදහසක් ගන්නමේ පින්තූරයබලන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:37:37.736502",
+  "headline": "Linux Distro එකක් කියන්නෙ මොකක්ද?",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "distro",
+    "linux",
+    "news",
+    "operating system",
+    "OS"
+  ],
+  "url": "https://www.pcguide.lk/linux-distors-explained/",
+  "word_count": 542
+}

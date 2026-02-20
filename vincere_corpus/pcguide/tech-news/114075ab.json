@@ -1,0 +1,11 @@
+{
+  "author": "Kavishka Dulshan",
+  "body": "Windows සදහා නිකුත් කරපු iTunes නවත්තල ඒ වෙනුවට applications ටිකක් Apple සමාගම විසින් 2024 පෙබරවාරි 8 වෙනිදා නිල වශයෙන් නිකුත් කරා. iPhone එකක් හෝ Apple Device එකක් පාවිච්චි කරද්දි ඒක Sync කරගන්න backup කරන්න වගේම QuickTime Codecs පාවිච්චි කරන්නත් බොහෝ දෙනා iTunes Windows වලදි පාවිච්චි කරා.\n\nWindows 10 සහ Windows 11 මත iTunes මගින් සිදුකරන වැඩ මේ අළුත් Separate Apps වලින් කරගන්න පුළුවන්. ඒ වගේම අවශ්‍ය අයට අවශ්‍ය App එක විතරක් මේ හරහා ලබාගැනීම නිසා HDD Space එක වගේම System resources ඉතිරි කරගන්නත් පුළුවන්. මේ තියෙන්නේ අලුත් applications ගැන පොඩි හැදින්වීමක්.\n\nApple Music application එක මගින් පරිශීලකයන්ට Apple සමාගමේ streaming music library එකට අදාල සේවාවන් සපයනු ලබනවා. iTunes එකේ තියෙන ඔයාගේ local music library මේකට import කරලා play කරන්නත් හැකියාව මේකෙන් ලබලදීල තියෙනවා.\n\nApple TV application එක movies සහ TV Shows ඇතුළුව Apple සමාගමේ streaming video library එකට අදාල සේවාවන් සපයනු ලබනවා. Apple Music application එක වගේම මේකෙත්, iTunes වලින් මේකට ඔයාගෙ local video library import කරලා play කරන්නත් හැකියාව ලබලදීල තියෙනවා\n\nApple Devices application එක ඔයාගේ iPhone හෝ iPad කළමනාකරණය සඳහා ප්‍රයෝජනවත් වෙනවා. ඔයාට ඔයාගේ iPhone හෝ iPad එක PC එකට backup කරන්න restore කරන්න වගේ දේවල් මේකෙන් කරගන්න පුළුවන්. ඒවගේම සීමිත ඉඩක් තියෙන Devices update කරගන්නත් පුළුවන්.\n\nමේ අලුත් applications වලින් iTunes වල ගොඩක් දේවල් replace උනත් තාමත් podcasts සහ audiobooks වගේ දේවල් කළමනාකරණය කිරීමට භාවිතා කරන්න පුළුවන්. MacOS සහ iOS වෙතින් Podcasts හෝ Books වලට තාමත් වෙනම Windows applications නිකුත් කරනවා කියලා තීරණය කරලා නැහැ. මේ අලුත් applications, Apple services වලට ආස Windows පරිශීලකයන්ට හොඳ අත්දැකීමක් වෙයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:58:29.901035",
+  "headline": "ආයුබෝවන් iTunes",
+  "source": "pcguide",
+  "url": "https://www.pcguide.lk/apple-ditches-itunes-for-pc/",
+  "word_count": 250
+}

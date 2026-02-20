@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Android දුරකතන වල දැන් තිබෙන Gemini AI assistant ට වඩා කලින් තිබුනු Google Assistant වැඩසටහන වඩාත් කාර්යක්ශමයි. Gemini මගින් කරගන්න අපහසු කාර්යයන් රැසක්ම අපට Google Assistant මගින් කරගැනීම පහසු උනා. විශේෂයෙන් third-party apps සමග එනම් Messages සහ Whatsapp සමග හොදින්ම වැඩ කලේ Google Assistant වැඩසටහනයි.\n\nදැන් Google සමාගම Android දුරකතන වල Default AI assistant වැඩසටහන ලෙස Gemini යොදා තිබෙන නිසා එයත් Google assistant වැඩසටහනට වඩා කාර්යක්ෂම වෙන්න විවිධ විශේෂාංග එක්කරමින් සිටිනවා.\n\nඅලුත්ම අප්ඩේට් එකකින් Google සමාගම Gemini වෙත අලුත් extension තුනක් එක්කර තිබෙනවා. ඒ WhatsApp, Messages සහ Android Notification ලෙසයි. මෙය එක්කර කර තිබෙන්නෙ අලුත්ම Google app beta version 15.34.32.29.arm64 සංස්කරණය සමගයි. ඔබත් Google app beta version එකක් බාවිතා කරනවානන් දැන් ඔබට Gemini extension වෙත ගොස් මේවා සක්‍රීය කරගන්න පුලුවන්.\n\nමෙහි WhatsApp extension එකෙන් ඔබට message යැවීමට, Gemini මගින්ම WhatsApp කෝල් ගැනීමටත් පුලුවන්. ඒවගේම Messages extension එකෙන් ඔබට පැමිනෙන messages, read loud පහසුකම යටතේ කියවගන්නත් පුලුවන්.\n\nඒවගේම Android notification extension එකෙන් ඔබට system notification කියවීමටත් ඒවා සාරාංශගත කරගැනීමටත් පුලුවන්. මෙම extensions දැනට සක්‍රීය කරගත හැකි උනත් තවමත් මේවා නිසියාකාරව ක්‍රියාත්මක වෙන්නෙ නැහැ. පසුව අප්ඩේට් එකකින් මෙහි ස්තාවර සංස්කරණය Google සමාගමෙන් නිකුත් කරනු ඇත.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:48:52.755131",
+  "headline": "ඉදිරියෙදි WhatsApp සහ Messages සදහාත් භාවිතා කලහැකි Gemini",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "android",
+    "gemini",
+    "google",
+    "google assistant"
+  ],
+  "url": "https://www.pcguide.lk/google-gemini-whatsapp-and-messages-extensions/",
+  "word_count": 183
+}

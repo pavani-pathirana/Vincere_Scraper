@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "WhatsApp කියන්නේ අපි හැමෝම වැඩියෙන්ම බාවිතා කරන app එකක්. chat, call වගේ හැමදේටම භාවිතා වෙන WhatsApp එක, දැන් කතා කරන විතරක් නෙවෙයි, ඔයාගේ document scan කරලා share කරන්නත් පුළුවන් tool එකක් වෙලා තියනවා.\n\nඔව්, නවතම beta version එකකින් හඳුන්වා දීලා තියනවා “Scan Document” කියන feature එක. මේකෙන් ඔයාට WhatsApp camera එකෙන්ම ලියකියවිලි scan කරලා, ඒවාව PDF එකක් විදිහට convert කරලා, ඉක්මනටම යවන්න පුළුවන්. ආයෙත් අපිට CamScanner වගේ වෙනම app එකක් අවශ්‍ය වෙන්නෙ නැහැ.\n\nඔයා ඔයාගේ ලිපියක්, පරීක්ෂණයකට යවන්න ඕන form එකක්, හෝ තමන්ගේ certificate එකක් share කරන්න ඕන වෙද්දී මේ විදියට දැන් scan කරල යවන්න පුලුවන්. මේකෙදි ඔයාලට camera එක open කරල scan කරනකොට, ඒක automatically border detect කරනවා. crop කරලා, lighting හදාගෙන, ඒක PDF එකක් විදිහට save කරලා attach කරලත් දෙනවා.\n\nScan කරන්න app එකක්, edit කරන්න app එකක්, convert කරන්න තවත් app එකක් කලින් ඕනෙ උනත් මින් ඉදිරියට එහෙම වෙන්නෙ නැහැ. WhatsApp එකේ මෙය integrate වෙනකොට, අනිත් ඔක්කොම අතහැරලා කෙලින්ම එකම click එකෙන් වැඩේ කරගන්න පුලුවන් කියන්නේ productivity boost එකක්.\n\nදැනට මේ feature එකiOS betaversion එකක් විදියට පමණයි තියෙන්නෙ. Android වලටත් ලඟදීම එන්න තියෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:38:32.561541",
+  "headline": "Document Scan පහසුකම ළගදීම WhatsApp වලින්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chat",
+    "messaging",
+    "meta",
+    "new feature",
+    "update"
+  ],
+  "url": "https://www.pcguide.lk/new-document-scan-feature-in-whatsapp/",
+  "word_count": 176
+}

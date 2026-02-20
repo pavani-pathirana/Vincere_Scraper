@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "අළුත්ම update එකෙන් පස්සෙ Windows 10 වලින් කවුරුත් බලාපොරොත්තු නොවෙන වැඩක් සිද්ද වෙන්න පටන් අරන්. ඒ තමයි Desktop එකේ තියෙන Files Automatically Delete වෙන එක.\n\nWindows 10 KB4532693 කියන update එකෙන් පස්සෙ තමයි සමහර system වලට මේක වෙන්න පටන් අරන් තියෙනව කියල ආරංචි වෙන්නෙ. Desktop එකේ තියෙන Shortcuts සහ Saved files / Start menu එක Reset වෙලා සම්පූර්ණයෙන්ම අලුත් Desktop එකක් බවට පත්වෙන එක තමයි මේ bug එක.\n\nමෙතනදි වෙන්නෙ Windows වලින් Temporary user profile එකක් හදන එක කියල තමයි microsoft සමාගම කියන්නෙ. කොහොම වෙතත් මේ ගැටළුව ඔයාටත් ඇවිල්ල නම් තියෙන්නෙ පහත පියවර අනුගමනය කරල මේක දැනට හදාගන්න පුළුවන්.\n\nSettings -> Update and Security -> Windows Update -> Updatae History -> Uninstall updatesමෙතනින් KB4532693 කියන update එක uninstall කරන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:47:24.281349",
+  "headline": "File Delete කරන Windows",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "deletes",
+    "files",
+    "news",
+    "newsletter",
+    "pcguidelk"
+  ],
+  "url": "https://www.pcguide.lk/windows-update-delete-files/",
+  "word_count": 119
+}

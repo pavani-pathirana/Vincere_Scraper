@@ -1,0 +1,19 @@
+{
+  "author": "Minidu Shashimal Aluthge",
+  "body": "BITCHAT කියන්නේ Twitter නිර්මාතෘ Jack Dorsey විසින් හදුන්වා දීපු, විශේෂ Chat App එකක්. එහිදී භාවිතා වනුයේ Bluetooth Low Energy(BEL) mesh network එකක් සහ අනෙකුත් සාම්ප්‍රදායික chat app භාවිතා කරනු ලබන මධ්‍ය සේවාදායකද(central servers) මෙහි අඩංගු නොවේ.  ඒ කියන්නෙ, අන්තර්ජාලය ක්‍රියා විරහිත වූ විට හෝ අවහිර වූ විට පවා ඔබට දිගටම සම්බන්ධව සිටිය හැකියි.එමෙන්ම මෙම යෙදුම අඩු Battrey Power එකකින් ක්‍රියාත්මක වන බවද වැඩිදුරටත් සදහන් වේ.\n\nමෙහි සාමාන්‍ය Messages පැය 12කට පසු Auto delete වන ලෙස සකස් කර තිබෙන බවද වාර්තා වේ නමුත් Favourite ලෙස Add කරපු Messages Store වෙලා තියනවා. ඒ වගේම මෙහි Chat Rooms Option එකක් include වෙලා තියෙනවා ඒ chat rooms වලට Password එකක් යෙදීමටද හැකියාව තිබෙනවා සහ විශේෂම දෙයක් තමයි මෙය open source app එකක් නිසා මේ App එකට අදාල Github Repository එක Clone කරගෙන ඔයාට අවශ්‍ය විදිහට හදාගන්නත් පුලුවන් ඒකට අදාල Link එක පහලින් දාන්නම්.\n\niPhone පරිශීලකයින්ට beta app එකක් ආකාරයෙන් මේ යෙදුම දැනටමත් හඳුන්වා දීලා තියෙනවා. මේ යෙදුම හඳුන්වා දීලා ඉතා කෙටි කාලයකින් පරිශීලකයින් 10,000 ක් සම්පූර්ණ වෙලා තියෙනවා. දුරකථන අංකයක් හෝ email එකක් අවශ්‍ය නැ,  එක පණිවිඩයක්වත් කිසිම server එකක ගබඩා කර ගන්නෙ නැහැ, ඒ නිසා මේක සම්පුර්ණයෙන්ම පෞද්ගලිකත්වය රැකෙන විදිහට හදලා තියෙනවා. මේ යෙදුම ගැණ ඔයාලගේ අදහස පහලින් comment කරගෙන යන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:37:30.323235",
+  "headline": "Internet නැතුව Chat කරමු !",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "app",
+    "messaging",
+    "new release",
+    "news",
+    "tech news"
+  ],
+  "url": "https://www.pcguide.lk/chat-without-internet-using-bitchat/",
+  "word_count": 198
+}

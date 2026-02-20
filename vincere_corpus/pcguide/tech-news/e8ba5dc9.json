@@ -1,0 +1,18 @@
+{
+  "author": "Malaka Madhubhashana",
+  "body": "Vibe Coding කියන්නෙ නැගි එන programming style එකක් වන අතර එහිදි developer large language model එකක්(like Chatgpt, copilot, etc) use කරල code generate, refine සහ implement වගෙ වැඩ කරගන්නවා. code line by line ලියනවා වෙනුවට programmer ඔහුගෙ අවශ්‍යතාවය විස්තර කරන අතර AI විසින් එය functional code එකක් බවට translate කරනවා.\n\nDevelopers ලට vibe coding වැදගත් වෙන්නෙ ඇයි?\n\nVibe Coding සදහා භාවිත කරන්න පුලුවන් tools.\n\nVibe Coding සදහා Real World Example එකක්.\n\nIndie Game developer කෙනෙක් වෙන Alex Finn, Call of duty වගෙ ගේම් එකක් හදලා තියනවා විනාඩි 87කින් AI tools පාවිච්චි කරලා. ඒ achievement එක vibe coding වල efficiency and creativity වලට හොද උදාහරනයක්. Finn සරලව එයාගෙ requirement එක AI model එකට දුන්නම AI model එක, ඒක executable code එකකට translate කරනවා. මේ game එක 500 beta signups ලබාගෙන ඇති අතර එය social media වල ගොඩක් viral වෙලා තියනවා. Elon musk ගෙ අවදානයට පවා ලක් වෙලා තියනවා.\n\nVibe coding පටන්ගන්නෙ කොහොමද ?.\n\neg :“Build a to-do list app with a minimalistic design. Users should be able to add, edit, and delete tasks. Include a feature to mark tasks as complete.”\n\nAI code එක generate කරාට පස්සෙ code එකෙ accuracy එක review කරන්න. සමහර විට අවශ්‍යතාවයට ගැලපෙන පරිදි code එක වෙනස් කරන්න සිදුවෙයි.\n\nGenerate කරගත්තු code එක development environment එකෙ run කරල බලන්න bugs and errors check කරන්න.\n\nඔයා team එකක් විදිහට වැඩ කරන කෙනෙක් නම් vibe coding ඔයගෙ collaboration එක පහසු කරාවි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:40:20.801369",
+  "headline": "මොකක්ද මේ Vibe Coding කියන්නෙ ?",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "coding",
+    "game design",
+    "game development",
+    "programming"
+  ],
+  "url": "https://www.pcguide.lk/what-is-vibe-coding/",
+  "word_count": 232
+}

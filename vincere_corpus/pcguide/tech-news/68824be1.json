@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Qualcomm Snapdragon SOC එකේ දුර්වලතාවයක් නිසා Android Phones මිලියන ගණනක ආරක්ෂාවට තර්ජන එල්ලවෙලා.\n\nඅපි කවුරුත් Smart Phone එකක් ගද්දි ඒකෙ Hardware Specifications ගැන හොයනව. මේ Hardware Spec එකේ උඩින්ම තියෙන දෙයක් තමයි CPU එක එහෙමත් නැත්නම් SOC – System on a Chip කියන Smart Phone එකේ සම්පූර්ණ Processing ක්‍රියාවලියට දායක වන කොටස.\n\nQualcomm කියන්නෙ මේ SOC නිෂ්පාදනයේ ඉහලින්ම තියෙන නමක් සහ සාමානයෙන් Smart Phone එකක තියෙන Premium දෙයක් බවටත් සලකන්න බොහෝ දෙනෙක් පුරුදු වෙලා තියෙනව. මේකට හේතුව හොද Power Efficiency එකක් සහ ගොඩක් හොද Performance එකක් මේ Qualcomm Snapdragon Chipset වලින් ලබාදීමයි.\n\nනමුත් මේ Snapdragon Chip-set වල තිබෙන DSP – Digital Signal processors වල ඇති දුර්වලතාවයක් සොයාගන්න Check point Security Researchers ලට හැකි වෙලා තියෙනව. අකීලිස් (Achilles) ලෙස නම් කර ඇති මේ දුර්වලතාවය උපයෝගී කරගෙන නොහෙකුත් ආකාරයේ Attacks 400ක් පමණ එල්ල කරන්න හැකියාව පවතින බවට මත පලවීමත් සමග Snapdragon SOC තිබෙන Android Phones මිලියණ ගණනක් භාවිතා කරන පරිශීලකයන්ගෙ රහස්‍යභාවය තර්ජනයට ලක්වෙලා.\n\nමේ දුර්වලතාවය ගැන තොරතුරු Qualcomm සමාගමට ලබාදීමෙන් පසුව එයට Security Fix නිර්මාණය කල හැකි උනත් ඒවා Smart Phone වෙත ලබාදීම සදහා Samsung, LG, Nokia Xiaomi වැනි සමාගම් විශාල ප්‍රමාණයක් හරහා Updates ලෙස ලබාදීම හෝ Android OS හරහා එකවර ලබාදීම සදහා මේ වනවිටත් සාකඡ්චා කරන බව Qualcomm සමාගම පවසනවා.\n\nAndroid Phones වල ඇති Google Mobile Services අයිති වන Google සමාගම තවමත් මෙයට ප්‍රතිචාරයක් දක්වා නැහැ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:46:03.961539",
+  "headline": "SnapDragon නිසා අනතුරේ වැටුන Android Phones!",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "achilles",
+    "android",
+    "CPU",
+    "DSP",
+    "qualcomm"
+  ],
+  "url": "https://www.pcguide.lk/snapdragon-dsp-issue-causing-risk-for-android-phones/",
+  "word_count": 215
+}

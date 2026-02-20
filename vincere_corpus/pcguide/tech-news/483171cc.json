@@ -1,0 +1,19 @@
+{
+  "author": "Nadun nethmalaka herath",
+  "body": "Control panel කියන්නේ windows වල මුල් කාලයේ සිටම විවිධ සැකසුම් සිදු කිරීමට අදටත් අප කවුරුත් භාවිතා කරන යෙදුමකි. නමුත් 2013 නිකුත් වූ windows 8 තුළින් පළමු වරට settings යෙදුම පරිශීලකයන්ට හදුන්වාදුණි. මෙම Settings යෙදුම භාවිතයෙන් පෙර Control Panel මගින් සිදු කල කටයුතු යම් ප්‍රමාණයකට සිදු කර ගැනීමට හැකියාව තිබුණි. නමුත් මේ සදහා පරිශීලකයන් වැඩි උනන්දුවක් නොදැක්විනි. ඉන්පසූව 2015 නිකුත් වූ Windows 10 මෙහෙයුම් පද්ධතිය තුල දී Control panel හි තිබූ සැකසුම් කිහිපයක් ම Control panel තුලින් settings යෙදුම වෙතට මාරු වූ නිසා පරිශීලකයන් ට Windows හි බොහෝ සැකසුම් සිදු කිරීමට මෙම Settings යෙදුම භාවිතා කිරීමට සිදුවුණි.\n\nතවද දැනට තිබෙන windows 11 , 10 හි බොහෝ ඇප් අතුරු මුහුණත් , Transparency effect සහ dark mode සදහා සහය දක්වන නමුත් තවමත් control panel තුලට ඒවා අන්තර්ගත කර නොමැත. control panel හි අතුරු මුහුණත ද තවමත් windows 7 , windows 8 හි තිබූ අතුරු මුහුනත ම වන අතර එම අතුරු මුහුණතේ වෙනසක් සිදුවී නොමැත. නමුත් windows 8 හි සිට Windows 11 දක්වා පැමිණෙන විට control panel හි ඇති සැකසුම් ක්‍රමයෙන් ඉවත්ව ගොස් තිබෙනු දැකගැනීමට හැකි වන අතර ඒවා settings යෙදුම වෙතට ප්‍රතිස්ථාපනය වී ඇත.\n\nඉහත කරුණු වල සාරාංශය ලෙස අපට දක්නට ලැබෙන්නේ Control Panel තුල තිබූ බොහෝ සැකසුම් මේ වන විට Windows Settings තුලට පැමිණ තිබීමත් , Control Panel හි අතුරු මුහුණත තවමත් පැරණි ආකාරයට තිබීමත් ,Windows 7 , Windows 8 හි Control Panel සමග සසදන විට අද තිබෙන Control Panel මගින් සිදු කල හැකි සැකසුම් ප්‍රමාණය සීමිත වීමත් යන කරුණු වේ. මේ කරුණු දෙස බැලූ විට වැටහෙන්නේ ඉදිරි Windows යාවත්කාලීනයක් හෝ ඊලගට පැමිණෙන මෙහෙයුම් පද්ධතියක් තුලින් මෙම control panel ඉවත් කිරීමට වැඩි ප්‍රවණතාවක් ඇති බවයි.බොහෝ විට ඊලගට නිකුත් වීමට නියමිත Windows 12 තුලින් මෙම Control Panel යෙදුම අපට දැකගැනීමට නොහැකි වේවී🥲. ඔබේ අදහසත් බලාපොරොත්තු වේ😊.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:45:42.420723",
+  "headline": "Control Panel Windows තුලින් ඉවත්වෙයි ද ?",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "news",
+    "update",
+    "windows",
+    "windows 11",
+    "windows 12"
+  ],
+  "url": "https://www.pcguide.lk/will-control-panel-replaced-by-windows-settings/",
+  "word_count": 283
+}

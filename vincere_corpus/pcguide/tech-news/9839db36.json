@@ -1,0 +1,19 @@
+{
+  "author": "Malaka Madhubhashana",
+  "body": "ලෝකය පුරා AI, අපේ ලියන වැඩ, කේතන ලිවීම, නිර්මාණය සහ ව්‍යාපාරික ක්‍රියාවලියන් සඳහා සහාය වන්නේ විශාල වේගයකින්ය. මෙවැනි වාසියක් උපරිම ලෙස ලබා ගැනීමට, අපිට මේ සංකීර්ණ බුද්ධිමත් පද්ධති සමඟ නිවැරදිව සන්නිවේදනය කළ යුතුය. ඒ සඳහාම අවශ්‍ය වෙන්නේ prompt engineering නම් කලාවයි.\n\nChatGPT, Claude, Gemini වැනි LLM (Large Language Models) සමඟ වැඩ කරන විට, ඔබේ ප්‍රශ්න නිවැරදිව, තොරතුරුමය ලෙස, සහ ආරක්ෂිත ලෙස සැලසුම් කරන්නේ නම්, ඒවා උත්තර ගැළපෙන ආකාරයට ලබාදෙනු ඇත. ඉතින් මේක ඉගෙන ගන්න වටිනාකමක් තියෙන විෂයයක්.\n\nPrompt engineering කියන්නේ AI model එක නිරීක්ෂණයකින් සාර්ථකව මග පෙන්වන්න උචිත, පැහැදිලි, සහ රචනාත්මක ආකාරයකින් prompt (උපදෙස්) ලියන ක්‍රමවේදයකි.\n\nඇත්තටම, ඔබ ඉතාමත් බුද්ධිමත් අයෙකුට උපදෙස් දෙනවා කියලා හිතන්න නමුත් ඔබ දෙන උපදෙස් පැහැදිලි නැත්නම්, ඔහු විසින් කරන්නේ වෙනස් දෙයක්.\n\nඑය වැඩිම ප්‍රයෝජනයක් දෙන විෂය ක්ෂේත්‍ර:\n\n“Summarize this article in two paragraphs.”\n\n“Solve this math problem step by step…”\n\n“You are a senior React developer. Explain how to optimize a component.”\n\n“First, define the goal of the app. Then describe the UI. Finally, write the backend logic.”",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:39:45.160067",
+  "headline": "මොකක්ද මේ Prompt Engineering කියන්නෙ ?",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "artificial intelligence",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "gemini"
+  ],
+  "url": "https://www.pcguide.lk/what-is-prompt-engineering/",
+  "word_count": 163
+}

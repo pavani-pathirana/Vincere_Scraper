@@ -1,0 +1,17 @@
+{
+  "author": "Dilan Siriwardhana",
+  "body": "Google සමාගම මගින් OpenAI සමාගමේ Sora වීඩියෝ යෙදවුමට අභියෝග කරමින් ඔවුන්ගේ නවතම Text to Video generate කිරීමේ හැකියාව සහිත Google Veo යෙදවුම එළිදක්වා තිබේ.\n\nමෙමගින් මිනිත්තුවකට වඩා වැඩි කාලයක් පුරා දිවෙන 1080p resolution සහිත වඩාත් තාත්වික වීඩියෝ නිර්මාණය කිරීමේ හැකියාව පවතින බව Google සමාගම පවසයි. එසේම මෙයට මුලින් වීඩියෝවක් input කර ඉන්පසු අපට Prompts ලබා දෙමින් අපට අවශ්‍ය ආකාරයට එම වීඩියෝව සංස්කරණය කරගැනීමේ හැකියාවද පවතී.\n\nඑසේම මෙයට ඡායාරූපයක් සමඟ Text Prompts ලබාදෙමින් එම ඡායාරූපය භාවිතා කරමින් අප ලබාදෙන Text Prompts වලට අනුව වීඩියෝ නිර්මාණය කිරීමටද හැකියාව පවතී.Google සමාගම පවසන ආකාරයට මෙය ඔවුන්ගේ වසර ගණනාවක Generative Query Network (GQN), DVD-GAN, Imagen-Video, Phenaki, WALT, VideoPoet හා Lumiere ආදී කෘත්‍රිම බුද්ධිය පදනම් කරගත් පර්‍යේෂන ගණනාවක ප්‍රතිඵලයක් වන අතර මෙය ලඟදීම VideoFX හරහා පරිශීලකයන්ට අත්හදා බැලීමට ලබාදීමට නියමිතය.\n\nඑසේම Google සමාගම පවසන ආකාරයට ඔවුන් මෙම යෙදවුම වඩාත් ආරක්ෂිත සහ වගකීම් සහගත ලෙස හඳුන්වා දෙනු ලබන අතර මෙය ඔවුන්ගේ SynthID නම් යෙදවුම හරහා Watermark කිරීම සිදුකරනු ලබයි. එසේම මෙය තුළ Safety filters ගණනාවක් අන්තර්ගත කර ඇති බවද පැවසේ.\n\nමෙම යෙදවුම මගින් නිර්මාණය කළ වීඩියෝ නැරඹීමට පහත Link එක හරහා පිවිසෙන්න.\n\n#GoogleVeo #texttovideo #sora #GoogleIO #OpenAI #Lumiere #google",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:55:19.395745",
+  "headline": "OpenAI Sora ට අභියෝග කරන Google Veo",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "google",
+    "video"
+  ],
+  "url": "https://www.pcguide.lk/google-veo-new-tool-challenging-sora-ai/",
+  "word_count": 182
+}

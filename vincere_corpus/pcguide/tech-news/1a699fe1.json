@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Laptop / Desktop එකත් එක්ක හැමදාම වැඩකරන කෙනෙක් නම් බොහෝවිට දවස අවසානයේ ඔයා මේක Shutdown කරනව වෙන්න පුළුවන්. හැබැයි පැය කීපයකට Shutdown වෙන PC එක නැවතත් On වෙනවත් එක්කම හැමදාම Open කරන Apps සහ Folders හැම දෙයක්ම නැවතත් විවෘත කරන්න වෙනව.\n\nමේ විදිහට නිදාගන්න වෙලාවට විතරක් – නැත්නම් PC එකෙන් ඉවත්වෙලා ඉන්න පැය කීපයකට විතරක් වැඩ කරපු දේවල් ඒ විදිහටම තියාගෙන PC එක power OFF කරන්න පහසුකම් දෙන option එකක් තමයි Hibernate කියන්නෙ.\n\nWindows වල තිබෙන Power Option එකක් තමයි Hibernate නැත්නම් ශිශිරණය කියන්නෙ. මේ හරහා සිද්ද වෙන්නෙ පරිගණකය වැඩ කරමින් පවතින වෙලාවෙ RAM – Random Access Memory එකේ තියෙන දත්ත HDD එකට Save කිරීම. මේ හරහා අපට PC එක සම්පූර්ණයෙන්ම OFF කරන්න පුළුවන්. ඒ වගේම ආයෙත් PC එක On කලාම අපි කරපු වැඩ වල සිට හැම දෙයක්ම පටන් ගන්න පුළුවන්.\n\nWindows 10 වලදි Hibernate Option එක සාමාන්‍ය ලෙස පෙන්වෙන්නෙ නැති උනත් එය පහසුවෙන් Power option වලට එකතු කරන්න පුළුවන්.\n\nWindows 10 Start එකේ Power options ලෙස type කරන්න. දැන් එන Windows power & Sleep Settings තෝරන්න. එහි පහත පරිදි දක්වා ඇති Additional Power Settings තෝරන්න.\n\nඑවිට ලැබෙන පහත Window එකෙන් වම් පස ඇති Choose What the Power Button Do යන්න තෝරන්න.\n\nදැන් ලැබෙන Window එකේ මැද ඇති Change Settings That are currently unavailable යන්න තෝරන්න. මෙහිදී පහතින්ම ඇති Shutdown Settings හි වෙනස්කම් කල හැකි වේ.\n\nඑයින් Hibernate යන්න තෝරා Save Changes කරන්න.\n\nමේ ආකාරයට දැන් ඔබගේ Windows power options යටතට අළුතින් hibernate යන පහසුකම ලබාගත හැක.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:39:39.147640",
+  "headline": "Windows 10 Hibernate කරමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "hibernate",
+    "microsoft",
+    "options",
+    "pcguidelk",
+    "power"
+  ],
+  "url": "https://www.pcguide.lk/how-to-hibernate-windows-10/",
+  "word_count": 237
+}

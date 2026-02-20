@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Nvidia සමාගම පසුගිය වසර කිහිපයේදි හදුන්වා දුන්න තවත් එක තාක්ශනයක් තමයි Ray tracing කියන්නෙ. මේ Ray tracing තාක්ශනය පරිගණක ක්‍රීඩා වලට සහ ග්‍රැෆික් නිර්මාණකරන වැඩ වලදි යොදාගැනුන. ඒත් Nvidia සමාගම බලාපොරොත්තු වුනු තරම් මේ තාක්ශනය එතරම් ජනප්‍රිය උනේ නැහැ.\n\nකොහොමවුනත් පසුගිය වසරෙදි වැඩි කතාබහට ලක්වුනු Cyberpunk 2077 පරිගණක ක්‍රීඩාව සමග එකතුවෙල Nvidia සමාගම පරිගණක ක්‍රීඩා සදහා යොදාගන්න පුලුවන් තාක්ශනයක් හදුන්වා දෙන්න යනව. ඒ තමයි path tracing. මේකෙන් පෙරටත් වඩා පරිගණක ක්‍රීඩාවල ග්‍රැෆික් තාත්වික කර පෙන්වනව. Ray tracing මගින් virtual scene එකක් හරහා තනි ආලෝක කදම්භයක් හදුනාගෙන එය අනුගමනය කරන අතර,  path tracing මගින් සිදුකරන්නෙ අවට පරිසරයෙන් පැමිනෙන ආලෝකය අනුගමනය කිරීමයි. එමගින් ආලෝකය භෞතික ලෝකයේ ක්‍රියා කරන ආකාරය වඩාත් යථාර්ථවාදීව අනුකරණය කරනව.\n\nමේ path tracing චිත්‍රපට කර්මාන්තයේ වසර ගණනක ඉදන් බාවිතා වෙනව. ඒත් මේ සදහා අධික වියදමක් වගේම විශාල කාලයකුත් වැයවෙන නිසා වෙනත් consumer gear වැඩ සදහා යොදාගත්තෙ නැහැ.\n\nCyberpunk 2077 පරිගණක ක්‍රීඩාව path tracing සමග ක්‍රීඩා කරන්න අවශ්‍ය නම් ඒ සදහා Nvidia RTX 40-series එකෙ GPU අවශ්‍ය වෙනව. Nvidia සමාගම පවසන්නෙ මේ path tracing සදහා DLSS 3 සහ Shader Execution Reordering යන තාක්ශනයන් ප්‍රධාන වශයෙන් යොදාගෙන තිබෙන බවයි.\n\nමීටපෙරත් Cyberpunk 2077 පරිගණක ක්‍රීඩාවෙ Overdrive Mode එකක් Ray tracing සමග පැමිනියා. අප්‍රේල් 11 වෙනිද ඉදන්  RTX 40-series එකෙ GPU තිබෙන පරිශීලකයන්ට path tracing සහ DLSS 3 සමග Cyberpunk 2077 Overdrive Mode එක ක්‍රීඩා කරන්න පුලුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:25:47.928488",
+  "headline": "Ray tracing වෙනුවට path-tracing සමග Cyberpunk 2077",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "cyberpunk",
+    "graphics",
+    "Nvidia",
+    "ray tracing"
+  ],
+  "url": "https://www.pcguide.lk/nvidia-introduces-path-tracing-for-cyberpunk/",
+  "word_count": 214
+}

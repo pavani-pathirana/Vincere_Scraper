@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "Microsoft විසින් කලින් Windows 11 සඳහා හඳුන්වාදුන්න සැකසුමකින් මෙහෙයුම් පද්ධතියෙ default browser එක වෙනස් කිරීම තරමක් දුරට සංකීර්ණ වැඩක් බවට පත් කරා. නමුත් පසුගිය සතියෙ එලිදක්වපු build 22509 update එකෙන් පස්සෙ මේ වැඩේ වඩාත් පහසුවෙන් කරගන්න පුලුවන් button එකක් Settings app එකට එකතු කරල තියනවා.\n\nපහල tweet එකෙන් පෙන්නන විදිහට මොකක් හරි browser එකකින් open කරන්න පුලුවන් file type එකක default browser එක වෙනස් කරන්න යනකොට ඊට ඉහලින් තමන් කැමති browser එකක් default browser එක ලෙස ලේසියෙන්ම තෝරගන්න හැකියාව හඳුන්වලා දීලා තියනවා. මේ පිටුවම තමයි මොකක් හරි browser එකක් ඒක default browser එක ලෙස තෝරන්න කියල විධානය දුන්නමත් open වෙන්නේ. ඒ නිසා මේ පහසුකම මගින් ක්ලික් කිහිපයකින් පහසුවෙන් කැමති default browser එකක් තෝරගන්න අවස්ථාව දීල තියනවා. කොහොම උනත් මේකෙ full feature update එක හඳුන්වාදීම major update එකකින් සිදුවේද නැතිනම් ඒ අතරතුර එන minor update එකකින් සිදුවෙයිද කියලනම් සඳහනක් මේ වෙද්දි නෑ.\n\nWindows 11 මත Microsoft Edge පාවිච්චි කරන්න users ලට බල කිරීමට Microsoft ගත් පියවරයන් මතභේදාත්මක ස්වරූපයක් ගත්තා. browser එකකින් පිට link එකක් open කරන්න යද්දි PC එකේ browser කිහිපයක් install කරල තිබුනොත් එන popup එකකින් ඒ link එක open වෙන්න ඕන browser එක තෝරගන්න සිදු වෙනවා, ඊට පස්සෙ ඒ browser එක default browser එක ලෙස තෝරගන්න ලෙස ඒකෙ තියෙන checkbox එක tick කරාම ඒ තෝරගත්ත browser එක Edge නොවුනත් එතන ඉදන් Windows 11 වල default browser එක ලෙස වැඩ කරන්නෙ Microsoft Edge. තවත් විකාර සැකසුමක් තමයි Windows 11 වල පොදු default browser එකක් තෝරන්න හැකියාවක් නෑ. ඒ වෙනුවට HTTP protocol එකට, HTML files වලට වගේ වෙන වෙනම default browser එක සකසන්න අවශ්‍ය වීමයි. මේ වගේ පියවරයන් නිසා Mozilla සහ වෙනත් පිරිස් මේ සැකසුම් bypass කරල පහසුවෙන් මේ default browser එක වෙනස් කරන්න විවිධ tools සංවර්ධනය කරල තිබුනා.\n\nමේ තත්වය පසුව තවත් නරක අතට හැරුනා. Microsoft විසින් ඉහතින් සඳහන් කරපු default browser වෙනස් කරන tools කිහිපයකම ක්‍රියාකාරීත්වය අවහිර කරනු ලැබුවා. මීට දින කිහිපයකට කලින් අනාවරණය වුන විදිහට Edge browser එක භාවිතා කරල Google Chrome download කරන්න ගියොත් ඒක අධෛර්යමත් කරන popup messages පෙන්වන්නත් Microsoft ආයතනය කටයුතු කරල තියනවා. කොහොම උනත් මේ තත්වයන්ට අන්තර්ජාලයේ එල්ලවුන විරෝධයත් එක්ක මේ සැකසුම් වෙනස් කිරීම සිදු වෙනවා කියල අපිට හිතන්න පුලුවන්.\n\nමේ වෙනස්කම් හැරුනු විට build 22509 එක්ක තවත් වෙනස්කම් කිහිපයක්ම Windows 11 වලට එකතු කරල තියනවා. Start Menu එක සඳහා අලුත් customization options, වඩාත් වැඩි pinned items ප්‍රමාණයක් දැකීමට හැකියාව සහ Control Panel එකේ ඇති settings කිහිපයකුත් Windows 11 Settings app එකට එකතු කරල තියනවා. මේක Windows වල ඇති settings සියල්ල එකම app එකක් යටතට ගෙන ඒමේ උත්සහයේ එක පියවරක්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:35:35.974704",
+  "headline": "Windows 11 හි default browser වෙනස් කිරීම වඩාත් පහසු කිරීමට Microsoft සැරසේ",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "browser",
+    "default",
+    "microsoft",
+    "settings",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/windows-11-default-browser-settings-made-easy/",
+  "word_count": 406
+}

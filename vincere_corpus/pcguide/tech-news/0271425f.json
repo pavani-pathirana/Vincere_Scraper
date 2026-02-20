@@ -1,0 +1,18 @@
+{
+  "author": "Nadun nethmalaka herath",
+  "body": "Windows 11 2024 නවතම Update එකෙන්, ගොනු(file) transfer speed එක වැඩි කර තිබේ. මෙයට හේතුව වන්නේ Resilient File System (ReFS) සහ Block Cloning තාක්ෂණය සාමාන්‍ය Windows පරිගණක සඳහා හදුන්වා දීමයි. ReFS ගොනු පද්ධතිය 2012 සිට Windows Server වල භාවිතා වන අතර, දැන් එය සාමාන්‍ය පරිගණක සහ ලැප්ටොප් තුළ භාවිතා කිරීමට සක්‍රීය කර ඇත.\n\nReFS ගොණු පද්ධතිය NTFS වලට විකල්පයක් ලෙස, දත්ත මධ්‍යස්ථාන සහ high-volume storage workloads සඳහා භාවිතයේදී සුවිශේෂී වාසියක් ලබා දෙනු ලැබේ. Microsoft සමාගම සිදුකල පරීක්ෂණවලට අනුව, 1MB ගොනුවකට 18% ක වේග වැඩිවීමකුත් 1GB ගොනුවකට 94% ක වේග වැඩිවීමක් දක්නට ලැබේ. මේ අනුව 18GB ගොනුවක් 6 තත්පරකින් පිටපත් කළ හැකිය.\n\nReFS ස්වයංක්‍රීය අඛණ්ඩතා පරීක්ෂණයක් සිදු කරන අතර, corrupted data හඳුනාගෙන වෙන් කරනු ලබයි. එහෙත්, ReFS පරිශීලකයින් සඳහා නිර්මාණය කර නොමැති බැවින්, NTFS හි තිබෙන ගොනු සම්පීඩනය සහ සංකේතනය වැනි විශේෂාංග ReFS තුළ දක්නට නොලැබේ. තවද ReFS ගොනු ආකෘතියට සකසන ලද drive එකක් තුළ Windows ස්ථාපනය කළ නොහැක. NTFS ගොනු ආකෘතිය ReFS ගොනු ආකෘතියට සෘජුවම පරිවර්තනය කළ නොහැකි බැවින්, සම්පූර්ණයෙන්ම නැවත ආකෘතිකරණය කළ යුතුය.\n\nsource –https://www.techspot.com",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:45:57.420874",
+  "headline": "Windows හි File Transfer Speed වැඩි කරයි.",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "new feature",
+    "update",
+    "windows",
+    "windows 11"
+  ],
+  "url": "https://www.pcguide.lk/windows-increased-file-transfer-speeds-with-new-update/",
+  "word_count": 166
+}

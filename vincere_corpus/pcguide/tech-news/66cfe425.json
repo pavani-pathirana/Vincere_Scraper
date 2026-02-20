@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "මීට දින කිහිපයකට කලින් Google CEO වෙන Sundar Pichai සඳහන් කරල තිබුන ඉස්සරහට Google ආයතනය Hardware සඳහා වැඩි අයෝජනයක් කරන්න සූදානම් වෙලා ඉන්නව කියල. ඒත් සමගම 2021 වසර සඳහා වෙනස්ම ආකාරයක සැලසුමක් තම ආයතනය සතු බවත් ඔහු සඳහන් කරල තිබුනා. බොහෝ දෙනෙක් මත පල කරන්නේ ඒ Google ආයතනය විසින්ම develop කරගෙන යන තමන්ගේම processor එකක් පිලිබඳව බවයි. මේකෙ code name එක වෙන්නෙ “Whitechapel”.\n\n2020දි මුලින්ම කරළියට ආව මේ plan එකෙන් Google ආයතනය තමන්ගෙම SoC (Systems on a Chip) එකක් හදන්නයි යන්නේ. ඒ චිප් එක Pixel phone එකට වගේම Chromebook වලටත් යොදාගන්න Google ආයතනය සැලසුම් කරගෙන ඉන්නවා. මේ පියවර වසර කීපයකට කලින් Apple සමාගම ගත්ත ක්‍රියාමාර්ගයටම සමානයි. මේ අලුත් චිප් එකක් හදන Whitechapel plan එක Google සිදු කරන්නෙ Samsung ආයතනයත් එක්ක එකතු වෙලා.\n\nමේ Chipset එකෙන් එන පලවෙනි phone range එක අපිට මේ අවුරුද්දෙම බොහෝදුරට බලාගන්න පුළුවන් වේවි. Google මේ චිප් එක හඳුන්වන්න යන්නෙ “GS101” විදිහටයි. GS වලින් කියවෙන්නෙ “Google Silicon” කියන එක වෙන්න පුළුවන්. මේ අවුරුද්දෙ අන්තිම Pixel 6 සහ තවත් mid range එක සඳහා උන Pixel දුරකථනයක් නිකුත් වෙන්න නියමිතයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:41:26.020435",
+  "headline": "Pixel 6 සදහා Google Chip එකක්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chip",
+    "chromebook",
+    "google",
+    "pixel",
+    "soc"
+  ],
+  "url": "https://www.pcguide.lk/google-own-chip-for-pixel-and-chromebook/",
+  "word_count": 171
+}

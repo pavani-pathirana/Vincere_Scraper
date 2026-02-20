@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "intel CPU එකක් පාවිච්චි කරනවනම් ඉක්මනින්ම ඔයාගෙ BIOS Update කරගන්න වෙනව. intel සමාගම intel 7th gen 8th gen 9th gen 10th gen වගේම 11th gen CPU සහ Xeon Server CPU වල පවතින අවධානම් තත්වයක් ගැන වාර්ථා කරනව. ඔයාගෙ CPU එක ගැන තොරතුරු පහතින් තියෙනවනම් ඒ ගැන සැලකිලිමත් වෙන්න.\n\nමේ List එකට අඩංගු වෙන CPU එකක් නම් ඔයාගෙ Motherboard Manufacturere Website එකෙන් අළුත්ම BIOS Download කරල Update කරගන්න කටයුතු කරන්න. Motherboard එකේ BOX එකෙන් මේක හොයාගන්න පුළුවන්.\n\nintel සමාගම පලකල සම්පූර්ණ විස්තරය – https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00601.html",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:31:11.729013",
+  "headline": "Intel CPU සදහා දැඩි අවධානම් නිවේදනයක්!",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "bios",
+    "CPU",
+    "firmware",
+    "Intel",
+    "risk"
+  ],
+  "url": "https://www.pcguide.lk/intel-cpu-vulnerability-2022/",
+  "word_count": 83
+}

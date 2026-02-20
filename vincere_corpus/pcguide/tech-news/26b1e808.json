@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "අපි පාවිච්චි කරන laptop එකේ Desktop එකේ තියෙන වටිනාම දේ වෙන්නෙ අපේ Data කියන එක හැම දෙනාම අවබෝධ කරගත යුතු දෙයක් උනත් ගොඩක් අය ඒ ගැන බලන්නෙ data ටික නැති උනාමයි.\n\nCPU / GPU / PSU එකක් වගේ දෙයක් මුදල් දීල නැවතත් ලබාගන්න පුළුවන් උනාට Storage Device එකක තියෙන අපි විසින් අවුරුදු ගණනක් එකතු කරපු / නිර්මාණය කරපු දත්ත වලට මේ විදිහට මිලක් දෙන්න බැහැ. ඒ වගේම මුදල් ගෙවල නැවත මිලට ගන්නත් බැහැ. මේ නිසා අපේ Storage Devices ගැන අවධානය යොමුකරල ඒව ආරක්ෂා කරන්න පුළුවන් ක්‍රම ගැන කතා කරමු.\n\nHDD වගේම SSD වලත් health එක පහසුවෙන්ම Monitor කරන්න පුළුවන් නොමිලේ දෙන Software එකක් තමයි Crystal Disk Info කියන්නෙ. මේ Software එක Download කරගෙන සති දෙකකට වරක්වත් System Storage Devices වල health එක ගැන බලන්න වගේම, දවසේ උෂ්ණත්ව වෙනස් කම් තියෙන දහවල් සහ රාත්‍රියේ Temperature බලන්නත් අමතක කරන්නෙපා.\n\nඒ වගේම System එකේ Full load එක යටතේ Storage Device වල Temp එක යන්නෙ කොහොමද කියලත් බලන්න. මේ හරහා System එකේ Cooling ගැන අදහසක් ගන්නත් පුළුවන් වේවි.\n\nSystem එකක් ඇතුලතට සවි කරන HDD එකක් නිතර නිතර ගලවල එහාට මෙහාට අරන් යනවනම් එතනදි සිදුවෙන ගැස්සීම් වැටීම් වගේ Physical Damages නිසත් Data loss ඇතිවෙන්න පුළුවන්. මේ නිසා අනිවාර්යෙන්ම internal HDD එකක් ඉතාමත් පරිස්සමින් Pack කරල අරන් යන්න අමතක කරන්නෙපා. ඒ වගේම හැකි හැම විටම දත්ත හුවමාරු කරන්න External HDD එකක් පාවිච්චි කරන්න.\n\nStorage Device එකක් ගන්නෙ වැදගත්ම දත්ත තියාගන්න නම් ඒ සදහා භාවිතා කරන ලද HDD වලට යන්න එපා. එහෙම Used HDD එකක් ගන්නවනම් අනිවාර්යෙන්ම ඉහත Software එක හරහා පරික්ෂා කරල බලල වගකීම සහිතව ගන්න ක්‍රියාකරන්න. Hard එක හෝ SSD එක මොන විදිහට පාවිච්චි කරලද, Fail වෙන්න ලගයිද – කොපමණ වාරයක් Write – rewrite වෙලාද කියල දන්නෙ නැති නිසා වටිනා Data තියාගන්න – භාවිතා කරන ලද HDD, SSD වලට යන එකනම් අවදානම් වැඩක්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:47:27.469527",
+  "headline": "Data Storage ආරක්ෂා කර ගනිමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "computer",
+    "data",
+    "HDD",
+    "newsletter",
+    "pcguidelk"
+  ],
+  "url": "https://www.pcguide.lk/data-storage-device-maintenance/",
+  "word_count": 288
+}

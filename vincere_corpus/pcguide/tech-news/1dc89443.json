@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "Google සමාගමේ laptop පරිගණක නිෂ්පාදනයක් වන Chromebook නිකුත් වී මේ වන විට දස වසරක් ගතවී හමාරය.Chromebook යනු සම්ප්‍රදායික laptop පරිගණකයක් නොවේ.එනම් Windows හෝ MacOS මෙහෙයුම් පද්දති නොව මෙහි අන්තර්ගත වන්නේ Chrome OS නම් Linux මත පදනම් වූ මෙහෙයුම් පද්දතියකි.\n\nමුලිකව මෙම මෙහෙයුම් පද්දතිය google chrome web browser එක භාවිතයෙන් විවිධ කාර්යයන් ඉටු කිරීමට භාවිතා කරයි.සැබවින්ම මෙයට  windows හා MacOS වලට වඩා සරල user interface ඇති අතරම Linux පාදක මෙහයුම් පද්දතියක් බැවින් virus, malware වැනි හානිකර වැඩසටහන් වලින් ආරක්ෂා වීමේ සම්භාවිතාව ඉතාම ඉහල මට්ටමක පවතී. laptop පරිගණක පමණක් නොව Google සමාගම හා Asus සමගම එක්ව Chromebox නමින් portable Desktop පරිගණකයක් ද හදුන්වා දී ඇති අතර එය Chrome OS පහසුවන් එහා මෙහා ගෙන යා හැකි intel® compute stick වලට සමාන උපාංගයකි.\n\nGoogle සමාගමේ මෙම  Chromebook පරිශීලකයන්ගෙන් වැඩිම පිරිසක් පාසල් හා විශ්වවිද්‍යාල සිසුන් වන අතර ඊට බලපෑ ප්‍රධානතම හේතුව වන්නේ මෙම Chrome OS වල සරල හා වේගවත් බවත් මෙකි මෙහයුම් පද්දතිය සම්පුර්ණයෙන්ම නොමිලේ හා විවෘත කේත (free and open source software) මෘදුකාංගයක් වීමයි. මෙහි තවත් එක් විශේෂත්වයක් වන්නේ සියලුම android apps හා Linux apps ධාවනය කල හැකි වීමයි. Chrome OS වල වැඩ කිරීම පහසුය, ඔබට සාමාන්‍ය පරිදි USB උපාංග printer වැනි බාහිර උපාංග සමග කටයුතු කල හැකිය.නමුත් ඔබට ඔබගේ Microsoft Office 365 වැනි apps වල desktop version එක මෙහිදී භාවිතා කල නොහැකි අතර ඔබට සරලවම google play store හරහා mobile app එක භාවිත කල හැක. එනම් windows පරිසරයක ධාවනය වන software chrome os තුල භාවිත කල නොහැකි වීම අවාසියක් වුවත් මේ වන විට google play store තුල ඇති apps මගින් ඔබගේ එදිනෙදා කටයුතු කිරීමට හැකිවේ.\n\nතවත් එක් වැදගත් කරුණක් වන්නේ Chrome OS සදහා google සමාගමෙන් Updates නිකුත් කිරීමයි.google හි අනෙකුත් සියලුම සේවාවන් වෙත ඉතාම ඉක්මනින් ඔබව සම්බන්ද කිරීමට මෙයට හැකියාව ඇත, තවමත් ආසියාතික රටවල් වල   Chromebook ප්‍රචලිත නොමැති නමුත් අනාගතයේදී සියලුම සියලුම පාසල් හා විශ්වවිද්‍යාල සිසුන්ගේ නිල laptop පරිගණකය Chromebook වනු ඇත.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:41:54.683425",
+  "headline": "Chromebook එකට දැන් අවුරුදු 10යි",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chrome",
+    "computer",
+    "google",
+    "laptop",
+    "OS"
+  ],
+  "url": "https://www.pcguide.lk/chromebook-celebrates-10-years/",
+  "word_count": 299
+}

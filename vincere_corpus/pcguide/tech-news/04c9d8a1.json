@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Zero-click attacks නමින් හදුන්ව ක්‍රමය මගින් පරිශීලකයන් කිසිවක් ක්ලික් කිරීමකින් තොරවම ඔවුන්ගේ දත්ත තුන්වැනි පාර්ශවයක් විසින් සොරා ගැනීම දැන් බහුලව සිදුවෙනව. මෙය සිදුවන්නෙ දුරකථනයට messaging ඇප් හරහා පැමිනෙන පින්තූර, වීඩියො වැනි ෆයිල් ඩවුන්ලෝඩ් කිරීම මගිනුයි.\n\nමෙයට විසදුමක් ලෙස Samsung සමාගම විසින් නව විශේෂාංගයක් හදුන්වා දී තිබෙනව. එය නමින්Message Guard. මෙය දැනට Samsung Messages app සහ Google Messages තුළ ක්‍රියාකරන අතර එය දැනට සහය දක්වන්නේ Galaxy S23 series දුරකථන වලට පමනයි.\n\nමෙම Message Guard විශේෂාංගය සෑමවිටම background එකෙන් run වෙනව. එමගින් messaging ඇප් එක හරහා පැමිනෙන PNG, JPG, JPEG, GIF, ICO, WEBP, BMP සහ WBMP යන ෆයිල් සියල්ලක්ම පරීක්ශා කර ඒවායේ malicious code කිසිවක් අඩංගු නොවන බවට තහවුරු කරගෙන පමනක් ඒවා දුරකථනය තුල ගබඩා කර තබාගන්නව.\n\nSamsung සමාගම මෙම Message Guard විශේෂාංගය ඔවුන්ගෙ අනෙක් One UI 5.1 හෝ එයට වැඩි සංස්කරණ සහිත සියලුම දුරකථන වලට නිකුත් කිරීමට සැලසුම් කරගෙන යනව. ඒවගේම මෙම විශේෂාංගය අනෙක් තුන්වැනි පාර්ශවීය messaging ඇප් සදහාත් සහය දක්වන ලෙස නිර්මානය කරන බව ඔවුන් පවසා තිබෙනව.\n\nමේ ආකාරයේ විශාල zero-click attack එකක් 2020දී Citizen Lab විසින් සොයා ගත්ත. ඒ iOS / iMessage මගින් මාධ්‍යවේදීන්, දේශපාලඥයින් සහ ක්‍රියාකාරීන්ගේ දුරකථනවලටPegasus spywareඑක ස්ථාපනය කර ඔවුන්ගේ දත්ත ලබාගැනීමක් පිලිබදවයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:26:23.764550",
+  "headline": "Samsung සමාගමෙන් messages සදහා zero-click antivirus විශේෂාංගයක්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "cyber security",
+    "galaxy",
+    "messaging",
+    "samsung"
+  ],
+  "url": "https://www.pcguide.lk/samsung-%e0%b7%83%e0%b6%b8%e0%b7%8f%e0%b6%9c%e0%b6%b8%e0%b7%99%e0%b6%b1%e0%b7%8a-messages-%e0%b7%83%e0%b6%af%e0%b7%84%e0%b7%8f-zero-click-antivirus-%e0%b7%80%e0%b7%92%e0%b7%81%e0%b7%9a%e0%b7%82/",
+  "word_count": 186
+}

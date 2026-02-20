@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "Windows 10 මෙහෙයුම් පද්ධතියට ඔක්තොම්බර් මාසයෙ නිකුත් කරන්න නියමිත Falls Creators update එක තාම තියෙන්නෙ ගැටලු නිරාකරණය (bug fixing) අවධියෙ කියල Microsoft සමාගම නිවේදනය කලා.\n\nඅලුත්ම Windows update එක්ක අත්හදා බැලීම් කරන්න කැමති අයට Windows insider කියන වැඩසටහන යටතේ එක එක අවධි වල තියෙන Updates ඒවා අවසාන නිකුත් කිරීමට (Final release) කලින් ලබාගෙන අත්හදා බලන්න පුලුවන් කම තියෙනව. ඉතින් මේ Fast Ring එකේ අයට ලැබිල තියෙන අලුත්ම Falls Creators update එක වෙන Build 16288 එකේදී ලොකු bug list එකක් නිවැරදි කරල තියෙනව.\n\nමේ (Bugs) අතරින් Cortana Virtual assistant ගෙ errors, Bluetooth errors, Touch keyboard errors, emoji errors,PDF errors, high CPU usage errors වගේම Facebook වගේ ගොඩක් අය පාවිච්චි කරන සේවාවන් වලට Enter key එක වැඩ කරන්නෙ නැති ගැටලුෙ Notification ගැටලු ගොඩකුත් හදල තියෙනව. මේ හදපු errors වගේම තවත් ගැටලු ගොඩක් හදන්න තියෙන බවත් ඔක්තොම්බර් මැද වෙනකොට මුලු ලෝකෙටම මේ update එක දෙන්න ලෑස්ති වෙන්නත් වෙන නිසා දැන් Microsoft සමාගමට ටිකක් විතර පීඩනයක් එල්ල වෙලා.\n\nඅපිට එන Falls Creators update එක වෙන්නෙ Build 1709. ඒ වගේම 2015 Microsoft සමාගම Windows 10 නිකුත් කරාට පස්සෙ නිකුත් වෙන 4 වෙනි Feature update එක වෙන්නෙත් මේ Falls Creators update එක.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:53:06.158677",
+  "headline": "Falls Creators Update එකට සැරසෙන Microsoft",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "feature",
+    "microsoft",
+    "update",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/microsoft-pressured-on-falls-update/",
+  "word_count": 186
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "මෑත දිනකදී AMD සමාගම විසින් ඔවුන්ගේ නවතම Radeon RX 7900 GPU එලිදැක්වූවා. එම GPU වලට 8K resolution වනතෙක් සහය දක්වන අතර high refresh rate එකකින්ද යුක්ත වෙනව. ඒත් 8K output එකක් ලබාගැනීමට ඒ සදහා සහය දක්වන monitor එකක් අවශ්‍යය වෙනව. එයට විසදුමක් ලෙස Samsung සමාගම විසින් මීලග පරම්පරාවේ Odyssey Neo G9හි විස්තර එලිදැක්වූවා. එය ලොව පලමු8K ultrawide gaming monitorවෙනව. ලබන ජනවාරි වනතෙක් මෙය වෙළදපොලට නිකුත් කරන්නෙ නැහැ.\n\nමෙම monitor එක මගින් වැඩ කිරීමට නව DisplayPort 2.1 අවශ්‍ය වෙනවා මෙන්ම 8K resolution සදහා සහය දක්වන Radeon RX 7900 වැනි graphic card එකකුත් අවශ්‍ය වෙනව. වෙනත් DisplayPort 2.1 එක සහිත monitors, එනම් Acer, ASUS, Dell, සහ LG සමාගම් මගින් ලබන ජනවාරි සිට වෙළදපොලට නිකුත් කරන බව වාර්තා වෙනව.\n\nමෙම නවOdyssey Neo G9මාදිලියත් පෙර මාදිලිය මෙන්ම මිල අධික වෙන බවයි වාර්තා වෙන්නේ. පෙර මාදිලිය 5120 x 1440 resolution එකක් මෙන්ම 240Hz refresh rate එකක්ද සහිතව $2,200කට අලෙවි උනා. කෙසේ වුනත් මෙමගින් ලබාගන්නා graphical output බාධාවක් නැතිව ලබාගැනීමට නම් මෙම graphics hardware සදහා සහය දක්වන CPU එකක් තිබීමත් අනිවාර්යය වෙනව.\n\nමෙහි ගැටලුවකට පවතින්නෙ දැනට නිකුත්වෙන games අතරින් බොහොමයක් තවමත් 100%ක් 8K සදහා සහය දක්වන්නෙ නැහැ. ඒවගේම පැරනි games වල 8K සදහා සහය දැක්වූවා කියා ඇතිවන වාසියක්ද නැත. කෙසේ නමුත් AMD සමාගම තහවුරු කර පවසා තිබුනේ games කිහිපයක් upscaling වල උදව්වෙන් 8K resolution සහිතව ක්‍රීඩා කලහැකි බවයි. ඒ අතර Assassin’s Creed Valhalla, Death Stranding, Modern Warfare 2, සහ Uncharted යන පරිගණක ක්‍රීඩා දැක්වෙනව. මෙම Samsung මොනිටරය වර්තමානට වඩා අනාගතයේදී මීට වඩා ප්‍රයෝනවත් ලෙස බාවිතා කලහැකි වේවි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:28:08.943718",
+  "headline": "Samsung සමාගමෙන් එළිදක්වන ලොව පලමු 8K ultrawide monitor එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "8k",
+    "AMD",
+    "gaming",
+    "monitor",
+    "radeon"
+  ],
+  "url": "https://www.pcguide.lk/worlds-first-8k-ultrawide-monitor-from-samsung/",
+  "word_count": 241
+}

@@ -1,0 +1,17 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Apple සමාගම පසුගිය දිනක නිවේදනයක් නිකුත් කරමින් පවසා තිබුනෙ ඔවුන්ගෙ Apple Maps සේවාව දැන් web browser එක ඔස්සෙ බාවිතා කිරීමට හැකි බවයි.\n\nGoogle maps වල මේ ආකරයට web access තිබෙන්නෙ බොහෝ කලක ඉදන්. ඉතින් Google maps වලට තරගයක් දීම සදහායි මේ ආකාරයට Apple සමාගම web browser එක මගින් එම සේවාව බාවිතා කරන්න ඉඩ ලබාදීල තියෙන්නෙ. එය දැන් public beta සංස්කරණයක් ලෙස තිබෙනවා.\n\nමෙම සේවාව Mac පරිගණක වලදි නම් Safari සහ Chrome browser සමග හොදින් වැඩ කරනවා. ඒවගේම Windows පරිගනක සදහා Edge සහ Chrome වල මෙය හොදින් ක්‍රියාත්මක වෙනවා. Apple සමාගම ඉදිරියේදී වෙනත් browser වලට සහය ඉක්මනින් ලබාදෙන බව පවසා තිබෙනවා.\n\nමෙම සේවාව දුරකතන වල වැඩ කරන ආකාරයටම පරිගණක වලත් වැඩ කරනවා. එයින් driving සහ walking direction ලබාගන්න පුලුවන්. ඒවගේම ඉදිරියේදී 360 panoramic view විශේෂාංගය එනම් Google street view වැනි විශේෂාංගයක් හදුන්වා දෙන බව පවසා තිබෙනවා.\n\nApple විසින් සංවර්ධකයින්ට වෙබයේ සිතියම් වෙත extension සම්බන්ධ කළ හැකි බව පවසා තිබෙනවා. ඔවුන්ගේ පරිශීලකයින්ට රිය පැදවීමේ දිශාවන් ලබා ගැනීමට, සවිස්තරාත්මක ස්ථාන තොරතුරු බැලීමට සහ තවත් දේ කිරීමට මෙමගින් පුලුවන් වෙනවා.\n\nමෙම web version එක පැමිනෙන්නෙ පලමු iphone එක එක නිකුත් කර වසර 12කට පසුවයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:52:30.258966",
+  "headline": "දැන් වෙබ් එකෙනුත් බාවිතා කරන්න පුලුවන් Apple Maps",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "apple",
+    "google",
+    "maps"
+  ],
+  "url": "https://www.pcguide.lk/apple-maps-now-on-the-web/",
+  "word_count": 180
+}

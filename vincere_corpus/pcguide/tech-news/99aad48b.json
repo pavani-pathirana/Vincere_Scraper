@@ -1,0 +1,19 @@
+{
+  "author": "Anjula Wiraj Rathnayaka",
+  "body": "රොයිටර් පුවත් සේවයේ නව වාර්තාවකට අනුව පසුගිය සතියේ හැකර්වරුන් විසින් ක්‍රෝම් extensions  ගණනාවක් hijack කර ඇත. මෙම ප්‍රහාරය මුලින්ම අවධානයට ලක්වූයේ සයිබර් ආරක්ෂණ සමාගමක් වන Cyberhaven විසින් වන අතර එය හැක් කිරීමෙන් බලපෑමට ලක් වූ සමාගමකි.\n\nCyberhaven හි බ්ලොග් සටහනක, සමාගම පවසන්නේ වෙබ් බ්‍රවුසර cookies සහ authentications වැනි පරිශීලක දත්ත සොරකම් කිරීමේ උත්සාහයක් ලෙස සයිබර් ප්‍රහාරය මෙම ක්‍රෝම් extensions වලට malicious කේතය ඇතුළත් කර ඇති බවයි. හැකර්වරුන් විශේෂයෙන් social media, Facebook ads account සහ AI platforms වෙත ප්‍රවේශය ලබා ගැනීමට බලාපොරොත්තු වන බව පෙනේ.\n\nCyberhaven ට අනුව, හැකර්වරුන් විසින් එහි ක්‍රෝම් extension එක update කර malicious code සමඟ christmas දිනයේ පරිශීලකයන් වෙත ලබා දී ඇත. නත්තල් දිනයේ මෙම හැක් කිරීම පිළිබඳව සමාගම දැනුවත් වූ අතර වහාම පැයක් ඇතුළත නිවැරදි කිරීමක් සිදු කරලා තියෙනවා. සමාගම සිකුරාදා උදෑසන email දැනුම් දීමක් සමඟ අනවසරයෙන් ඇතුළුවීම පරිශීලකයින්ට දැනුම් දීමට පටන් ගත්තේය.\n\nmalicious code  ඇති බව තහවුරු කරන ලද අනෙකුත් Chrome extensions අතරටInternxt VPN,ParrotTalks,Uvoice, සහVPNCityඇතුළත් වේ. Chrome Web Store හි පොදු සංඛ්‍යාලේඛනවලට අනුව, මෙම එක් එක් Chrome extensions දස දහස් ගණනක් users සිටී.\n\nප්‍රහාරය ආරම්භ වූයේ හැකර්වරයෙකු විසින් Cyberhaven සේවකයෙකු ක්‍රෝම් extension developer කෙනෙක් වෙත යවන ලද phishing email හරහා සාර්ථකව ඉලක්ක කිරීමෙන් පසුවය. සේවකයා, විද්‍යුත් තැපෑල නිල ගූගල් සම්බන්ධතාවක් යැයි විශ්වාස කරමින්, ඊමේල් එක ක්ලික් කර, phishing page එකට තම credentials ඇතුළත් කළේය.\n\nCyberhaven විශ්වාස කරන්නේ ප්‍රහාරකයින් කිසියම් නිශ්චිත සමාගමක් ඉලක්ක කර ගත් බව නොව, ඒ වෙනුවට විශාල phishing campaign යවා ක්ලික් කළ ඕනෑම ලබන්නෙකු සමඟ ඉදිරියට යාමයි.\n\nමෙම අවස්ථාවේදී, මෙම ක්‍රෝම් extensions භාවිතා කරන්නන් කී දෙනෙකුට බලපෑම් එල්ල වී තිබේද යන්න පැහැදිලි නැත.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:43:39.307581",
+  "headline": "හැකර් ප්‍රහාරයකට ලක් වූ Google-Chrome Extensions",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "browser",
+    "chrome",
+    "cybersecurity",
+    "google",
+    "hacked"
+  ],
+  "url": "https://www.pcguide.lk/hacked-google-chrome-extensions/",
+  "word_count": 250
+}

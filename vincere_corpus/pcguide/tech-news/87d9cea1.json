@@ -1,0 +1,18 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Elon Musk දැන් ඔහුගේ AI සමාගම වන xAI විසින් හඳුන්වාදුන් Grok 4 කියන නවතම AI model එකට, benchmark tests වල අනෙක් සියලුම වැඩසටහන් වලට වඩා වැඩි score එකක් ගන්න හැකි වෙලා තියනවා.\n\nGrok 4 Heavy කියන enhanced version එක,ARC AGI(Artificial General Intelligence) benchmark එකේදී15.9%score එකක් අරන් තියනවා. ඒ කියන්නේ Claude Opus 4 වගේ top AI models පවා පසුකරලා Elon Musk ගේ AI එක rank එකේ ඉස්සරහට ඇවිල්ලා. ඒක AI model එකක් ලබාගන්න පුළුවන් ඉහළම reasoning score එකක්.\n\nමීට අමතරව,“Humanity’s Last Exam”කියන test එකකදිත් Grok 4 Heavy model එක44.4%score එකක් ගත්තා. මේ exam එක තියෙන්නෙ human-level intelligence test එකක් වගේ. ඒකේ OpenAI O3 (24.9%), Gemini 1.5 Pro (26.9%) අගයන් ලබාගෙන තිබෙන අතර Grok AI එක අනෙක් models වලට වඩා දෙගුණයක පමන score එකක් ලබාගන්න සමත් වෙලා තියනවා.\n\nxAI කියන සමාගම දැන් Grok 4 සහ Grok 4 Heavy කියන models දෙකම X (ex-Twitter) platform එක හරහා ලබාදෙනවා. ඒත් වැඩිපුර features තියෙන්නෙ Grok 4 Heavy model එකට විශේෂයෙන් developers, researchers, සහ power users වගේ අයට. මේකට access එක ලැබෙන්න, $30/month plan එකක් හෝ “Premium+” plan එකක් ගන්න ඕනේ.\n\nවැඩි විස්තර වලින් සදහන් වෙන්නෙ Grok 4 කියන AI එක multi-agent architecture එකක් භාවිත කරන බවයි. ඒ කියන්නේ, Grok තුළ agents කිහිපයක් එක්ව වැඩ කරනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:37:28.065236",
+  "headline": "සියලුම AI models අභිබවා යන Grok 4",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "artificial intelligence",
+    "elon musk",
+    "grok"
+  ],
+  "url": "https://www.pcguide.lk/grok-ai-became-top-ai-model/",
+  "word_count": 200
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "WhatsApp කියන්නේ ලොකේ ගොඩක්ම ජනප්‍රිය messaging app එකක්. හැබැයි මේ app එකට දැන් ඇමරිකාවේ ලොකුම තහනමක් පැනවිලා තියෙනවා.US House of Representativesඑහෙමත් නැත්තන් ඇමරිකාවේ පාර්ලිමේන්තුව, තමන්ගේ රාජ්‍ය උපාංගවල WhatsApp භාවිතය තහනම් කරලා තියෙනවා. ඔවුන් ඒකට හේතුව විදියට කියන්නේ, ආරක්ෂක හේතූන් මත මේ ක්‍රියාමාර්ගය ගත් බවයි.\n\nමේ සම්බන්ධයෙන් ඔවුන් කිව්වෙ මෙහෙමයි: WhatsApp එක user data ආරක්ෂා කරන හැටි සරලව හෝ විවෘතව පැහැදිලි කරල නෑ. stored data encryption නෑ, සහ මෙය භාවිත කරනකොට යම් ආකාරයකඅනතුරුතියෙනවා. ඇත්තටම WhatsApp end-to-end encryption තියෙනවා කියන එක හැමෝම දන්න දෙයක්. හැබැයි මෙහි stored data, device එකේ save වෙන දේවල් encrypt වෙන්නෙ නැහැ. ඒක තමයි මේ තීන්දුවේ මුල්ම හේතුව.\n\nMeta (WhatsApp app එකේ parent company එක) මේ තීන්දුවට එකඟ නෑ. ඔවුන් පවසන්නේ WhatsApp එක තියෙන්නේ ඒකේම approved app list එකේ තියෙන තවත් apps වලට වඩාත් secure app එකක් බවයි. Meta සමාගමේ Andy Stone නම් කියන්නේ, WhatsApp හි security features හොඳින් වැඩ කරන බවත්, end-to-end encryption තමන්ට ඉතාම විශ්වාසනීය බවත්.\n\nඒ වුනත්, House of Representatives විසින් June 30 වනදාට පෙර සියළුම WhatsApp ඇප් රාජ්‍ය උපාංගවලින් අයින් කරන්න කියලා නිවේදනයක් නිකුත් කරලා. මෙයට අමතරව,Signal,iMessage,Microsoft Teams,Wickr,FaceTimeවගේ apps භාවිතා කරන්න කියලා කාර්යමන්ඩලයට උපදෙස් දීලා තියෙනවා.\n\nදැනට TikTok, ChatGPT වගේ apps වලටත් government-level restrictions දාලා තියෙන බව අපි දැක්කා. WhatsApp එකත් දැන් ඒ ලැයිස්තුවට එකතු වුනා කියන්න පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:38:08.415475",
+  "headline": "ඇමරිකාවෙත් තහනම් වෙන WhatsApp",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ban",
+    "banned",
+    "cyber security",
+    "messaging",
+    "meta"
+  ],
+  "url": "https://www.pcguide.lk/whatsapp-banned-by-us-house-of-representatives/",
+  "word_count": 204
+}

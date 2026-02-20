@@ -1,0 +1,18 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "පසුගිය දවසක Google සමාගම ඔවුන්ගේ Made by Google 2024 event එක පැවැත්තුවා. එහිදී ඔවුන් ඉදිරියෙදි නිකුත් කරන්න සූදානම් අලුත් Pixel දුරකතන වැනි උපාංග පිලිබදවත් අලුත් AI විශේෂාංග ගැනත් අලුත් OS ගැනත් විස්තර කලා.\n\nඉතින් මේ අතරට හදුන්වා දුන් දෙයක් තමයි Pixel දුරකතන වලට එන අලුත්ම AI තාක්ශනයෙන් බලගැන්වෙන Weather app එක. මෙම ඇප් එකෙ custom weather report AI මගින් නිර්මානය කර දෙනවා. ඒ සදහා යොදාගැනෙන්නෙ Gemini Nano AI model එකයි. Gemini Nano කියන්නෙ දුරකතන වල ධාවනය කරන්න Google සමාගම නිර්මානය කල AI model එකයි.\n\nමේ අලුත් ඇප් එකෙන් අපට දවසෙ කාලගුණය ගැන දැනගන්න විවිධ දත්ත ප්‍රමානයක් ඔස්සෙ scroll කරන්න අවශ්‍ය වෙන්නෙ නැහැ. මෙහි අපට දැනගන්න අවශ්‍ය කාලගුණික තොරතුරු පමනක් customize කර පෙන්වන ආකාරයට සකස් කරගන්න පුලුවන්.\n\nමීට අමතරව වෙනත් සාමාන්‍ය තොරතුරු වන daily forecasts ආදියත් මෙහි තිබෙනවා. මෙහි එහා මෙහා කලහැකි titles තිබෙනවා. ඒ humidity, wind speed සහ air pressure ආදිය දැක්වීමටයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:50:35.077991",
+  "headline": "AI තාක්ෂණයෙන් බලගැන්වෙන Weather app එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "app",
+    "google",
+    "pixel",
+    "weather"
+  ],
+  "url": "https://www.pcguide.lk/google-pixel-new-ai-powered-weather-app/",
+  "word_count": 142
+}

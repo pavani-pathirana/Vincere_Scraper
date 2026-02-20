@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Microsoft සමාගම අලුත්ම ඇප් එකක් හදුන්වා දී තිබෙනවා. ඒ තමයි Windows app කියල කියන්නෙ. මේ ඇප් එකෙන් අපිට desktop experience එකක් අපේ දුරකතන වලින් හෝ ටැබ්ලට් පරිගණක වලින් ලබාගන්න පුලුවන් වෙනවා. මෙමගින් අපෙ පරිගණකයෙ තියන වින්ඩෝස් මෙහෙයුම් පද්ධතියට ඕනෑම වෙලාවක ඕනෑම ස්ථානයක සිට තමන්ගෙ දුරකතනය මගින් පිවිසෙන්න ඉඩ ලබාදෙනවා.\n\nමේ ඇප් එක මගින් අපෙ පරිගණකයට පිවිසෙන්න ඉඩ ලබාගන්නෙ Windows 365, Azure Virtual Desktop, Remote Desktop ඇතුලු තවත් resources කිහිපයක් උපයෝගී කරගෙනයි. මෙමගින් ඔබට Microsoft services, virtual desktop සහ local PC files පාලනය කිරීමේ හැකියාව දුරකතනයෙන් සිදුකරන්න පුලුවන් වෙනවා.\n\nමීට අමතරව මේ ඇප් එකෙ තියන අනෙක් විශේෂාංග තමයි multi-monitor පහසුකම, customizable home screen එකක් තිබීම, dynamic display resolution පහසුකම, සහ device redirection පහසුකම. මේ device direction පහසුකම මගින් ඔබට webcams, USB drives, printers, සහ වෙනත් දෘඪාංග පරිගණකයෙ මෙන් ඔබෙ දුරකතනයට සම්බන්ධ කරගන්න ඉඩ ලබාදෙනවා.\n\nමේ ඇප් එක බාවිතා කරන්න නම් ඔබට Microsoft work හෝ school account එකක් තිබීම අනිවාර්ය වෙනවා. මෙය බාගත කරගන්නMicrosoft official websiteඑක මගිනුත්Microsoft Storeඑක මගිනුත් දුරකතන හෝ ටැබ්ලට් පරිගණක සදහාApple App StoreහෝGoogle Play Storeඑක මගිනුත් බාගත කරගන්න ඔබට පුලුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:47:14.352382",
+  "headline": "Microsoft සමාගමේ අලුත්ම Windows App එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "app",
+    "microsoft",
+    "new feature",
+    "pc",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/microsoft-releasing-new-windows-app/",
+  "word_count": 171
+}

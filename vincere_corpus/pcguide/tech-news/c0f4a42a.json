@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "Intel 11th Gen Rocket Lake processor 2021 පළමු කාර්තුවේදී නිකුත්කරන බව intel සමාගම පසුගිය වසරේදී නිවේදනය කළේය. එනම් මාර්තු මස අවසාන වීමට පෙර අපට නවතම Rocket lake processor වෙළඳ පොළට නිකුත් වේ යැයි අපේක්ෂා කළ හැකිය.Rayzen 5000 series processor නිකුත් කිරීමත් සමඟ intel 10th Gen processor අභිබවා යැමට AMD සමාගමට හැකි විය.එම නිසා intel සමාගමට නැවතත් තරඟයට පිවිසීමට 11th Gen processor series එක උපකාරී වනු ඇත.කෙසේ වෙතත් intel සමාගම වසර 6කට පසුව ඔවුන්ගේ processor architecture එක වෙනස් කර ඇත.\n\nIntel 11th Gen processor නව cypress cove architecture වලින් පැමිණෙන අතර එමඟින් 19% IPC (instruction per cycle) වැඩිවීමක් ලබාගත හැකිවනු ඇති අතර වඩා සංකීර්ණ කාර්යයන් පහසුවෙන් සිදු කිරීමට හැකියාව මෙම processor වලට ඇත.එහෙත් intel සමාගම තවමත් 14nm තාක්ෂණය භාවිත කිරීම තරමක් අප්‍රසාදයට තුඩු දෙන කරුණකි.intel පවසන පරිදි flagship core i9 ආකෘතිය 8 core සහ 16 thread වලින් සමන්විත වන අතර boosted clock speed ලෙස 5.3 GHz අඟයක් පෙන්නුම් කරයි.එමෙන්ම DDR 4 RAM 3200MHz දක්වා support කරන අතර PCIe 4.0 තාක්ෂණය සඳහා ද support කරයි.කෙසේවුවද මෙම විශේෂාංග සමඟ intel වලට අහිමිවූ gaming කිරුළ නැවත AMD වෙතින් ලබාගත හැකි වේ යැයි අපේක්ෂා කළ හැක.\n\n11th Gen processor වල නව intel 12th Gen Xe integrated graphics ඇතුලත් කර ඇති අතර එය කලින් පැවති intel UHD 630 ට වඩා 50% පමණ performance වැඩි වීමක් පෙන්නුම් කරන බව සඳහන් වෙයි.ඔවුන් පවසන පරිදි මෙම 12th Gen Xe graphics මඟින් 1080p gaming(low settings)හැකියාවක් පවතින බවයි.එමෙන්ම මෙම processor වල AI තාක්ෂණය ද වැඩි දියුණු කර ඇති අතර intel deep learning boost මඟින් සංකීර්ණ AI වැඩ සිදු කිරීමට ඇති හැකියාව වැඩි වන බව සඳහන් අතර එය සමාන්‍ය පරිහරණයේදී කෙතරම් වැදගත් වේද යන්න එතරම් පැහැදිලි කර නැත.\n\nMotherboard ගැන සලකා බැලීමේදී සමහරක් 400-series chipsets සඳහා support කළද PCIe 4.0 පහසුකම ලබා ගැනීමට නවතම 500-series chipsets සහිත Motherboard යොදා ගැනීමට සිදුවේ.කෙසේවුවද මේ සඳහා ද 10th Gen හි භාවිතා කළ LGA 1200 socket එකම භාවිතා කර ඇත.මිල ගණන් සලකා බැලීමේදී intel විසින් තවමත් නිල වශයෙන් නිවේදනය කර නැතත් core i9-10900k,core i7-10700k සහ core i5-10600k පිළිවෙලින් $555,$398 සහ $282 වැනි මිලකට අලෙවි විය හැකි යැයි අපේක්ෂා කල හැකි බව සඳහන් වෙයි.කෙසේවුවද intel සමාගම 2021 අවසානයට පෙර 12th Gen Alder Lake Desktop processors නිකුත්කරන බව නිවේදනය කර ඇති අතර එම නිසා 11th Gen processor ද කෙටි කාලයක් වෙළඳ පොළේ පවතින processor යක් බවට පත්විය හැකිය.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:42:26.980902",
+  "headline": "intel 11th Gen නිකුත් වීමට නියමිතයි",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "11th gen",
+    "CPU",
+    "Intel",
+    "pcguidelk",
+    "tech"
+  ],
+  "url": "https://www.pcguide.lk/intel-11th-gen-rocket-lake-cpu-reolease/",
+  "word_count": 370
+}

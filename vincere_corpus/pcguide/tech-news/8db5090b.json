@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "අලුත්ම Snapdragon 8 Gen 4 චිප් නිකුත් වෙන්න තව කෙටි කාලයක් පමනයි තිබෙන්නෙ. ඉතින් අලුත්ම වාර්තා වලට අනුව මෙම 8 Gen චිප් එක සමග අලුත්ම Oryon CPU cores පැමිනෙන බව දැනගන්න ලැබෙනවා.\n\nමෙම Oryon CPU core යනු Qualcomm සමාගමේ සිටින Nuvia නම් කන්ඩායම විසින් සංවර්ධනය කරන තාක්ශනයක්. මෙය දැනට Snapdragon X series එකෙ බාවිතා වෙනවා. එනම් Windows පරිගණක වල තිබෙන Snapdragon X Elite සහ Snapdragon X Plus ප්‍රොසෙසර් වල මෙය දැනටමත් බාවිතා වෙනවා.\n\nමේ අලුත් Oryon CPU cores ඉතාමත් බලසම්පන්න නමුත් වැඩි විදුලියක් Apple chipset වලට සාපේක්ශව ලබාගන්නා බව දැනගන්න ලැබෙනවා.\n\nතවත් නිකුත්ව ඇති වාර්තාවකට අනුව දැක්වෙන්නෙ මේ අලුත් චිප්සෙට් එකෙ බාවිතා වෙන්නෙ 3nm processor architecture එක බවයි. වාර්තා වෙන Geekbench testing වලට අනුව අලුත්ම චිප්සෙට් එකෙ clock speed එක 4.09GHZ වෙනවා.\n\nතවද මේ Snapdragon 8 Gen 4 variant දෙකකින් නිකුත් වෙනවා. ඒ SM8750 සහ SM8750P ලෙසයි. ඒ අතරින් එකක් වැඩිදියුනු කල සහ විශේෂයෙන්ම එක් දුරකතන මාදිලියක් සදහාම නිපදවා තිබෙන අතර ඒ ඉදිරියෙදි නිකුත් වෙන Samsung Galaxy S25 series එක සදහායි.\n\nමේ චිප්සෙට් එක සමග පැමිනෙන GPU එක වන්නෙ Adreno 830. එය මෙතෙක් නිකුත් වුනු mobile chipset අතරින් හොදම graphic performance ලබාදෙන GPU බව වාර්තා වෙනවා. ඒවගේම AI විශේෂාංග සදහාත් මේ chipset එක වැඩිදියුනු කර තිබෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:50:02.457366",
+  "headline": "අලුත්ම Oryon CPU එකක් සමග පැමිනෙන Snapdragon 8 Gen 4",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chipset",
+    "CPU",
+    "mobile",
+    "samsung",
+    "snapdragon"
+  ],
+  "url": "https://www.pcguide.lk/new-snapdragon8-gen4-coming-with-oryon-cpu/",
+  "word_count": 196
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "මෑත කාලයේදී OpenAI සමාගමෙන් නිපදවූ ChatGPT නම් automated text generation පද්ධතිය වැඩි දෙනාගේ කතාබහට ලක්වුනා. මෙම ChatGPT, Microsoft සමාගම ඔවුන්ගේ Bing search engine එක සදහා යොදාගන්නා බව නිවේදනය කලපසු Google සමාගම ඊට සමගාමීව ඔවුන්ගේ AI පාධක නිපැයුම් එළිදක්වන්න සැලසුම් කරා. එහි ප්‍රතිපලයක් ලෙස Google සමාගම ඔවුන්ගේchatbot AI projectඑක එළිදැක්වූවා. එය නමින් Bard නම් වෙනව.\n\nGoogle CEO Sundar Pichai පවසන ආකාරයට මෙය පරීක්ෂණාත්මක සහ සංවාදාත්මක AI සේවාවක්. එය ගොඩනගා ඇත්තේ Google හි දැනට පවතින Dialogue Applications (LaMDA) platform එක මගින් වන අතර, එය සමාගම විසින් පසුගිය වසර දෙක තුළ සංවර්ධනය කර තිබෙනව.\n\nChatGPT මෙන් මෙම Bard වැඩසටහන දැන්ම මහජනතාවට බාවිතා කරන්න දෙන්නෙ නැහැ. එහි lightweight version එකක් අඩු system requirements ප්‍රමානයක් අවශ්‍ය වන සංස්කරණයක් සීමිත පරිශීලකයන් පිරිසක් සදහා පමනක් ලබාදෙන බව Sundar Pichai වැඩිදුරටත් පවසා තිබුනා. තවත් පරීක්ශන සිදුකර Bard වැඩසටහන ගුණාත්මකව ක්‍රියාත්මක වනවාද යන්න පිලිබදව සොයාබලා අවසානයේ මෙය සියලුදෙනාට නිකුත් කරන බව ඔවු පවසා තිබුනා.\n\nBard වැඩසටහන මගින් සැබවින්ම කළ හැකි දේ පිළිබඳව Pichai විසින් කිසිදු තොරතුරක් ලබාදී නැහැ. ඒ පිලිබදව වැඩි විස්තර පෙබරවාරි 8 වනදින පැරීසියේදී පවත්වන ඔවුන්ගේ Google Presents උත්සවයේදී නිවේදනය කරනු ඇත.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:27:05.015550",
+  "headline": "ChatGPT එකට එරෙහිව Google වෙතින් Bard",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "bard",
+    "chatgpt",
+    "google",
+    "intelligence"
+  ],
+  "url": "https://www.pcguide.lk/google-bard-launched-against-chatgpt/",
+  "word_count": 175
+}

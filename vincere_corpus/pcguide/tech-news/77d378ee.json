@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "හැම දෙනාම කාලයක් පටලගෙන හිටපු දෙයක් තමයි මේ internet connection වල කියන Speeds ඇත්තටම තියෙනවද කියන එක. මේ පැටලිල්ලට හේතු උනේ එක B අකුරක සිම්පල් කැපිටල් වෙනසයි. internet සපයන සමාගම් එයාලගෙ Connection එකේ වේගය දක්වන්නෙ Mbps – Mega bits per second තත්පරයට මෙගා බිට්ස් කියන ඒකකයෙන්.\n\nමෙගා බිට් එකක් කියන්නෙ මෙගාබයිට් එකකින් 8න් 1ක්. සරලව කිව්වොත් මෙගා බයිට් එකක මෙගා බිට් 8ක් තියෙනව.  1MB = 8 Mb. මේ ඒකක ලියද්දි “B” එකකින් byte කියන ඒකකයත් “b” එකකින් bit කියන ඒකකයත් නියොජනය කරනව. මේ නිසා ගොඩක් අය හිතන් ඉන්න විදිහට 100MB file එකක් තත්පරයක් ඇතුලත download කරන්න 100Mbps connection එකකින් බැහැ.\n\nඔයාගෙ Internet Connection එකේ හරි වේගය දැනගන්න (තත්පරයට එන මෙගාබයිට්) කරන්න තියෙන්නෙ සදහන් කරල තියෙන Mbps (තත්පරයට මෙගා බිට්ස්) ගාන 8න් බෙදන එකයි. මේ වගෙ තවත් පරිගණක ආශ්‍රිත ප්‍රශ්න තියෙනවනම් පහත Comments වල ඒ ගැන අපිට කියන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:41:28.612035",
+  "headline": "Internet Speeds ගැන සිංහලෙන්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "explained",
+    "internet",
+    "speed"
+  ],
+  "url": "https://www.pcguide.lk/internet-speeds-%e0%b6%9c%e0%b7%90%e0%b6%b1-%e0%b7%83%e0%b7%92%e0%b6%82%e0%b7%84%e0%b6%bd%e0%b7%99%e0%b6%b1%e0%b7%8a/",
+  "word_count": 137
+}

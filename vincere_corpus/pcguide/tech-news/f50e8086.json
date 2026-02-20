@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Google Gemini වල අලුත්ම මොඩ්ල් එක මගින් කරන්න පුලුවන් දෙයක් ගැන පරිශීලකයන් සොයාගෙන තිබෙනවා. ඒ තමයි stock image වලින් watermark ඉවත් කරගැනීමේ හැකියාව. අන්තර්ජාලයෙ තියන වෙනත් watermark ඉවත් කරන ටූල් වලට වඩා ඉතාමත් නිවැරදි ලෙස මේ Gemini මගින් එය සිදුකරගන්න පුලුවන්. ප්‍රසිද්ධ stock image තියන වෙබ් අඩවි වන Getty images සහ Shutterstock ආදිය වගේ වෙනත් ඕනෑම stock image ලබාදෙන වෙබ් අඩවි වලින් මේ විදියට watermark ඉවත් කරගන්න පුලුවන්.\n\nපසුගිය සතියෙදි Google සමාගම Gemini 2.0 Flash මොඩ්ල් එක නිකුත් කරනු ලැබුවා. මෙමගින් image generate කරන්න වගේම එඩිට් කරන්නත් පුලුවන්. Reddit සහ X සමාජ මාධ්‍යයයේ පරිශීලකයන් බෙදාගෙන තිබුනු තොරතුරු වලට අනුව Gemini 2.0 Flash මගින් watermark ඉවත් කරනව විතරක් නෙවෙ එවිට ඇතිවෙන හිඩැස් පවා මකාදමා පරිපූර්න ඡායාරූපයක් ලබාදෙනවා. වෙනත් ටූල්ස් මගින් මෙය සිදුකලත් Gemini 2.0 Flash මගින් එය ඉතාමත් නිවැරදි ලෙස සිදුකරනවා වගේම මෙය නොමිලේ ලබාදෙන නිසා ඉතාමත් වටිනවා.\n\nNew skill unlocked: Gemini 2 Flash model is really awesome at removing watermarks in images!pic.twitter.com/6QIk0FlfCv\n\nමේ Gemini 2.0 Flash දැනට තියෙන්නෙ බීටා සංස්කරණයක් විදියට Google AI studio එකෙයි. කොහොමවුනත් Shutterstock වැනි ආයතන නිසැකවම Gemini 2.0 Flash හි භාවිතා කිරීමේ සීමාවන් නැති නිසා නීතිමය ක්‍රියාමාර්ග ගැනීමට ඉදිරිපත් වේවි.\n\nAnthropic හි Claude 3.7 Sonnet සහ OpenAI හි GPT-4o ඇතුළු සමහර මොඩ්ල්ස්, watermark ඉවත් කිරීම සිදුකරන්න ඉඩ දෙන්නෙ නැහැ. Anthropic සමාගම පවසන්නෙ රූපයකින් watermark ඉවත් කිරීම සදාචාර විරෝධී සහ නීති විරෝධී විය හැකි බවයි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:41:02.682643",
+  "headline": "Watermark ඉවත් කරදෙන Gemini 2.0",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "artificial intelligence",
+    "gemini",
+    "Gemini Ai",
+    "google"
+  ],
+  "url": "https://www.pcguide.lk/watermark-removal-using-google-gemini/",
+  "word_count": 218
+}

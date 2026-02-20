@@ -1,0 +1,18 @@
+{
+  "body": "මේ වැඩේ කරන්න නම් ඔයා අරන් තියෙන cPanel web hosting service එකේ SSH enable වෙලා තියෙන්න ඕනි. ඒ වගේම cPanel එකේම Terminal එක තියෙනවනම් තවත් ලේසි. එහෙම නැත්නම් PUTTY වගේ SSH client එකක් යොදා ගන්නත් පුළුවන්.දැන් තියෙන ගොඩක් cPanel hosting වල මේ SSH තියෙන නිසා මෙ වැඩේ ගැටලුවක් නැතිව ට්‍රයි කරලා බලන්න පුළුවන්.cPanelTerminal එකට යන්න නම්cPanel >> Home >> Advanced >>  Terminalවලින් පුළුවන් .\n\nපියවර 1 :SSH Key එකක් generate කරගැනීම.\n\nමුලින්ම අපි කරන්න ඕනි authorization වෙනුවෙන් SSH key එකක් generate කරගන්න එක. මීට ඉස්සර නම් RSA key එකක් SHA-1 secure hash algorithm එක එක්ක මේ වැඩේට යොදා ගන්න පුළුවන් උනත් SHA-1 algorithm එකේ තියෙන security issue නිසා GitHub දැන් encryption එකෙන් දෙන key accept කරන්නෙ නෑ. ඒ නිසා මේකට ECDSA encryption එක  භාවිතා කරන්න වෙනවා.",
+  "category": "all",
+  "date": "2023-05-13",
+  "extraction_timestamp": "2026-02-19T20:23:40.121000",
+  "headline": "Private Github Repo එකක් CPanel එකට clone කරන හැටි",
+  "source": "techsayura",
+  "tags": [
+    "all",
+    "Coding",
+    "cPanel",
+    "Git",
+    "GitHub",
+    "Tips&Tricks"
+  ],
+  "url": "https://www.techsayura.com/2023/05/private-github-repo-cpanel-clone.html",
+  "word_count": 126
+}

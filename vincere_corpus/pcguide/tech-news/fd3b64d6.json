@@ -1,0 +1,18 @@
+{
+  "author": "Priydarshana",
+  "body": "2020ට Video Editing, After Effects, Lumion වගේ software හරහා content creation කරන්න ගැලපෙන PC එකක් හදමු.\n\nමේ PC එක හැදුවෙ professional වැඩවලට. ඒ නිසා RGB කියන දේවල් ගැන අවධානයක් යොමු කරල නැහැ. නමුත් තෝරගත්ත Motherboard එක සහ RAM වලදි මිළ ගණන් එක්ක ලැබෙන පහසුකමක් විදිහට RGB ලැබිල තියෙනව.\n\nමෙතනදි අපට 6 core 12 thread CPU configuration එකක් ලැබෙනව. මේ CPU එක සහ 3600X CPU එකේ වෙනස වෙන්නෙ 3600X CPU එක base සහ Boost Clock වලින් පොඩ්ඩක් වැඩි වෙන එකයි TDP එක වැඩි නිසා Overclock කිරීමේ හැකියාවේ වැඩි කමයි.\n\nමේ build එක එකදිගටම Heavy workloads කරන නිසා වගේම සාමාන්‍ය කාමර උෂ්ණත්වයේ පාවිච්චි කරන නිසා මෙතනදි Corsair H60 Liquid Cooler එකක් යොදාගත්ත. RGB නැති නිසා මිළත් අඩුයි. ඒ වගේම OC කරන්නෙ නැති නිසා 120mm Radiator එක CPU එක Cool කරන්න ප්‍රමාණවත්.\n\nMotherboard එක තෝරගද්දි B450 එකට නොයා X470 එකකට ගිය ප්‍රධාන හේතුව X470 Motherboard වල තියෙන power delivery එක සාමාන්‍ය Motherboard වලට වඩා හොද වීම. මේ නිසා CPu එකට Smooth Power delivery එකක් ලැබෙන නිසා වැඩි කාලයක් Turbo Clock වල වැඩ කරන්න හැකියාව ලැබෙනව.\n\nමෙතනදි AMD RYZEN වලට 3200MHz RAM Speed එකකට යන්න පුළුවන් නිසා Corsair 3200Mhz RAM kit එක තෝරගත්ත. මෙතනදි RGB පහසුකම ලැබුනෙ option එකක් විදිහට. සාමානයෙන් 16GB වගේ යනවනම් එක පාර RAm Kit එකක් ගන්න බලන්න. නැත්නම් එකම Stock එකෙන් 8GB 2ක් ගන්න.\n\nLexar 250GB NVMe Drive එකක් boot Drive එක විදිහට OS එක සහ Software install කරගන්න වගේම Cache එක විදිහට පාවිච්චි කරන්න යොදාගත්ත.\n\n2TB Hard Disk Drive එකක් මෙතනදි පාවිච්චි කරනව. 1TB Drive එකක් 7200RPM තිබුනට 2TB Drive එන්නෙ 5200RM වලින්. මේක විශාල ගැටළුවක් නෙමෙයි HDD cache එක තියෙන නිසා සහ Boot Drive එක NVMe එකකින් වැඩ කරන නිසා.\n\nGPU එක විදිහට තෝරගෙන තියෙන්නෙ RTX 2060 SUPEr 8GB Card එකක්. මේක CUDA Cores වලට හදල තියෙන Adobe සහ අනෙකුත් Software වලට වැදගත් වෙනව. ඒ වගේම After effects සහ Lumion, 3D MAX වගේ Software වලට හොද Performance Boost එකක් දෙනව.\n\nPower Supply – 80 PLUS Gold 650M\n\nමෙතනදි PSU එක Gold Rating එකක් තියෙන Semi Modular එකක්. මේ නිසා හොද කාර්යක්ෂමතාවයක් ලැබෙන නිසා දිගු කාලීනව PSU එක හරහා විදුලිය පිරිමැස්මක් සිදු වෙනව. Semi Modular නිසා අවශ්‍ය වෙන Cable ටික විතරක් සම්බන්ධ කරගෙන Cable Management පහසුවෙන් කරගන්න පුළුවන් වෙනව.\n\nගෙවන ගානට සෑහෙන වටින Casing එකක්. තියෙන්නෙ රතු පාට Fan 2ක් සහ normal Fan 1ක්. හොද Build Quality එකක් සහ ඉඩ තියෙන නිසා මේක තෝරගත්ත.\n\nමේක Low Blue Light Filter එකක් තියෙන 60Hz IPS Panel එකක්. Designing වැඩවලට යොදාගන්න පුළුවන් Slim Monitor එකක්.\n\nමේ දේවල් යොදාගැනීම තුලින් අපි balance Build එකක් කරල තියෙනව. ඒක බලාගන්න පුළුවන් පහත user bench Link එකට ගිහින් බලන්න.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:47:33.459043",
+  "headline": "Content Creator Build 2020",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "build",
+    "design",
+    "pc",
+    "pcguide"
+  ],
+  "url": "https://www.pcguide.lk/content-creator-build-2020/",
+  "word_count": 423
+}

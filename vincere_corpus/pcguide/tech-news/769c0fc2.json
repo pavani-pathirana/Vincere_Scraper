@@ -1,0 +1,19 @@
+{
+  "author": "pcguidelk",
+  "body": "PC එකක් ගත්තම Stress Test එකක් කරන එක වැදගත් වෙන අවස්ථා කීපයක් තියෙනව. PC එක Build කරපු ගමන් ඒක Overheat වෙනවද? Cooling Issue එකක් තියෙනවද? කියල දැනගන්න මේක උදව් වෙනව, ඒ වගේම PC එක laptop එකේ ගැටළුවක් තියෙනවනම් ඒකත් මේ හරහා කරන්න පුළුවන්.\n\nComputer system එකක Heat එක නිපදවෙන ප්‍රධාන කොටස් දෙක තමයි CPU සහ GPU එක. Stress Test එක කරන්න ක්‍රම කීපයකටම පුළුවන්. Free ලබාගන්න පුළුවන් Blender Software එක යොදාගෙන Real world 3D Rendering එකක් හරහා මෙය පහසුවෙන් සිදු කරන්න පුළුවන්.\n\nTemp Monitoring –HW Monitor Download\n\nඉහත Software දෙක සහ Sample File එක Download කරගන්න. HW info Software එක Extract කරගෙන එහි ඇති 64bit Version එක Run කරන්න. ඒකෙ පහත විදිහට CPU section එකේ Temp එක බලාගන්න පුළුවන්.\n\nදැන් Blender Software එක install කරගන්න.\n\nDownload කරපු Sample Zip File එක Extract කරල ඒකෙ තියෙන bmw27_cpu File එක Double Click කරල open කරගන්න.\n\nදැන් F12 Press කරන්න – මේ හරහා Rendering එක සිද්ද වෙනව.\n\nමේ Rendering එක වෙද්දි HW Monitor හරහා CPU Temp එක බලන්න.\n\nමේ විදිහට System එක Real world Stress Test එකක් කරගන්න පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:26:31.437394",
+  "headline": "PC එක හරියට Heat / Stress Test කරන්නෙ කොහොමද?",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "heat",
+    "Intel",
+    "pcguidelk",
+    "service"
+  ],
+  "url": "https://www.pcguide.lk/how-to-stress-test-cpu/",
+  "word_count": 176
+}

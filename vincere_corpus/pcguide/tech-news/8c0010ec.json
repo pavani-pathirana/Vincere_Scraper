@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Web browser එක හරහා තොරතුරු සොරාගන්නා Shape shifting Malware එකක් ගැන Microsoft සමාගම තොරතුරු අනාවරණය කර තිබෙනව.\n\nMozilla Firefox, Microsoft Edge, Google Chrome වැනි විශාල User Base සහිත Web browser වලට Ads වැනි ක්‍රමවේද හරහා ඇතුලත් වී User Click කල විට Browser Addon එකක් ලෙස Install වෙමින් ඒ හරහා පරිශීලකයාගේ තොරතුරු සොරා ගැනීම මෙහි Pattern එකයි.\n\nමෙහි තාක්ෂණික තොරතුරු සංකීර්ණ උවත් Adrozek Malware එක සරල උපක්‍රම කීපයක් හරහා පරිශීලකයාගේ Web Browser එකට ඇතුලත් වී ඒ හරහා මේ වනවිට වැඩියෙන්ම භාවිතා වන Browser තුලින් Location, Passwords වැනි දේ ලබාගැනීම හා Search Results තුලට Malicious Scripts හරහා Ads එකතු කිරීම –  (Dynamic Link Libraries) DLL වෙනස් කර Browser එකේ Security Controls වෙනස් කිරීම මේ හරහා සිදුවෙන බවයි Microsoft 365 Defender Research කණ්ඩායම වාර්ථා කරන්නෙ.\n\nමෙම Adrozek Attacks වලින් බේරීමට Widows 10 හි ඇති Microsoft Defender Antivirus එක Up to date කර On තත්වයේ පවත්වා ගැනීම පමණක් ප්‍රමාණවත් බවයි Microsoft 365 Research Team එක පවසන්නෙ. කෙසේ වෙතත් අනවශ්‍ය Ads මත Click කිරීම වැනි දේවල් වලින් වැලකීම හරහාද මෙවැනි Malware Attacks වලට ගොදුරු වීමේ අවධානමෙන් ගැලවීමට උදව් වෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:44:29.932957",
+  "headline": "Shape shifting Malware එකක් ගැන තොරතුරු හෙලිවෙයි",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "attack",
+    "browser",
+    "malware",
+    "web",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/shape-shifting-malware-adrozek/",
+  "word_count": 174
+}

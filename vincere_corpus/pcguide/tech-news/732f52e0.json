@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "ලොව ඉතා ජනප්‍රිය Instant Messaging සහ Voice-over-IP (VoIP) යෙදවුමක් වන WhatsApp, ප්‍රථම වතාවට පරිශීලකයින්ට තම පණිවිඩ වල backups, encrypted ලෙස Google Drive සහ iCloud තුළ ගබඩා කිරීමට හැකියාව ලබාදීමට Facebook සමාගම තීරණය කර ඇති බව වාර්තා වෙයි. මෙම විශේෂාංගය විකල්ප පහසුකමක් (optional feature) ලෙස ඉදිරි සති කිහිපය තුළ iOS සහ Android පරිශීලකයන් සඳහා ලබාදීමට බලාපොරොත්තු වේ.\n\nමේ පිළිබඳව Facebook, Inc. හි ප්‍රධාන විධායක නිලධාරී Mark Zuckerberg ඔහුගේ නිල Facebook පිටුවේ නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ WhatsApp යෙදවුම End-to-End Encryption (E2EE) ආරක්ෂණය සහිතව පණිවිඩ යැවීම සහ chat history දත්ත backup කිරීමේ හැකියාව යන දෙකම ලබා දෙන පළමු ගෝලීය පණිවිඩ සේවාව වනවා සේම, එය සිදු කිරීම තාක්ෂණික වශයෙන් මුහුණ දුන් අභියෝගය සුළුපටු නොවූ බවත් ය.\n\nමින් පෙර WhatsApp පරිශීලකයන්ට තම දුරකථනය තුළ ඇති local chat backups වලට අමතරව cloud backup සෑදීමට හැකියාව තිබුණද එම දත්ත upload වනුයේ encrypted නොවූ ආකාරයටයි.\n\nමෙම නවතම විශේෂාංගයත් සමඟ පරිශීලකයෙකුගේ encrypted backups වෙත ප්‍රවේශ වීමට තමන්ට හෝ Google හෝ Apple යන සමාගම් (Google Drive සහ iCloud හි අයිතිකරුවන්ට) වලට නොහැකි බවත්, ඒ අනුව ඔබ යැවූ පණිවිඩ හා ඔබගේ chat history backups ගැන දන්නේ ඔබ පමණක් වන බව Facebook සමාගම අවධාරණය කර සිටී.\n\nඑලෙස End-to-End Encryption ක්‍රමවේදය ක්‍රියාත්මක කිරීමට WhatsApp පරිශීලකයන් සඳහා අතිරේක security layer එකක් ස්ථාපනය කළ යුතු අතර, ඒ තුළින් ඔවුන්ගේ පණිවිඩ වල backup දත්ත තමන්ට කැමති cloud සේවාවක ගබඩා කිරීමට හැකි වේ.\n\nEnd-to-End Encryption යටතේ පණිවිඩ හුවමාරු කිරීමේදී අදාළ පරිශීලකයන්, එනම් එවන්නා (sender) සහ ලබන්නා (recipient) හට පමණක් පණිවිඩයේ අන්තර්ගතය කියවීමට හැකියාව ලැබෙන අතර, එහිදී යවන්නා විසින් ඔහුට අනන්‍ය වූ encryption key ලෙස හඳුන්වන ගණිතමය ශ්‍රිතයක් (mathematical function) ආධාරයෙන් පණිවිඩයේ අන්තර්ගතය පහසුවෙන් තේරුම් ගත නොහැකි ආකාරයට පත් කර (encrypt) යවයි. අදාළ පණිවිඩය ලබන්නා එම encrypted පණිවිඩය ඔහුගේ decryption key එක භාවිත කර පණිවිඩය කියවිය හැකි ආකාරයට (decrypt) පත් කරයි.\n\nමෙම පණිවිඩ හුවමාරුව අතරතුර බාහිර පාර්ශවයකට පණිවිඩයේ අන්තර්ගතය දැනගැනීමට හෝ වෙනස් කිරීමට හෝ නොහැකි මෙන්ම ඊට අදාළ keys වෙත ප්‍රවේශ වීමට හෝ ඉඩක් නොමැති වේ. එලෙස සත්‍ය එවන්නා සහ ලබන්නා යන අන්ත දෙක අතර (end-to-end) සුරක්ෂිත සන්නිවේදනයක් තහවුරු වේ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:46:50.075657",
+  "headline": "WhatsApp සඳහා Encrypted Backup පහසුකම ලඟදීම…",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "app",
+    "backup",
+    "encryption",
+    "explained"
+  ],
+  "url": "https://www.pcguide.lk/whatsapp-backup-encryption-feature/",
+  "word_count": 323
+}

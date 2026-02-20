@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Android දුරකතන මාදිලි වගේම Apple දුරකතන මාදිලි කිහිපයකම තියන chipset එකක් තමයි Qualcomm සමාගමේ Snapdragon chipset. Apple දුරකතන වල නම් Qualcomm සමාගමේ නිශ්පාදන භාවිතා වෙන්නෙ chipset විදියට නෙවේ. Apple සමාගම භාවිතා කරන්නෙ Qualcomm සමාගමේ 5G modem chip තාක්ශනයයි. කෙසේ නමුත් Qualcomm කියන්නෙ මේ වනවිට විශාල දුරකතන මාදිලි රැසක තිබෙන ප්‍රධාන පෙලේ chip නිශ්පාදන සමාගමක්.\n\nපසුගිය දිනක එම සමාගම විසින් ඔවුන්ගේ chipset වල තිබී සොයාගන්නා ලද vulnerability එකක් ගැන ප්‍රසිද්ධ කර තිබෙනවා. මේ vulnerability එක මගින් එය තිබෙන chipset සියල්ලටම cyberattack එකක් ඇතිවීමේ හැකියාව තිබෙනවා. කෙසේ නමුත් Qualcomm සමාගම පවසන්නෙ cyberattack එකක් සිදුවෙන්න කලින් ඔවුන් මෙම දුර්වලතාව හදුනාගෙන මේ වනවිට ඒ අදාල මාදිලි සදහා security update එකක් නිකුත් කරමින් සිටින බවයි.\n\nමේ ආකාරයට vulnerability එකක් ඇතිවී තිබෙන්නෙ mid-range සහ flagship chipsets මාදිලි කිහිපයකයි. ඒ අතර ප්‍රධාන වශයෙන්Snapdragon 8 Gen 1, 8+ Gen 1, 8 Gen 2, 8+ Gen 2, and 8 Gen 3යන flagship chipset මාදිලි වල මෙන්මSnapdragon 662, 680, 695, 765, 865+, 888, and 888+වැනි පැරනි midrange මාදිලි වලද මේ vulnerability එක තිබෙනවා. මීට අමතරව iPhone 14 වල තිබෙන Snapdragon X65 5G modem එක සහ iPhone 16 මාදිලි වල තිබෙන Snapdragon X75 5G modem එකත් මේ ලැයිස්තුවට අයත් වෙනවා.\n\nඔබේ දුරකතන වලත් Snapdragon chipset එකක් තිබේ නම් security update එකක් ලැබුනු විගස යාවත්කාලීන කරගන්න. Chipset එක කියන්නෙ දුරකතනයක තිබෙන මොළය වැනි කොටසයි. මෙයට cyberattack එකක් සිදුවුවහොත් එමගින් නැවත යතාතත්වයට පත්කල නොහැකි හානියක් සිදුවිය හැකියි.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:45:51.462567",
+  "headline": "Snapdragon chipset සහිත දුරකතන මාදිලි දැන් විශාල අනතුරක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "apple",
+    "chipset",
+    "cyber security",
+    "cyberattack",
+    "iphone"
+  ],
+  "url": "https://www.pcguide.lk/snapdragon-chipset-phones-are-in-danger/",
+  "word_count": 224
+}

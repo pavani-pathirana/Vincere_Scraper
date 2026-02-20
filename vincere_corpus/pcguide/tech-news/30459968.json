@@ -1,0 +1,11 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "Google ආයතනය විසින් Android 13 හි පළමු Developer Preview එක මේ වෙනකොට නිකුත් කරල තියනවා. මේකත් එක්ක privacy settings වැඩි දියුණු කිරීම්, Material You design වෙනස්කම් සහ තවත් වැඩිදියුණු කිරීම් කිහිපයක්ම හඳුන්වාදෙන්න සූදානම් වෙනවා.\n\nමේ Developer Preview එක app සංවර්ධකයන්ට තමන්ගෙ apps ඊලඟ Android සංස්කරණයට ලෑස්ති කිරීම සඳහා පරික්ශා කිරීමට ලබාදෙන අතර සාමාන්‍ය පාරිභෝගිකයින් මේ Developer Preview එක තමන් පාවිච්චි කරන device එකට install කරගැනීම කිසිසේත් අනුමත කරන්නේ නෑ.\n\nAndroid 13 වල විවිධ releases නිකුත් වෙන්නෙ කවද වගේද කියල අදහසක් ගන්න Google ආයතනය timeline එකකුත් නිල නිවේදනයට ඇතුලත් කරල තියනවා.\n\nAndroid 13 වල යාවත්කාලීන වුන Photo Picker API එකෙන් අපිට app එකකට memory එකේ තියන ඔක්කොම photos වලට access දෙන්න ඕන නෑ, ඒ මගින් අපි තෝරගන්න photos වලට විතරක් app එකකට access ලබාදෙන්න පුලුවන්, ඒක පෞද්ගලිකත්වය ආරක්ශා කරගන්න වැදගත් පහසුකමක්. Location data භාවිතය අවම කරන්න අලුතෙන් Wi-Fi සැකසුම් කිහිපයකුත් මේ අලුත් Android සංස්කරණයේ හඳුන්වලා දීලා තියනවා. ඒ වගේම app සංවර්ධකයන්ට user පාවිච්චි කරන භාෂාව පිලිබඳ විස්තර ලබාගන්නත් අලුත් API එකක් නිකුත් කරල තියනවා, මේ එක්ක එක් එක් app එකට වෙන වෙනම භාෂාව වෙනස් කරන්න users ලට අවශ්‍ය වෙන එකක් නෑ. System එකේ default language එක සකස් කරාම අනෙක් apps ඒ භාෂාවට සහය දක්වනවනම් ඉබේම අවශ්‍ය භාෂාවට සැකසේවී.\n\nMaterial You වල තිබුන dynamic app icons පහසුකම Android 13 වල සියලු apps වලට ලබාදෙන්නත් කටයුතු කරල තියනවා. මේ නිසා සංවර්ධකයන්ටත් මේ dynamic app icons තමන්ගෙ apps වලට යොදාගන්න පුලුවන්.\n\nPixel 6 Pro, Pixel 6, Pixel 5a 5G, Pixel 5, Pixel 4a 5G, Pixel 4a, Pixel 4 XL, හෝ Pixel 4 දුරකථනයක් තියෙනවනම් සංවර්ධකයන්ට මේ Android 13 Developer Preview එක install කරගෙන පරික්ෂා කරන්න පුලුවන්. ඒ වගේම Android 13 වල beta සංස්කරණය මේ අවුරුද්දෙ අප්‍රේල් වල වගේ නිකුත් වේවී, stable release එක බොහෝවිට අගෝස්තු හෝ සැප්තැම්බර් වල අපිට දැකගන්න හැකි වේවී.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:33:27.030046",
+  "headline": "Android 13 පළමු Developer Preview සංස්කරණය නිකුත් වේ",
+  "source": "pcguide",
+  "url": "https://www.pcguide.lk/android-13-first-developer-preview-released/",
+  "word_count": 288
+}

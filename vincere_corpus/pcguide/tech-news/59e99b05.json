@@ -1,0 +1,17 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "මෑත දිනකදි Samsung සමාගම ඔවුන්ගේ නවතම Exynos 2400 එක එළිදැක්වූවා. ඒ Galaxy S24 series එක සමගයි. මෙම චිප්සෙට් එක අනෙක් සමාගම් වල චිප්සෙට් සමග තරගකල හැකි ලෙස වැඩිදියුනු කර තිබෙනව. දැන් Exynos 2500 චිප්සෙට් එකෙspecificationsඔන්ලයින් දක්වා තිබෙනව.\n\nඔන්ලයින් සටහන් වලට අනුව Exynos 2400 ලෙසම deca-core (10 cores) CPU එකක්. ඒවගේම ARM Cortex-X5 3.3GHz to 3.2GHz ස්පීඩ් එකක් මෙහි තිබෙනව. මීට අමතරව, එහි 3x Cortex-A730 කෝර් 2.5GHz සිට 2.3GHz දක්වා සහ තවත් Cortex-A730 කෝර් දෙකක් ඇත. Cortex-A520 cores හතරක් ද ඇත. මෙම cores සඳහා වේගය දැනට නොදනී.\n\nExynos 2500 Samsung Foundry හි 2nd-gen 3nm ක්‍රියාවලි නෝඩය මත නිපදවන බව ද පැවසේ. එය TSMC හි 3nm (N3B) ක්‍රියාවලි තාක්ෂණයට වඩා හොඳ බව වාර්තා වෙනව.\n\nඉදිරියට එන Snapdragon 8 Gen 4 හි Nuvia නිර්මාණය කරන ලද Oryon CPU මධ්‍යයන් ඇතුළත් විය හැකි බව Qualcomm සමාගම පවසා තිබෙනව. එය TSMC හි වැඩිදියුණු කළ 3nm ක්‍රියාවලි නෝඩය මත ගොඩනගා ඇති අතර, එය CPU ක්‍රියාකාරිත්වයේ නව මිණුම් ලකුණක් සැකසීමට ඉඩ සලසයි.\n\nකෙසේ වෙතත්, නවතම Exynos 2400 මෙම වසරේ ඉතා හොඳින් පවත්වා ගෙන ගොස් ඇති අතර, ලබන වසරේද Samsung විසින් තරඟකාරී චිප්සෙට් එකක් සංවර්ධනය කරනු ඇතැයි අපි අපේක්ෂා කරමු.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:59:15.329328",
+  "headline": "මීළගට නිකුත් වීමට නියමිත Exynos 2500 චිප්සෙට් එක පිළිබද තොරතුරු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chipset",
+    "exynos",
+    "samsung"
+  ],
+  "url": "https://www.pcguide.lk/details-about-exynos-2500/",
+  "word_count": 182
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "ඔයාලට WhatsApp use කරනකොට, සමහරවිට කෙනෙක්ගෙන් important message එකක් ලැබෙනවා, ඒත් ඒකට reply කරන්න හිතුවත් එය මතක නැතුව යනවා නේද?  දැන් ඔයාගේ ඒ ගැටලුවට හොඳම විසඳුමක් WhatsApp වෙතින් අරගෙන එන්න සූදානම්. ඒ තමයිchat notification reminderඑක.\n\nමේ කියන්නේ, ඔයාට ලැබෙන message එකක් පසුව reply කරන්න කියලා හිතෙන විට යොදාගන්න පුලුවන්, ඒකට reminder එකක් set කරගන්න system එකක්. මෙතෙක් WhatsApp එකේ message එකක් mark කරගන්න “star” එකක් තිබුණත්, ඒක direct notification එකක් මගින් ලබාදුන්නෙ නැහැ. නව feature එකෙන්, message එකක් long-press කරාම “Remind me” කියන option එකක් දැන් දැක්වෙනවා.\n\nඔයාලට reminder එක set කරන්න පුළුවන්  15 minutes, 2 hour, 8 hours වගේ preset times වලින් හෝ custom time එකක් දාලා. ඒ අනුව, ඒ වේලාවෙදි ඔයාට phone එකෙන් notification එකක් එනවා. මේක calendar reminder එකක් වගේ, හැබැයි message එකකටම සම්බන්ධ වෙලා තියෙන්නෙ.\n\nමේ feature එක දැන් Android beta version 2.25.11.14 වලදි අත්හදා බලනවා. ඒ කියන්නේ, මේ වගේ අලුත්ම features use කරන්න නම් ඔයා beta tester කෙනෙක් වෙන්න ඕන. එහෙම නැත්නම්, ටික දවසක් ඉඳලා official update එක rollout වෙනකන් බලා සිටින්න වෙනවා. iPhone පරිශීලකයන්ට නම් මේක තවම ලැබිල නැහැ.\n\nඔයාලට මේ reminder එක useful වෙයි කියලා හිතෙන්න පුළුවන් ගොඩක් අවස්ථා තියෙනවා. උදාහරණයක් විදිහට, වැඩ කරනකොට group message එකක් ලැබුනොත්, ඒකට වැඩේ ඉවරවෙලාම reply කරන්න හිතනකොට reminder එකක් දාගන්න පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:37:06.086047",
+  "headline": "පණිවිඩ වලට රිප්ලයි කරන්න මතක් කරන WhatsApp",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "chat",
+    "messaging",
+    "new feature",
+    "whatsapp"
+  ],
+  "url": "https://www.pcguide.lk/whatsapp-new-chat-notification-reminder-feature/",
+  "word_count": 205
+}

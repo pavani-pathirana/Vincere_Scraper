@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "මේ වෙනකොට පරිගණක දත්ත ගබඩා කිරීම සදහා ඇති වේගවත්ම Memory  වර්ගය වෙන්නෙ SSD – Solid State Drive. ඊටත් වඩා 10 ගුණයක් වේගවත් memory එකක් intel සමාගම හදුන්වා දුන්නා. දැනට පවතින DRAM සහ SSD වෙනුවට ලගදීම intel optane මතකය භාවිතා වෙන බවට intel සමාගම අනුමාන කරනව.\n\nMicron සමාගම සහ intel සමාගම එක්ව නිර්මාණය කල 3D Xpoint යන තාක්ෂණය භාවිතා කරමින් මතකය ගබඩා කරන cells ත්‍රිමාණ අවකාශයක සැකසීම සිදුකර තිබෙනව. දැනට 16 GB හා 32GB ප්‍රමාණ වලින් පමණක් නිකුත් වෙන මේ මතකය දැනට පද්ධති වේගවත් කරන cache මතකයන් ලෙස භාවිතා කරන්න පුලුවන්. මේ වසරෙදි main storage ලෙස පාවිච්චි කරන්න පුලුවන් වැඩි capacity සහිත intel optane memory නිකුත් කරන බව සදහන් උනා.\n\nමේ intel Optane memeory එක දැනට ක්‍රියාත්මක වෙන්නෙ නවතම intel kabylake CPU සහිත පරිගණක වල පමණයි. පරණ intel skylake, Broadwell සහ AMD CPU සහිත පරිගණක වලට මෙය support කරන්නෙ නැහැ. optane වල ජනප්‍රියත්වය මත මෙය වෙනස් වෙන්න පුලුවන්.\n\n2017 දෙවන කාර්තුවෙදි high capacity Optane SSD හදුන්වා දීමෙන් පස්සෙ RAM වල DIMM slot වලට ගැලපෙන විදිහටත් මෙය හදුන්වා දෙන බවත් එය දැනට තිබෙන RAM වලට වඩා වේගවත් සහ power off වෙලාවටත් දත්ත ගබඩා කරල තියාගන්න හැකියාව ඇති නිසා computers instant switch on තත්වයකට එනු ඇති බවටත් මත පලවෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:56:17.071910",
+  "headline": "SSD සහ RAM වලට වඩා 10 ගුණයක් වේගවත් Optane!",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "Intel",
+    "memory",
+    "ram",
+    "ssd",
+    "storage"
+  ],
+  "url": "https://www.pcguide.lk/ssd-%e0%b7%83%e0%b7%84-ram-%e0%b7%80%e0%b6%bd%e0%b6%a7-%e0%b7%80%e0%b6%a9%e0%b7%8f-10-%e0%b6%9c%e0%b7%94%e0%b6%ab%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b7%80%e0%b7%9a%e0%b6%9c%e0%b7%80%e0%b6%ad%e0%b7%8a-opta/",
+  "word_count": 196
+}

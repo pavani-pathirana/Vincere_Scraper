@@ -1,0 +1,18 @@
+{
+  "author": "Lakshan-PCguide.lk",
+  "body": "AMD සමාගම පසුගිය මාස කිහිපය තුල පෙරලිකාර නිශ්පාදන පෙලක් වෙලදපලට නිකුත් කලා පරිගණක පරිශීලකයන් වෙනස්ම ආරකට හරවමින් සහ Intel සමග තරගාරි මිල සහ තරගකාරි වෙලද භාන්ඩ රැසකින්. මෙහිදී අප කවුරුත් දන්න් AMD සමාගමෙ Graphic Card එකක් වෙන Radeon 7 සහ පිලිවෙලට ඉන් පසුව AMD Navi RX5700 සහ RX 5700X යන Graphic Card මාදිලි ද වෙලදපලට නිකුත් කලා ඒ වගේම ඒ සමගම Ryzen පරම්පරාවෙ අලුත්ම Processors මාදිලි පෙලද RYZEN 3rd Gen නමින් ඔවුන් වෙලදපලට එලි දැක්වුවා.\n\nකෙසේ වෙතත් AMD සමාගම විසින් Ryzen 3rd Gen සදහා ඔවුන් නිකුත් කලේ ඔවුන්ගෙ High End Chip Set සහිත X570 Motherboard මාදිලිය පමණයි. අනෙකුත් මාදිලියන් සදහා ඔවුන් පැරනි chip Set සහිත motherboards BIOS Update කිරීම මගින් භාවිතා කල හැකි බව පැවසුවත් Ryzen 3rd gen Processor පරම්පරාවෙ ඇති නව තාක්ෂණික වෙනස්කම් වන 4th gen PCI e වේගවත් graphic සහ SSD performance අත්විදීමට මේ හරහා නොහැකි වීම නිසා නව 3rd Gen RYZEN අත්විදීම සම්පූර්ණ කරගැනීමට නම් අනිවාර්යෙන්ම මිළ අධික  X570 Chip set සහිත Motherboard තෝරගැනීම හැර වෙනත් විකල්පයක් නැහැ.\n\nමෙම ගැටළුවට පිළියමක් ලෙස AMD සමාගම විසින් මෙම වසර අවසානයේදී එම සමාගමෙ Ryzen 3rd Gen සදහා අදල වෙන Mid Range සහ Lower Range පරිගනක සදහා යොදා ගත හැකි නව Chip Set සහිත B550 සහ A520 යන මාදිලි වලින් Chipset සහිත motherboard වර්ග එලිදැක්වීමට නියමිතව තිබෙනව.\n\nමෙහි විශේෂත්වය වෙන්නෙ මේ නව B550 සහ A520 Chipset වල PCIe 4.0 තාක්ෂණය අන්තර්ගත නොවීම. මේ පහසුකම ලබාගන්න නම් අනිවාර්යෙන්ම X570 වැඩි මිළ Chipset එකට යන්න වෙනව. නමුත් PCI e 4 කියන්නෙ මේ වෙනකොටත් ඉතා මිළ අධික SSD පමණක් නිකුත් නෙක තාක්ෂණයක්. ඉතින් budget එකට PC එකක් හදන කෙනෙකුට අලුත්ම RYZEN 3rd gen CPU එකක් සමග PCI e 3.0 වේගයන් තියෙන Motherboard එකක් භාවිතා කිරීම ගැටළුවක් වෙන්නෙ නැහැ.\n\nAMD Navi Graphic පරම්පරාවෙ ඉදිරියට යමින් නව Graphic Card මාදිලි කිහිපයක් එලි දැක්වීමට නියමිතව තිබෙන බව අන්තර්ජාලයෙ සදහන් වෙනව. විශේෂයෙන්ම Low end පරිගනක සදහා අඩු මුදලකට සරිලන පරිදි Graphic Card එකක අත්දැකීම පරිශීලකයාට ලබාදීමට AMD සමාගම සෑම විටම උත්සහ කරන අතරම මේ නව පරම්පරාවෙ ද Low Budget සහ Mid Range වගේම High End Graphic Card කීපයක්ද වෙලදපලට හදුන්වාදීමට නියමිතව තිබෙනව. මේවා අප දන්න  RX5700 සහ 5700X වලට අමතරව\n\nRX 5500 Series = Low ENDRX 5600 Series = Mid RangeRX5700 Series = Higher Mid RangeRX5800 Series = HIGH END\n\nමෙහිදී දැනට ලැබී ඇති තොරතුරු අනුව AMD සමාගම් 5800 series එකේ Graphic Card එකක performance අතින් RTX 2080Ti Card එකකට සමානවම නිපදවා වෙලදපලට එක් කිරීමට බලාපොරොත්තු වෙන අතර මිල යම්තාක් දුරට Nvidia සමාගමෙ නිශ්පාදනයන්ට වඩා අඩු අගයක් ගනිවී යැයි බොහෝ දෙනෙක් අනුමාන කරනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:48:24.494026",
+  "headline": "AMD සමාගම අලුත් RYZEN 3000 Chispet සහ Navi GPU නිකුත් කිරීමට සැරසේ",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "navi",
+    "RYZEN",
+    "ryzen 3000"
+  ],
+  "url": "https://www.pcguide.lk/amd-release-new-motherboards-graphic-cards-leaked/",
+  "word_count": 405
+}

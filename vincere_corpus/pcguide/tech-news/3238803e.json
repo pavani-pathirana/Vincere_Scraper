@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "Gigabyte සමාගම විසින් ඔවුන්ගේ Intel සදහා නිකුත් කර ඇති Z690, B660 සදහා නවතම intel XMP suypport එක සහ නවතම AMD Motherboards සදහා AMD EXPO Memory support එක ලබාදී ඇති බව නිවේදනය කරා. මේ සමගම අළුත්ම AMD RYZEN සහ Intel platforms සදහා DDR5 RAM Support එක සමග Gigabyte සමාගම නවතම තාක්ෂණයන්ට සහය දැක්වීමේ පෙරමුනේ සිටිනව.\n\nAMD සමාගම ඔවුන්ගේ නවතම AM5 Platform එක නිවේදනය කිරීමත් සමගම DDR5 RAM සහය සහ DDR5 memory accelerating with built-in overclocking profiles ලෙස දක්වන AMD EXPO Memory Standard එකත් නිවේදනය කරා. මෙය intel XMP වගේම Easy RAM Overclocking සදහා AMD Compatibility එකට ලබාදුන් standard එකක්.\n\nදැනටමත් Intel XMP සහ AMD EXPO සදහා සහය දක්වන DDR5 RAM Market එකට නිකුත් වී ඇති අතර – Gigabyte සමාගම විසින් මෙම නවතම සහයන් ඔවුන්ගේ Motherboard වලට එක් කර ඇති බවට නිවේදනය කරන්නෙ නවතම තාක්ෂණයන් තමන්ගේ නිෂ්පාදන වලට එක් කිරීමේ පෙරමුණේ සිටින සමාගමක් ලෙසයි.\n\nදැනට නිකුත් කර ඇති Gigabyte Z690 – B660 Motherboard සදහා මෙම නවතම සහයන් ඉදිරියේදී BIOS Update ලෙස ලබාදීමටත් Gigabyte සමාගම කටයුතු කරමින් සිටිනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:30:17.326625",
+  "headline": "XMP 3.0 සහ AMD EXPO සමග එන GIGABYTE Motherboards",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "am5",
+    "AMD",
+    "expo",
+    "gigabyte",
+    "Intel"
+  ],
+  "url": "https://www.pcguide.lk/gigabyte-announces-amd-am5-expo-support-on-motherboards/",
+  "word_count": 165
+}

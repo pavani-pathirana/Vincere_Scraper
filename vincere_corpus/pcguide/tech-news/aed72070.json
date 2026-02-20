@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "බැංකුවෙන් Gmail වලින් එහෙමත් නැත්නම් Facebook එකෙන් එන OTP වලින් SMS inbox එක පිරිල තියෙනවනම් මේක හොද ආරංචියක් වේවි.\n\nOTP එහෙමත් නැත්නම් One Time Passwords කියන්නේ අපේ Facebook, Gmail, Bank Accounts වගේ හැම දෙයකම ආරක්ෂාව වැඩි කරන්න භාවිතා වෙන සරල උපක්‍රමයක්. යම් කිසි Online ගිණුමකට Log වෙන්නෙ අපිමද කියල සැකහැර දැනගන්න අපේ Mobile Phone එකට එවන සීමිත කාලයකට විතරක් Active වෙලා තියෙන Random Codes නිසා අපට තවදුරටත් Passwords මතක තියාගන්න වගේම කාලෙන් කාලයට මේව update කරන්න අවශ්‍ය වෙන්නෙ නැහැ.\n\nමේ OTP ක්‍රමය කොතරම් සාර්ථකද කියනවනම් මේ වනවිට Online Banking වගේ සංකීර්ණ දේවල් වලින් ආරම්භ වෙලා Game Account වලට පවා මේ OTP ක්‍රමය භාවිතා වෙනව. මේ සාර්ථකත්වයත් එක්කම මේ OTP Messages විශාල ගණනින් අපේ දුරකථන වල පිරෙන්න ගන්නව. මේක දැන් තිබෙන Storage එක්ක ලොකු ගැටළුවක් නොවුනට කාලයත් එක්කම මේ එකතුවීම කරදරයක් වෙන්න පුළුවන්.\n\nGoogle සමාගම තමන්ගෙ Google Messages සේවාවට OTP Auto Delete හැකියාව එකතු කරන්න මේ වනවිට කටයුතු කරගෙන යන බව Google Messages 6.7.067 Package APK එක විශ්ලේෂණය හරහා දැනගන්නට ලැබිල.  මේ නව සංස්කරණය තුල පහත කේතය අඩංගු වෙනව\n\nමේ කේතයන් Codes අනුව Google Messages තමන් වෙත ලැබෙන OTP Codes පැය 24කින් පසු Auto Delete කර දැමීමේ පහසුකමක් හදුන්වා දෙන්න බලාපොරොත්තු වෙනව. විනාඩි 10ක් විනාඩි 30ක් වගේ කාලයක් පමණක් Active වෙන මේ OTP බොහෝ දෙනෙකුට Delete කර දමන්නට අමතක වීම නිසා මෙය ඉතා හොද පිළියමක් වෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:45:16.718195",
+  "headline": "OTP ස්වයංක්‍රීයව මකන Google Messages",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "google",
+    "phone",
+    "smart"
+  ],
+  "url": "https://www.pcguide.lk/google-messages-deleting-otp-codes/",
+  "word_count": 215
+}

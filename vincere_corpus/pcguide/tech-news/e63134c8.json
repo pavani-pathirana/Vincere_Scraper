@@ -1,0 +1,19 @@
+{
+  "author": "Lakshan-PCguide.lk",
+  "body": "අපි හැමෝම HDD, SSD, USB Drive විදිහට Storage Device පාවිච්චි කරනව, ඉතින් මේ හාඩ් ඩිස්ක් වල විවිද ආකරයෙ මාදිලි තියෙනව. මේ කියන්න යන්නෙ මේ වෙනකොට ලෝකයේ Consumer level එකේ වේගවත්ම Storage device එක ගැන.\n\nGigabyte සමාගම විසින් වෙලදපලට නිකුත් කිරීමට නියමිත මෙම නිශ්පාදනය මෙතෙක් වෙලදපලෙ මිලදී ගැනීමට තිබෙන අනෙකුත් සියලුම NVMe උපාංග වලට වඩා වේගවත් වන බව තමා එම සමාගම කියන්නෙ. AORUS NVMe Gen4 SSD විදිහට නම් කරල තියෙන මේ SSD එක අලුත්ම PCIe 4 තාක්ෂණය යටතේ එන පරිගණක වල (දැනට මේ PCIe 4 තාක්ෂණය හදුන්වා දෙන්නෙ RYZEN 3 වෙනි පරම්පරාව සහ X570 Motherboard එක්ක) භාවිතා කරල දැන් තිබෙන වේගවත්ම Storage Transfer Speeds ලබාගන්න පුලුවන් කියල Gigabyte සමාගම ප්‍රකාශ කලා.\n\nසාමාන්‍ය SSD / NVMe සහ මෙම අලුත් PCIe 4 SSD එකේ දත්ත ලිවීම හා කියවීමේ වේගයන් පහත පරදි දක්වන්න පුලුවන්.\n\nමේත් සමගම Multimedia වැඩ කරන අයට සහ Gaming / Streaming කරන අයටත් තවත් වේගවත් ලෙස තමන්ගෙ කටයුතු කරන්න අවස්ථාව ලැබෙනව. ඒ වගේම AMD සමාගමේ X570 Motherboard මේ අලුත්ම PCIe 4 තාක්ෂණය සමග එන නිසා ඒ අලුත්ම Motherboard නිකුත් කරන්නත් gigabyte සමාගම සූදානම් වෙලා ඉන්නව.\n\nPlay Station Gaming Console එක නිෂ්පාදනය කරන SONy සමාගම තමන්ගෙ අලුත්ම PS5 එක සදහාත් මෙම නවතම අධි වේගවත් NVME 4.0 පාවිච්චි කරන්න සූදානම් වෙනව කියල ආරංචි වෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:49:09.634261",
+  "headline": "PCIe 4 තාක්ෂණය සමගින් එන අති වේගවත් GIGABYTE SSD",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "CPU",
+    "gigabyte",
+    "nvme",
+    "pcguidelk"
+  ],
+  "url": "https://www.pcguide.lk/gigabyte-introduces-pcie-4-nvme-ssd/",
+  "word_count": 201
+}

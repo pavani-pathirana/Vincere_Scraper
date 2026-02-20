@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "Google ආයතනයේ ප්‍රධාන desktop මෙහෙයුම් පද්ධතිය Chrome OS වුනත් ලෝකයේ වැඩිම දෙනෙක් භාවිතා කරන desktop මෙහෙයුම් පද්ධතිය වෙන්නෙ Windows කියන එක කවුරුත් පිලිගන්න දෙයක්. ඉතින් Google ආයතනයත් Android devices වලට සංවර්ධනය කරපු Nearby Share පහසුකම Windows devices වලටත් native ලෙස ලබාදෙන්න සූදානමක් තියන බව මේ අවුරුද්දෙ CES වලදි නිවේදනය කරා. මේක Apple devices වල තියන AirDrop පහසුකමට විකල්පයක් ලෙස Android හා Windows devices වල පාවිච්චි කරන්න හැකිවේවී.\n\nGoogle ආයතනය කියන විදිහට මේ පහසුකමෙන් Android දුරකථන සහ සහය දක්වන Windows පරිගණක අතර Fast Pair භාවිතයෙන් ඉක්මනින් සහ පහසුවෙන් සම්බන්ධතාවයක් ආරම්භ කරන්න හැකියාව තියනවා. ඊට පස්සෙ Bluetooth උපාංග වලට සම්බන්ධ වෙන්නත් Nearby Share භාවිතා කරල text messages sync කිරීමටත් file share කිරීමටත් පුලුවන්.\n\nතවමත් මේ පහසුකම සම්බන්දයෙන් සම්පූර්ණ විස්තරයක් Google ආයතනය කියල නැතත් ඔවුන් ප්‍රකාශ කරල තියනව විවිධ පරිගණක නිශ්පාදකයන් සමග ඔවුන් වැඩ කටයුතු කරගෙන යනව කියල මේ පහසුකම ඔවුන්ගෙ Windows පරිගණක වලට මේ අවුරුද්දෙ අන්තිම වෙද්දි ලබාදෙන්න. ඒ නිශ්පාදකයන් අතර Acer, HP, සහ Intel වගේ නිශ්පාදකයන් ඉන්නවා.\n\nකාලයක ඉඳන් Google විසින් Nearby Share පහසුකම PC වලට ලබාදෙන්න උත්සහ කරගෙන යනවා. ගිය අවුරුද්දෙ ජූලි වලදි Nearby Share පහසුකම Windows මෙහෙයුම් පද්ධතියේ Google Chrome සංස්කරණය සඳහා ලබාදෙන්න සූදානම් වුනත් ඒක සාර්ථක වුනේ නෑ. නමුත් මේ අලුත් වැඩකටයුත්තත් එක්ක Google Chrome නැතුව native විදිහට Windows පරිගණක සඳහා Nearby Share පහසුකම ලබාදෙන්න හැකිවේවී.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:34:44.753931",
+  "headline": "Android Nearby Share පහසුකම Windows පරිගණක වලටත් ලබාදීමේ සූදානමක්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "android",
+    "feature",
+    "nerby share",
+    "smart phone",
+    "windows"
+  ],
+  "url": "https://www.pcguide.lk/android-nearby-share-announced-for-windows/",
+  "word_count": 208
+}

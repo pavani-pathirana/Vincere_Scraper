@@ -1,0 +1,19 @@
+{
+  "author": "Priydarshana",
+  "body": "Motherboard නිෂ්පාදකයකු වන Biostar සමාගම ECC (Eurasian Economic Commission) වෙත තමන්ගේ අළුත්ම intel 13th gen සදහා වන Motherboard නම් Register කිරීමක් වාර්ථා වෙනවා. BiostarZ790 Valkyrie, Z790 Racing GTA, andZ790-A Silverකියන මේ නම් සමගින් intel සමාගමේ මීලග Generation එක සදහා අළුත්ම Motherboards මිළදී ගැනීමට සිදුවේවි දැයි සැකයක් මතුවෙනවා.\n\nintel සමාගම තමන්ගේ 12 වන පරම්පරාවේ CPU නිකුත් කරේ 2021 අන්තිමේදියි. ඒ සමගම ඔවුන් තමන්ගෙ මීලග Raptor lake Generation එකේ Testing පටන් ගත් බවත් සදහන් කරා. මේ සමගම 2022 අවසානයේ intel 13th generation එක නිකුත් කරන බවත් පැවසූ intel සමාගම මෙතරම් කෙටි කලක් තුල Motherboard මාරුවකට යාම ගැටළු සහගත එකක් වෙනවා.\n\nමේ නව CPU සදහා නව Chipsets එහෙමත් නැත්නම් Motherboards වලට යාමට ප්‍රධාන හේතුව intel Raptor lake CPU වල ඇති DLVRDigital Linear Voltage Regulatorපහසුකමයි. මේ හරහා අඩු Voltage එකක් යටතේ වැඩි performance එකක් ලබාදීමේ උත්සහයක intel සමාගම නිරත වෙනවා.\n\n13 වන පරම්පරාවේ intel Raptor lake CPU වල Cores 24 දක්වා උපරිමයකට යාම වගේම high speed DDR 5 RAM support එකත් ඇතුලත් වෙනව. කෙසේ වෙතත් දැනට ඇති LGA 1700 Socket එකම මෙයට භාවිතා වෙන නිසා – 12th gen Motherboards වලට මෙම 13th gen CPU backward Compatible වේවිද යන්න ගැන තවමත් අදහසක් නැහැ.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:34:19.612304",
+  "headline": "intel 13 Gen ගැන තොරතුරු Leak වෙයි",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "13 gen",
+    "Intel",
+    "leaked",
+    "motherboard",
+    "raptor lake"
+  ],
+  "url": "https://www.pcguide.lk/intel-raptor-lake-details-leaked/",
+  "word_count": 188
+}

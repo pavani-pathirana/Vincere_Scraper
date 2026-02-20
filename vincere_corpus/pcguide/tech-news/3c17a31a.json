@@ -1,0 +1,18 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "සති කිහිපයකට පෙර සිට ගූගල් සමාගම විසින් ඔවුන්ගේ assistant වැඩසටහන වුනු Google Assistant වැඩසටහන, Gemini AI වෙත මාරු කරනු ලැබුවා. දැන් බොහොමයක් ඇන්ඩ්‍රොයිඩ් දුරකතන වල තිබෙන්නෙ Gemini AI චැට්බොට් වැඩසටහනයි.\n\nGoogle Assistant මගින් සිදුකරපු දේවල් සියල්ලක්ම Gemini AI මගින් කලහැකි වුනත් තවමත් වැඩිදියුනු වියයුතු විශේෂාංග රැසක් එහි තිබෙනවා. ඒ අතර මීටපෙර Google Assistant මගින් YouTube Music ඇප් එකෙන් ගීතයක් සර්ච් කිරීම සහ ප්ලේ කිරීම සිදුකල හැකිවුනා. නමුත් මෙම පහසුකම තවමත් Gemini AI වල නැහැ.\n\nනව අප්ඩේට් එකකින් ගූගල් සමාගම සැරසෙන්නෙ YouTube Music extension එකක් Gemini AI වලට ලබාදීමටයි. මෙය Google app v15.17.28.29.arm64 වල දැනට අඩංගු වෙනවා. මෙය Extensions menu එක තුලින් සක්‍රීය කරගැනීම කලයුතු වෙනවා.\n\nමෙමගින් ඔබට සංගීතය වාදනය කිරීමට සහ ගීත, ධාවන ලැයිස්තු, කලාකරුවන් සහ ඇල්බම සෙවීමට AI චැට්බෝට් යොදාගන්න පුලුවන්. ඒවගේම ඔබගේ වර්තමාන මනෝභාවය මත පදනම්ව නව ගීත සොයා ගැනීමට බාවිතා කිරීමේ හැකියාවත් තිබෙනවා.\n\nමෙම YouTube Music extension එක ඔබට සෙවීම් සහ විමසුම් සඳහා Gemini සමඟ මෙම සේවාව භාවිතා කිරීමට පමණක් ඉඩ දෙනවා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:38:15.265256",
+  "headline": "Gemini මගින් හැසිරවිය හැකි YouTube Music",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "google",
+    "music",
+    "youtube"
+  ],
+  "url": "https://www.pcguide.lk/google-geminis-youtube-music-extension/",
+  "word_count": 155
+}

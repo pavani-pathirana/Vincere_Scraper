@@ -1,0 +1,17 @@
+{
+  "author": "Priydarshana",
+  "body": "බොහොම ලේසියෙන් ඔයාගෙම Gaming channel එකක් පටන් ගන්න පුලුවන් OBS studio ගැනයි මේ කියන්න යන්නෙ. ඔයා ආසාවෙන් ගහන Games වලට සිංහලෙන් විස්තරයක් දෙන ගමන් එහෙමත් නැත්නම් ඔයා දන්න Software ගැන විස්තර කරන ගමන් Screen එක Record කරගන්න මේ Software එකෙන් පුලුවන්.\n\nඑහෙනම් පළවෙනියටම කරන්න තියෙන්නෙ OBS software එක නොමිලේම මෙතනින්Downloadකරගන්න එක.– link –\n\nTutorial වලට Desktop එක Capture කරන හැටි\n\nOBS එක open කරාම ඔයාට එන්නෙ මේ වගේ Blank scene එකක්. මේකට Desktop / webcam / Audio capture දාගන්න ඕන.\n\nපලවෙනියටම අපි අලුත් scene එකක් හදාගන්න ඕන. මේකට scene (පහල වම් පැත්තෙ කොටුව) තියෙන + ලකුණ click කරල අලුත් scene එකක් හදාගන්න, අපි මේකට Desktop capture කියල නම්කරගමු.\n\nදැන් අපි මේකට Sources වලින් Display Capture එකක් Ad කරගමු.\n\nමේ Display Capture එකට මම Screen කියල නම් කරනව පස්සෙ හොයාගෙන වෙනස් කම් කරන්න ඕන උනොතින්.\n\nදැන් ඔයාට Screen එක තෝරන්න එනව. Monitor එකකට වඩා තියෙන Setup එකක් එහෙම නම් මෙතනින් අවශ්‍ය Display එක තෝරන්න.\n\nදැන් අපි system එකේ Windows sound out එකත් මේකට එකතු කරමු. මේකට Sources වලින් Audio output capture තෝරන්න.\n\nඑතනින් එන Window එකේදි මේ Sound එක මොකක්ද කියල හොයාගන්න නම් කරන්න. මොකද Sound out, mic record වගේ ගොඩක් තිබ්බොත් හොයාගන්න ලේසි නිසා.\n\nදැන් ඔයාට තෝරන්න පුලුවන් මොන Sound එකද record වෙන්න ඕන කියල. මේකට තෝරන්න ඕන ඔයාගෙ System sounds ඇහෙන out එකයි.\n\nදැන් ඔයාගෙ Display Capture කරන්න setup එක හරි. මේක පාවිච්චි කරල Tutorials වගේ දේවල් record කරගන්න පුලුවන්. හැබැයි මේකෙන් Games record වෙන්නෙ නැහැ.\n\nGame play Video record කරන හැටි.\n\nඅලුත් Scene එකක් Add කරගන්න. මේකට අපි Game capture කියල නම් කරමු.\n\nදැන් Sources වලින් Game capture තෝරන්න.\n\nහරි මේකට ඔයාලට ඕන නමක් දෙන්න පුලුවන්. මම මේක Game capture කියල නම් කරා.\n\nදැන් තියෙන්නෙ record වෙන්න ඕන මොකක්ද කියල තෝරන්නයි.\n\nමෙතනදි Capture any full screen application කියන එක තෝරන්න. එතකොට ඔයාල start recording කරල Game එක ගහන්න පටන් ගත්තම full screen එකේ run වෙන Game එක record වෙන්න පටන් ගන්නව. ඒ වගේම soucres – sound output එකත් Add කරගන්න. ප්‍රධාන recording එකට කලින් test record ටිකක් කරල Screen record / sound record වෙනවද බලන්න.\n\nඔයාට මේ ගැන තියෙන ප්‍රශ්න අපේ කතාබහට එකතු වෙලා අහන්න මේTopicඑක හරහා.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:52:24.314518",
+  "headline": "තමන්ගෙම Gaming Channel එකක් පටන් ගමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "gaming",
+    "pcguidelk",
+    "software"
+  ],
+  "url": "https://www.pcguide.lk/obs-studio-gaming-channel-youtube/",
+  "word_count": 349
+}

@@ -1,0 +1,18 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Microsoft සමාගම නවතම නිවේදනයක් නිකුත් කරමින් පවසා තිබුනේ වින්ඩෝස් 11 RAR ෆයිල් සදහා සහය දක්වන ලෙස නිකුත් කරන බවයි. මෙය වින්ඩෝස් පරිශීලකයන් දිගු කාලයක ඉදන් බලන් සිටි විශේෂාංගයක්. සමාගම පවසන ආකාරයට මෙ‍ය tar, 7-zip, rar, gz ඇතුලු තවත් ෆයිල් වර්ග ගණනාවක් සදහා සහය දක්වනව. මෙමගින් දැන් වින්ඩෝස් පරිශීලකයන්ට compress ෆයිල් වලින් වැඩිදියුනු කල performance ලබාගත හැක.\n\nකෙසේනමුත් මෙම RAR support එක වින්ඩෝස් 11 සමග කුමන දිනක නිකුත් කරයිදයන්න පිලිබදව තවමත් නිශ්චිත තොරතුරක් නැහැ. නමුත් මෙය ඉදිරියෙදි නිකුත් වෙන වින්ඩෝස් 11 අප්ඩේට් එකත් සමග පැමිනේවියැයි බලාපොරොත්තු වෙන්න පුලුවන්. දැනට Windows 11 සහ 10 වලදි File Zip කිරීමට තිබෙන option එක වගේම RAR පහසුකමත් එක්වනු ඇති.\n\nමෙම නව RAR support පහසුකම ලබාදීම ඉතාමත් හොද දෙයක්. මෙතෙක් කල් වින්ඩෝස් පරිශීලකයන් RAR ඇතුලු compress ෆයිල් සදහා බාවිතා කලේ තුන්වැනි පාර්ශවීය ඇප් පමනයි. නමුත් මෙම අප්ඩේට් එක මගින් tar, 7-zip, rar, gz ඇතුලු අනෙක් compress ෆයිල් වර්ග සියල්ලක්ම සමග පහසුවෙන් වැඩකරගත හැකි වෙනව.\n\nUs right now.#Windows11pic.twitter.com/t8WnXaWyZa\n\nමේ සමගම මින් පෙර වෙනම App එකක් ලෙස ලබාගත් Winzip Software එකට අත්වූ ඉරණම winRAR වලටත් ඇතිවිය හැකිබවට සැක කල හැකියි. නමුත් Windows 11 තුලදී WinRAR වල මෙන් Options ලැබේදැයි අනුමාන කල නොහැකි වෙනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:23:58.674484",
+  "headline": "Windows 11 වල Built in එන RAR file Support එක",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "microsoft",
+    "OS",
+    "rar",
+    "windows 11"
+  ],
+  "url": "https://www.pcguide.lk/rar-tar-gzip-compression-native-support-on-windows11/",
+  "word_count": 185
+}

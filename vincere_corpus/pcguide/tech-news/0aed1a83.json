@@ -1,0 +1,19 @@
+{
+  "author": "PCG author",
+  "body": "පසුගිය ඔක්තෝබර් 05 දින නිල වශයෙන් නිකුත් කරන ලද Windows 11 මෙහෙයුම් පද්ධතිය AMD Ryzen CPU සමඟ ක්‍රියා කිරීමේදී ගැටලු ඇතිවීමේ හැකියාවක් තිබෙන බව සඳහන් කරමින් AMD සමාගම නිවේදනයක් නිකුත් කර තිබේ.\n\nමේ වනවිට AMD සහ Microsoft විසින් Windows 11 හි Ryzen CPU හා සම්බන්ධ ප්‍රධාන ගැටළු දෙකක් හඳුනා ගෙන ඇත.  ඒ අනුව,\n\nAMD Ryzen CPU හි Level 3 cache මතකය RAM හි දත්ත ප්‍රවේශ වී නැවත ලබා ගැනීමේදී ඇතිවන ප්‍රමාදය (Level 3 cache latency) තුන් ගුණයකින් වැඩිවීමට Windows 11 හේතු විය හැක.AMD සමාගම පවසන්නේ මෙම ගැටළුව නිසා බොහෝ පරිගණක යෙදුම් වලදී CPU Performance 3%-5% කින් අඩු වීමටත්, සමහර පරිගණක ක්‍රීඩා වලදී  CPU Performance 10%-15% කින් පහත වැටීමට හැකි බවයි\n\nAMD හි Zen 2 microarchitecture එක මත පදනම් වූ CPU වල cores සමඟ ඇති නොගැලපීමක් නිසා වැඩි CPU ධාරිතාවක් අවශ්‍ය වන කාර්යයන් සිදුකිරීමේදී ගැටළු ඇතිවීමේ ප්‍රවණතාවක් පවතී. මේ ප්‍රශ්නය Zen 2 microarchitecture හි එක් විශේෂාංගයක් වන CPPC2 (Collaborative Power and Performance Control 2) Windows 11 සමඟ ක්‍රියා කිරීමේදී ඇතිවන්නකි. CPPC2, පරිගණකයේ UEFI (Unified Extensible Firmware Interface) හා මෙහෙයුම් පද්ධතිය අතර සම්බන්ධිකරණය වෙමින් threads (ක්‍රියා කරවිය හැකි කුඩාම පරිගණක උපදෙස් කේත පිළිවෙළ) CPU එකෙහි වේගවත්ම core එක වෙත යොමු කිරීම සිදුකරයි.\n\nවිශේෂයෙන් AMD සමාගම විසින් නිෂ්පාදිත cores ගණන 8 ට වඩා වැඩි, 65W ක තාපමය ක්ෂමතාවකින් (Thermal Design Power) යුතුව ක්‍රියා කරන CPU වල කාර්ය සාධන ගැටළු ඇතිවිය හැකි බවට AMD සමාගම අනතුරු අඟවයි.\n\nAMD සහ Microsoft යන සමාගම් දැනටමත් ප්‍රකාශ කර ඇත්තේ කර ඇත්තේ මෙසේ දෝෂ ඇති වීමට හේතුව සම්බන්ධයෙන් තවදුරටත් පරීක්ෂණ සිදුකරනවාත් සමඟම අදාළ ගැටළු software update එකක් හරහා විසඳීමට කටයුතු කරන බවයි. ඒ සඳහා අවශ්‍ය Windows updates හා software updates මේ මස අග දී ලබාදීමට සැලසුම් කර ඇති බව එම සමාගම් දන්වා සිටී.\n\nඑම නිසා ඔබගේ පරිගණකය AMD Ryzen CPU එකක් භාවිතා කරන පරිගණකයක් නම් අදාළ update එක මඟින් විසඳුමක් ලැබෙන තෙක් ඔබට Windows 11 වෙත upgrade කිරීම ප්‍රමාද කරන්නට සිදුවිය හැක.\n\nWindows 11 සඳහා සහාය දක්වන AMD CPUs ගැන විස්තරමෙතනින්…",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:37:31.851445",
+  "headline": "Windows 11 නිසා ඇතැම් AMD Ryzen CPU වල ගැටළු පැන නඟී",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "AMD",
+    "CPU",
+    "news",
+    "pcguidelk",
+    "RYZEN"
+  ],
+  "url": "https://www.pcguide.lk/amd-cpu-performance-loss-in-windows11/",
+  "word_count": 313
+}

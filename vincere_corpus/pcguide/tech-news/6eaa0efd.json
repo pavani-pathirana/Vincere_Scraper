@@ -1,0 +1,11 @@
+{
+  "author": "Priydarshana",
+  "body": "intel සමාගම තමන්ගෙ CPU එක්ක නිකුත් කරපු intel HD graphics වලින් ඉදිරියට යමින් Dedicated intel XE Graphic Cards නිකුත් කිරීම සදහා සූදානම්.\n\n2018 අවසානයේ ඉදන්ම intel සමාගම තමන්ගෙම Discrete Graphic Card එකක් ගැන විවිධ ඉගි නිකුත් කරා, ඒ වගේම Nvidia සහ AMD Radeon සමාගම් වල සේවය කරපු ප්‍රධානම සේවකයන් තමන්ගෙ නවතම Graphic Division එකට බදවා ගැනීමත් සිදු කලා.\n\nintel සමාගමේ Graphics & Visual Technologies අංශයේ marketing Chief වෙන Chris Hook තමන්ගෙ නවතම intel XE Graphic Card එක නිල වශයෙන් testing පටන් ගත්ත කියල තමන්ගෙ Twitter ගිණුම හරහා සදහන් කරල තිබුන.\n\n— Chris Hook (@GChip)October 24, 2019\n\nමේ intel GPu එක දැනට හදුන්වන්නෙ DG 1 විදිහටයි. මේ DG1 කියන්නෙ බොහෝවිට Development graphics 1 කියල තමයි දැනට සදහන් වෙන්නෙ. කොහොම උනත් මේ වෙනකොට intel සමාගම ප්‍රකාශ කරපු ආකාරයටම 2020දි තමන්ගෙ intel XE Graphics නිකුත් කරන්න හැම දෙයක්ම සූදානම් බව මේ නවතම නිල ප්‍රකාශය හරහා පැහැදිලියි.\n\nintel සමාගමට දැන් testing සහ ඒ හරහා තවත් Fine tune කරන්න මාස කීපයක් ඉතිරි වෙලා තියෙනව වගේම, ඉදිරි මාස කීපය තුල benchmark Test Leaks වලින් බොහෝ දුරට මේ අලුත් intel XE Graphics වල තරම හොයාගන්න අපට පුළුවන් වෙයි.\n\nදැනට Nvidia, AMD Radeon අතර තියෙන Graphic සටනට intel සමාගම මොන ආකාරයෙන් මැදිහත් වෙයිද කියන එක ඉතාමත් සිත් ඇදගන්න සුළු කාරනයක් වේවි. CPU නිෂ්පාදනයේ අත්දැකීම් සමග AMD සහ Nvidia සමාගමේ ප්‍රධාන නිර්මාතෘවරුන්ගේ සේවය හරහා නිකුත්වෙන මේ intel XE ගැන පරිගණක ලෝකයේ ප්‍රතිචාරයත් ඒ වගේම විශ්මයජනක වෙන්න පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:48:30.534028",
+  "headline": "Intel පළමු graphic Card එක Testing සදහා සූදානම්",
+  "source": "pcguide",
+  "url": "https://www.pcguide.lk/intel-ready-for-xe-graphics-testing/",
+  "word_count": 228
+}

@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "Midjourney කියන නම ඇහෙනකොටම අපිට මතකෙට එන්නෙ AI රූප නිර්මාණය කරන tool එකක්. දැන් ඒ සමාගම AI වීඩියෝ නිර්මාණය කරන ඔවුන්ගේ පලමු AI model එක හදුන්වා දී තිබෙනවා. “Midjourney V1” කියන නමෙන් හඳුන්වා දීපු මේ වීඩියෝ මෙවලමෙන්, පින්තූරයකට ජීවය දීලා ඒක සජීවී වීඩියෝවක් බවට පත් කරගන්න පුළුවන්.\n\nමෙහි වීඩියො එකක් generate කරගන්න ඔබට කරන්න තියෙන්නෙ AI-generated photo එකක් හෝ පරණ photo එකක් select කරලා, ඉන්පසුව Animate කියන button එක ක්ලික් කරන්න පමණයි. Midjourney ඒක auto-animate කරලා තත්පර 4-5ක video clips 4ක් generate කරනවා. ඒ clips එකට link කරලා, තත්පර 20ක වීඩියෝ එකක් හදාගන්නත් පුළුවන්.\n\nIntroducing our V1 Video Model. It's fun, easy, and beautiful. Available at 10$/month, it's the first video model for *everyone* and it's available now.pic.twitter.com/iBm0KAN8uy\n\nමේකෙ ඔබට prompting system එකක් භාවිත කරලා තමන් කැමති animation style එකක් හෝ දෘශ්‍ය චලනයක් නම් කරල generate කරගන්නත් පුළුවන්. උදාහරණයක් විදියට, “light wind moving tree leaves” වගේ prompt එකක් දුන්නාම, ඒක වගේ animation එකක් AI එක ලබාදෙනවා.\n\nමේ වගේ system එකක් භාවිත කරන්න V1 subscription එකක් අවශ්‍ය වෙනවා, ඒක මාසිකව $10 වගේ. එහෙම වුනත් video generation එක images වලට වඩා GPU power වැඩියෙන් ගන්න නිසා, හැම clip එකකටම credits වැඩියෙන් යනවා.\n\nV1 launch වුනාට පස්සෙ AI video generation field එකේ තවත් විශාල තරඟයක් ඇරඹිලා තියනවා. Midjourney CEO David Holz කියන ආකාරයට, ඔහුගේ දැක්ම වෙන්නේ, අනාගතයේදී Midjourney මඟින් real-time 3D world simulations හදාගන්න එක. ඒ කියන්නේ, simple animation එකක් නෙවෙයි. ඊට වඩා සංකීර්ණ  අපිටම නිර්මානය කරගෙන බාවිතා කරන්න පුලුවන් simulations.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:38:20.772119",
+  "headline": "Midjourney වෙතින් අලුත්ම Video Generating tool එකක්",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "artificial intelligence",
+    "midjourney",
+    "new feature",
+    "tech news"
+  ],
+  "url": "https://www.pcguide.lk/midjourney-releases-new-ai-video-generating-tool/",
+  "word_count": 238
+}

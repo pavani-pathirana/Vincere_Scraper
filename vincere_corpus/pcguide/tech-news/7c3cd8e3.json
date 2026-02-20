@@ -1,0 +1,19 @@
+{
+  "author": "Pasindu Ruwandeniya",
+  "body": "Google Lens කියන්නෙ Android දුරකථන මත තියන හුඟක් ප්‍රයෝජනවත් tool එකක්. ඒක පාවිච්චි කරල කැමරාවෙ viewfinder එකෙන් පෙනෙන ඇත්ත ලෝකයේ දේවල් හඳුනගන්න හැකියාව ලැබෙනවා. Google Lens වලින් පින්තූරයක තියන දේවල් හඳුනගන්නව වගේම ඒකෙ තියන text හඳුනගන්නත්, ඒව real time translate කරන්න සහ ඒ text එක copy කරගන්නත් හැකියාව ලබාදෙනවා.\n\nමේ වගේ ප්‍රයෝජනවත් tool එකක් වෙන Google Lens, ලෝකයේ වැඩිම පිරිසක් පාවිච්චි කරන Google Chrome browser එකත් එක්ක එකතු කරන්නයි Google සමාගම දැන් සූදානම් වෙන්නේ. මේ ගැන මුලින්ම announce කරේ Google ආයතනය තමන්ගෙ අලුත්ම search engine තාක්ෂණයන් හඳුන්වාදෙන වාර්ෂික Search On event එකේදියි. මේ feature එක ඊලඟ මාස කිහිපයේ roll out කිරීම ආරම්භ වේවි. Google Lens in Chrome වැඩ කරන්නෙ කොහොමද කියල Google විසින් පලකරපු tweet එකේ පැහැදිලිව දකින්න පුලුවන්.\n\nInspiration can strike at any time. ⚡ Soon you'll be able to use#GoogleLensto instantly search for products within images while browsing on the Google app on iPhone. And psst… Lens is coming to Chrome on desktop too 👀#SearchOnpic.twitter.com/HTQCz7sjoO\n\nChrome මත ක්‍රියාත්මක වෙන Google Lens මගින් වෙබ් පිටුවක තියන text, images, සහ video content select කරල ඒව search කරන්න හැකියාව ලබා දෙනවා. ඒ tab එකේම open වෙන window එකකින් search results බලාගන්න පුලුවන්. මේ හැකියාව මේ වෙද්දි තියන text select කරල right click menu එකෙන් search කරන්න තියන පහසුකමට වඩා ඉතාමත් ප්‍රයෝජනවත්. text වලට අමතරව images, image එකක කොටසක් වගේ දේවලුත් click කිහිපයකින් search කරන්න හැකියාව ලැබෙන එක තවත් වාසියක්.\n\nGoogle Lens in Chrome වලට අමතරව Search On event එකේදි smartphones මත ක්‍රියාත්මක වෙන Google Lens වලත් හැකියාව තවත් වර්ධනය කරල තියනවා. Lens වලින් පෙන්වන results වලට තවත් ප්‍රශ්න එකතු කරල results ලබාගන්න වගේ ප්‍රයෝජනවත් හැකියාවන් කිහිපයක්ම එකතු වෙන්න නියමිතයි. මේ විස්තර ඇතුලු තවත් හරිම interesting තොරතුරු රැසක් මේ අවුරුද්දෙ Search On event එකේදි දැනුම් දුන්නා. ඒ full event එක පහල YouTube video එකෙන් බලන්න පුලුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:37:34.778161",
+  "headline": "Google Chrome මත Google Lens නිකුත් කිරීමට සූදානම් වේ.",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "browser",
+    "chrome",
+    "google",
+    "lens"
+  ],
+  "url": "https://www.pcguide.lk/google-lens-on-google-chrome/",
+  "word_count": 294
+}

@@ -1,0 +1,19 @@
+{
+  "author": "pcguidelk",
+  "body": "4GB RAM එකක් තියෙන Core2 duo PC එකකට උනත් Windows 11 Install කරන්න පුළුවන් විදිහක් තමයි මේ පැහැදිලි කරන්නෙ. ඒ වගේම Internet එක අනිවාර්යෙන්ම ඕන කරන Windows 11 setup එකේදි ඒ අවශ්‍යතාවයත් අයින් කරන්න පුළුවන් වෙනව.\n\nමේLinkඑක හරහා Windows 11 ISo එක Download කරගන්න.\n\nමේLinkඑක හරහා RUFUS portable එක Download කරගන්න\n\nRufus Software එක open කරගෙන එහි ISO File එක ලෙස WIndows 11 ISO එක තෝරන්න. (වෙනත් Settings කිසිවක් වෙනස් කල යුතු නැත.)\n\nStart button එක press කලවිට පහත Options ටික ලැබෙන අතර එයින් අවශ්‍ය දේවල් Enable කරන්න.\n\n4GB RAM ඇති – TPM නැති System එකකට – Hardware Checks නැතිව Install කරන්න පළමු Option එක තෝරන්න\n\nInternet නැතිව Windows 11 Install කරගැනීමට දෙවන Option එකත් තෝරන්න\n\nAutomatically user Account එකක් සෑදීමට තුන්වන Option එක භාවිතා කරන්න පුළුවන්.\n\nඔබගේ Region එක Bootable Drive එක හදන PC එකේ ඇති Settings ම යොදාගන්න විදිහට පාවිච්චි කරන්නත් පුළුවන්.\n\nPrivacy Options skip කරන්න අවසාන option එක භාවිතා කරන්න පුළුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:27:48.151802",
+  "headline": "ඕනම PC එකකට Windows 11 Install කරමු",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "pc",
+    "pcguidelk",
+    "tech",
+    "windows",
+    "windows 11"
+  ],
+  "url": "https://www.pcguide.lk/how-to-install-windows11-on-unsupported-hardware/",
+  "word_count": 154
+}

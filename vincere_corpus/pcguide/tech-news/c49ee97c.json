@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "මාස කිහිපයක ඉදන්ම ටෙස්ටින්ග් කරල ඔන්න අන්තිමට දැන් OpenAI සමාගම ඔවුන්ගෙ අලුත්ම ChatGPT search පහසුකම නිකුත් කර තිබෙනවා. මේකෙන් Google search එකෙන් වගෙ web search කරන්න පුලුවන්. මෙම ChatGPT search පහසුකම එන්නෙ වෙනම product එකක් විදියට නෙවෙයි. එයත් සාමාන්‍ය විදියටම ChatGPT වලම තියනවා. ඒ කියන්නෙ මේකෙන් අපි search කරන දේවල් වලට අදාළ මූලාශ්‍ර වගේම නවතම මාතෘකා පිලිබදව තොරතුරුත් සොයා දෙනවා.\n\nමෙම අලුත් පහසුකමෙන් ඔබට මේ මොහොතෙ පැවැත්වෙන ක්‍රීඩා තරගයක live score, news හෝ කාලගුණික තොරතුරු ඇතුළු Google search මගින් සිදුකරගන්නා සියල්ලක්ම කරගන්න පුලුවන්. ඔබ ටයිප් කරන quary එක නවතම තොරතුරු සම්බන්ධ දෙයක් නම් ChatGPT මගින් ස්වයංක්‍රියව search tool එක භාවිතා කරලා ඒ තොරතුරු ලබාදෙනවා. එහෙම නැත්තන් Search icon එක මත ක්ලික් කිරීමෙනුත් web search පහසුකම සක්‍රීය කරගන්න පුලුවන්.\n\nමීට අමතරව OpenAI සමාගමෙන් Chrome extension එකකුත් මේ සඳහා නිකුත් කර තිබෙනවා. මේ extension එක install කරාට පස්සෙ ඔබ search කරන හැමදෙයකම default search engine එක විදියට වැඩ කරන්නෙ ChatGPT එකයි. ඒවගේම මේ extension එක chromium browser හැම එකකටම install කරන්න පුලුවන්. එනම් Edge, Brave සහ Opera වැනි browser සදහා.මේ search පහසුකම දැන් සියලුම පරිශීලකයන්ට ලබාදීලා තිබෙනවා. එවගේම desktop සහ mobile devices දෙකේදිම මෙම පහසුකම භාවිතා කරන්න පුලුවන්.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T21:44:56.371174",
+  "headline": "Search කරන අලුත්ම ක්‍රමය ChatGPT Search",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "ai",
+    "chatgpt",
+    "chrome",
+    "new feature",
+    "openai"
+  ],
+  "url": "https://www.pcguide.lk/introducing-chat-gpt-search/",
+  "word_count": 186
+}

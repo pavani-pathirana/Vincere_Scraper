@@ -1,0 +1,19 @@
+{
+  "author": "Pramuka Ramanayake",
+  "body": "මෙම සතියේ මුල දිනක Windows 10 පරිගණක සහිත පරිශීලකයන් කිහිපදෙනෙකුට Windows 11 upgrade කරගත හැකි පණිවිඩයක් දැකගන්න ලැබුන. එහි විශේෂත්වය වන්නෙ මෙම පරිගණක Windows 11 සදහා අවශ්‍ය අවම system requirements නොමැති පරිගණක වීමයි.\n\nTwitter තුළ එක් පරිශීලකයෙකු දක්වා තිබුනේ ඔහුගේ Windows 10 පරිගණකයේ මෙසේ Windows 11 upgrade කිරීමේ පණිවිඩය පැමින තිබූ අතර එම පරිගණකයේ තිබී ඇත්තේ 2GB RAM ධාරිතාවක් පමනයි.\n\nWindows 11 free upgrade being offered to unsupported Windows 10 devices/VMs?Screenshots from a Windows 10 22H2 VM that does not meet the Windows 11 system requirements, big ones being TPM (none) and RAM (2 GB)pic.twitter.com/VNNswgMLiC\n\nමේ සම්බන්ධව ප්‍රකාශයක් නිකුත් කරමින් Microsoft සමාගම පවසා තිබුනේ සමහර නුසුදුසු hardware සහිත Windows 10 පරිගණක සදහා Windows 11, version 21H2 upgrade එක ලැබී තිබුනු අතර මෙම නුසුදුසු උපාංග Windows 11 ධාවනය කිරීමට අවශ්‍ය අවම අවශ්‍යතා සපුරාලන්නේ නැති අතර, මෙම ගැටලුවට මුහුණ දුන් උපාංගවලට upgrade කිරීමේ ක්‍රියාවලිය සම්පූර්ණ කිරීමට නොහැකි බවත්ය.\n\nමේ ආකාරයට Windows 10 සහිත පරිගණක වලට Windows 11 upgrade කිරීමේ පණිවිඩ ලැබුනු පළමු අවස්ථාව නොවේ. පසුගිය වසරේදී සියගනනක් වූ Windows Insider beta පරීක්ෂකයන්ට මෙම upgrade කිරීමේ පණිවිඩ ලැබුනු අතර ඔවුන් බොහොමයකගේ පරිගණක Windows 11 ධාවනය කිරීමට අවශ්‍ය අවම අවශ්‍යතා සපුරාලන්නේ නැති පරිගණක වූවා.\n\nWindows 11 ස්ථාපනය කිරීමට නම් එම පරිගණකයේ Trusted Platform Module (TPM) තිබීම අවශ්‍ය වෙනව. Microsoft සමාගම එම අවශ්‍යතාවය ප්‍රථම වරට හෙළි කළ දා සිට, වින්ඩෝස් 11 ධාවනය කළ හැකි පරිගණක මොනවාද යන්න පිළිබඳව තවමත් ව්‍යාකූලත්වයක් පවතිනව.",
+  "category": "tech-news",
+  "date": "2026-02-19",
+  "extraction_timestamp": "2026-02-19T22:26:38.935087",
+  "headline": "සහය නොදක්වන පරිගණක සදහා පැමිණි Windows 11 upgrade කිරීමේ පණිවිඩය",
+  "source": "pcguide",
+  "tags": [
+    "tech-news",
+    "computer",
+    "hardware",
+    "microsoft",
+    "OS",
+    "pc"
+  ],
+  "url": "https://www.pcguide.lk/misleading-windows11-upgrade-from-micorosft/",
+  "word_count": 226
+}
