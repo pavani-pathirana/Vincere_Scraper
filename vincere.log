@@ -173130,3 +173130,698 @@ articles
 2026-02-20 12:24:51 | INFO     | __main__                  | ✓ SessionManager closed
 2026-02-20 12:24:51 | INFO     | core.session_manager      | SessionManager closed
 2026-02-20 12:24:51 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-20 12:51:16 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-20 12:51:16 | INFO     | __main__                  | Initializing components...
+2026-02-20 12:51:16 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-20 12:51:16 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-20 12:51:16 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-20 12:51:16 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-20 12:51:16 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-20 12:51:16 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-20 12:51:16 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-20 12:51:16 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-20 12:51:16 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-20 12:51:16 | INFO     | __main__                  | Scraping single site: technews
+2026-02-20 12:51:16 | INFO     | __main__                  | 
+######################################################################
+2026-02-20 12:51:16 | INFO     | __main__                  |   SITE: TECHNEWS
+2026-02-20 12:51:16 | INFO     | __main__                  | ######################################################################
+
+2026-02-20 12:51:16 | INFO     | __main__                  | Initializing scraper for: technews
+2026-02-20 12:51:16 | INFO     | core.base_scraper         | Initialized TechNewsScraper for technews
+2026-02-20 12:51:16 | INFO     | scrapers.technews_scraper | TechNews: Found 45 categories
+2026-02-20 12:51:16 | INFO     | __main__                  | Target categories for technews: gaming
+2026-02-20 12:51:16 | INFO     | __main__                  | 
+======================================================================
+2026-02-20 12:51:16 | INFO     | __main__                  |   Scraping technews - gaming
+2026-02-20 12:51:16 | INFO     | __main__                  | ======================================================================
+2026-02-20 12:51:16 | INFO     | __main__                  | Max pages for this category: 1 (to reach limit of 30)
+2026-02-20 12:51:16 | INFO     | core.base_scraper         | Starting category scrape: technews/gaming
+2026-02-20 12:51:16 | INFO     | core.base_scraper         | Scraping page 1: https://technews.lk/tag/gaming/
+2026-02-20 12:51:18 | INFO     | scrapers.technews_scraper | TechNews gaming: Found 15 article containers
+2026-02-20 12:51:18 | INFO     | scrapers.technews_scraper | TechNews gaming: Extracted 15 articles from list page
+2026-02-20 12:51:18 | INFO     | core.base_scraper         | Found 15 articles on page 1
+2026-02-20 12:51:19 | INFO     | core.base_scraper         | Scraped article: නවීන තාක්‍ෂණයෙන් සමන්විත NVIDIA RTX 50 series එක එ... (21880e65)
+2026-02-20 12:51:20 | INFO     | core.base_scraper         | Scraped article: Grand Theft Auto 6 හි trailer එක දෙසැම්බර් මාසයේදී... (97c981c3)
+2026-02-20 12:51:20 | INFO     | core.base_scraper         | Scraped article: Garena Free Fire වීඩියෝ ක්‍රීඩාව අසල්වැසි ඉන්දියාව... (f5da86d6)
+2026-02-20 12:51:21 | INFO     | core.base_scraper         | Scraped article: Stranger Things සමඟින් සමාගමේ පලමු video game කිහි... (8ac682d7)
+2026-02-20 12:51:23 | INFO     | core.base_scraper         | Scraped article: චීනයේ වයස අවුරුදු 18 ට අඩු ළමයින් සදහා Online Game... (465f55b5)
+2026-02-20 12:51:24 | INFO     | core.base_scraper         | Scraped article: Grand Theft Auto III, Vice City සහ San Andreas යන ... (75649b3a)
+2026-02-20 12:51:26 | INFO     | core.base_scraper         | Scraped article: ලබන වසර වන විට Films, TV Series වලට අමතරව Video Ga... (a8461a74)
+2026-02-20 12:51:30 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-20 12:51:30 | INFO     | __main__                  | Initializing components...
+2026-02-20 12:51:30 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-20 12:51:30 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-20 12:51:30 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-20 12:51:30 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-20 12:51:30 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-20 12:51:30 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-20 12:51:30 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-20 12:51:30 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-20 12:51:30 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-20 12:51:30 | INFO     | __main__                  | Scraping single site: technews
+2026-02-20 12:51:30 | INFO     | __main__                  | 
+######################################################################
+2026-02-20 12:51:30 | INFO     | __main__                  |   SITE: TECHNEWS
+2026-02-20 12:51:30 | INFO     | __main__                  | ######################################################################
+
+2026-02-20 12:51:30 | INFO     | __main__                  | Initializing scraper for: technews
+2026-02-20 12:51:30 | INFO     | core.base_scraper         | Initialized TechNewsScraper for technews
+2026-02-20 12:51:30 | INFO     | scrapers.technews_scraper | TechNews: Found 45 categories
+2026-02-20 12:51:30 | INFO     | __main__                  | Target categories for technews: gaming
+2026-02-20 12:51:30 | INFO     | __main__                  | 
+======================================================================
+2026-02-20 12:51:30 | INFO     | __main__                  |   Scraping technews - gaming
+2026-02-20 12:51:30 | INFO     | __main__                  | ======================================================================
+2026-02-20 12:51:30 | INFO     | __main__                  | Max pages for this category: 1 (to reach limit of 30)
+2026-02-20 12:51:30 | INFO     | core.base_scraper         | Starting category scrape: technews/gaming
+2026-02-20 12:51:30 | INFO     | core.base_scraper         | Scraping page 1: https://technews.lk/tag/gaming/
+2026-02-20 12:51:32 | INFO     | scrapers.technews_scraper | TechNews gaming: Found 15 article containers
+2026-02-20 12:51:32 | INFO     | scrapers.technews_scraper | TechNews gaming: Extracted 15 articles from list page
+2026-02-20 12:51:32 | INFO     | core.base_scraper         | Found 15 articles on page 1
+2026-02-20 12:51:35 | INFO     | core.base_scraper         | Scraped article: 1987 වර්ෂයේ නිකුත් කළ The Legend of Zelda game එකේ... (628342af)
+2026-02-20 12:51:36 | INFO     | core.base_scraper         | Scraped article: Amazon සමාගමේ Luna cloud gaming සේවාව ජුනි 21 සහ 2... (50a947f0)
+2026-02-20 12:51:37 | INFO     | core.base_scraper         | Scraped article: මෙම මස අවසානයේදී PUBG Lite සංස්කරණය අතහැරදැමීමට කට... (4fddfb85)
+2026-02-20 12:51:38 | INFO     | core.base_scraper         | Scraped article: Sony සමාගමේ PlayStation Network එක down වීම නිසාවෙ... (cb0d3c2c)
+2026-02-20 12:51:38 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/gaming/page/2/
+2026-02-20 12:51:38 | INFO     | core.base_scraper         | Reached max_pages limit: 1
+2026-02-20 12:51:39 | INFO     | core.base_scraper         | Category scrape complete: technews/gaming - 4 new, 11 skipped, 0 failed
+2026-02-20 12:51:39 | INFO     | __main__                  | ✓ Completed gaming: 4 articles, 1 pages
+2026-02-20 12:51:39 | INFO     | __main__                  | 
+✓ Completed technews:
+2026-02-20 12:51:39 | INFO     | __main__                  |   - Articles: 4
+2026-02-20 12:51:39 | INFO     | __main__                  |   - Pages: 1
+2026-02-20 12:51:39 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-20 12:51:39 | INFO     | __main__                  | Corpus statistics:
+2026-02-20 12:51:42 | INFO     | core.session_manager      | SessionManager closed
+2026-02-20 12:51:42 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-20 12:52:10 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-20 12:52:10 | INFO     | __main__                  | Initializing components...
+2026-02-20 12:52:10 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-20 12:52:10 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-20 12:52:10 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-20 12:52:10 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-20 12:52:10 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-20 12:52:10 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-20 12:52:10 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-20 12:52:10 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-20 12:52:10 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-20 12:52:10 | INFO     | __main__                  | Scraping single site: technews
+2026-02-20 12:52:10 | INFO     | __main__                  | 
+######################################################################
+2026-02-20 12:52:10 | INFO     | __main__                  |   SITE: TECHNEWS
+2026-02-20 12:52:10 | INFO     | __main__                  | ######################################################################
+
+2026-02-20 12:52:10 | INFO     | __main__                  | Initializing scraper for: technews
+2026-02-20 12:52:10 | INFO     | core.base_scraper         | Initialized TechNewsScraper for technews
+2026-02-20 12:52:10 | INFO     | scrapers.technews_scraper | TechNews: Found 45 categories
+2026-02-20 12:52:10 | INFO     | __main__                  | Target categories for technews: internet
+2026-02-20 12:52:10 | INFO     | __main__                  | 
+======================================================================
+2026-02-20 12:52:10 | INFO     | __main__                  |   Scraping technews - internet
+2026-02-20 12:52:10 | INFO     | __main__                  | ======================================================================
+2026-02-20 12:52:10 | INFO     | __main__                  | Max pages for this category: 2 (to reach limit of 50)
+2026-02-20 12:52:10 | INFO     | core.base_scraper         | Starting category scrape: technews/internet
+2026-02-20 12:52:10 | INFO     | core.base_scraper         | Scraping page 1: https://technews.lk/tag/internet/
+2026-02-20 12:52:12 | INFO     | scrapers.technews_scraper | TechNews internet: Found 15 article containers
+2026-02-20 12:52:12 | INFO     | scrapers.technews_scraper | TechNews internet: Extracted 15 articles from list page
+2026-02-20 12:52:12 | INFO     | core.base_scraper         | Found 15 articles on page 1
+2026-02-20 12:52:13 | INFO     | core.base_scraper         | Scraped article: Arc web browser එක හඳුන්වාදුන් Browser Company සමා... (99374cea)
+2026-02-20 12:52:14 | INFO     | core.base_scraper         | Scraped article: මොනවාද මේ IP Address ?... (6ae34931)
+2026-02-20 12:52:15 | INFO     | core.base_scraper         | Scraped article: ලෝක ජනගහනයෙන් 37% ක්, එනම් බිලියන 2.9 ක් තවමත් අන්... (c3fd3b92)
+2026-02-20 12:52:16 | INFO     | core.base_scraper         | Scraped article: නොමිලේ ලබාගත හැකි Web Hosting හා සේවා කිහිපයක් පිළ... (67abc4e0)
+2026-02-20 12:52:17 | INFO     | core.base_scraper         | Scraped article: උපත්, මරණ හා විවාහ සහතික Online request කර නිවසටම ... (043c2298)
+2026-02-20 12:52:18 | INFO     | core.base_scraper         | Scraped article: Spotify Mini Player එකෙහි පෙනුම අලුත් වෙන ලකුණු... (dcbf035d)
+2026-02-20 12:52:21 | INFO     | core.base_scraper         | Scraped article: ලෝකයේ දුර්වලම Mobile අන්තර්ජාල වේගයන් ඇති රටවල් 10... (14c37572)
+2026-02-20 12:52:23 | INFO     | core.base_scraper         | Scraped article: YouTube එකෙන් සිංහල Subtitles එක්ක වීඩියෝ බලන විදි... (af3a3980)
+2026-02-20 12:52:27 | INFO     | core.base_scraper         | Scraped article: WWW හි පියා ලෙස සැළකෙන Tim Berners-Lee විසින් පළමු... (41b0019a)
+2026-02-20 12:52:27 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/internet/page/2/
+2026-02-20 12:52:27 | INFO     | core.base_scraper         | Scraping page 2: https://technews.lk/tag/internet/page/2/
+2026-02-20 12:52:29 | INFO     | scrapers.technews_scraper | TechNews internet: Found 15 article containers
+2026-02-20 12:52:29 | INFO     | scrapers.technews_scraper | TechNews internet: Extracted 15 articles from list page
+2026-02-20 12:52:29 | INFO     | core.base_scraper         | Found 15 articles on page 2
+2026-02-20 12:52:32 | INFO     | core.base_scraper         | Scraped article: Fastly CDN එකේ ගැටළුවක් හේතුවෙන් අන්තර්ජාලයේ දැවැන... (3eb96800)
+2026-02-20 12:53:21 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-20 12:53:21 | INFO     | __main__                  | Initializing components...
+2026-02-20 12:53:21 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-20 12:53:21 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-20 12:53:21 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-20 12:53:21 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-20 12:53:21 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-20 12:53:21 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-20 12:53:21 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-20 12:53:21 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-20 12:53:21 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-20 12:53:21 | INFO     | __main__                  | Scraping single site: asianmirror
+2026-02-20 12:53:21 | INFO     | __main__                  | 
+######################################################################
+2026-02-20 12:53:21 | INFO     | __main__                  |   SITE: ASIANMIRROR
+2026-02-20 12:53:21 | INFO     | __main__                  | ######################################################################
+
+2026-02-20 12:53:21 | INFO     | __main__                  | Initializing scraper for: asianmirror
+2026-02-20 12:53:21 | INFO     | core.base_scraper         | Initialized AsianMirrorScraper for asianmirror
+2026-02-20 12:53:21 | INFO     | scrapers.asianmirror_scraper | Asian Mirror: Found 8 categories
+2026-02-20 12:53:21 | INFO     | __main__                  | Target categories for asianmirror: technological
+2026-02-20 12:53:21 | INFO     | __main__                  | 
+======================================================================
+2026-02-20 12:53:21 | INFO     | __main__                  |   Scraping asianmirror - technological
+2026-02-20 12:53:21 | INFO     | __main__                  | ======================================================================
+2026-02-20 12:53:21 | INFO     | __main__                  | Max pages for this category: 250 (to reach limit of 5000)
+2026-02-20 12:53:21 | INFO     | core.base_scraper         | Starting category scrape: asianmirror/technological
+2026-02-20 12:53:21 | INFO     | core.base_scraper         | Scraping page 1: https://sinhala.asianmirror.lk/news/technological/
+2026-02-20 12:53:23 | INFO     | scrapers.asianmirror_scraper | Asian Mirror technological: Found 10 potential links
+2026-02-20 12:53:23 | INFO     | scrapers.asianmirror_scraper | Asian Mirror technological: Extracted 10 articles from list page
+2026-02-20 12:53:23 | INFO     | core.base_scraper         | Found 10 articles on page 1
+2026-02-20 12:53:25 | INFO     | scrapers.asianmirror_scraper | Constructed next page URL: https://sinhala.asianmirror.lk/news/technological/?l=9&r=20
+2026-02-20 12:53:25 | INFO     | core.base_scraper         | Scraping page 2: https://sinhala.asianmirror.lk/news/technological/?l=9&r=20
+2026-02-20 12:53:28 | INFO     | scrapers.asianmirror_scraper | Asian Mirror technological: Found 10 potential links
+2026-02-20 12:53:28 | INFO     | scrapers.asianmirror_scraper | Asian Mirror technological: Extracted 10 articles from list page
+2026-02-20 12:53:28 | INFO     | core.base_scraper         | Found 10 articles on page 2
+2026-02-20 12:53:29 | INFO     | scrapers.asianmirror_scraper | Constructed next page URL: https://sinhala.asianmirror.lk/news/technological/?l=19&r=30
+2026-02-20 12:53:29 | INFO     | core.base_scraper         | Scraping page 3: https://sinhala.asianmirror.lk/news/technological/?l=19&r=30
+2026-02-20 12:53:31 | INFO     | scrapers.asianmirror_scraper | Asian Mirror technological: Found 7 potential links
+2026-02-20 12:53:31 | INFO     | scrapers.asianmirror_scraper | Asian Mirror technological: Extracted 7 articles from list page
+2026-02-20 12:53:31 | INFO     | core.base_scraper         | Found 7 articles on page 3
+2026-02-20 12:53:32 | INFO     | scrapers.asianmirror_scraper | Constructed next page URL: https://sinhala.asianmirror.lk/news/technological/?l=29&r=40
+2026-02-20 12:53:32 | INFO     | core.base_scraper         | Scraping page 4: https://sinhala.asianmirror.lk/news/technological/?l=29&r=40
+2026-02-20 12:53:35 | INFO     | scrapers.asianmirror_scraper | Asian Mirror technological: Found 0 potential links
+2026-02-20 12:53:35 | INFO     | scrapers.asianmirror_scraper | Asian Mirror technological: Extracted 0 articles from list page
+2026-02-20 12:53:35 | INFO     | core.base_scraper         | No articles found on page 4, ending scrape
+2026-02-20 12:53:35 | INFO     | core.base_scraper         | Category scrape complete: asianmirror/technological - 0 new, 27 skipped, 0 failed
+2026-02-20 12:53:35 | INFO     | __main__                  | ✓ Completed technological: 0 articles, 3 pages
+2026-02-20 12:53:35 | INFO     | __main__                  | 
+✓ Completed asianmirror:
+2026-02-20 12:53:35 | INFO     | __main__                  |   - Articles: 0
+2026-02-20 12:53:35 | INFO     | __main__                  |   - Pages: 3
+2026-02-20 12:53:35 | INFO     | __main__                  |   - Categories completed: 1
+2026-02-20 12:53:35 | INFO     | __main__                  | Corpus statistics:
+2026-02-20 12:53:49 | INFO     | __main__                  |   Total articles in corpus: 82421
+2026-02-20 12:53:49 | INFO     | __main__                  |   ada: 23534 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 4137 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - international: 5956 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - latest: 5988 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - saaravita: 1010 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 6055 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - technology: 388 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   aluthsl: 10 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - tech-news: 10 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   androidwedakarayo: 24 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - all: 24 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   asianmirror: 917 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - local: 10 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - political: 880 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - technological: 27 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   bbc: 2236 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - health: 363 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - latest: 34 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 372 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sri_lanka: 744 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - world: 723 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   colombotimes: 1954 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - entertainment: 256 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - local: 23 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - political: 1663 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 9 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - world: 3 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   divaina: 2591 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - breaking: 2500 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 13 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - editorial: 13 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - features: 13 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - foreign: 13 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - main: 13 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - provincial: 13 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 13 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   gagana: 122 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 13 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - gossips: 36 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - politics: 36 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - srilanka: 37 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   gossiplanka: 135 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - cricket: 20 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - crime: 20 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - film: 15 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - latest: 5 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - odd: 20 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - photo: 16 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - political: 20 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - world: 19 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   itn: 6402 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 513 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - entertainment: 346 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - local: 1936 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 1802 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - world: 1805 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   lakvahini: 36 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - all: 29 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - entertainment: 3 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - finance: 4 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   lankacnews: 88 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - economy: 20 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - foreign: 19 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - local: 25 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - market: 4 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 20 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   lankadeepa: 11420 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 6204 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - latest: 59 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - news: 370 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - politics: 984 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 11 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - thaksalawa: 2104 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - visheshanga: 1688 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   lankapuvath: 8128 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 1937 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - local: 2472 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sport: 1254 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - world: 2465 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   lankatruth: 12786 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 2319 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - entertainment: 577 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - international: 3292 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - local: 5538 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 1060 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   mawratanews: 36 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - exclusive: 17 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - politics: 19 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   newsfirst: 51 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 9 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - international: 9 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - local: 19 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 14 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   pcguide: 1050 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - tech-news: 1050 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   sarasaviya: 1769 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - 12-frames: 230 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - 24-frames: 81 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - drama: 173 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - features: 400 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - news: 885 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   silumina: 6568 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - business: 1609 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - entertainment: 1702 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - news: 2280 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - politics: 475 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - sports: 207 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - world: 295 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   siyathanews: 417 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - entertainmentnews: 407 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - local-news: 10 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   techcyclone: 15 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - all: 15 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   technews: 1986 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - ai: 78 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - android: 215 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - apple: 198 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - gaming: 11 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - google: 254 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - internet: 10 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - microsoft: 127 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - mobile: 267 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - news: 15 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - samsung: 9 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - security: 228 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - social-media: 264 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - technology: 310 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   techsayura: 7 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - all: 7 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   tecroom: 38 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - all: 38 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |   vidusara: 101 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - entertainment: 5 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - environmental: 1 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - features: 10 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - health: 2 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - science-fiction: 1 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - science-news: 77 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - space: 2 articles
+2026-02-20 12:53:49 | INFO     | __main__                  |     - technology: 3 articles
+2026-02-20 12:53:49 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-20 12:53:49 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-20 12:53:49 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-20 12:53:49 | INFO     | core.session_manager      | SessionManager closed
+2026-02-20 12:53:49 | INFO     | __main__                  | ✓ SessionManager closed
+2026-02-20 12:56:58 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-02-20 12:56:58 | INFO     | __main__                  | Initializing components...
+2026-02-20 12:56:58 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-02-20 12:56:58 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-02-20 12:56:58 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-02-20 12:56:58 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-02-20 12:56:58 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-02-20 12:56:58 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-02-20 12:56:58 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-02-20 12:56:58 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-02-20 12:56:58 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-02-20 12:56:58 | INFO     | __main__                  | Scraping single site: technews
+2026-02-20 12:56:58 | INFO     | __main__                  | 
+######################################################################
+2026-02-20 12:56:58 | INFO     | __main__                  |   SITE: TECHNEWS
+2026-02-20 12:56:58 | INFO     | __main__                  | ######################################################################
+
+2026-02-20 12:56:58 | INFO     | __main__                  | Initializing scraper for: technews
+2026-02-20 12:56:58 | INFO     | core.base_scraper         | Initialized TechNewsScraper for technews
+2026-02-20 12:56:58 | INFO     | scrapers.technews_scraper | TechNews: Found 45 categories
+2026-02-20 12:56:58 | INFO     | __main__                  | Target categories for technews: technology
+2026-02-20 12:56:58 | INFO     | __main__                  | 
+======================================================================
+2026-02-20 12:56:58 | INFO     | __main__                  |   Scraping technews - technology
+2026-02-20 12:56:58 | INFO     | __main__                  | ======================================================================
+2026-02-20 12:56:58 | INFO     | __main__                  | Max pages for this category: 250 (to reach limit of 5000)
+2026-02-20 12:56:58 | INFO     | core.base_scraper         | Starting category scrape: technews/technology
+2026-02-20 12:56:58 | INFO     | core.base_scraper         | Scraping page 1: https://technews.lk/tag/technology/
+2026-02-20 12:57:01 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:01 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:01 | INFO     | core.base_scraper         | Found 15 articles on page 1
+2026-02-20 12:57:03 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/2/
+2026-02-20 12:57:03 | INFO     | core.base_scraper         | Scraping page 2: https://technews.lk/tag/technology/page/2/
+2026-02-20 12:57:03 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:03 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:03 | INFO     | core.base_scraper         | Found 15 articles on page 2
+2026-02-20 12:57:06 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/3/
+2026-02-20 12:57:06 | INFO     | core.base_scraper         | Scraping page 3: https://technews.lk/tag/technology/page/3/
+2026-02-20 12:57:06 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:06 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:06 | INFO     | core.base_scraper         | Found 15 articles on page 3
+2026-02-20 12:57:09 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/4/
+2026-02-20 12:57:09 | INFO     | core.base_scraper         | Scraping page 4: https://technews.lk/tag/technology/page/4/
+2026-02-20 12:57:09 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:09 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:09 | INFO     | core.base_scraper         | Found 15 articles on page 4
+2026-02-20 12:57:11 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/5/
+2026-02-20 12:57:11 | INFO     | core.base_scraper         | Scraping page 5: https://technews.lk/tag/technology/page/5/
+2026-02-20 12:57:12 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:12 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:12 | INFO     | core.base_scraper         | Found 15 articles on page 5
+2026-02-20 12:57:14 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/6/
+2026-02-20 12:57:14 | INFO     | core.base_scraper         | Scraping page 6: https://technews.lk/tag/technology/page/6/
+2026-02-20 12:57:15 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:15 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:15 | INFO     | core.base_scraper         | Found 15 articles on page 6
+2026-02-20 12:57:19 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/7/
+2026-02-20 12:57:19 | INFO     | core.base_scraper         | Scraping page 7: https://technews.lk/tag/technology/page/7/
+2026-02-20 12:57:19 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:19 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:19 | INFO     | core.base_scraper         | Found 15 articles on page 7
+2026-02-20 12:57:22 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/8/
+2026-02-20 12:57:22 | INFO     | core.base_scraper         | Scraping page 8: https://technews.lk/tag/technology/page/8/
+2026-02-20 12:57:22 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:22 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:22 | INFO     | core.base_scraper         | Found 15 articles on page 8
+2026-02-20 12:57:24 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/9/
+2026-02-20 12:57:24 | INFO     | core.base_scraper         | Scraping page 9: https://technews.lk/tag/technology/page/9/
+2026-02-20 12:57:25 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:25 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:25 | INFO     | core.base_scraper         | Found 15 articles on page 9
+2026-02-20 12:57:27 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/10/
+2026-02-20 12:57:27 | INFO     | core.base_scraper         | Scraping page 10: https://technews.lk/tag/technology/page/10/
+2026-02-20 12:57:27 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:27 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:27 | INFO     | core.base_scraper         | Found 15 articles on page 10
+2026-02-20 12:57:30 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/11/
+2026-02-20 12:57:30 | INFO     | core.base_scraper         | Scraping page 11: https://technews.lk/tag/technology/page/11/
+2026-02-20 12:57:30 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:30 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:30 | INFO     | core.base_scraper         | Found 15 articles on page 11
+2026-02-20 12:57:32 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/12/
+2026-02-20 12:57:32 | INFO     | core.base_scraper         | Scraping page 12: https://technews.lk/tag/technology/page/12/
+2026-02-20 12:57:33 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:33 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:33 | INFO     | core.base_scraper         | Found 15 articles on page 12
+2026-02-20 12:57:35 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/13/
+2026-02-20 12:57:35 | INFO     | core.base_scraper         | Scraping page 13: https://technews.lk/tag/technology/page/13/
+2026-02-20 12:57:35 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:35 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:35 | INFO     | core.base_scraper         | Found 15 articles on page 13
+2026-02-20 12:57:38 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/14/
+2026-02-20 12:57:38 | INFO     | core.base_scraper         | Scraping page 14: https://technews.lk/tag/technology/page/14/
+2026-02-20 12:57:38 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:38 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:38 | INFO     | core.base_scraper         | Found 15 articles on page 14
+2026-02-20 12:57:41 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/15/
+2026-02-20 12:57:41 | INFO     | core.base_scraper         | Scraping page 15: https://technews.lk/tag/technology/page/15/
+2026-02-20 12:57:41 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:41 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:41 | INFO     | core.base_scraper         | Found 15 articles on page 15
+2026-02-20 12:57:43 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/16/
+2026-02-20 12:57:43 | INFO     | core.base_scraper         | Scraping page 16: https://technews.lk/tag/technology/page/16/
+2026-02-20 12:57:44 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:44 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:44 | INFO     | core.base_scraper         | Found 15 articles on page 16
+2026-02-20 12:57:46 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/17/
+2026-02-20 12:57:46 | INFO     | core.base_scraper         | Scraping page 17: https://technews.lk/tag/technology/page/17/
+2026-02-20 12:57:46 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:46 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:46 | INFO     | core.base_scraper         | Found 15 articles on page 17
+2026-02-20 12:57:49 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/18/
+2026-02-20 12:57:49 | INFO     | core.base_scraper         | Scraping page 18: https://technews.lk/tag/technology/page/18/
+2026-02-20 12:57:49 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:49 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:49 | INFO     | core.base_scraper         | Found 15 articles on page 18
+2026-02-20 12:57:51 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/19/
+2026-02-20 12:57:51 | INFO     | core.base_scraper         | Scraping page 19: https://technews.lk/tag/technology/page/19/
+2026-02-20 12:57:52 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:52 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:52 | INFO     | core.base_scraper         | Found 15 articles on page 19
+2026-02-20 12:57:54 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/20/
+2026-02-20 12:57:54 | INFO     | core.base_scraper         | Scraping page 20: https://technews.lk/tag/technology/page/20/
+2026-02-20 12:57:54 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:54 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:54 | INFO     | core.base_scraper         | Found 15 articles on page 20
+2026-02-20 12:57:56 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/21/
+2026-02-20 12:57:56 | INFO     | core.base_scraper         | Scraping page 21: https://technews.lk/tag/technology/page/21/
+2026-02-20 12:57:57 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:57 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:57 | INFO     | core.base_scraper         | Found 15 articles on page 21
+2026-02-20 12:57:59 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/22/
+2026-02-20 12:57:59 | INFO     | core.base_scraper         | Scraping page 22: https://technews.lk/tag/technology/page/22/
+2026-02-20 12:57:59 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:57:59 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:57:59 | INFO     | core.base_scraper         | Found 15 articles on page 22
+2026-02-20 12:58:01 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/23/
+2026-02-20 12:58:01 | INFO     | core.base_scraper         | Scraping page 23: https://technews.lk/tag/technology/page/23/
+2026-02-20 12:58:03 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:03 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:03 | INFO     | core.base_scraper         | Found 15 articles on page 23
+2026-02-20 12:58:05 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/24/
+2026-02-20 12:58:05 | INFO     | core.base_scraper         | Scraping page 24: https://technews.lk/tag/technology/page/24/
+2026-02-20 12:58:06 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:06 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:06 | INFO     | core.base_scraper         | Found 15 articles on page 24
+2026-02-20 12:58:08 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/25/
+2026-02-20 12:58:08 | INFO     | core.base_scraper         | Scraping page 25: https://technews.lk/tag/technology/page/25/
+2026-02-20 12:58:09 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:09 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:09 | INFO     | core.base_scraper         | Found 15 articles on page 25
+2026-02-20 12:58:12 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/26/
+2026-02-20 12:58:12 | INFO     | core.base_scraper         | Scraping page 26: https://technews.lk/tag/technology/page/26/
+2026-02-20 12:58:13 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:13 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:13 | INFO     | core.base_scraper         | Found 15 articles on page 26
+2026-02-20 12:58:15 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/27/
+2026-02-20 12:58:15 | INFO     | core.base_scraper         | Scraping page 27: https://technews.lk/tag/technology/page/27/
+2026-02-20 12:58:15 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:15 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:15 | INFO     | core.base_scraper         | Found 15 articles on page 27
+2026-02-20 12:58:18 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/28/
+2026-02-20 12:58:18 | INFO     | core.base_scraper         | Scraping page 28: https://technews.lk/tag/technology/page/28/
+2026-02-20 12:58:19 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:19 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:19 | INFO     | core.base_scraper         | Found 15 articles on page 28
+2026-02-20 12:58:21 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/29/
+2026-02-20 12:58:21 | INFO     | core.base_scraper         | Scraping page 29: https://technews.lk/tag/technology/page/29/
+2026-02-20 12:58:22 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:22 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:22 | INFO     | core.base_scraper         | Found 15 articles on page 29
+2026-02-20 12:58:24 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/30/
+2026-02-20 12:58:24 | INFO     | core.base_scraper         | Scraping page 30: https://technews.lk/tag/technology/page/30/
+2026-02-20 12:58:25 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:25 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:25 | INFO     | core.base_scraper         | Found 15 articles on page 30
+2026-02-20 12:58:27 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/31/
+2026-02-20 12:58:27 | INFO     | core.base_scraper         | Scraping page 31: https://technews.lk/tag/technology/page/31/
+2026-02-20 12:58:28 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:28 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:28 | INFO     | core.base_scraper         | Found 15 articles on page 31
+2026-02-20 12:58:30 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/32/
+2026-02-20 12:58:30 | INFO     | core.base_scraper         | Scraping page 32: https://technews.lk/tag/technology/page/32/
+2026-02-20 12:58:31 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:31 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:31 | INFO     | core.base_scraper         | Found 15 articles on page 32
+2026-02-20 12:58:33 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/33/
+2026-02-20 12:58:33 | INFO     | core.base_scraper         | Scraping page 33: https://technews.lk/tag/technology/page/33/
+2026-02-20 12:58:34 | INFO     | scrapers.technews_scraper | TechNews technology: Found 15 article containers
+2026-02-20 12:58:34 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 15 articles from list page
+2026-02-20 12:58:34 | INFO     | core.base_scraper         | Found 15 articles on page 33
+2026-02-20 12:58:36 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/34/
+2026-02-20 12:58:36 | INFO     | core.base_scraper         | Scraping page 34: https://technews.lk/tag/technology/page/34/
+2026-02-20 12:58:37 | INFO     | scrapers.technews_scraper | TechNews technology: Found 1 article containers
+2026-02-20 12:58:37 | INFO     | scrapers.technews_scraper | TechNews technology: Extracted 1 articles from list page
+2026-02-20 12:58:37 | INFO     | core.base_scraper         | Found 1 articles on page 34
+2026-02-20 12:58:37 | INFO     | scrapers.technews_scraper | Found next page URL: https://technews.lk/tag/technology/page/33/
+2026-02-20 12:58:37 | INFO     | core.base_scraper         | Scraping page 35: https://technews.lk/tag/technology/page/35/
+2026-02-20 12:58:37 | ERROR    | core.base_scraper         | Failed to process page 35: 404 Client Error: Not Found for url: https://technews.lk/tag/technology/page/35/
+2026-02-20 12:58:37 | ERROR    | core.base_scraper         | Category scrape failed: 404 Client Error: Not Found for url: https://technews.lk/tag/technology/page/35/
+2026-02-20 12:58:37 | ERROR    | __main__                  | ✗ Failed to scrape technology: 404 Client Error: Not Found for url: https://technews.lk/tag/technology/page/35/
+Traceback (most recent call last):
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\main.py", line 319, in scrape_site
+    stats = scraper.scrape_category(
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\DEGREE 1ST YEAR\RESEARCH\Bulk Scraper\Vincere_Scraper\core\base_scraper.py", line 287, in scrape_category
+    response.raise_for_status()
+  File "C:\Users\My PC\AppData\Roaming\Python\Python312\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://technews.lk/tag/technology/page/35/
+2026-02-20 12:58:37 | INFO     | __main__                  | 
+✓ Completed technews:
+2026-02-20 12:58:37 | INFO     | __main__                  |   - Articles: 0
+2026-02-20 12:58:37 | INFO     | __main__                  |   - Pages: 0
+2026-02-20 12:58:37 | INFO     | __main__                  |   - Categories completed: 0
+2026-02-20 12:58:37 | INFO     | __main__                  | Corpus statistics:
+2026-02-20 12:58:52 | INFO     | __main__                  |   Total articles in corpus: 82421
+2026-02-20 12:58:52 | INFO     | __main__                  |   ada: 23534 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 4137 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - international: 5956 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - latest: 5988 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - saaravita: 1010 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 6055 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - technology: 388 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   aluthsl: 10 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - tech-news: 10 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   androidwedakarayo: 24 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - all: 24 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   asianmirror: 917 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - local: 10 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - political: 880 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - technological: 27 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   bbc: 2236 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - health: 363 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - latest: 34 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 372 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sri_lanka: 744 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - world: 723 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   colombotimes: 1954 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - entertainment: 256 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - local: 23 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - political: 1663 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 9 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - world: 3 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   divaina: 2591 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - breaking: 2500 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 13 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - editorial: 13 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - features: 13 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - foreign: 13 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - main: 13 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - provincial: 13 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 13 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   gagana: 122 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 13 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - gossips: 36 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - politics: 36 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - srilanka: 37 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   gossiplanka: 135 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - cricket: 20 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - crime: 20 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - film: 15 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - latest: 5 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - odd: 20 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - photo: 16 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - political: 20 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - world: 19 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   itn: 6402 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 513 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - entertainment: 346 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - local: 1936 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 1802 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - world: 1805 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   lakvahini: 36 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - all: 29 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - entertainment: 3 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - finance: 4 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   lankacnews: 88 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - economy: 20 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - foreign: 19 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - local: 25 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - market: 4 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 20 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   lankadeepa: 11420 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 6204 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - latest: 59 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - news: 370 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - politics: 984 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 11 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - thaksalawa: 2104 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - visheshanga: 1688 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   lankapuvath: 8128 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 1937 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - local: 2472 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sport: 1254 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - world: 2465 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   lankatruth: 12786 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 2319 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - entertainment: 577 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - international: 3292 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - local: 5538 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 1060 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   mawratanews: 36 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - exclusive: 17 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - politics: 19 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   newsfirst: 51 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 9 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - international: 9 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - local: 19 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 14 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   pcguide: 1050 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - tech-news: 1050 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   sarasaviya: 1769 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - 12-frames: 230 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - 24-frames: 81 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - drama: 173 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - features: 400 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - news: 885 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   silumina: 6568 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - business: 1609 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - entertainment: 1702 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - news: 2280 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - politics: 475 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - sports: 207 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - world: 295 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   siyathanews: 417 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - entertainmentnews: 407 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - local-news: 10 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   techcyclone: 15 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - all: 15 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   technews: 1986 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - ai: 78 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - android: 215 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - apple: 198 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - gaming: 11 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - google: 254 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - internet: 10 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - microsoft: 127 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - mobile: 267 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - news: 15 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - samsung: 9 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - security: 228 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - social-media: 264 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - technology: 310 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   techsayura: 7 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - all: 7 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   tecroom: 38 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - all: 38 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |   vidusara: 101 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - entertainment: 5 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - environmental: 1 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - features: 10 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - health: 2 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - science-fiction: 1 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - science-news: 77 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - space: 2 articles
+2026-02-20 12:58:52 | INFO     | __main__                  |     - technology: 3 articles
+2026-02-20 12:58:52 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-02-20 12:58:52 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-02-20 12:58:52 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-02-20 12:58:52 | INFO     | core.session_manager      | SessionManager closed
+2026-02-20 12:58:52 | INFO     | __main__                  | ✓ SessionManager closed

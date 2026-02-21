@@ -1,0 +1,13 @@
+{
+  "body": "මීට පෙර අවස්ථා ගණනාවකදී Spotifyතමන්ගේ UI එක දියුණු කරමින්සිටින බව අප විසින් ඔබව දැනුවත් කර සිටි අතර මෙම ක්‍රියාවලියේ තවත් එක් පියවරක් ලෙස Spotify Mini Player එකෙහි Design එක අලුත් කිරීමක් ගැන තොරතුරු වාර්තා වෙනවා.\n\nSpotify හි Mini Player එකෙහි UI හෙවත් User Interface එකෙහි මේ දිනවල අත්හදා බලමින් සිටින පෙනුමක් මේ වන විට ඇතැම් Devices වලට ලැබී ඇති බවAndroid Police වෙබ් අඩවියවාර්තා කර තිබෙන අතර මෙම අලුත් පෙනුම නුදුරේදීම සියලු Spotify භාවිතා කරන්නන්ට ලැබේවි යැයි අනුමාන කළ හැකි වෙනවා.\n\nSpotify හි දැනට පවතින පෙනුමට සාපේක්ෂවAndroid Police වෙබ් අඩවියවාර්තා කරන පෙනුමෙහි ගීතයක් Play වීමේදී පෙන්වන Progress bar එක පහළට ගෙන ඒමට කටයුතු කර ඇති අතර දැනට පවතින Mini Player එකෙහි පවතින පෙනුම වෙනුවට Rounded Corners සහිත තරමක් වෙනස් පෙනුමක් ද බලා ගත හැකි වනවා.\n\nඑමෙන්ම Mini Player එකට පහළින් ඇති Home, Search හා Your Library යන Tabs වල Background එකට පෙර පැවති තද වර්ණය වෙනුවට gradient හා transparent Background එකක් හෙවත් විනිවිද පෙනෙන ආකාරයේ පසුබිමක් දැකගත හැකි වනවා.\n\nතවද ගීතයක album art එකෙහි පවතින වර්ණය භාවිතා කරමින් mini player එකෙහි වර්ණය වෙනස් වෙන පහසුමක් ද මෙම වෙබ් අඩවිය වාර්තා කර තිබෙනවා.\n\nBeebom වෙබ් අඩවියවාර්තා කරන ආකාරයට මෙය දැනට ලබා දී ඇත්තේ Server Side Update එකක් ලෙස ඉතාමත් සුලු පිරිසකට පමණක් වන අතර ඔබ දැනටමත් Spotify App එකේ Latest Version එක භාවිතා කරන්නේනම් ඇතැම් විට මෙම අලුත් පෙනුම දැක ගැනීමට හැකියාව ලැබෙනු ඇති බවයි.",
+  "category": "internet",
+  "date": "2021-07-30",
+  "extraction_timestamp": "2026-02-20T12:52:17.960219",
+  "headline": "Spotify Mini Player එකෙහි පෙනුම අලුත් වෙන ලකුණු",
+  "source": "technews",
+  "tags": [
+    "internet"
+  ],
+  "url": "https://technews.lk/spotify-is-getting-a-redesigned-mini-player-ui-with-a-more-modern-look/",
+  "word_count": 223
+}

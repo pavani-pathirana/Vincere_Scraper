@@ -284,8 +284,8 @@ class TechNewsScraper(BaseScraper):
         soup = BeautifulSoup(html, 'lxml')
         articles = []
         
-        # Find all article containers
-        article_containers = soup.select('article.post-card')
+        # Find all article containers (catches post-card, post-card-large, etc.)
+        article_containers = soup.select('article[class*="post-card"]')
         
         logger.info(f"TechNews {category}: Found {len(article_containers)} article containers")
         
@@ -435,15 +435,18 @@ class TechNewsScraper(BaseScraper):
         try:
             soup = BeautifulSoup(html, 'lxml')
             
-            # Look for "Next" link in pagination
-            next_link = soup.select_one('a[href*="/page/"]:-soup-contains("Next"), a.next')
-            if not next_link:
-                # Try finding any link with "Next" or "→" text
-                for link in soup.select('a[href*="/page/"]'):
-                    text = link.get_text(strip=True)
-                    if 'Next' in text or '→' in text:
-                        next_link = link
-                        break
+            # Check for pagination navigation first
+            pagination = soup.select_one('.pagination, nav[aria-label="pagination"]')
+            if not pagination:
+                return None
+            
+            # Look for "Next" link manually (BeautifulSoup doesn't support :-soup-contains)
+            next_link = None
+            for link in soup.select('a[href*="/page/"]'):
+                text = link.get_text(strip=True)
+                if 'Next' in text or '→' in text or 'ඊළඟ' in text:
+                    next_link = link
+                    break
             
             if next_link and next_link.get('href'):
                 next_url = next_link.get('href')
@@ -452,11 +455,14 @@ class TechNewsScraper(BaseScraper):
                 logger.info(f"Found next page URL: {next_url}")
                 return next_url
             
-            # Fallback: check if there are enough articles
-            articles = soup.select('article.post-card')
-            if len(articles) < 10:
-                logger.info(f"Only {len(articles)} articles found, likely last page")
-                return None
+            # Check if pagination has any next page button
+            next_btn = pagination.select_one('a[href*="/page/"]')
+            if next_btn and next_btn.get('href'):
+                next_url = next_btn.get('href')
+                if not next_url.startswith('http'):
+                    next_url = urljoin(self.BASE_URL, next_url)
+                logger.info(f"Found next page URL: {next_url}")
+                return next_url
             
             logger.info("No next page URL found")
             return None
