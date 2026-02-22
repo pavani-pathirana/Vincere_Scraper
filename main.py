@@ -55,6 +55,7 @@ from scrapers.colombotimes_scraper import ColomboTimesScraper
 from scrapers.lakvahini_scraper import LakvahiniScraper
 from scrapers.siyathanews_scraper import SiyathaNewsScraper
 from scrapers.asianmirror_scraper import AsianMirrorScraper
+from scrapers.roarmedia_scraper import RoarMediaScraper
 
 
 # Global flag for graceful shutdown
@@ -187,6 +188,7 @@ def get_scraper_class(site_name: str) -> Type[BaseScraper]:
         'lakvahini': LakvahiniScraper,
         'siyathanews': SiyathaNewsScraper,
         'asianmirror': AsianMirrorScraper,
+        'roarmedia': RoarMediaScraper,
     }
     
     site_name_lower = site_name.lower()

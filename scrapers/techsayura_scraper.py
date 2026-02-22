@@ -270,3 +270,4 @@ class TechSayuraScraper(BaseScraper):
         except Exception as e:
             logger.error(f"Error extracting next page URL: {e}")
             return None
+ 

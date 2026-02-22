@@ -34,6 +34,7 @@ from scrapers.colombotimes_scraper import ColomboTimesScraper
 from scrapers.lakvahini_scraper import LakvahiniScraper
 from scrapers.siyathanews_scraper import SiyathaNewsScraper
 from scrapers.asianmirror_scraper import AsianMirrorScraper
+from scrapers.roarmedia_scraper import RoarMediaScraper
 
 __all__ = [
     'AdaDeranaScraper',
@@ -66,4 +67,5 @@ __all__ = [
     'LakvahiniScraper',
     'SiyathaNewsScraper',
     'AsianMirrorScraper',
+    'RoarMediaScraper',
 ]
