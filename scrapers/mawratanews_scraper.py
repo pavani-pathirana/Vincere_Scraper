@@ -31,36 +31,46 @@ class MawrataNewsScraper(BaseScraper):
     BASE_URL = "https://sinhala.mawratanews.lk"
     SITE_NAME = "mawratanews"
     
-    # Categories - will try to auto-detect from site or use common ones
+    # Categories using /category/{name}/ URL format
     CATEGORIES = {
+        'astrology': {
+            'name': 'Astrology',
+            'url': f'{BASE_URL}/category/astrology/',
+            'slug': 'astrology'
+        },
+        'heart': {
+            'name': 'Heart',
+            'url': f'{BASE_URL}/category/heart/',
+            'slug': 'heart'
+        },
+        'politics': {
+            'name': 'Politics',
+            'url': f'{BASE_URL}/category/politics/',
+            'slug': 'politics'
+        },
         'exclusive': {
             'name': 'Exclusive',
-            'url': f'{BASE_URL}/exclusive/',
+            'url': f'{BASE_URL}/category/exclusive/',
             'slug': 'exclusive'
         },
         'local': {
             'name': 'Local',
-            'url': f'{BASE_URL}/local/',
+            'url': f'{BASE_URL}/category/local/',
             'slug': 'local'
         },
         'world': {
             'name': 'World',
-            'url': f'{BASE_URL}/world/',
+            'url': f'{BASE_URL}/category/world/',
             'slug': 'world'
-        },
-        'politics': {
-            'name': 'Politics',
-            'url': f'{BASE_URL}/politics/',
-            'slug': 'politics'
         },
         'sports': {
             'name': 'Sports',
-            'url': f'{BASE_URL}/sports/',
+            'url': f'{BASE_URL}/category/sports/',
             'slug': 'sports'
         },
         'entertainment': {
             'name': 'Entertainment',
-            'url': f'{BASE_URL}/entertainment/',
+            'url': f'{BASE_URL}/category/entertainment/',
             'slug': 'entertainment'
         }
     }
