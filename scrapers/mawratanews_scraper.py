@@ -197,7 +197,10 @@ class MawrataNewsScraper(BaseScraper):
                 body_paragraphs = [headline]
             
             body = '\n\n'.join(body_paragraphs)
-            
+        
+            # Calculate word count
+            word_count = len(body.split())
+        
             # Extract date
             date_str = datetime.now().strftime('%Y-%m-%d')
             date_elem = soup.select_one('time, .date, .published, .jeg_meta_date, .post-date')
@@ -225,6 +228,7 @@ class MawrataNewsScraper(BaseScraper):
                 date=date_str,
                 author=author,
                 source='mawratanews',
+                               word_count=word_count,
                 extraction_timestamp=datetime.now().isoformat()
             )
             

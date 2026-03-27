@@ -211871,3 +211871,457 @@ FileNotFoundError: [WinError 2] The system cannot find the file specified: 'vinc
 2026-02-25 02:26:03 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
 2026-02-25 02:26:03 | INFO     | core.session_manager      | SessionManager closed
 2026-02-25 02:26:03 | INFO     | __main__                  | ✓ SessionManager closed
+2026-03-24 22:26:11 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-03-24 22:26:11 | INFO     | __main__                  | Initializing components...
+2026-03-24 22:26:11 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-03-24 22:26:11 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-03-24 22:26:11 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-03-24 22:26:11 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-03-24 22:26:11 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-03-24 22:26:11 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-03-24 22:26:11 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-03-24 22:26:11 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-03-24 22:26:11 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-03-24 22:26:11 | INFO     | __main__                  | Scraping single site: mawratanews
+2026-03-24 22:26:11 | INFO     | __main__                  | 
+######################################################################
+2026-03-24 22:26:11 | INFO     | __main__                  |   SITE: MAWRATANEWS
+2026-03-24 22:26:11 | INFO     | __main__                  | ######################################################################
+
+2026-03-24 22:26:11 | INFO     | __main__                  | Initializing scraper for: mawratanews
+2026-03-24 22:26:11 | INFO     | core.base_scraper         | Initialized MawrataNewsScraper for mawratanews
+2026-03-24 22:26:11 | INFO     | scrapers.mawratanews_scraper | Mawrata News: Found 8 categories
+2026-03-24 22:26:11 | INFO     | __main__                  | Target categories for mawratanews: heart
+2026-03-24 22:26:11 | INFO     | __main__                  | 
+======================================================================
+2026-03-24 22:26:11 | INFO     | __main__                  |   Scraping mawratanews - heart
+2026-03-24 22:26:11 | INFO     | __main__                  | ======================================================================
+2026-03-24 22:26:11 | INFO     | __main__                  | Max pages for this category: 1 (to reach limit of 10)
+2026-03-24 22:26:11 | INFO     | core.base_scraper         | Starting category scrape: mawratanews/heart
+2026-03-24 22:26:11 | INFO     | core.base_scraper         | Scraping page 1: https://sinhala.mawratanews.lk/category/heart/
+2026-03-24 22:26:14 | INFO     | scrapers.mawratanews_scraper | Mawrata News heart: Found 20 post containers
+2026-03-24 22:26:14 | INFO     | scrapers.mawratanews_scraper | Mawrata News heart: Extracted 20 articles from list page
+2026-03-24 22:26:14 | INFO     | core.base_scraper         | Found 20 articles on page 1
+2026-03-24 22:26:16 | INFO     | core.base_scraper         | Scraped article: වැඩක් ඉවර කරලා තමයි තව එකකට අත ගහන්නේ…! හැබැයි දැන... (6d899f40)
+2026-03-24 22:26:18 | INFO     | core.base_scraper         | Scraped article: මම පිස්සු කෝලමක්..! ඔය ආඩම්බර අහංකාරකම් මම ළඟ නැහැ... (1ffefe26)
+2026-03-24 22:26:20 | INFO     | core.base_scraper         | Scraped article: වෙනස් දේවල් විඳින්න ගොඩක් කැමැති…! වතුරට බහින්නම ඕ... (9c0c7205)
+2026-03-24 22:26:22 | INFO     | core.base_scraper         | Scraped article: එයාගේ ආදරේ නිසා මං ගොඩක් සතුටින්…! සම්මානය සුදුසුම... (f4f0b0fc)
+2026-03-24 22:26:24 | INFO     | core.base_scraper         | Scraped article: ලකා සිනමාවට ඇක්ෂන් කියයි…! යූටියුබ් එක අපේ හදවත…! ... (569214d9)
+2026-03-24 22:26:26 | INFO     | core.base_scraper         | Scraped article: මම හදාගත්ත සීමාවක් තියෙනවා…! ඒකෙන් පිට පනින්නේ නැහ... (2a598c3b)
+2026-03-24 22:26:28 | INFO     | core.base_scraper         | Scraped article: ධර්ම යුද්ධය – 2 දින 50 යි ! නැරඹුම් වාර මිලියනයයි ... (350e6b72)
+2026-03-24 22:26:30 | INFO     | core.base_scraper         | Scraped article: ධනුක අයියා මට මාරම හෙල්ප් එකක් දුන්නේ…! මට මේක නම්... (ca35922a)
+2026-03-24 22:26:32 | INFO     | core.base_scraper         | Scraped article: හිතේ ලොකු කලකිරීමක් තිබුණා…! ඒ හින්දා ටිකක් ඈත් වෙ... (aec92f96)
+2026-03-24 22:26:34 | INFO     | core.base_scraper         | Scraped article: දුෂ්ටකම් කරන්න තමයි ආස…! බණිනකොට ඇත්තටම සතුටුයි…! ... (fa355486)
+2026-03-24 22:26:37 | INFO     | core.base_scraper         | Scraped article: පියුමි වයිෆ් එකේ ඔයා මරු…! පොඩි අවුලක් තියෙනවා ඒ ග... (8d11d28e)
+2026-03-24 22:26:39 | INFO     | core.base_scraper         | Scraped article: කෙල්ලෙක් වුණාම හොඳට මහන්සි වෙන්න ඕනේ…! ඉන්නම් වාලේ... (98c41682)
+2026-03-24 22:26:41 | INFO     | core.base_scraper         | Scraped article: සිනමාවට බිත්තරයක්! Sri Lanka Latest News... (f393cca2)
+2026-03-24 22:26:44 | INFO     | core.base_scraper         | Scraped article: වසර 31ක් දර්ශන වාර පනස්දාහකට වැඩිය රඟපාලා ගිනස් පො... (7b545c11)
+2026-03-24 22:26:47 | INFO     | core.base_scraper         | Scraped article: යටි හිත කිව්වෙම නළුවෙක් වෙන්න කියලා…! ඕනෙම දෙයක් ච... (7b297b7b)
+2026-03-24 22:26:50 | INFO     | core.base_scraper         | Scraped article: තෙල් ගිනි ගණන් කාලේ මේ විදිහට වාහනේ එලෙව්වොත් වැඩි... (1df9ec2d)
+2026-03-24 22:26:52 | INFO     | core.base_scraper         | Scraped article: මැදපෙරදිග යුද්ධයට රුසියාවත් ගෑවෙන ලකුණු! ඊශ්‍රායලය... (b81f9717)
+2026-03-24 22:26:55 | INFO     | core.base_scraper         | Scraped article: දේශීය බොරු කියපු අනුර දැන් ජාත්‍යන්තර බොරුත් කියන්... (686aa239)
+2026-03-24 22:26:58 | INFO     | core.base_scraper         | Scraped article: බ්ලූ ඕෂන් අනුබද්ධ සමාගම්වලට කොළඹ වාණිජ මහාධිකරණයෙන... (6224fbcb)
+2026-03-24 22:27:01 | INFO     | core.base_scraper         | Scraped article: තෙල් නැති හින්දා බලශක්තිය පරෙස්සමෙන් පාවිච්චි කරන ... (d83bca6c)
+2026-03-24 22:27:02 | INFO     | scrapers.mawratanews_scraper | Found next page URL (JNews): https://sinhala.mawratanews.lk/category/heart/page/2/
+2026-03-24 22:27:02 | INFO     | core.base_scraper         | Reached max_pages limit: 1
+2026-03-24 22:27:02 | INFO     | core.base_scraper         | Category scrape complete: mawratanews/heart - 20 new, 0 skipped, 0 failed
+2026-03-24 22:27:02 | INFO     | __main__                  | ✓ Completed heart: 20 articles, 1 pages
+2026-03-24 22:27:02 | INFO     | __main__                  | 
+✓ Completed mawratanews:
+2026-03-24 22:27:02 | INFO     | __main__                  |   - Articles: 20
+2026-03-24 22:27:02 | INFO     | __main__                  |   - Pages: 1
+2026-03-24 22:27:02 | INFO     | __main__                  |   - Categories completed: 1
+2026-03-24 22:27:02 | INFO     | __main__                  | 
+Article limit (10) reached - stopping
+2026-03-24 22:27:02 | INFO     | __main__                  | Corpus statistics:
+2026-03-24 22:27:11 | INFO     | __main__                  |   Total articles in corpus: 105464
+2026-03-24 22:27:11 | INFO     | __main__                  |   ada: 23534 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 4137 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - international: 5956 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - latest: 5988 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - saaravita: 1010 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 6055 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - technology: 388 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   aluthsl: 10 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - tech-news: 10 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   androidwedakarayo: 24 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - all: 24 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   asianmirror: 917 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local: 10 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - political: 880 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - technological: 27 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   bbc: 2236 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - health: 363 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - latest: 34 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 372 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sri_lanka: 744 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - world: 723 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   colombotimes: 1954 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - entertainment: 256 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local: 23 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - political: 1663 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 9 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - world: 3 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   dasathalankanews: 18664 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business-news: 544 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local-news: 4715 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - political-news: 3237 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports-news: 4214 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - star-gossip: 1436 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - world-news: 4518 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   divaina: 2591 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - breaking: 2500 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 13 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - editorial: 13 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - features: 13 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - foreign: 13 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - main: 13 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - provincial: 13 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 13 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   gagana: 122 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 13 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - gossips: 36 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - politics: 36 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - srilanka: 37 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   gossiplanka: 135 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - cricket: 20 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - crime: 20 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - film: 15 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - latest: 5 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - odd: 20 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - photo: 16 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - political: 20 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - world: 19 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   itn: 6402 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 513 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - entertainment: 346 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local: 1936 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 1802 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - world: 1805 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   lakvahini: 36 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - all: 29 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - entertainment: 3 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - finance: 4 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   lankacnews: 88 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - economy: 20 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - foreign: 19 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local: 25 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - market: 4 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 20 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   lankadeepa: 11420 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 6204 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - latest: 59 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - news: 370 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - politics: 984 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 11 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - thaksalawa: 2104 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - visheshanga: 1688 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   lankapuvath: 8128 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 1937 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local: 2472 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sport: 1254 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - world: 2465 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   lankatruth: 12786 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 2319 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - entertainment: 577 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - international: 3292 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local: 5538 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 1060 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   mawratanews: 2561 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - astrology: 652 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - exclusive: 17 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - heart: 1162 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - politics: 730 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   newsfirst: 51 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 9 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - international: 9 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local: 19 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 14 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   pcguide: 1050 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - tech-news: 1050 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   roarmedia: 926 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - tech: 926 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   sarasaviya: 1769 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - 12-frames: 230 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - 24-frames: 81 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - drama: 173 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - features: 400 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - news: 885 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   silumina: 6568 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - business: 1609 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - entertainment: 1702 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - news: 2280 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - politics: 475 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - sports: 207 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - world: 295 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   siyathanews: 417 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - entertainmentnews: 407 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - local-news: 10 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   subha: 928 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - blogs: 928 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   techcyclone: 15 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - all: 15 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   technews: 1986 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - ai: 78 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - android: 215 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - apple: 198 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - gaming: 11 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - google: 254 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - internet: 10 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - microsoft: 127 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - mobile: 267 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - news: 15 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - samsung: 9 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - security: 228 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - social-media: 264 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - technology: 310 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   techsayura: 7 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - all: 7 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   tecroom: 38 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - all: 38 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |   vidusara: 101 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - entertainment: 5 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - environmental: 1 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - features: 10 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - health: 2 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - science-fiction: 1 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - science-news: 77 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - space: 2 articles
+2026-03-24 22:27:11 | INFO     | __main__                  |     - technology: 3 articles
+2026-03-24 22:27:11 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-03-24 22:27:11 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-03-24 22:27:11 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-03-24 22:27:11 | INFO     | core.session_manager      | SessionManager closed
+2026-03-24 22:27:11 | INFO     | __main__                  | ✓ SessionManager closed
+2026-03-24 22:37:22 | INFO     | __main__                  | Signal handlers registered (Ctrl+C for graceful shutdown)
+2026-03-24 22:37:22 | INFO     | __main__                  | Initializing components...
+2026-03-24 22:37:22 | INFO     | core.session_manager      | SessionManager initialized: 20 req/min, timeout=10.0s/30.0s
+2026-03-24 22:37:22 | INFO     | __main__                  | ✓ SessionManager initialized (rate: 20 req/min)
+2026-03-24 22:37:22 | INFO     | __main__                  | ✓ StateManager initialized (db: vincere_state.db)
+2026-03-24 22:37:22 | INFO     | storage.file_writer       | FileWriter initialized: base_dir=vincere_corpus, validate=True
+2026-03-24 22:37:22 | INFO     | __main__                  | ✓ FileWriter initialized (corpus: ./vincere_corpus)
+2026-03-24 22:37:22 | INFO     | processors.sinhala_normalizer | TextCleaner initialized: preserve_newlines=True, remove_ads=True
+2026-03-24 22:37:22 | INFO     | processors.sinhala_normalizer | SinhalaNormalizer initialized: ZWJ=True, ZWNJ=True
+2026-03-24 22:37:22 | INFO     | processors.sinhala_normalizer | TextProcessor initialized
+2026-03-24 22:37:22 | INFO     | __main__                  | ✓ TextProcessor initialized
+2026-03-24 22:37:22 | INFO     | __main__                  | Scraping single site: mawratanews
+2026-03-24 22:37:22 | INFO     | __main__                  | 
+######################################################################
+2026-03-24 22:37:22 | INFO     | __main__                  |   SITE: MAWRATANEWS
+2026-03-24 22:37:22 | INFO     | __main__                  | ######################################################################
+
+2026-03-24 22:37:22 | INFO     | __main__                  | Initializing scraper for: mawratanews
+2026-03-24 22:37:22 | INFO     | core.base_scraper         | Initialized MawrataNewsScraper for mawratanews
+2026-03-24 22:37:22 | INFO     | scrapers.mawratanews_scraper | Mawrata News: Found 8 categories
+2026-03-24 22:37:22 | INFO     | __main__                  | Target categories for mawratanews: astrology
+2026-03-24 22:37:22 | INFO     | __main__                  | 
+======================================================================
+2026-03-24 22:37:22 | INFO     | __main__                  |   Scraping mawratanews - astrology
+2026-03-24 22:37:22 | INFO     | __main__                  | ======================================================================
+2026-03-24 22:37:22 | INFO     | __main__                  | Max pages for this category: 5 (to reach limit of 100)
+2026-03-24 22:37:22 | INFO     | core.base_scraper         | Starting category scrape: mawratanews/astrology
+2026-03-24 22:37:22 | INFO     | core.base_scraper         | Scraping page 1: https://sinhala.mawratanews.lk/category/astrology/
+2026-03-24 22:37:25 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Found 20 post containers
+2026-03-24 22:37:25 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Extracted 20 articles from list page
+2026-03-24 22:37:25 | INFO     | core.base_scraper         | Found 20 articles on page 1
+2026-03-24 22:37:26 | INFO     | core.base_scraper         | Scraped article: කෝටියක් දෝෂ භංග කරන අතිප්‍රබල යෝගයක්…! මාර්තු 24 අ... (a795b0f3)
+2026-03-24 22:37:28 | INFO     | core.base_scraper         | Scraped article: පෙර පව් පලදෙන නවග්‍රහ අපලවල හතර දිග්බාගය…! ඒරාෂ්ටක... (548b6b5f)
+2026-03-24 22:37:30 | INFO     | core.base_scraper         | Scraped article: සූර්යයාගේ අණසක ගිලිහෙන හෝරාව! කෝණ මාසයේ අදිසි බලවේ... (43035643)
+2026-03-24 22:37:32 | INFO     | core.base_scraper         | Scraped article: අත්ල මැද මැවුණු කතිරයකින් කියවෙන කවුරුත් නොදන්න රහ... (09ab4a6f)
+2026-03-24 22:37:33 | INFO     | core.base_scraper         | Scraped article: ශ්‍රියා කාන්තාව ගෙට කැන්දන පිච්ච මල් සුවඳ…! අහේතුව... (e026d1e5)
+2026-03-24 22:37:35 | INFO     | core.base_scraper         | Scraped article: ඇස්වහ කටවහ හදි හූනියම් බන්ධන කැපෙන බලගතු ආරක්ෂාවක්... (6fb7eb69)
+2026-03-24 22:37:37 | INFO     | core.base_scraper         | Scraped article: ලොකු ලොක්කෝ හෙල්ලෙන ග්‍රහ පෙරළියක්! ඉදිරි මාස 6 තු... (0335a0fa)
+2026-03-24 22:37:39 | INFO     | core.base_scraper         | Scraped article: අතීත පුස්කොළ පොත්වල සැඟවූ අන්තරාය නිවාරණ මහා රහස් ... (4c5b0c7b)
+2026-03-24 22:37:41 | INFO     | core.base_scraper         | Scraped article: හතර වටින් සොර සතුරෝ… පරිස්සමින්…! Sri Lanka Latest... (128ff98a)
+2026-03-24 22:37:43 | INFO     | core.base_scraper         | Scraped article: මාර්තු 14න් පස්සේ පරෙස්සම් ‌වෙන්න…! විශ්වයටම බලපාන... (cdc35d45)
+2026-03-24 22:37:45 | INFO     | scrapers.mawratanews_scraper | Found next page URL (JNews): https://sinhala.mawratanews.lk/category/astrology/page/2/
+2026-03-24 22:37:45 | INFO     | core.base_scraper         | Scraping page 2: https://sinhala.mawratanews.lk/category/astrology/page/2/
+2026-03-24 22:37:46 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Found 20 post containers
+2026-03-24 22:37:46 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Extracted 20 articles from list page
+2026-03-24 22:37:46 | INFO     | core.base_scraper         | Found 20 articles on page 2
+2026-03-24 22:37:49 | INFO     | scrapers.mawratanews_scraper | Found next page URL (JNews): https://sinhala.mawratanews.lk/category/astrology/page/3/
+2026-03-24 22:37:49 | INFO     | core.base_scraper         | Scraping page 3: https://sinhala.mawratanews.lk/category/astrology/page/3/
+2026-03-24 22:37:50 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Found 20 post containers
+2026-03-24 22:37:50 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Extracted 20 articles from list page
+2026-03-24 22:37:50 | INFO     | core.base_scraper         | Found 20 articles on page 3
+2026-03-24 22:37:54 | INFO     | scrapers.mawratanews_scraper | Found next page URL (JNews): https://sinhala.mawratanews.lk/category/astrology/page/4/
+2026-03-24 22:37:54 | INFO     | core.base_scraper         | Scraping page 4: https://sinhala.mawratanews.lk/category/astrology/page/4/
+2026-03-24 22:37:55 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Found 20 post containers
+2026-03-24 22:37:55 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Extracted 20 articles from list page
+2026-03-24 22:37:55 | INFO     | core.base_scraper         | Found 20 articles on page 4
+2026-03-24 22:37:58 | INFO     | scrapers.mawratanews_scraper | Found next page URL (JNews): https://sinhala.mawratanews.lk/category/astrology/page/5/
+2026-03-24 22:37:58 | INFO     | core.base_scraper         | Scraping page 5: https://sinhala.mawratanews.lk/category/astrology/page/5/
+2026-03-24 22:37:59 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Found 20 post containers
+2026-03-24 22:37:59 | INFO     | scrapers.mawratanews_scraper | Mawrata News astrology: Extracted 20 articles from list page
+2026-03-24 22:37:59 | INFO     | core.base_scraper         | Found 20 articles on page 5
+2026-03-24 22:38:03 | INFO     | scrapers.mawratanews_scraper | Found next page URL (JNews): https://sinhala.mawratanews.lk/category/astrology/page/6/
+2026-03-24 22:38:03 | INFO     | core.base_scraper         | Reached max_pages limit: 5
+2026-03-24 22:38:03 | INFO     | core.base_scraper         | Category scrape complete: mawratanews/astrology - 10 new, 90 skipped, 0 failed
+2026-03-24 22:38:03 | INFO     | __main__                  | ✓ Completed astrology: 10 articles, 5 pages
+2026-03-24 22:38:03 | INFO     | __main__                  | 
+✓ Completed mawratanews:
+2026-03-24 22:38:03 | INFO     | __main__                  |   - Articles: 10
+2026-03-24 22:38:03 | INFO     | __main__                  |   - Pages: 5
+2026-03-24 22:38:03 | INFO     | __main__                  |   - Categories completed: 1
+2026-03-24 22:38:03 | INFO     | __main__                  | Corpus statistics:
+2026-03-24 22:38:13 | INFO     | __main__                  |   Total articles in corpus: 105474
+2026-03-24 22:38:13 | INFO     | __main__                  |   ada: 23534 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 4137 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - international: 5956 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - latest: 5988 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - saaravita: 1010 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 6055 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - technology: 388 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   aluthsl: 10 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - tech-news: 10 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   androidwedakarayo: 24 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - all: 24 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   asianmirror: 917 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local: 10 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - political: 880 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - technological: 27 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   bbc: 2236 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - health: 363 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - latest: 34 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 372 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sri_lanka: 744 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - world: 723 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   colombotimes: 1954 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - entertainment: 256 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local: 23 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - political: 1663 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 9 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - world: 3 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   dasathalankanews: 18664 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business-news: 544 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local-news: 4715 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - political-news: 3237 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports-news: 4214 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - star-gossip: 1436 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - world-news: 4518 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   divaina: 2591 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - breaking: 2500 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 13 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - editorial: 13 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - features: 13 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - foreign: 13 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - main: 13 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - provincial: 13 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 13 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   gagana: 122 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 13 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - gossips: 36 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - politics: 36 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - srilanka: 37 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   gossiplanka: 135 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - cricket: 20 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - crime: 20 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - film: 15 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - latest: 5 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - odd: 20 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - photo: 16 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - political: 20 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - world: 19 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   itn: 6402 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 513 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - entertainment: 346 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local: 1936 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 1802 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - world: 1805 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   lakvahini: 36 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - all: 29 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - entertainment: 3 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - finance: 4 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   lankacnews: 88 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - economy: 20 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - foreign: 19 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local: 25 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - market: 4 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 20 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   lankadeepa: 11420 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 6204 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - latest: 59 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - news: 370 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - politics: 984 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 11 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - thaksalawa: 2104 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - visheshanga: 1688 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   lankapuvath: 8128 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 1937 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local: 2472 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sport: 1254 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - world: 2465 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   lankatruth: 12786 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 2319 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - entertainment: 577 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - international: 3292 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local: 5538 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 1060 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   mawratanews: 2571 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - astrology: 662 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - exclusive: 17 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - heart: 1162 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - politics: 730 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   newsfirst: 51 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 9 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - international: 9 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local: 19 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 14 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   pcguide: 1050 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - tech-news: 1050 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   roarmedia: 926 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - tech: 926 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   sarasaviya: 1769 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - 12-frames: 230 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - 24-frames: 81 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - drama: 173 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - features: 400 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - news: 885 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   silumina: 6568 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - business: 1609 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - entertainment: 1702 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - news: 2280 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - politics: 475 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - sports: 207 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - world: 295 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   siyathanews: 417 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - entertainmentnews: 407 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - local-news: 10 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   subha: 928 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - blogs: 928 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   techcyclone: 15 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - all: 15 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   technews: 1986 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - ai: 78 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - android: 215 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - apple: 198 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - gaming: 11 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - google: 254 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - internet: 10 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - microsoft: 127 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - mobile: 267 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - news: 15 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - samsung: 9 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - security: 228 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - social-media: 264 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - technology: 310 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   techsayura: 7 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - all: 7 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   tecroom: 38 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - all: 38 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |   vidusara: 101 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - entertainment: 5 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - environmental: 1 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - features: 10 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - health: 2 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - science-fiction: 1 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - science-news: 77 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - space: 2 articles
+2026-03-24 22:38:13 | INFO     | __main__                  |     - technology: 3 articles
+2026-03-24 22:38:13 | INFO     | __main__                  | 
+✓ Corpus saved to: ./vincere_corpus
+2026-03-24 22:38:13 | INFO     | __main__                  | ✓ State saved to: vincere_state.db
+2026-03-24 22:38:13 | INFO     | __main__                  | ✓ Logs saved to: vincere.log
+2026-03-24 22:38:13 | INFO     | core.session_manager      | SessionManager closed
+2026-03-24 22:38:13 | INFO     | __main__                  | ✓ SessionManager closed
